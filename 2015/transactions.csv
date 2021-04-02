@@ -924,7 +924,6 @@ date,transaction
 2015-03-05,Miami Marlins signed free agent C Jose Ceballos to a minor league contract.
 2015-03-05,San Francisco Giants signed free agent RHP Alfredo Aceves to a minor league contract.
 2015-03-05,Tampa Bay Rays signed free agent RHP Jim Miller to a minor league contract.
-2015-03-05,LHP Juan Perez assigned to Texas Rangers.
 2015-03-05,New York Mets signed free agent OF Wagner Lagrange to a minor league contract.
 2015-03-05,New York Yankees signed free agent RHP Miguel Yajure to a minor league contract.
 2015-03-05,New York Yankees signed free agent RHP Rafael Lara to a minor league contract.
@@ -1435,7 +1434,6 @@ date,transaction
 2015-03-14,Chicago Cubs signed free agent 2B Tanner Witt to a minor league contract.
 2015-03-14,Kansas City Royals signed free agent 2B Ramon Castro to a minor league contract.
 2015-03-14,Milwaukee Brewers signed free agent C Tyler LaTorre to a minor league contract.
-2015-03-14,SS Jason Martinson assigned to Washington Nationals.
 2015-03-15,RHP Drew Hayes assigned to Cincinnati Reds.
 2015-03-15,RHP Kody Kerski assigned to Seattle Mariners.
 2015-03-15,C Dominic Blanco assigned to Seattle Mariners.
@@ -1625,7 +1623,6 @@ date,transaction
 2015-03-17,Miami Marlins optioned LHP Justin Nicolino to New Orleans Zephyrs.
 2015-03-17,Miami Marlins optioned RHP Matt Ramsey to New Orleans Zephyrs.
 2015-03-17,Washington Nationals released LF Jeff Kobernus.
-2015-03-17,OF Mike McCoy assigned to San Diego Padres.
 2015-03-17,OF Mike McCoy assigned to San Diego Padres.
 2015-03-17,3B Gabriel Quintana assigned to San Diego Padres.
 2015-03-17,CF Auston Bousfield assigned to San Diego Padres.
@@ -2445,7 +2442,6 @@ date,transaction
 2015-03-31,RHP Reinier Roibal assigned to Philadelphia Phillies.
 2015-03-31,LHP Ethan Stewart assigned to Philadelphia Phillies.
 2015-03-31,1B Willians Astudillo assigned to Philadelphia Phillies.
-2015-03-31,RHP Montreal Robertson assigned to Detroit Tigers.
 2015-03-31,RHP Montreal Robertson assigned to Detroit Tigers.
 2015-03-31,RHP Brett McKinney assigned to Pittsburgh Pirates.
 2015-03-31,SS Cole Tucker assigned to Pittsburgh Pirates.
@@ -4017,7 +4013,6 @@ date,transaction
 2015-05-19,San Diego Padres recalled Cory Mazzoni from El Paso Chihuahuas.
 2015-05-19,Colorado Rockies placed LF Corey Dickerson on the 15-day disabled list. Plantar fasciitis in left foot.
 2015-05-19,Colorado Rockies recalled Ben Paulsen from Albuquerque Isotopes.
-2015-05-19,Oakland Athletics sent 2B Ben Zobrist on a rehab assignment to Stockton Ports.
 2015-05-19,Oakland Athletics sent LHP Sean Doolittle on a rehab assignment to Midland RockHounds.
 2015-05-19,Milwaukee Brewers signed free agent RHP Manny Barreda to a minor league contract.
 2015-05-19,Los Angeles Dodgers signed free agent SS Dan Hennigan to a minor league contract.
@@ -4600,7 +4595,6 @@ date,transaction
 2015-06-07,Los Angeles Dodgers sent RHP Brandon League on a rehab assignment to Rancho Cucamonga Quakes.
 2015-06-07,New York Mets optioned RHP Vic Black to Las Vegas 51s.
 2015-06-07,Atlanta Braves signed free agent LHP Dana Eveland to a minor league contract.
-2015-06-07,Pittsburgh Pirates sent SS Justin Sellers on a rehab assignment to Indianapolis Indians.
 2015-06-08,Minnesota Twins optioned SS Danny Santana to Rochester Red Wings.
 2015-06-08,Philadelphia Phillies optioned RHP Severino Gonzalez to Lehigh Valley IronPigs.
 2015-06-08,Houston Astros selected the contract of SS Carlos Correa from Fresno Grizzlies.
@@ -5140,7 +5134,6 @@ date,transaction
 2015-06-15,St. Louis Cardinals signed OF Nick Plummer.
 2015-06-15,St. Louis Cardinals signed OF Orlando Olivera.
 2015-06-15,St. Louis Cardinals signed 2B Dylan Tice.
-2015-06-15,St. Louis Cardinals signed 2B Dylan Tice.
 2015-06-15,St. Louis Cardinals signed free agent C Allen Staton to a minor league contract.
 2015-06-15,St. Louis Cardinals signed free agent SS Michael Polcyn to a minor league contract.
 2015-06-15,St. Louis Cardinals signed 2B Joseph Hawkins.
@@ -5341,12 +5334,10 @@ date,transaction
 2015-06-16,Atlanta Braves signed 3B Austin Riley.
 2015-06-16,New York Yankees signed free agent C Matt Walsh to a minor league contract.
 2015-06-16,Cincinnati Reds signed RHP Jake Johnson.
-2015-06-16,St. Louis Cardinals signed 1B R.J. Dennard.
 2015-06-16,RF Roger Edwards roster status changed by San Francisco Giants.
 2015-06-16,RHP David Graybill assigned to San Francisco Giants.
 2015-06-16,RHP Heath Slatton assigned to San Francisco Giants.
 2015-06-16,RHP Matthew Pope assigned to San Francisco Giants.
-2015-06-16,Cincinnati Reds placed RHP Jon Moscot on the 15-day disabled list. Dislocated left shoulder
 2015-06-16,RHP Charles Owen assigned to San Francisco Giants.
 2015-06-16,San Francisco Giants signed free agent RHP Drew Jackson to a minor league contract.
 2015-06-16,San Francisco Giants signed SS Jalen Miller.
@@ -6557,9 +6548,7 @@ date,transaction
 2015-07-02,Arizona Diamondbacks signed free agent RHP Geraldo Sanchez to a minor league contract.
 2015-07-02,Cincinnati Reds signed free agent P Francis Jones to a minor league contract.
 2015-07-02,Los Angeles Dodgers signed free agent RHP Ramon Rosso to a minor league contract.
-2015-07-02,Arizona Diamondbacks signed free agent RHP Deyni Olivero to a minor league contract.
 2015-07-02,St. Louis Cardinals signed RHP Alvaro Seijas.
-2015-07-02,Houston Astros signed free agent RHP Humberto Castellanos to a minor league contract.
 2015-07-02,Colorado Rockies signed free agent RHP Antonio Santos to a minor league contract.
 2015-07-02,Tampa Bay Rays signed OF Joe McCarthy.
 2015-07-03,Houston Astros recalled Dan Straily from Fresno Grizzlies.
@@ -8255,7 +8244,6 @@ date,transaction
 2015-08-16,Los Angeles Angels recalled Mike Morin from Salt Lake Bees.
 2015-08-16,Kansas City Royals signed free agent LHP Wandy Rodriguez to a minor league contract.
 2015-08-16,Kansas City Royals signed free agent RHP Joba Chamberlain to a minor league contract.
-2015-08-16,Pittsburgh Pirates sent RHP Rob Scahill on a rehab assignment to Indianapolis Indians.
 2015-08-17,Toronto Blue Jays optioned LHP Aaron Loup to Buffalo Bisons.
 2015-08-17,Pittsburgh Pirates sent RHP Rob Scahill on a rehab assignment to Indianapolis Indians.
 2015-08-17,Arizona Diamondbacks optioned 3B Jamie Romak to Reno Aces.
@@ -9022,7 +9010,6 @@ date,transaction
 2015-09-07,Chicago Cubs signed free agent C Herson Perez to a minor league contract.
 2015-09-07,Kansas City Royals signed free agent SS Rubendy Jaquez to a minor league contract.
 2015-09-07,Houston Astros signed free agent C Bernardo Heras to a minor league contract.
-2015-09-07,Houston Astros signed free agent C Bernardo Heras to a minor league contract.
 2015-09-08,Baltimore Orioles optioned RF Junior Lake to Norfolk Tides.
 2015-09-08,Baltimore Orioles optioned RHP Oliver Drake to Norfolk Tides.
 2015-09-08,Cincinnati Reds recalled LHP Tony Cingrani from Louisville Bats.
@@ -9542,18 +9529,12 @@ date,transaction
 2015-10-08,Kansas City Royals reassigned LHP Scott Alexander to the minor leagues.
 2015-10-08,Kansas City Royals reassigned RHP Miguel Almonte to the minor leagues.
 2015-10-08,Kansas City Royals reassigned RHP Joba Chamberlain to the minor leagues.
-2015-10-08,Kansas City Royals reassigned RHP Joba Chamberlain to the minor leagues.
 2015-10-08,Kansas City Royals reassigned RHP Louis Coleman to the minor leagues.
 2015-10-08,Kansas City Royals reassigned RHP Jeremy Guthrie to the minor leagues.
-2015-10-08,Kansas City Royals reassigned RHP Jeremy Guthrie to the minor leagues.
-2015-10-08,Kansas City Royals reassigned RHP Greg Holland to the minor leagues.
 2015-10-08,Kansas City Royals reassigned RHP Greg Holland to the minor leagues.
 2015-10-08,Kansas City Royals reassigned RHP Michael Mariot to the minor leagues.
 2015-10-08,Kansas City Royals reassigned C Francisco Pena to the minor leagues.
-2015-10-08,Kansas City Royals reassigned RHP Michael Mariot to the minor leagues.
 2015-10-08,Kansas City Royals reassigned 2B Omar Infante to the minor leagues.
-2015-10-08,Kansas City Royals reassigned 2B Omar Infante to the minor leagues.
-2015-10-08,Kansas City Royals reassigned 3B Cheslor Cuthbert to the minor leagues.
 2015-10-08,Kansas City Royals reassigned 3B Cheslor Cuthbert to the minor leagues.
 2015-10-08,Kansas City Royals reassigned LF Jonny Gomes to the minor leagues.
 2015-10-08,Houston Astros reassigned 3B Matt Duffy to the minor leagues.
@@ -9618,10 +9599,7 @@ date,transaction
 2015-10-09,New York Mets reassigned LHP Dario Alvarez to the minor leagues.
 2015-10-09,New York Mets reassigned 3B Eric Campbell to the minor leagues.
 2015-10-09,New York Mets reassigned C Johnny Monell to the minor leagues.
-2015-10-09,New York Mets reassigned C Johnny Monell to the minor leagues.
 2015-10-09,New York Mets reassigned RHP Bobby Parnell to the minor leagues.
-2015-10-09,New York Mets reassigned C Johnny Monell to the minor leagues.
-2015-10-09,New York Mets reassigned C Johnny Monell to the minor leagues.
 2015-10-09,Los Angeles Angels claimed CF Todd Cunningham off waivers from Atlanta Braves.
 2015-10-09,Los Angeles Angels designated LHP Jo-Jo Reyes for assignment.
 2015-10-09,Atlanta Braves sent Ryan Kelly outright to Gwinnett Braves.
@@ -10757,7 +10735,6 @@ date,transaction
 2015-12-09,Los Angeles Angels signed free agent LF Craig Gentry.
 2015-12-09,Minnesota Twins signed free agent 2B Buck Britton to a minor league contract and invited him to spring training.
 2015-12-09,Atlanta Braves signed free agent 2B Emilio Bonifacio.
-2015-12-09,Los Angeles Angels signed free agent LF Craig Gentry.
 2015-12-10,Philadelphia Phillies claimed Tyler Goeddel off waivers from Tampa Bay Rays.
 2015-12-10,Cincinnati Reds claimed CF Jake Cave off waivers from New York Yankees.
 2015-12-10,Atlanta Braves claimed Evan Rutckyj off waivers from New York Yankees.

@@ -1,15 +1,10 @@
 date,transaction
 2021-01-02,Chicago Cubs signed free agent OF Nick Martini to a minor league contract and invited him to spring training.
-2021-01-02,Chicago Cubs signed free agent OF Nick Martini to a minor league contract and invited him to spring training.
 2021-01-03,Miami Marlins signed free agent LHP Ross Detwiler.
 2021-01-03,Miami Marlins invited non-roster SS Eddy Alvarez to spring training.
 2021-01-03,Miami Marlins designated LHP Stephen Tarpley for assignment.
 2021-01-03,Miami Marlins signed free agent C Sandy Leon to a minor league contract and invited him to spring training.
 2021-01-03,Miami Marlins invited non-roster C Brian Navarreto to spring training.
-2021-01-03,Miami Marlins invited non-roster SS Eddy Alvarez to spring training.
-2021-01-03,Miami Marlins invited non-roster C Brian Navarreto to spring training.
-2021-01-03,Miami Marlins signed free agent LHP Ross Detwiler.
-2021-01-03,Miami Marlins signed free agent C Sandy Leon to a minor league contract and invited him to spring training.
 2021-01-04,Philadelphia Phillies signed free agent C Christian Bethancourt to a minor league contract and invited him to spring training.
 2021-01-04,Philadelphia Phillies signed free agent RHP Neftali Feliz to a minor league contract and invited him to spring training.
 2021-01-04,Philadelphia Phillies signed free agent 2B Ronald Torreyes to a minor league contract and invited him to spring training.
@@ -23,7 +18,6 @@ date,transaction
 2021-01-04,Milwaukee Brewers signed free agent RHP Luis Perdomo to a minor league contract.
 2021-01-04,New York Yankees signed free agent LHP Nestor Cortes to a minor league contract and invited him to spring training.
 2021-01-04,Washington Nationals signed free agent LHP Luis Avilan to a minor league contract and invited him to spring training.
-2021-01-04,San Francisco Giants signed free agent C Curt Casali.
 2021-01-05,Tampa Bay Rays traded LF Carl Chester to Texas Rangers.
 2021-01-05,Texas Rangers signed free agent RHP Drew Anderson to a minor league contract and invited him to spring training.
 2021-01-05,Detroit Tigers signed free agent LF Robbie Grossman.
@@ -37,9 +31,6 @@ date,transaction
 2021-01-05,Arizona Diamondbacks signed free agent RHP Seth Frankoff to a minor league contract and invited him to spring training.
 2021-01-05,2B Marco Hernandez roster status changed by Chicago White Sox.
 2021-01-05,traded to New York Yankees for .
-2021-01-05,2B Marco Hernandez roster status changed by Chicago White Sox.
-2021-01-05,Chicago Cubs signed free agent 1B Patrick Wisdom to a minor league contract and invited him to spring training.
-2021-01-05,Arizona Diamondbacks signed free agent RHP Seth Frankoff to a minor league contract and invited him to spring training.
 2021-01-05,San Francisco Giants signed free agent 2B Arismendy Alcantara to a minor league contract and invited him to spring training.
 2021-01-06,Detroit Tigers sent C Eric Haase outright to Toledo Mud Hens.
 2021-01-06,San Diego Padres traded LF Greg Allen to New York Yankees for James Reeves.
@@ -49,24 +40,21 @@ date,transaction
 2021-01-06,New York Yankees signed free agent LHP Tyler Lyons to a minor league contract and invited him to spring training.
 2021-01-06,Los Angeles Dodgers signed free agent SS Elliot Soto to a minor league contract and invited him to spring training.
 2021-01-06,traded to San Diego Padres for .
-2021-01-06,Los Angeles Dodgers signed free agent SS Elliot Soto to a minor league contract and invited him to spring training.
 2021-01-07,Detroit Tigers signed free agent LHP Miguel Del Pozo to a minor league contract.
 2021-01-07,Milwaukee Brewers signed free agent OF Pablo Reyes to a minor league contract and invited him to spring training.
 2021-01-07,"Cleveland Indians traded SS Francisco Lindor and RHP Carlos Carrasco to New York Mets for SS Andres Gimenez, SS Amed Rosario, RHP Josh Wolf and OF Isaiah Greene."
 2021-01-07,Houston Astros signed free agent RHP Ryne Stanek.
 2021-01-07,Los Angeles Dodgers signed free agent SS Nicholas Shumpert to a minor league contract.
 2021-01-07,Cincinnati Reds signed free agent RHP Peter Bayer to a minor league contract.
-2021-01-07,Milwaukee Brewers signed free agent OF Pablo Reyes to a minor league contract and invited him to spring training.
 2021-01-08,Seattle Mariners signed free agent LHP Roenis Elias to a minor league contract.
 2021-01-08,Seattle Mariners signed free agent 3B Jantzen Witte to a minor league contract.
 2021-01-08,Seattle Mariners signed free agent RHP Paul Sewald to a minor league contract.
 2021-01-08,New York Mets claimed LHP Stephen Tarpley off waivers from Miami Marlins.
 2021-01-08,RHP Sam Coonrod roster status changed by San Francisco Giants.
 2021-01-08,Los Angeles Dodgers signed free agent LHP Mike Kickham to a minor league contract and invited him to spring training.
-2021-01-08,Los Angeles Dodgers signed free agent LHP Mike Kickham to a minor league contract and invited him to spring training.
+2021-01-08,Chicago White Sox signed free agent RHP Peter Tago to a minor league contract.
 2021-01-09,San Francisco Giants traded RHP Sam Coonrod to Philadelphia Phillies for RHP Carson Ragsdale.
 2021-01-09,Washington Nationals signed free agent LF Kyle Schwarber.
-2021-01-09,Los Angeles Dodgers signed free agent 1B Rangel Ravelo to a minor league contract and invited him to spring training.
 2021-01-09,Los Angeles Dodgers signed free agent 1B Rangel Ravelo to a minor league contract and invited him to spring training.
 2021-01-10,Seattle Mariners signed free agent SS David Masters to a minor league contract.
 2021-01-12,Toronto Blue Jays signed free agent RHP A.J. Cole to a minor league contract and invited him to spring training.
@@ -83,7 +71,6 @@ date,transaction
 2021-01-14,Los Angeles Dodgers signed free agent LHP Enny Romero to a minor league contract and invited him to spring training.
 2021-01-14,Washington Nationals signed free agent 3B Ali Castillo to a minor league contract.
 2021-01-14,Washington Nationals signed free agent OF Kevin Moreno to a minor league contract.
-2021-01-14,Los Angeles Dodgers signed free agent LHP Enny Romero to a minor league contract and invited him to spring training.
 2021-01-15,Chicago White Sox signed free agent RHP Liam Hendriks.
 2021-01-15,Miami Marlins signed free agent SS Yiddi Cappe to a minor league contract.
 2021-01-15,Miami Marlins signed free agent OF Oscar Colina to a minor league contract.
@@ -453,8 +440,21 @@ date,transaction
 2021-01-15,Colorado Rockies signed free agent OF Nick Longhi to a minor league contract.
 2021-01-15,Chicago Cubs signed free agent SS Michael Arias to a minor league contract.
 2021-01-15,Toronto Blue Jays signed free agent SS Martin Gimenez to a minor league contract.
-2021-01-15,Houston Astros signed free agent OF Pedro Leon to a minor league contract and invited him to spring training.
-2021-01-15,Houston Astros signed free agent RHP Pedro Baez.
+2021-01-15,Colorado Rockies signed free agent RHP Aneudis George to a minor league contract.
+2021-01-15,Colorado Rockies signed free agent RHP Rony Cruz to a minor league contract.
+2021-01-15,Colorado Rockies signed free agent SS Jorluis Guerra to a minor league contract.
+2021-01-15,Colorado Rockies signed free agent OF Luis Paredes to a minor league contract.
+2021-01-15,Colorado Rockies signed free agent RHP Redinson Gomez to a minor league contract.
+2021-01-15,Colorado Rockies signed free agent OF Felix Tena to a minor league contract.
+2021-01-15,Colorado Rockies signed free agent RHP Claudio Galva to a minor league contract.
+2021-01-15,Colorado Rockies signed free agent RHP Cristian Benavides to a minor league contract.
+2021-01-15,Colorado Rockies signed free agent C Bryant Betancourt to a minor league contract.
+2021-01-15,Colorado Rockies signed free agent RHP Bryan Mena to a minor league contract.
+2021-01-15,Colorado Rockies signed free agent C David Rodriguez to a minor league contract.
+2021-01-15,Colorado Rockies signed free agent SS Jose Colina to a minor league contract.
+2021-01-15,Colorado Rockies signed free agent RHP Bryan Perez to a minor league contract.
+2021-01-15,Colorado Rockies signed free agent RHP Jordy Vargas to a minor league contract.
+2021-01-15,Colorado Rockies signed free agent SS Gabriel Terrero to a minor league contract.
 2021-01-16,Detroit Tigers signed free agent 1B Yariel Gonzalez to a minor league contract.
 2021-01-16,Detroit Tigers signed free agent 1B Aderlin Rodriguez to a minor league contract and invited him to spring training.
 2021-01-16,Detroit Tigers signed free agent RHP Andrew Moore to a minor league contract.
@@ -484,13 +484,6 @@ date,transaction
 2021-01-18,Arizona Diamondbacks signed free agent LHP Ryan Buchter to a minor league contract and invited him to spring training.
 2021-01-18,San Diego Padres signed free agent SS Pedro Florimon to a minor league contract and invited him to spring training.
 2021-01-18,Cincinnati Reds signed free agent C Rocky Gale to a minor league contract and invited him to spring training.
-2021-01-18,San Diego Padres signed free agent SS Pedro Florimon to a minor league contract and invited him to spring training.
-2021-01-18,Chicago White Sox signed free agent LF Nick Williams to a minor league contract and invited him to spring training.
-2021-01-18,Chicago White Sox signed free agent LHP Matt Tomshaw to a minor league contract and invited him to spring training.
-2021-01-18,Boston Red Sox signed free agent RHP Zac Grotz to a minor league contract and invited him to spring training.
-2021-01-18,Baltimore Orioles signed free agent RHP Thomas Eshelman to a minor league contract and invited him to spring training.
-2021-01-18,Arizona Diamondbacks signed free agent C Bryan Holaday to a minor league contract and invited him to spring training.
-2021-01-18,Arizona Diamondbacks signed free agent LHP Ryan Buchter to a minor league contract and invited him to spring training.
 2021-01-19,"Pittsburgh Pirates Traded RHP Joe Musgrove to San Diego Padres; New York Mets Traded C Endy Rodriguez to Pittsburgh Pirates; San Diego Padres Traded LHP Joey Lucchesi to New York Mets and San Diego Padres Traded RHP David Bednar, CF Hudson Head, RHP Drake Fellows and LHP Omar Cruz to Pittsburgh Pirates."
 2021-01-19,Texas Rangers signed free agent RHP Hunter Wood to a minor league contract and invited him to spring training.
 2021-01-19,Detroit Tigers signed free agent RHP Erasmo Ramirez to a minor league contract and invited him to spring training.
@@ -505,9 +498,7 @@ date,transaction
 2021-01-20,Kansas City Royals signed free agent RHP Wade Davis to a minor league contract and invited him to spring training.
 2021-01-20,Toronto Blue Jays signed free agent RHP Kirby Yates.
 2021-01-20,Philadelphia Phillies signed free agent RHP Bryan Mitchell to a minor league contract and invited him to spring training.
-2021-01-20,San Francisco Giants signed free agent LHP Luis Gonzalez to a minor league contract.
-2021-01-20,Colorado Rockies signed free agent SS Chris Owings to a minor league contract and invited him to spring training.
-2021-01-20,Kansas City Royals signed free agent RHP Wade Davis to a minor league contract and invited him to spring training.
+2021-01-20,San Francisco Giants signed free agent LHP Luis Gonzalez to a minor league contract and invited him to spring training.
 2021-01-20,Colorado Rockies signed free agent SS Chris Owings to a minor league contract and invited him to spring training.
 2021-01-21,Toronto Blue Jays designated RHP Anthony Castro for assignment.
 2021-01-21,Toronto Blue Jays signed free agent RHP Tyler Chatwood.
@@ -523,8 +514,6 @@ date,transaction
 2021-01-22,Milwaukee Brewers signed free agent 3B Daniel Robertson.
 2021-01-22,Boston Red Sox signed free agent RHP Matt Carasiti to a minor league contract and invited him to spring training.
 2021-01-22,Seattle Mariners signed free agent 2B Starlin Aguilar to a minor league contract.
-2021-01-22,Milwaukee Brewers signed free agent 3B Daniel Robertson.
-2021-01-22,Boston Red Sox signed free agent RHP Matt Carasiti to a minor league contract and invited him to spring training.
 2021-01-22,Seattle Mariners signed free agent OF Victor Labrada to a minor league contract.
 2021-01-23,Kansas City Royals signed free agent SS Daniel Vasquez to a minor league contract.
 2021-01-23,Houston Astros traded LHP Cionel Perez to Cincinnati Reds for C Luke Berryhill.
@@ -542,7 +531,7 @@ date,transaction
 2021-01-23,Kansas City Royals signed free agent RHP Ismael Michel to a minor league contract.
 2021-01-23,Kansas City Royals signed free agent RHP Weskendry Espinoza to a minor league contract.
 2021-01-23,Atlanta Braves signed free agent 3B Pablo Sandoval to a minor league contract and invited him to spring training.
-2021-01-24,"Pittsburgh Pirates traded RHP Jameson Taillon to New York Yankees for RHP Roansy Contreras, SS Maikol Escotto, LF Canaan Smith and RHP Miguel Yajure."
+2021-01-24,"Pittsburgh Pirates traded RHP Jameson Taillon to New York Yankees for RHP Roansy Contreras, SS Maikol Escotto, LF Canaan Smith-Njigba and RHP Miguel Yajure."
 2021-01-24,Pittsburgh Pirates designated LF Troy Stokes Jr. for assignment.
 2021-01-25,Oakland Athletics invited non-roster C Tyler Soderstrom to spring training.
 2021-01-25,Oakland Athletics invited non-roster SS Nick Allen to spring training.
@@ -555,24 +544,21 @@ date,transaction
 2021-01-25,Cincinnati Reds signed free agent RHP Walker Weickel to a minor league contract.
 2021-01-25,Houston Astros signed free agent SS C.J. Hinojosa to a minor league contract.
 2021-01-25,SS C.J. Hinojosa roster status changed by Houston Astros.
-2021-01-25,SS C.J. Hinojosa roster status changed by Houston Astros.
 2021-01-25,traded to Boston Red Sox for .
 2021-01-25,Detroit Tigers signed free agent LHP Derek Holland to a minor league contract and invited him to spring training.
 2021-01-26,Washington Nationals signed free agent LHP Brad Hand.
 2021-01-26,Baltimore Orioles signed free agent SS Freddy Galvis.
 2021-01-26,Baltimore Orioles designated 1B Chris Shaw for assignment.
 2021-01-26,Atlanta Braves signed free agent 3B Ehire Adrianza to a minor league contract and invited him to spring training.
-2021-01-26,Baltimore Orioles signed free agent SS Freddy Galvis.
 2021-01-27,Washington Nationals signed free agent LHP Jon Lester.
 2021-01-27,New York Yankees signed free agent 2B DJ LeMahieu.
 2021-01-27,New York Yankees signed free agent RHP Corey Kluber.
 2021-01-27,San Diego Padres signed free agent LF Jurickson Profar.
 2021-01-27,"New York Mets traded LHP Steven Matz to Toronto Blue Jays for RHP Josh Winckowski, RHP Sean Reid-Foley and RHP Yennsy Diaz."
-2021-01-27,Toronto Blue Jays sent Anthony Castro outright to Buffalo Bisons.
+2021-01-27,Toronto Blue Jays sent RHP Anthony Castro outright to Buffalo Bisons.
 2021-01-27,Miami Marlins signed free agent RHP Anthony Bass.
 2021-01-27,Miami Marlins designated RHP Jordan Yamamoto for assignment.
 2021-01-27,Cincinnati Reds signed free agent RHP Karsen Lindell to a minor league contract.
-2021-01-27,Miami Marlins signed free agent RHP Anthony Bass.
 2021-01-28,Seattle Mariners invited non-roster RHP Gerson Bautista to spring training.
 2021-01-28,Seattle Mariners invited non-roster RHP Nick Duron to spring training.
 2021-01-28,Seattle Mariners invited non-roster LHP Roenis Elias to spring training.
@@ -598,16 +584,17 @@ date,transaction
 2021-01-28,Seattle Mariners invited non-roster RF Eric Filia to spring training.
 2021-01-28,Seattle Mariners invited non-roster CF Jarred Kelenic to spring training.
 2021-01-28,Chicago Cubs signed free agent RHP Kohl Stewart.
-2021-01-28,Seattle Mariners invited non-roster RF Julio Y. Rodriguez to spring training.
+2021-01-28,Seattle Mariners invited non-roster RF Julio Rodriguez to spring training.
 2021-01-28,Seattle Mariners invited non-roster RF Dillon Thomas to spring training.
 2021-01-28,Washington Nationals signed free agent C Blake Swihart to a minor league contract.
+2021-01-28,Miami Marlins signed free agent RHP Yaqui Rivera to a minor league contract.
 2021-01-29,Philadelphia Phillies signed free agent RHP Ivan Nova to a minor league contract and invited him to spring training.
 2021-01-29,St. Louis Cardinals signed free agent RHP Adam Wainwright.
 2021-01-29,Arizona Diamondbacks claimed RHP Humberto Castellanos off waivers from Houston Astros.
 2021-01-29,Detroit Tigers signed free agent C Wilson Ramos.
 2021-01-29,Detroit Tigers designated SS Sergio Alcantara for assignment.
 2021-01-29,Cleveland Indians signed free agent 2B Cesar Hernandez.
-2021-01-29,Pittsburgh Pirates sent Troy Stokes Jr. outright to Indianapolis Indians.
+2021-01-29,Pittsburgh Pirates sent LF Troy Stokes Jr. outright to Indianapolis Indians.
 2021-01-29,Philadelphia Phillies signed free agent C J.T. Realmuto.
 2021-01-29,Philadelphia Phillies designated RHP Ian Hamilton for assignment.
 2021-01-29,Kansas City Royals signed free agent OF Sebastian Ramirez to a minor league contract.
@@ -648,7 +635,7 @@ date,transaction
 2021-02-02,Pittsburgh Pirates invited non-roster C Jason Delay to spring training.
 2021-02-02,Pittsburgh Pirates invited non-roster C Christian Kelley to spring training.
 2021-02-02,Pittsburgh Pirates invited non-roster C Arden Pabst to spring training.
-2021-02-02,Pittsburgh Pirates invited non-roster SS Ji-Hwan Bae to spring training.
+2021-02-02,Pittsburgh Pirates invited non-roster SS Ji-wan Bae to spring training.
 2021-02-02,Pittsburgh Pirates invited non-roster 1B Will Craig to spring training.
 2021-02-02,Pittsburgh Pirates invited non-roster SS Nick Gonzales to spring training.
 2021-02-02,Pittsburgh Pirates invited non-roster OF Kevin Kramer to spring training.
@@ -697,11 +684,6 @@ date,transaction
 2021-02-02,Tampa Bay Rays signed free agent RHP Hunter Strickland to a minor league contract.
 2021-02-02,RHP Hunter Strickland roster status changed by Tampa Bay Rays.
 2021-02-02,Minnesota Twins signed free agent OF Keon Broxton to a minor league contract and invited him to spring training.
-2021-02-02,Oakland Athletics invited non-roster C Kyle McCann to spring training.
-2021-02-02,Minnesota Twins signed free agent OF Keon Broxton to a minor league contract and invited him to spring training.
-2021-02-02,Milwaukee Brewers signed free agent LHP Blaine Hardy to a minor league contract and invited him to spring training.
-2021-02-02,Los Angeles Angels signed free agent RHP Junior Guerra to a minor league contract and invited him to spring training.
-2021-02-02,Baltimore Orioles signed free agent RHP Spenser Watkins to a minor league contract.
 2021-02-02,traded to Baltimore Orioles for .
 2021-02-03,Cincinnati Reds signed free agent OF Nicky Delmonico to a minor league contract and invited him to spring training.
 2021-02-03,Philadelphia Phillies signed free agent LHP Matt Moore.
@@ -718,11 +700,7 @@ date,transaction
 2021-02-03,Los Angeles Angels claimed 2B Robel Garcia off waivers from New York Mets.
 2021-02-03,Washington Nationals signed free agent 2B Hernan Perez to a minor league contract and invited him to spring training.
 2021-02-03,Los Angeles Angels claimed 2B Robel Garcia off waivers from .
-2021-02-03,Boston Red Sox signed free agent RHP Garrett Richards.
-2021-02-03,Baltimore Orioles signed free agent LHP Wade LeBlanc to a minor league contract and invited him to spring training.
-2021-02-03,Baltimore Orioles signed free agent RHP Felix Hernandez to a minor league contract and invited him to spring training.
-2021-02-03,Baltimore Orioles signed free agent 3B Seth Mejias-Brean to a minor league contract.
-2021-02-03,Baltimore Orioles signed free agent RHP Konner Wade to a minor league contract.
+2021-02-03,Kansas City Royals signed free agent C Allan de San Miguel to a minor league contract.
 2021-02-04,Cleveland Indians invited non-roster RHP Nick Sandlin to spring training.
 2021-02-04,Cleveland Indians invited non-roster C Gavin Collins to spring training.
 2021-02-04,Cleveland Indians invited non-roster RHP Kyle Dowdy to spring training.
@@ -755,7 +733,6 @@ date,transaction
 2021-02-04,San Francisco Giants signed free agent RHP Zack Littell to a minor league contract and invited him to spring training.
 2021-02-04,Washington Nationals signed free agent 3B Humberto Arteaga to a minor league contract.
 2021-02-04,traded to San Francisco Giants for .
-2021-02-04,San Francisco Giants signed free agent 2B Tommy La Stella.
 2021-02-04,traded to Minnesota Twins for .
 2021-02-05,Milwaukee Brewers signed free agent 2B Kolten Wong.
 2021-02-05,Kansas City Royals invited non-roster RHP Jon Heasley to spring training.
@@ -806,34 +783,9 @@ date,transaction
 2021-02-05,Arizona Diamondbacks signed free agent SS Jefferson Pena to a minor league contract.
 2021-02-05,Minnesota Twins signed free agent RHP Chandler Shepherd to a minor league contract.
 2021-02-05,New York Yankees signed free agent RHP Kyle Barraclough to a minor league contract and invited him to spring training.
-2021-02-05,Kansas City Royals invited non-roster OF Seuly Matias to spring training.
-2021-02-05,Kansas City Royals invited non-roster CF Kyle Isbel to spring training.
-2021-02-05,Kansas City Royals invited non-roster LF Anderson Miller to spring training.
-2021-02-05,Kansas City Royals invited non-roster SS Bobby Witt Jr. to spring training.
-2021-02-05,Kansas City Royals invited non-roster SS Jeison Guzman to spring training.
-2021-02-05,Kansas City Royals invited non-roster SS Clay Dungan to spring training.
-2021-02-05,Kansas City Royals invited non-roster 3B Emmanuel Rivera to spring training.
-2021-02-05,Kansas City Royals invited non-roster 2B Erick Mejia to spring training.
-2021-02-05,Kansas City Royals invited non-roster 2B Gabriel Cancel to spring training.
-2021-02-05,Kansas City Royals signed free agent 2B Hanser Alberto to a minor league contract and invited him to spring training.
-2021-02-05,Kansas City Royals invited non-roster 1B Nick Pratto to spring training.
-2021-02-05,Kansas City Royals invited non-roster C MJ Melendez to spring training.
-2021-02-05,Kansas City Royals invited non-roster C Freddy Fermin to spring training.
-2021-02-05,Kansas City Royals invited non-roster C Nick Dini to spring training.
-2021-02-05,Kansas City Royals invited non-roster LHP Gabe Speier to spring training.
-2021-02-05,Kansas City Royals invited non-roster LHP Eric Skoglund to spring training.
-2021-02-05,Kansas City Royals invited non-roster LHP Daniel Lynch to spring training.
-2021-02-05,Kansas City Royals invited non-roster LHP Asa Lacy to spring training.
-2021-02-05,Kansas City Royals invited non-roster RHP Jackson Kowar to spring training.
-2021-02-05,Kansas City Royals invited non-roster RHP Alec Marsh to spring training.
-2021-02-05,Kansas City Royals invited non-roster LHP Jake Kalish to spring training.
-2021-02-05,Kansas City Royals invited non-roster RHP Jon Heasley to spring training.
-2021-02-05,Kansas City Royals invited non-roster LHP Austin Cox to spring training.
-2021-02-05,Kansas City Royals invited non-roster LHP Jake Brentz to spring training.
-2021-02-05,Kansas City Royals invited non-roster RHP Jonathan Bowlan to spring training.
 2021-02-05,Chicago Cubs claimed SS Sergio Alcantara off waivers from .
 2021-02-05,Arizona Diamondbacks signed free agent SS Jose Fernandez to a minor league contract.
-2021-02-06,"Oakland Athletics traded LF Khris Davis, C Jonah Heim and RHP Dane Acker to Texas Rangers for SS Elvis Andrus, C Aramis Garcia and cash."
+2021-02-06,"Oakland Athletics traded LF Khris Davis, C Jonah Heim and RHP Dane Acker to Texas Rangers for SS Elvis Andrus, Aramis Garcia and cash."
 2021-02-06,Arizona Diamondbacks signed free agent RHP Joakim Soria.
 2021-02-06,Arizona Diamondbacks designated LHP Taylor Guilbeau for assignment.
 2021-02-06,Arizona Diamondbacks signed free agent 3B Ryder Jones to a minor league contract.
@@ -850,8 +802,7 @@ date,transaction
 2021-02-08,Minnesota Twins signed free agent 3B Drew Maggi to a minor league contract.
 2021-02-08,Detroit Tigers signed free agent RHP Brad Markey to a minor league contract.
 2021-02-08,Detroit Tigers signed free agent RHP Pedro Payano to a minor league contract.
-2021-02-08,Minnesota Twins signed free agent 3B Drew Maggi to a minor league contract.
-2021-02-08,Cincinnati Reds signed free agent LHP Sean Doolittle.
+2021-02-08,Kansas City Royals signed free agent SS Yosmi Fernandez to a minor league contract.
 2021-02-09,Seattle Mariners signed free agent RHP JT Chargois to a minor league contract and invited him to spring training.
 2021-02-09,Tampa Bay Rays signed free agent RHP Chris Archer.
 2021-02-09,Seattle Mariners signed free agent RHP Taylor Guerrieri to a minor league contract and invited him to spring training.
@@ -859,8 +810,6 @@ date,transaction
 2021-02-09,St. Louis Cardinals signed free agent C Yadier Molina.
 2021-02-09,Atlanta Braves signed free agent RHP Nate Jones to a minor league contract and invited him to spring training.
 2021-02-09,Arizona Diamondbacks signed free agent LHP Matt Gage to a minor league contract.
-2021-02-09,Seattle Mariners signed free agent RHP Taylor Guerrieri to a minor league contract and invited him to spring training.
-2021-02-09,Seattle Mariners signed free agent RHP JT Chargois to a minor league contract and invited him to spring training.
 2021-02-10,Philadelphia Phillies signed free agent SS Didi Gregorius.
 2021-02-10,Detroit Tigers signed free agent 2B Greg Garcia to a minor league contract and invited him to spring training.
 2021-02-10,Detroit Tigers signed free agent 1B Renato Nunez to a minor league contract and invited him to spring training.
@@ -881,9 +830,7 @@ date,transaction
 2021-02-10,Philadelphia Phillies signed free agent RHP Brandon Kintzler to a minor league contract and invited him to spring training.
 2021-02-10,Philadelphia Phillies signed free agent LF Matt Joyce to a minor league contract and invited him to spring training.
 2021-02-10,Chicago White Sox signed free agent RHP Alejandro Mateo to a minor league contract.
-2021-02-10,New York Yankees signed free agent RHP Darren O'Day.
-2021-02-10,Cincinnati Reds signed free agent RHP Braden Shipley to a minor league contract and invited him to spring training.
-2021-02-10,Cincinnati Reds claimed 2B Max Schrock off waivers from .
+2021-02-10,Cincinnati Reds claimed Max Schrock off waivers from .
 2021-02-10,traded to Boston Red Sox for .
 2021-02-11,Chicago White Sox invited non-roster RHP Ryan Burr to spring training.
 2021-02-11,Chicago White Sox invited non-roster RHP Danny Dopico to spring training.
@@ -977,57 +924,12 @@ date,transaction
 2021-02-11,Minnesota Twins designated LHP Brandon Waddell for assignment.
 2021-02-11,Cincinnati Reds signed free agent 2B Dee Strange-Gordon to a minor league contract.
 2021-02-11,Minnesota Twins claimed RF Kyle Garlick off waivers from .
-2021-02-11,Los Angeles Angels invited non-roster CF Brennon Lund to spring training.
-2021-02-11,Los Angeles Angels signed free agent CF Juan Lagares to a minor league contract and invited him to spring training.
-2021-02-11,Los Angeles Angels invited non-roster CF Jordyn Adams to spring training.
-2021-02-11,Los Angeles Angels invited non-roster SS Livan Soto to spring training.
-2021-02-11,Los Angeles Angels invited non-roster SS Jeremiah Jackson to spring training.
-2021-02-11,Los Angeles Angels invited non-roster 3B Jose Rojas to spring training.
-2021-02-11,Los Angeles Angels signed free agent 2B Phil Gosselin to a minor league contract and invited him to spring training.
-2021-02-11,Los Angeles Angels invited non-roster C Harrison Wenson to spring training.
-2021-02-11,Los Angeles Angels invited non-roster C Keinner Pina to spring training.
-2021-02-11,Los Angeles Angels invited non-roster C Anthony Mulrine to spring training.
-2021-02-11,Los Angeles Angels invited non-roster C Jack Kruger to spring training.
-2021-02-11,Los Angeles Angels invited non-roster LHP Packy Naughton to spring training.
-2021-02-11,Los Angeles Angels invited non-roster LHP Reid Detmers to spring training.
-2021-02-11,Los Angeles Angels invited non-roster RHP Davis Daniel to spring training.
-2021-02-11,Los Angeles Angels invited non-roster RHP Denny Brady to spring training.
-2021-02-11,Cincinnati Reds signed free agent RHP Shane Carle to a minor league contract and invited him to spring training.
-2021-02-11,Chicago White Sox signed free agent SS Tim Beckham to a minor league contract and invited him to spring training.
-2021-02-11,Chicago White Sox invited non-roster 3B Zach Remillard to spring training.
-2021-02-11,Chicago White Sox invited non-roster 1B Andrew Vaughn to spring training.
-2021-02-11,Chicago White Sox invited non-roster C Carlos Perez to spring training.
-2021-02-11,Chicago White Sox signed free agent C Jonathan Lucroy to a minor league contract and invited him to spring training.
-2021-02-11,Chicago White Sox invited non-roster RHP Emilio Vargas to spring training.
-2021-02-11,Chicago White Sox invited non-roster LHP Bennett Sousa to spring training.
-2021-02-11,Chicago White Sox invited non-roster RHP Felix Paulino to spring training.
-2021-02-11,Chicago White Sox invited non-roster LHP Kodi Medeiros to spring training.
-2021-02-11,Chicago White Sox signed free agent RHP Alex McRae to a minor league contract and invited him to spring training.
-2021-02-11,Chicago White Sox invited non-roster RHP Kade McClure to spring training.
-2021-02-11,Chicago White Sox invited non-roster LHP Jacob Lindgren to spring training.
-2021-02-11,Chicago White Sox invited non-roster RHP Tayron Guerrero to spring training.
-2021-02-11,Chicago White Sox invited non-roster RHP Danny Dopico to spring training.
-2021-02-11,Chicago White Sox invited non-roster RHP Ryan Burr to spring training.
-2021-02-11,Arizona Diamondbacks invited non-roster OF Trayce Thompson to spring training.
-2021-02-11,Arizona Diamondbacks invited non-roster CF Jake McCarthy to spring training.
-2021-02-11,Arizona Diamondbacks invited non-roster 3B Drew Ellis to spring training.
-2021-02-11,Arizona Diamondbacks invited non-roster 2B Juniel Querecuto to spring training.
-2021-02-11,Arizona Diamondbacks signed free agent 2B Christian Lopes to a minor league contract and invited him to spring training.
-2021-02-11,Arizona Diamondbacks invited non-roster 2B Domingo Leyba to spring training.
-2021-02-11,Arizona Diamondbacks invited non-roster 1B Seth Beer to spring training.
-2021-02-11,Arizona Diamondbacks invited non-roster C Jose Herrera to spring training.
-2021-02-11,Arizona Diamondbacks signed free agent RHP Carlos Navas to a minor league contract and invited him to spring training.
-2021-02-11,Arizona Diamondbacks invited non-roster LHP Joe Mantiply to spring training.
-2021-02-11,Arizona Diamondbacks invited non-roster RHP Josh Green to spring training.
-2021-02-11,Arizona Diamondbacks invited non-roster LHP Tyler Gilbert to spring training.
-2021-02-11,Arizona Diamondbacks signed free agent RHP Chris Devenski to a minor league contract and invited him to spring training.
-2021-02-11,Arizona Diamondbacks invited non-roster LHP Miguel Aguilar to spring training.
 2021-02-11,Atlanta Braves signed free agent C Hendrik Clementina to a minor league contract.
 2021-02-11,Detroit Tigers signed free agent 1B Drew Ward to a minor league contract.
 2021-02-11,Los Angeles Angels signed free agent OF Jon Jay to a minor league contract and invited him to spring training.
-2021-02-12,Los Angeles Dodgers traded LHP Adam Kolarek and RF Cody Thomas to Oakland Athletics for 3B Sheldon Neuse and RHP Gus Varland.
+2021-02-12,Los Angeles Dodgers traded Adam Kolarek and RF Cody Thomas to Oakland Athletics for 3B Sheldon Neuse and RHP Gus Varland.
 2021-02-12,Texas Rangers signed free agent C John Hicks to a minor league contract and invited him to spring training.
-2021-02-12,Texas Rangers signed free agent LHP Hyun-jong Yang to a minor league contract and invited him to spring training.
+2021-02-12,Texas Rangers signed free agent LHP Hyeon-Jong Yang to a minor league contract and invited him to spring training.
 2021-02-12,Texas Rangers signed free agent 2B Brock Holt to a minor league contract and invited him to spring training.
 2021-02-12,Minnesota Twins signed free agent RHP Alex Colome.
 2021-02-12,Texas Rangers invited non-roster RHP Hans Crouse to spring training.
@@ -1035,9 +937,6 @@ date,transaction
 2021-02-12,Minnesota Twins invited non-roster LHP Brandon Waddell to spring training.
 2021-02-12,Miami Marlins traded LHP Alex Vesia and RHP Kyle Hurt to Los Angeles Dodgers for Dylan Floro.
 2021-02-12,Chicago Cubs invited non-roster RHP Tommy Nance to spring training.
-2021-02-12,Baltimore Orioles invited non-roster LHP Fernando Abad to spring training.
-2021-02-12,Baltimore Orioles invited non-roster RHP Marcos Diplan to spring training.
-2021-02-12,Baltimore Orioles invited non-roster C Taylor Davis to spring training.
 2021-02-12,Chicago Cubs invited non-roster RHP Trevor Megill to spring training.
 2021-02-12,Chicago Cubs signed free agent RHP Shelby Miller to a minor league contract and invited him to spring training.
 2021-02-12,Chicago Cubs invited non-roster RHP Michael Rucker to spring training.
@@ -1067,26 +966,8 @@ date,transaction
 2021-02-12,Tampa Bay Rays invited non-roster OF Garrett Whitley to spring training.
 2021-02-12,New York Yankees released RHP Ben Heller.
 2021-02-12,Boston Red Sox signed free agent LHP Martin Perez.
-2021-02-12,RHP Eric Hanhold assigned to Baltimore Orioles.
-2021-02-12,RHP Mickey Jannis assigned to Baltimore Orioles.
 2021-02-12,Boston Red Sox designated RHP Chris Mazza for assignment.
-2021-02-12,RHP Jay Flaa assigned to Baltimore Orioles.
-2021-02-12,LHP Zach Muckenhirn assigned to Baltimore Orioles.
-2021-02-12,LHP Josh Rogers assigned to Baltimore Orioles.
-2021-02-12,C Brett Cumberland assigned to Baltimore Orioles.
-2021-02-12,RHP Dusten Knight assigned to Baltimore Orioles.
-2021-02-12,RHP Evan Phillips assigned to Baltimore Orioles.
-2021-02-12,C Adley Rutschman assigned to Baltimore Orioles.
-2021-02-12,SS Adam Hall assigned to Baltimore Orioles.
-2021-02-12,SS Gunnar Henderson assigned to Baltimore Orioles.
-2021-02-12,C Maverick Handley assigned to Baltimore Orioles.
-2021-02-12,OF Heston Kjerstad assigned to Baltimore Orioles.
-2021-02-12,1B Chris Shaw assigned to Baltimore Orioles.
-2021-02-12,1B Ryan Ripken assigned to Baltimore Orioles.
 2021-02-12,Houston Astros invited non-roster RHP Ronel Blanco to spring training.
-2021-02-12,SS Mason McCoy assigned to Baltimore Orioles.
-2021-02-12,SS Terrin Vavra assigned to Baltimore Orioles.
-2021-02-12,SS Jordan Westburg assigned to Baltimore Orioles.
 2021-02-12,Houston Astros invited non-roster RHP Hunter Brown to spring training.
 2021-02-12,Houston Astros invited non-roster RHP Riley Ferrell to spring training.
 2021-02-12,Houston Astros invited non-roster RHP Brett Conine to spring training.
@@ -1112,33 +993,13 @@ date,transaction
 2021-02-12,Houston Astros invited non-roster OF Colin Barber to spring training.
 2021-02-12,Houston Astros invited non-roster OF Zach Daniels to spring training.
 2021-02-12,Houston Astros invited non-roster OF Bryan De La Cruz to spring training.
-2021-02-12,San Diego Padres invited non-roster RHP Reiss Knehr to spring training.
 2021-02-12,Houston Astros invited non-roster OF Ronnie Dawson to spring training.
 2021-02-12,Houston Astros invited non-roster CF Jake Meyers to spring training.
-2021-02-12,San Diego Padres invited non-roster RHP Pedro Avila to spring training.
-2021-02-12,San Diego Padres signed free agent RHP Miguel Diaz to a minor league contract and invited him to spring training.
-2021-02-12,San Diego Padres invited non-roster RHP Mason Fox to spring training.
-2021-02-12,San Diego Padres invited non-roster RHP Chase Johnson to spring training.
-2021-02-12,San Diego Padres invited non-roster RHP Parker Markel to spring training.
-2021-02-12,San Diego Padres invited non-roster RHP Justin Lange to spring training.
-2021-02-12,San Diego Padres invited non-roster RHP Evan Miller to spring training.
-2021-02-12,San Diego Padres signed free agent RHP Aaron Northcraft to a minor league contract and invited him to spring training.
-2021-02-12,San Diego Padres invited non-roster RHP Dauris Valdez to spring training.
-2021-02-12,San Diego Padres invited non-roster RHP Steven Wilson to spring training.
 2021-02-12,San Diego Padres invited non-roster RHP Jacob Nix to spring training.
-2021-02-12,San Diego Padres invited non-roster LHP Jagger Haynes to spring training.
 2021-02-12,San Diego Padres invited non-roster C Juan Fernandez to spring training.
 2021-02-12,San Diego Padres invited non-roster OF Robert Hassell III to spring training.
-2021-02-12,San Diego Padres invited non-roster SS CJ Abrams to spring training.
-2021-02-12,San Diego Padres invited non-roster LHP Daniel Camarena to spring training.
-2021-02-12,San Diego Padres invited non-roster LHP Ethan Elliott to spring training.
-2021-02-12,San Diego Padres invited non-roster LHP Brady Feigl to spring training.
 2021-02-12,San Diego Padres invited non-roster LHP MacKenzie Gore to spring training.
 2021-02-12,San Diego Padres invited non-roster LHP Aaron Leasher to spring training.
-2021-02-12,San Diego Padres invited non-roster C Webster Rivas to spring training.
-2021-02-12,San Diego Padres invited non-roster OF Joshua Mears to spring training.
-2021-02-12,San Diego Padres invited non-roster 2B Ivan Castillo to spring training.
-2021-02-12,San Diego Padres invited non-roster 2B Eguy Rosario to spring training.
 2021-02-12,Boston Red Sox invited non-roster RHP Durbin Feltman to spring training.
 2021-02-12,Boston Red Sox invited non-roster RHP Andrew Politi to spring training.
 2021-02-12,Boston Red Sox invited non-roster C Austin Rei to spring training.
@@ -1174,7 +1035,7 @@ date,transaction
 2021-02-12,Toronto Blue Jays invited non-roster OF Chavez Young to spring training.
 2021-02-12,Toronto Blue Jays invited non-roster RHP Yosver Zulueta to spring training.
 2021-02-12,Atlanta Braves claimed LF Travis Demeritte off waivers from Detroit Tigers.
-2021-02-12,Texas Rangers sent Adolis Garcia outright to Round Rock Express.
+2021-02-12,Texas Rangers sent RF Adolis Garcia outright to Round Rock Express.
 2021-02-12,Toronto Blue Jays released RHP Shun Yamaguchi.
 2021-02-12,Atlanta Braves released RHP Jeremy Walker.
 2021-02-12,New York Mets traded C Ali Sanchez to St. Louis Cardinals for cash.
@@ -1186,23 +1047,18 @@ date,transaction
 2021-02-12,New York Yankees signed free agent RF Jay Bruce to a minor league contract and invited him to spring training.
 2021-02-12,traded to St. Louis Cardinals for .
 2021-02-12,San Diego Padres invited non-roster OF Joshua Mears to spring training.
-2021-02-12,San Diego Padres invited non-roster OF Robert Hassell III to spring training.
 2021-02-12,San Diego Padres invited non-roster SS CJ Abrams to spring training.
 2021-02-12,San Diego Padres invited non-roster 2B Eguy Rosario to spring training.
 2021-02-12,San Diego Padres invited non-roster 2B Ivan Castillo to spring training.
 2021-02-12,San Diego Padres invited non-roster C Webster Rivas to spring training.
-2021-02-12,San Diego Padres invited non-roster C Juan Fernandez to spring training.
 2021-02-12,San Diego Padres invited non-roster RHP Steven Wilson to spring training.
 2021-02-12,San Diego Padres invited non-roster RHP Dauris Valdez to spring training.
 2021-02-12,San Diego Padres signed free agent RHP Aaron Northcraft to a minor league contract and invited him to spring training.
-2021-02-12,San Diego Padres invited non-roster RHP Jacob Nix to spring training.
 2021-02-12,San Diego Padres invited non-roster RHP Evan Miller to spring training.
 2021-02-12,San Diego Padres invited non-roster RHP Parker Markel to spring training.
-2021-02-12,San Diego Padres invited non-roster LHP Aaron Leasher to spring training.
 2021-02-12,San Diego Padres invited non-roster RHP Justin Lange to spring training.
 2021-02-12,San Diego Padres invited non-roster RHP Chase Johnson to spring training.
 2021-02-12,San Diego Padres invited non-roster RHP Reiss Knehr to spring training.
-2021-02-12,San Diego Padres invited non-roster LHP MacKenzie Gore to spring training.
 2021-02-12,San Diego Padres invited non-roster LHP Jagger Haynes to spring training.
 2021-02-12,San Diego Padres invited non-roster RHP Mason Fox to spring training.
 2021-02-12,San Diego Padres invited non-roster LHP Brady Feigl to spring training.
@@ -1211,58 +1067,11 @@ date,transaction
 2021-02-12,San Diego Padres invited non-roster LHP Daniel Camarena to spring training.
 2021-02-12,San Diego Padres invited non-roster RHP Pedro Avila to spring training.
 2021-02-12,traded to Oakland Athletics for .
-2021-02-12,Minnesota Twins signed free agent LHP Andrew Albers to a minor league contract and invited him to spring training.
-2021-02-12,Minnesota Twins signed free agent RHP Alex Colome.
 2021-02-12,traded to Miami Marlins for .
 2021-02-12,traded to Los Angeles Dodgers for .
-2021-02-12,Houston Astros invited non-roster OF Bryan De La Cruz to spring training.
-2021-02-12,Houston Astros invited non-roster OF Ronnie Dawson to spring training.
-2021-02-12,Houston Astros invited non-roster OF Zach Daniels to spring training.
-2021-02-12,Houston Astros invited non-roster OF Colin Barber to spring training.
-2021-02-12,Houston Astros invited non-roster CF Jake Meyers to spring training.
-2021-02-12,Houston Astros invited non-roster SS Jeremy Pena to spring training.
-2021-02-12,Houston Astros invited non-roster SS Grae Kessinger to spring training.
-2021-02-12,Houston Astros invited non-roster SS Alex De Goti to spring training.
 2021-02-12,Houston Astros invited non-roster C Colton Shaver to spring training.
-2021-02-12,Houston Astros invited non-roster C Lorenzo Quintana to spring training.
-2021-02-12,Houston Astros invited non-roster C Michael Papierski to spring training.
-2021-02-12,Houston Astros invited non-roster C Scott Manea to spring training.
-2021-02-12,Houston Astros invited non-roster C Korey Lee to spring training.
-2021-02-12,Houston Astros invited non-roster RHP Hector Velazquez to spring training.
-2021-02-12,Houston Astros invited non-roster RHP Jojanse Torres to spring training.
-2021-02-12,Houston Astros invited non-roster LHP Kit Scheetz to spring training.
-2021-02-12,Houston Astros invited non-roster RHP Alex Santos II to spring training.
-2021-02-12,Houston Astros invited non-roster RHP Seth Martinez to spring training.
-2021-02-12,Houston Astros invited non-roster RHP Carson LaRue to spring training.
-2021-02-12,Houston Astros invited non-roster RHP Blair Henley to spring training.
-2021-02-12,Houston Astros invited non-roster LHP Ryan Hartman to spring training.
-2021-02-12,Houston Astros invited non-roster RHP Austin Hansen to spring training.
-2021-02-12,Houston Astros invited non-roster RHP Ralph Garza Jr. to spring training.
-2021-02-12,Houston Astros invited non-roster RHP Riley Ferrell to spring training.
-2021-02-12,Houston Astros invited non-roster RHP Shawn Dubin to spring training.
-2021-02-12,Houston Astros invited non-roster RHP Brett Conine to spring training.
-2021-02-12,Houston Astros invited non-roster RHP Hunter Brown to spring training.
-2021-02-12,Houston Astros invited non-roster RHP Ronel Blanco to spring training.
-2021-02-12,Chicago Cubs invited non-roster 2B Trent Giambrone to spring training.
-2021-02-12,Chicago Cubs invited non-roster 1B Alfonso Rivas to spring training.
-2021-02-12,Chicago Cubs signed free agent C Jose Lobaton to a minor league contract and invited him to spring training.
-2021-02-12,Chicago Cubs invited non-roster C P.J. Higgins to spring training.
-2021-02-12,Chicago Cubs invited non-roster RHP Michael Rucker to spring training.
-2021-02-12,Chicago Cubs invited non-roster RHP Tommy Nance to spring training.
-2021-02-12,Chicago Cubs signed free agent LHP Adam Morgan to a minor league contract and invited him to spring training.
-2021-02-12,Chicago Cubs signed free agent RHP Shelby Miller to a minor league contract and invited him to spring training.
-2021-02-12,Chicago Cubs invited non-roster RHP Trevor Megill to spring training.
 2021-02-12,Chicago Cubs invited non-roster LHP Brendon Little to spring training.
-2021-02-12,Boston Red Sox invited non-roster OF Jarren Duran to spring training.
-2021-02-12,Boston Red Sox invited non-roster SS Jeter Downs to spring training.
-2021-02-12,Boston Red Sox invited non-roster 3B Triston Casas to spring training.
-2021-02-12,Boston Red Sox invited non-roster 2B Nick Yorke to spring training.
-2021-02-12,Boston Red Sox invited non-roster 2B Chad De La Guerra to spring training.
-2021-02-12,Boston Red Sox invited non-roster C Austin Rei to spring training.
-2021-02-12,Boston Red Sox invited non-roster C Kole Cottam to spring training.
-2021-02-12,Boston Red Sox invited non-roster RHP Thad Ward to spring training.
-2021-02-12,Boston Red Sox invited non-roster RHP Andrew Politi to spring training.
-2021-02-12,Boston Red Sox invited non-roster RHP Durbin Feltman to spring training.
+2021-02-12,Boston Red Sox invited non-roster RHP Thaddeus Ward to spring training.
 2021-02-12,Baltimore Orioles invited non-roster C Taylor Davis to spring training.
 2021-02-12,Baltimore Orioles invited non-roster RHP Marcos Diplan to spring training.
 2021-02-12,Baltimore Orioles invited non-roster LHP Fernando Abad to spring training.
@@ -1288,8 +1097,10 @@ date,transaction
 2021-02-12,Kansas City Royals signed free agent 2B Angel Franco to a minor league contract.
 2021-02-12,2B Tristan Gray roster status changed by Tampa Bay Rays.
 2021-02-12,RF Travis Jankowski roster status changed by Philadelphia Phillies.
+2021-02-12,RHP Jacob Nix roster status changed by San Diego Padres.
+2021-02-12,LHP MacKenzie Gore roster status changed by San Diego Padres.
 2021-02-13,Texas Rangers invited non-roster RF Adolis Garcia to spring training.
-2021-02-13,Los Angeles Angels sent Dillon Peters outright to Salt Lake Bees.
+2021-02-13,Los Angeles Angels sent LHP Dillon Peters outright to Salt Lake Bees.
 2021-02-13,New York Mets invited non-roster RHP Tylor Megill to spring training.
 2021-02-13,New York Mets invited non-roster C Francisco Alvarez to spring training.
 2021-02-13,New York Mets invited non-roster RHP Matthew Allan to spring training.
@@ -1322,29 +1133,9 @@ date,transaction
 2021-02-13,New York Yankees signed free agent C Robinson Chirinos to a minor league contract and invited him to spring training.
 2021-02-13,New York Yankees signed free agent RHP Nick Goody to a minor league contract and invited him to spring training.
 2021-02-13,SS Nick Sogard assigned to Tampa Bay Rays.
-2021-02-13,OF George Valera assigned to Cleveland Indians.
-2021-02-13,OF Connor Marabell assigned to Cleveland Indians.
-2021-02-13,OF Steven Kwan assigned to Cleveland Indians.
-2021-02-13,OF Alex Call assigned to Cleveland Indians.
-2021-02-13,OF Will Benson assigned to Cleveland Indians.
-2021-02-13,SS Brayan Rocchio assigned to Cleveland Indians.
-2021-02-13,2B Richard Palacios assigned to Cleveland Indians.
-2021-02-13,2B Tyler Krieger assigned to Cleveland Indians.
-2021-02-13,2B Jose Fermin assigned to Cleveland Indians.
-2021-02-13,C Andres Melendez assigned to Cleveland Indians.
-2021-02-13,C Bryan Lavastida assigned to Cleveland Indians.
-2021-02-13,C Yainer Diaz assigned to Cleveland Indians.
-2021-02-13,LHP Adam Scott assigned to Cleveland Indians.
-2021-02-13,RHP Cody Morris assigned to Cleveland Indians.
-2021-02-13,LHP Kirk McCarty assigned to Cleveland Indians.
-2021-02-13,RHP Nick Mikolajchak assigned to Cleveland Indians.
-2021-02-13,LHP Joey Cantillo assigned to Cleveland Indians.
-2021-02-13,RHP Robert Broom assigned to Cleveland Indians.
 2021-02-13,Los Angeles Angels invited non-roster LHP Dillon Peters to spring training.
-2021-02-13,RHP Cody Morris assigned to Cleveland Indians.
 2021-02-14,New York Mets signed free agent RHP Tommy Hunter to a minor league contract and invited him to spring training.
 2021-02-14,New York Mets signed free agent LHP Mike Montgomery to a minor league contract and invited him to spring training.
-2021-02-14,St. Louis Cardinals signed free agent CF Matt Szczur to a minor league contract and invited him to spring training.
 2021-02-14,St. Louis Cardinals signed free agent CF Matt Szczur to a minor league contract and invited him to spring training.
 2021-02-15,Cleveland Indians signed free agent CF Billy Hamilton to a minor league contract and invited him to spring training.
 2021-02-15,Minnesota Twins invited non-roster LHP Charlie Barnes to spring training.
@@ -1384,30 +1175,10 @@ date,transaction
 2021-02-15,Atlanta Braves signed free agent 2B Jason Kipnis to a minor league contract and invited him to spring training.
 2021-02-15,Atlanta Braves invited non-roster SS Braden Shewmake to spring training.
 2021-02-15,Atlanta Braves invited non-roster CF Justin Dean to spring training.
-2021-02-15,Atlanta Braves invited non-roster OF Michael Harris to spring training.
+2021-02-15,Atlanta Braves invited non-roster OF Michael Harris II to spring training.
 2021-02-15,Atlanta Braves invited non-roster RF Trey Harris to spring training.
 2021-02-15,Atlanta Braves invited non-roster CF Drew Waters to spring training.
 2021-02-15,Toronto Blue Jays traded RF Derek Fisher to Milwaukee Brewers for Player To Be Named Later and cash.
-2021-02-15,Minnesota Twins invited non-roster RF Trevor Larnach to spring training.
-2021-02-15,Minnesota Twins invited non-roster SS Royce Lewis to spring training.
-2021-02-15,Minnesota Twins invited non-roster C Tomas Telis to spring training.
-2021-02-15,Minnesota Twins invited non-roster C Caleb Hamilton to spring training.
-2021-02-15,Minnesota Twins invited non-roster C David Banuelos to spring training.
-2021-02-15,Minnesota Twins invited non-roster RHP Griffin Jax to spring training.
-2021-02-15,Minnesota Twins invited non-roster LHP Charlie Barnes to spring training.
-2021-02-15,3B Jose Miranda assigned to Minnesota Twins.
-2021-02-15,1B Chris Williams assigned to Minnesota Twins.
-2021-02-15,1B Zander Wiel assigned to Minnesota Twins.
-2021-02-15,1B Aaron Sabato assigned to Minnesota Twins.
-2021-02-15,C Kyle Schmidt assigned to Minnesota Twins.
-2021-02-15,C Alex Isola assigned to Minnesota Twins.
-2021-02-15,RHP Josh Winder assigned to Minnesota Twins.
-2021-02-15,LHP Andrew Vasquez assigned to Minnesota Twins.
-2021-02-15,RHP Chandler Shepherd assigned to Minnesota Twins.
-2021-02-15,RHP Ryan Mason assigned to Minnesota Twins.
-2021-02-15,RHP Robinson Leyer assigned to Minnesota Twins.
-2021-02-15,RHP Tom Hackimer assigned to Minnesota Twins.
-2021-02-15,RHP Matt Canterino assigned to Minnesota Twins.
 2021-02-15,traded to Milwaukee Brewers for .
 2021-02-15,Minnesota Twins signed free agent SS Jermaine Palacios to a minor league contract.
 2021-02-15,Oakland Athletics signed free agent LHP Aaron Brown to a minor league contract.
@@ -1486,67 +1257,9 @@ date,transaction
 2021-02-16,Oakland Athletics signed free agent RHP Mike Fiers.
 2021-02-16,2B Nate Orf retired.
 2021-02-16,traded to Texas Rangers for .
-2021-02-16,Philadelphia Phillies signed free agent C Jeff Mathis to a minor league contract and invited him to spring training.
-2021-02-16,Philadelphia Phillies invited non-roster C Rodolfo Duran to spring training.
-2021-02-16,RF Jhailyn Ortiz assigned to Philadelphia Phillies.
-2021-02-16,CF Johan Rojas assigned to Philadelphia Phillies.
-2021-02-16,CF Odubel Herrera assigned to Philadelphia Phillies.
-2021-02-16,LF Matt Vierling assigned to Philadelphia Phillies.
-2021-02-16,SS Bryson Stott assigned to Philadelphia Phillies.
-2021-02-16,3B Luke Williams assigned to Philadelphia Phillies.
-2021-02-16,1B Darick Hall assigned to Philadelphia Phillies.
-2021-02-16,C Logan O'Hoppe assigned to Philadelphia Phillies.
-2021-02-16,C Edgar Cabral assigned to Philadelphia Phillies.
-2021-02-16,LHP Zach Warren assigned to Philadelphia Phillies.
-2021-02-16,LHP David Parkinson assigned to Philadelphia Phillies.
-2021-02-16,LHP Erik Miller assigned to Philadelphia Phillies.
-2021-02-16,LHP Jakob Hernandez assigned to Philadelphia Phillies.
-2021-02-16,LHP Jonathan Hennigan assigned to Philadelphia Phillies.
-2021-02-16,RHP JD Hammer assigned to Philadelphia Phillies.
-2021-02-16,RHP Julian Garcia assigned to Philadelphia Phillies.
-2021-02-16,RHP Enyel De Los Santos assigned to Philadelphia Phillies.
-2021-02-16,RHP Tyler Carr assigned to Philadelphia Phillies.
-2021-02-16,Los Angeles Dodgers invited non-roster CF James Outman to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster 3B Miguel Vargas to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster RF Andy Pages to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster 3B Kody Hoese to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster 2B Michael Busch to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster 2B Devin Mann to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster SS Jacob Amaya to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster 2B Omar Estevez to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster C Hunter Feduccia to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster C Stevie Berman to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster RHP Kendall Williams to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster RHP Gus Varland to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster RHP Nick Robertson to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster RHP Ryan Pepiot to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster LHP Robinson Ortiz to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster RHP Bobby Miller to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster RHP Landon Knack to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster RHP Jose Martinez to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster RHP Michael Grove to spring training.
-2021-02-16,Los Angeles Dodgers invited non-roster RHP Josiah Gray to spring training.
-2021-02-16,Colorado Rockies invited non-roster SS Ryan Vilade to spring training.
-2021-02-16,Colorado Rockies invited non-roster SS Alan Trejo to spring training.
-2021-02-16,Colorado Rockies invited non-roster SS Eric Stamets to spring training.
-2021-02-16,Colorado Rockies invited non-roster C Brian Serven to spring training.
-2021-02-16,Colorado Rockies invited non-roster C Chris Rabago to spring training.
-2021-02-16,Colorado Rockies invited non-roster C Willie MacIver to spring training.
-2021-02-16,Colorado Rockies invited non-roster C Max George to spring training.
-2021-02-16,Colorado Rockies invited non-roster C Jose Briceno to spring training.
-2021-02-16,Colorado Rockies invited non-roster RHP Jesus Tinoco to spring training.
-2021-02-16,Colorado Rockies invited non-roster RHP Chad Smith to spring training.
-2021-02-16,Colorado Rockies invited non-roster LHP Ryan Rolison to spring training.
-2021-02-16,Colorado Rockies invited non-roster RHP Dereck Rodriguez to spring training.
-2021-02-16,Colorado Rockies invited non-roster RHP Heath Holder to spring training.
-2021-02-16,Colorado Rockies invited non-roster LHP Brian Gonzalez to spring training.
-2021-02-16,Colorado Rockies invited non-roster RHP Julian Fernandez to spring training.
-2021-02-16,Boston Red Sox signed free agent RHP Hirokazu Sawamura.
 2021-02-16,Miami Marlins signed free agent LHP Shawn Morimando to a minor league contract and invited him to spring training.
 2021-02-16,Chicago White Sox signed free agent RHP Angel Acevedo to a minor league contract.
 2021-02-16,San Diego Padres signed free agent OF John Andreoli to a minor league contract.
-2021-02-16,Boston Red Sox signed free agent RHP Hirokazu Sawamura.
-2021-02-16,LHP Erik Miller assigned to Philadelphia Phillies.
 2021-02-17,New York Yankees invited non-roster 3B Armando Alvarez to spring training.
 2021-02-17,New York Yankees invited non-roster LF Trey Amburgey to spring training.
 2021-02-17,New York Yankees invited non-roster C Josh Breaux to spring training.
@@ -1610,7 +1323,7 @@ date,transaction
 2021-02-17,Washington Nationals invited non-roster OF Carlos Tocci to spring training.
 2021-02-17,Washington Nationals invited non-roster C Israel Pineda to spring training.
 2021-02-17,Washington Nationals invited non-roster C Raudy Read to spring training.
-2021-02-17,Washington Nationals invited non-roster 3B Brandon Snyder to spring training.
+2021-02-17,Washington Nationals invited non-roster C Brandon Snyder to spring training.
 2021-02-17,Washington Nationals invited non-roster C Blake Swihart to spring training.
 2021-02-17,Washington Nationals invited non-roster 3B Drew Mendoza to spring training.
 2021-02-17,Washington Nationals invited non-roster SS Adrian Sanchez to spring training.
@@ -1632,7 +1345,6 @@ date,transaction
 2021-02-17,Tampa Bay Rays signed free agent LHP Rich Hill.
 2021-02-17,Detroit Tigers signed free agent RHP Cale Coshow to a minor league contract.
 2021-02-17,Los Angeles Dodgers signed free agent 1B Matt Davidson to a minor league contract and invited him to spring training.
-2021-02-17,San Francisco Giants placed RHP John Brebbia on the 60-day injured list. Tommy John surgery.
 2021-02-18,Chicago Cubs signed free agent RHP Brandon Workman.
 2021-02-18,San Diego Padres placed RHP Mike Clevinger on the 60-day injured list. Recovery from Tommy John surgery.
 2021-02-18,Seattle Mariners signed free agent LHP James Paxton.
@@ -1643,7 +1355,7 @@ date,transaction
 2021-02-18,Oakland Athletics signed free agent RHP Sergio Romo.
 2021-02-18,Cincinnati Reds signed free agent RF Tyler Naquin to a minor league contract and invited him to spring training.
 2021-02-18,Boston Red Sox placed LHP Chris Sale on the 60-day injured list. Tommy John surgery.
-2021-02-18,Boston Red Sox claimed RHP John Schreiber off waivers from Detroit Tigers.
+2021-02-18,Boston Red Sox claimed John Schreiber off waivers from Detroit Tigers.
 2021-02-18,Minnesota Twins signed free agent RHP Matt Shoemaker.
 2021-02-18,Oakland Athletics placed RHP Frankie Montas on the 10-day injured list.
 2021-02-18,San Diego Padres signed free agent RHP Keone Kela.
@@ -1662,6 +1374,7 @@ date,transaction
 2021-02-19,Cleveland Indians signed free agent C Ryan Lavarnway to a minor league contract and invited him to spring training.
 2021-02-19,Los Angeles Dodgers placed LHP Caleb Ferguson on the 60-day injured list. Tommy John surgery.
 2021-02-19,Detroit Tigers signed free agent RHP Wily Peralta to a minor league contract and invited him to spring training.
+2021-02-19,Detroit Tigers signed free agent RHP Ben Taylor to a minor league contract.
 2021-02-20,Pittsburgh Pirates signed free agent 3B Todd Frazier to a minor league contract and invited him to spring training.
 2021-02-20,Pittsburgh Pirates invited non-roster OF Hunter Owen to spring training.
 2021-02-20,Texas Rangers invited non-roster RHP Jimmy Herget to spring training.
@@ -1729,12 +1442,13 @@ date,transaction
 2021-02-22,Detroit Tigers invited non-roster 3B Daniel Pinero to spring training.
 2021-02-22,Detroit Tigers invited non-roster OF Danny Woodrow to spring training.
 2021-02-22,New York Yankees placed RHP Luis Severino on the 60-day injured list.
-2021-02-22,Seattle Mariners sent Robert Dugger outright to Tacoma Rainiers.
+2021-02-22,Seattle Mariners sent RHP Robert Dugger outright to Tacoma Rainiers.
 2021-02-22,Milwaukee Brewers signed free agent LHP Brett Anderson.
 2021-02-22,Atlanta Braves claimed RF Phillip Ervin off waivers from Chicago Cubs.
 2021-02-22,New York Yankees signed free agent CF Brett Gardner.
 2021-02-22,Minnesota Twins signed free agent SS Andrew Romine to a minor league contract and invited him to spring training.
 2021-02-22,Boston Red Sox claimed RHP Joel Payamps off waivers from .
+2021-02-22,RHP Ben Heller roster status changed by Arizona Diamondbacks.
 2021-02-23,New York Yankees signed free agent LHP Justin Wilson.
 2021-02-23,New York Yankees designated LF Greg Allen for assignment.
 2021-02-23,Oakland Athletics signed free agent 1B Mitch Moreland.
@@ -1743,7 +1457,6 @@ date,transaction
 2021-02-23,Texas Rangers signed free agent RHP Ian Kennedy to a minor league contract and invited him to spring training.
 2021-02-23,Atlanta Braves designated LHP Philip Pfeifer for assignment.
 2021-02-23,Milwaukee Brewers signed free agent 3B Travis Shaw to a minor league contract and invited him to spring training.
-2021-02-23,Atlanta Braves signed free agent 3B Jake Lamb.
 2021-02-23,Toronto Blue Jays traded OF Ryan Noda to Los Angeles Dodgers.
 2021-02-23,Los Angeles Dodgers invited non-roster RHP Nolan Long to spring training.
 2021-02-23,Detroit Tigers signed free agent RHP Julio Teheran to a minor league contract and invited him to spring training.
@@ -1768,7 +1481,7 @@ date,transaction
 2021-02-25,Los Angeles Angels designated 2B Robel Garcia for assignment.
 2021-02-25,Toronto Blue Jays signed free agent LHP Tommy Milone to a minor league contract and invited him to spring training.
 2021-02-25,Atlanta Braves traded 2B Jack Mayfield to Los Angeles Angels for cash.
-2021-02-25,San Francisco Giants sent Trevor Gott outright to Sacramento River Cats.
+2021-02-25,San Francisco Giants sent RHP Trevor Gott outright to Sacramento River Cats.
 2021-02-25,Chicago Cubs signed free agent LF Cameron Maybin to a minor league contract.
 2021-02-25,Atlanta Braves signed free agent 2B Ryan Goins to a minor league contract.
 2021-02-25,Chicago White Sox signed free agent CF Mikie Mahtook to a minor league contract.
@@ -1795,11 +1508,9 @@ date,transaction
 2021-02-26,Miami Marlins signed free agent LHP Steven Okert to a minor league contract.
 2021-02-26,Atlanta Braves signed free agent RHP Benjamin Dum to a minor league contract.
 2021-02-26,San Diego Padres signed free agent OF Patrick Kivlehan to a minor league contract and invited him to spring training.
-2021-02-26,Washington Nationals signed free agent RHP Jeremy Jeffress to a minor league contract and invited him to spring training.
 2021-02-26,San Francisco Giants claimed RHP Jordan Humphreys off waivers from .
-2021-02-26,Arizona Diamondbacks signed free agent RHP Tyler Clippard.
 2021-02-26,Detroit Tigers signed free agent RHP Ricardo Pinto to a minor league contract.
-2021-02-26,San Francisco Giants signed free agent LHP Scott Kazmir to a minor league contract.
+2021-02-26,San Francisco Giants signed free agent LHP Scott Kazmir to a minor league contract and invited him to spring training.
 2021-02-26,Texas Rangers signed free agent RHP Tyson Ross to a minor league contract.
 2021-02-27,Chicago Cubs traded RHP Zach Bryant to Boston Red Sox.
 2021-02-27,Houston Astros placed RHP Justin Verlander on the 60-day injured list. Tommy John surgery.
@@ -1845,8 +1556,6 @@ date,transaction
 2021-02-28,OF Cody Thomas assigned to Oakland Athletics.
 2021-02-28,1B Edwin Diaz assigned to Oakland Athletics.
 2021-02-28,SS Logan Davidson assigned to Oakland Athletics.
-2021-02-28,RHP Ryan Lillie assigned to Cincinnati Reds.
-2021-02-28,LHP Brandon Finnegan assigned to Cincinnati Reds.
 2021-02-28,RHP Bryce Conley assigned to Oakland Athletics.
 2021-02-28,IF Jack Reinheimer assigned to Seattle Mariners.
 2021-02-28,Toronto Blue Jays placed RHP Patrick Murphy on the 60-day injured list. Sprained right A/C joint.
@@ -1877,6 +1586,7 @@ date,transaction
 2021-03-01,New York Yankees invited non-roster LF Greg Allen to spring training.
 2021-03-01,Boston Red Sox sent RHP Marcus Walden outright to Worcester Red Sox.
 2021-03-01,Boston Red Sox invited non-roster RHP Marcus Walden to spring training.
+2021-03-01,Chicago Cubs signed free agent RHP Ryan Meisinger to a minor league contract.
 2021-03-02,C Drew Millas assigned to Oakland Athletics.
 2021-03-02,C Collin Theroux assigned to Oakland Athletics.
 2021-03-02,RHP Hunter Greene assigned to Cincinnati Reds.
@@ -1892,9 +1602,12 @@ date,transaction
 2021-03-02,Colorado Rockies placed CF Ian Desmond on the restricted list.
 2021-03-02,Chicago Cubs sent RHP Robert Stock outright to Iowa Cubs.
 2021-03-02,Los Angeles Angels optioned LHP Jose Quijada to Salt Lake Bees.
+2021-03-02,San Francisco Giants signed free agent 1B Justin Bour to a minor league contract.
 2021-03-03,RHP Brandon Gold assigned to Colorado Rockies.
 2021-03-03,RHP Ryan Feltner assigned to Colorado Rockies.
 2021-03-03,SS Spencer Steer assigned to Minnesota Twins.
+2021-03-03,Colorado Rockies signed free agent SS Taylor Motter to a minor league contract.
+2021-03-03,Minnesota Twins signed free agent 3B Damek Tomscha to a minor league contract.
 2021-03-04,Miami Marlins signed free agent LHP Gio Gonzalez to a minor league contract and invited him to spring training.
 2021-03-04,Arizona Diamondbacks signed free agent RHP Anthony Swarzak to a minor league contract and invited him to spring training.
 2021-03-04,RHP Graham Ashcraft assigned to Cincinnati Reds.
@@ -1903,6 +1616,768 @@ date,transaction
 2021-03-04,LHP Jack Wynkoop assigned to Colorado Rockies.
 2021-03-04,RHP Garrett Schilling assigned to Colorado Rockies.
 2021-03-04,SS Scott Burcham assigned to Colorado Rockies.
+2021-03-04,Baltimore Orioles signed free agent RHP Manny Barreda to a minor league contract.
 2021-03-05,Arizona Diamondbacks released OF Drew Weeks.
 2021-03-05,2B Taylor Snyder assigned to Colorado Rockies.
 2021-03-05,Boston Red Sox invited non-roster OF Gilberto Jimenez to spring training.
+2021-03-05,Kansas City Royals signed free agent CF Jarrod Dyson.
+2021-03-05,Los Angeles Angels sent RHP Gerardo Reyes outright to Salt Lake Bees.
+2021-03-05,Chicago Cubs signed free agent 2B Eric Sogard to a minor league contract and invited him to spring training.
+2021-03-05,Chicago Cubs signed free agent 2B Eric Sogard to a minor league contract.
+2021-03-06,C Jonny Homza assigned to San Diego Padres.
+2021-03-06,RHP Will Carter assigned to Chicago White Sox.
+2021-03-06,San Francisco Giants signed free agent LHP Jose Alvarez.
+2021-03-06,San Diego Padres placed LHP Jose Castillo on the 60-day injured list.
+2021-03-06,San Francisco Giants invited non-roster RHP Trevor Gott to spring training.
+2021-03-06,San Diego Padres claimed Jordan Humphreys off waivers from San Francisco Giants.
+2021-03-06,Toronto Blue Jays claimed Joel Payamps off waivers from Boston Red Sox.
+2021-03-06,Toronto Blue Jays designated Jacob Waguespack for assignment.
+2021-03-07,Boston Red Sox activated C Kevin Plawecki from the 10-day injured list.
+2021-03-07,Boston Red Sox signed free agent OF Danny Santana to a minor league contract and invited him to spring training.
+2021-03-07,RHP Paul Blackburn assigned to Oakland Athletics.
+2021-03-07,Pittsburgh Pirates designated RHP Carson Fulmer for assignment.
+2021-03-07,Chicago Cubs traded RHP Duane Underwood Jr. to Pittsburgh Pirates for 1B Shendrik Apostel.
+2021-03-07,Chicago Cubs invited non-roster RHP Robert Stock to spring training.
+2021-03-07,Texas Rangers optioned RHP Tyler Phillips to Round Rock Express.
+2021-03-07,Texas Rangers optioned RHP Joe Gatto to Round Rock Express.
+2021-03-07,Washington Nationals released RHP Jeremy Jeffress.
+2021-03-07,2B Christian Lopes assigned to Arizona Diamondbacks.
+2021-03-07,3B Drew Ellis roster status changed by Arizona Diamondbacks.
+2021-03-07,C Dominic Miroglio roster status changed by Arizona Diamondbacks.
+2021-03-08,Milwaukee Brewers signed free agent CF Jackie Bradley Jr..
+2021-03-08,Milwaukee Brewers placed 2B Tim Lopes on the 60-day injured list. Right oblique strain.
+2021-03-08,Houston Astros signed free agent RHP Jake Odorizzi.
+2021-03-08,Houston Astros placed RHP Pedro Baez on the 10-day injured list.
+2021-03-09,New York Mets optioned RHP Franklyn Kilome to Syracuse Mets.
+2021-03-09,New York Mets optioned LHP Thomas Szapucki to Syracuse Mets.
+2021-03-09,New York Mets optioned RHP Sean Reid-Foley to Syracuse Mets.
+2021-03-10,3B Ryan Kreidler assigned to Detroit Tigers.
+2021-03-10,RHP Drew Hutchison assigned to Detroit Tigers.
+2021-03-10,Seattle Mariners invited non-roster RHP Robert Dugger to spring training.
+2021-03-10,Seattle Mariners invited non-roster LHP Brandon Williamson to spring training.
+2021-03-10,Seattle Mariners invited non-roster RHP Emerson Hancock to spring training.
+2021-03-10,Seattle Mariners invited non-roster RHP George Kirby to spring training.
+2021-03-10,Cincinnati Reds placed 1B Joey Votto on the 10-day injured list.
+2021-03-10,Los Angeles Angels optioned LHP Hector Yan to Salt Lake Bees.
+2021-03-10,Toronto Blue Jays sent RHP Jacob Waguespack outright to Buffalo Bisons.
+2021-03-10,Toronto Blue Jays designated RHP Jacob Waguespack for assignment.
+2021-03-10,OF Connor Scott roster status changed by Miami Marlins.
+2021-03-10,OF Brian Miller roster status changed by Miami Marlins.
+2021-03-10,OF Victor Victor Mesa roster status changed by Miami Marlins.
+2021-03-10,OF Peyton Burdick roster status changed by Miami Marlins.
+2021-03-10,C Santiago Chavez roster status changed by Miami Marlins.
+2021-03-10,C Cameron Barstad roster status changed by Miami Marlins.
+2021-03-10,LHP Will Stewart roster status changed by Miami Marlins.
+2021-03-10,RHP Josh Roberson roster status changed by Miami Marlins.
+2021-03-10,RHP Kyle Nicolas roster status changed by Miami Marlins.
+2021-03-10,RHP Max Meyer roster status changed by Miami Marlins.
+2021-03-10,RHP Zach McCambley roster status changed by Miami Marlins.
+2021-03-10,LHP Zach King roster status changed by Miami Marlins.
+2021-03-10,RHP Tommy Eveld roster status changed by Miami Marlins.
+2021-03-10,LHP Jake Eder roster status changed by Miami Marlins.
+2021-03-11,SS Demetrius Sims assigned to Miami Marlins.
+2021-03-11,C Austin Bernard assigned to Colorado Rockies.
+2021-03-11,Kansas City Royals optioned RHP Scott Blewett to Omaha Storm Chasers.
+2021-03-11,Kansas City Royals optioned RHP Ronald Bolanos to Omaha Storm Chasers.
+2021-03-11,Kansas City Royals optioned C Meibrys Viloria to Omaha Storm Chasers.
+2021-03-11,Kansas City Royals optioned OF Edward Olivares to Omaha Storm Chasers.
+2021-03-11,Texas Rangers optioned 3B Sherten Apostel to Round Rock Express.
+2021-03-12,Atlanta Braves optioned RHP Victor Arano to Gwinnett Stripers.
+2021-03-12,Atlanta Braves optioned LHP Tucker Davidson to Gwinnett Stripers.
+2021-03-12,Atlanta Braves optioned RHP Jasseel De La Cruz to Gwinnett Stripers.
+2021-03-12,Atlanta Braves optioned LHP Kyle Muller to Gwinnett Stripers.
+2021-03-12,Atlanta Braves optioned RHP Chad Sobotka to Gwinnett Stripers.
+2021-03-12,Atlanta Braves optioned RHP Patrick Weigel to Gwinnett Stripers.
+2021-03-12,Cleveland Indians traded 2B Mike Freeman to Cincinnati Reds for cash.
+2021-03-12,Cincinnati Reds invited non-roster 2B Mike Freeman to spring training.
+2021-03-12,Milwaukee Brewers optioned C Mario Feliciano to Nashville Sounds.
+2021-03-12,Milwaukee Brewers optioned CF Corey Ray to Nashville Sounds.
+2021-03-12,Milwaukee Brewers optioned RHP Alec Bettinger to Nashville Sounds.
+2021-03-12,Milwaukee Brewers optioned RHP Dylan File to Nashville Sounds.
+2021-03-12,Arizona Diamondbacks optioned RHP Jeremy Beasley to Reno Aces.
+2021-03-12,Arizona Diamondbacks optioned RHP Humberto Castellanos to Reno Aces.
+2021-03-12,Arizona Diamondbacks optioned RHP Luis Frias to Reno Aces.
+2021-03-12,Arizona Diamondbacks optioned RHP Humberto Mejia to Reno Aces.
+2021-03-12,Arizona Diamondbacks optioned 2B Andy Young to Reno Aces.
+2021-03-12,Colorado Rockies optioned RHP Tommy Doyle to Albuquerque Isotopes.
+2021-03-12,Colorado Rockies optioned LHP Helcris Olivarez to Albuquerque Isotopes.
+2021-03-12,Colorado Rockies optioned 3B Elehuris Montero to Albuquerque Isotopes.
+2021-03-12,LHP Miguel Del Pozo assigned to Detroit Tigers.
+2021-03-12,Cleveland Indians optioned 3B Nolan Jones to Columbus Clippers.
+2021-03-12,Cleveland Indians optioned RHP Jean Carlos Mejia to Columbus Clippers.
+2021-03-12,Cleveland Indians optioned LHP Scott Moss to Columbus Clippers.
+2021-03-12,Cleveland Indians optioned RHP Eli Morgan to Columbus Clippers.
+2021-03-12,Cleveland Indians optioned RHP Carlos Vargas to Columbus Clippers.
+2021-03-12,Pittsburgh Pirates signed free agent RHP Trevor Cahill.
+2021-03-12,Pittsburgh Pirates placed RHP Blake Cederlind on the 60-day injured list. Right UCL strain.
+2021-03-12,New York Yankees optioned RHP Alexander Vizcaino to Hudson Valley Renegades.
+2021-03-12,Chicago Cubs optioned RHP Kohl Stewart to Iowa Cubs.
+2021-03-12,New York Yankees optioned CF Estevan Florial to Scranton/Wilkes-Barre RailRiders.
+2021-03-12,New York Yankees optioned RHP Luis Gil to Somerset Patriots.
+2021-03-12,New York Yankees optioned RHP Luis Medina to Hudson Valley Renegades.
+2021-03-12,New York Yankees optioned SS Oswald Peraza to Hudson Valley Renegades.
+2021-03-12,New York Yankees optioned RHP Yoendrys Gomez to Tampa Tarpons.
+2021-03-12,Chicago Cubs optioned RHP Cory Abbott to Iowa Cubs.
+2021-03-12,Chicago Cubs optioned RHP Tyson Miller to Iowa Cubs.
+2021-03-12,Chicago Cubs optioned RHP Manuel Rodriguez to Tennessee Smokies.
+2021-03-12,Chicago Cubs optioned C Miguel Amaya to Tennessee Smokies.
+2021-03-12,Chicago Cubs optioned 3B Christopher Morel to Tennessee Smokies.
+2021-03-12,LHP Tyler Gilbert assigned to Arizona Diamondbacks.
+2021-03-12,Houston Astros optioned RHP Forrest Whitley to Sugar Land Skeeters.
+2021-03-12,Houston Astros optioned RHP Nivaldo Rodriguez to Sugar Land Skeeters.
+2021-03-12,RHP Gray Fenter returned to Baltimore Orioles from Chicago Cubs.
+2021-03-12,Cincinnati Reds invited non-roster LHP Brandon Finnegan to spring training.
+2021-03-12,Cincinnati Reds invited non-roster 3B Jonathan India to spring training.
+2021-03-12,Cincinnati Reds optioned RHP Edgar Garcia to Louisville Bats.
+2021-03-12,Cincinnati Reds optioned RHP Vladimir Gutierrez to Louisville Bats.
+2021-03-12,Cincinnati Reds optioned RHP Riley O'Brien to Louisville Bats.
+2021-03-12,Cincinnati Reds optioned RHP Tony Santillan to Louisville Bats.
+2021-03-12,Cincinnati Reds optioned RHP Jared Solomon to Louisville Bats.
+2021-03-12,Detroit Tigers optioned RHP Kyle Funkhouser to Toledo Mud Hens.
+2021-03-12,Cincinnati Reds optioned RHP Ryan Hendrix to Louisville Bats.
+2021-03-12,Detroit Tigers optioned LHP Joey Wentz to Toledo Mud Hens.
+2021-03-12,Kansas City Royals optioned LHP Angel Zerpa to Omaha Storm Chasers.
+2021-03-12,Texas Rangers optioned RHP A.J. Alexy to Frisco RoughRiders.
+2021-03-12,Detroit Tigers optioned RHP Beau Burrows to Toledo Mud Hens.
+2021-03-12,Detroit Tigers optioned RHP Alex Faedo to Toledo Mud Hens.
+2021-03-12,Kansas City Royals optioned LHP Daniel Tillo to Omaha Storm Chasers.
+2021-03-12,Texas Rangers optioned C David Garcia to Frisco RoughRiders.
+2021-03-12,Texas Rangers optioned RHP Yerry Rodriguez to Frisco RoughRiders.
+2021-03-12,OF Kameron Misner assigned to Miami Marlins.
+2021-03-12,Los Angeles Angels invited non-roster RHP Zac Kristofak to spring training.
+2021-03-12,Los Angeles Angels invited non-roster RHP Austin Warren to spring training.
+2021-03-12,RHP Gray Fenter returned to Baltimore Orioles.
+2021-03-13,Baltimore Orioles optioned RHP Mike Baumann to Norfolk Tides.
+2021-03-13,Baltimore Orioles optioned LHP Zac Lowther to Norfolk Tides.
+2021-03-13,Baltimore Orioles optioned LHP Alexander Wells to Norfolk Tides.
+2021-03-13,Baltimore Orioles optioned RHP Isaac Mattson to Norfolk Tides.
+2021-03-13,Boston Red Sox optioned 3B Hudson Potts to Red Sox Alternate Training Site.
+2021-03-13,Boston Red Sox optioned CF Jeisson Rosario to Red Sox Alternate Training Site.
+2021-03-13,Kansas City Royals optioned LHP Daniel Tillo to Omaha Storm Chasers.
+2021-03-13,Kansas City Royals optioned Angel Zerpa to Omaha Storm Chasers.
+2021-03-13,RHP Grant Gavin assigned to Kansas City Royals.
+2021-03-13,CF Parker Meadows assigned to Detroit Tigers.
+2021-03-13,Cleveland Indians optioned SS Ernie Clement to Columbus Clippers.
+2021-03-13,Cleveland Indians optioned SS Gabriel Arias to Columbus Clippers.
+2021-03-13,Cleveland Indians optioned LHP Sam Hentges to Columbus Clippers.
+2021-03-13,Miami Marlins optioned LHP Braxton Garrett to Jacksonville Jumbo Shrimp.
+2021-03-13,Philadelphia Phillies optioned LHP Kyle Dohy to Phillies Alternate Training Site.
+2021-03-13,Philadelphia Phillies optioned LHP Bailey Falter to Phillies Alternate Training Site.
+2021-03-13,Philadelphia Phillies optioned LHP Damon Jones to Phillies Alternate Training Site.
+2021-03-13,Philadelphia Phillies optioned CF Simon Muzziotti to Phillies Alternate Training Site.
+2021-03-13,Philadelphia Phillies optioned RHP Adonis Medina to Phillies Alternate Training Site.
+2021-03-13,Philadelphia Phillies optioned RHP Mauricio Llovera to Phillies Alternate Training Site.
+2021-03-13,Philadelphia Phillies optioned RHP Francisco Morales to Phillies Alternate Training Site.
+2021-03-13,Cleveland Indians released CF Billy Hamilton.
+2021-03-13,Boston Red Sox optioned CF Marcus Wilson to Red Sox Alternate Training Site.
+2021-03-13,Boston Red Sox optioned RHP Bryan Mata to Red Sox Alternate Training Site.
+2021-03-13,Boston Red Sox optioned LHP Jay Groome to Red Sox Alternate Training Site.
+2021-03-13,Boston Red Sox optioned C Ronaldo Hernandez to Red Sox Alternate Training Site.
+2021-03-13,Boston Red Sox optioned RHP Connor Seabold to Red Sox Alternate Training Site.
+2021-03-13,LHP Eric Skoglund roster status changed by Kansas City Royals.
+2021-03-14,St. Louis Cardinals optioned Junior Fernandez to Memphis Redbirds.
+2021-03-14,St. Louis Cardinals optioned Johan Quezada to Memphis Redbirds.
+2021-03-14,Atlanta Braves released LHP Philip Pfeifer.
+2021-03-14,Minnesota Twins optioned RHP Jordan Balazovic to Twins Alternate Training Site.
+2021-03-14,Arizona Diamondbacks optioned RHP Matt Peacock to Reno Aces.
+2021-03-14,Minnesota Twins optioned RHP Dakota Chalmers to Twins Alternate Training Site.
+2021-03-14,Minnesota Twins optioned RHP Jhoan Duran to Twins Alternate Training Site.
+2021-03-14,Minnesota Twins optioned RHP Bailey Ober to Twins Alternate Training Site.
+2021-03-14,Atlanta Braves signed free agent 1B Ryan Casteel to a minor league contract.
+2021-03-14,Cincinnati Reds claimed RHP Carson Fulmer off waivers from Pittsburgh Pirates.
+2021-03-14,Washington Nationals optioned SS Yasel Antuna to Rochester Red Wings.
+2021-03-14,Washington Nationals optioned RHP Joan Adon to Rochester Red Wings.
+2021-03-14,Washington Nationals optioned 3B Jake Noll to Rochester Red Wings.
+2021-03-14,2B Nick Yorke roster status changed by Boston Red Sox.
+2021-03-15,San Francisco Giants optioned C Joey Bart to Sacramento River Cats.
+2021-03-15,San Francisco Giants optioned RF Jaylin Davis to Sacramento River Cats.
+2021-03-15,San Francisco Giants optioned LHP Conner Menez to Sacramento River Cats.
+2021-03-15,Kansas City Royals optioned SS Lucius Fox to Omaha Storm Chasers.
+2021-03-15,Kansas City Royals optioned 3B Kelvin Gutierrez to Omaha Storm Chasers.
+2021-03-15,Kansas City Royals optioned CF Nick Heath to Omaha Storm Chasers.
+2021-03-15,Oakland Athletics optioned RHP Grant Holmes to Las Vegas Aviators.
+2021-03-15,Oakland Athletics optioned RHP James Kaprielian to Las Vegas Aviators.
+2021-03-15,Oakland Athletics optioned RHP Miguel Romero to Las Vegas Aviators.
+2021-03-15,Oakland Athletics optioned CF Luis Barrera to Las Vegas Aviators.
+2021-03-15,Oakland Athletics optioned RF Skye Bolt to Las Vegas Aviators.
+2021-03-15,Oakland Athletics optioned RF Greg Deichmann to Las Vegas Aviators.
+2021-03-15,Oakland Athletics optioned RHP Wandisson Charles to Midland RockHounds.
+2021-03-15,Chicago Cubs optioned RHP Keegan Thompson to Iowa Cubs.
+2021-03-15,San Francisco Giants optioned RHP Gregory Santos to Eugene Emeralds.
+2021-03-15,Oakland Athletics activated RHP Frankie Montas from the 10-day injured list.
+2021-03-15,San Francisco Giants optioned C Chadwick Tromp to Sacramento River Cats.
+2021-03-15,San Francisco Giants optioned CF Alexander Canario to San Jose Giants.
+2021-03-15,San Francisco Giants optioned RHP Kervin Castro to San Jose Giants.
+2021-03-15,San Francisco Giants optioned RHP Camilo Doval to Richmond Flying Squirrels.
+2021-03-15,RHP Dany Jimenez returned to Toronto Blue Jays from Oakland Athletics.
+2021-03-15,Minnesota Twins optioned C Ben Rortvedt to Twins Alternate Training Site.
+2021-03-15,Minnesota Twins optioned 2B Travis Blankenhorn to Twins Alternate Training Site.
+2021-03-15,Minnesota Twins optioned SS Nick Gordon to Twins Alternate Training Site.
+2021-03-15,Minnesota Twins optioned CF Gilberto Celestino to Twins Alternate Training Site.
+2021-03-15,Los Angeles Dodgers optioned LF Zach Reks to Oklahoma City Dodgers.
+2021-03-15,Los Angeles Dodgers optioned C Keibert Ruiz to Oklahoma City Dodgers.
+2021-03-15,Los Angeles Dodgers optioned RHP Gerardo Carrillo to Tulsa Drillers.
+2021-03-15,Los Angeles Dodgers optioned RF Luke Raley to Oklahoma City Dodgers.
+2021-03-15,Los Angeles Dodgers optioned LHP Alex Vesia to Oklahoma City Dodgers.
+2021-03-15,Los Angeles Dodgers optioned RHP Edwin Uceta to Oklahoma City Dodgers.
+2021-03-15,Los Angeles Dodgers optioned RHP Andre Jackson to Tulsa Drillers.
+2021-03-15,Atlanta Braves signed free agent RHP Chasen Bradford to a minor league contract.
+2021-03-15,New York Mets signed free agent RHP Sam Tewes to a minor league contract.
+2021-03-16,Minnesota Twins optioned 2B Travis Blankenhorn to Twins Alternate Training Site.
+2021-03-16,Minnesota Twins optioned SS Nick Gordon to Twins Alternate Training Site.
+2021-03-16,Minnesota Twins optioned Ben Rortvedt to Twins Alternate Training Site.
+2021-03-16,Minnesota Twins optioned CF Gilberto Celestino to Twins Alternate Training Site.
+2021-03-16,Seattle Mariners optioned RHP Brandon Brennan to Mariners Alternate Training Site.
+2021-03-16,Seattle Mariners optioned RHP Sam Delaplane to Tacoma Rainiers.
+2021-03-16,San Diego Padres optioned RHP Reggie Lawson to San Antonio Missions.
+2021-03-16,Seattle Mariners optioned RHP Wyatt Mills to Mariners Alternate Training Site.
+2021-03-16,Tampa Bay Rays optioned 2B Vidal Brujan to Durham Bulls.
+2021-03-16,Tampa Bay Rays optioned CF Josh Lowe to Durham Bulls.
+2021-03-16,Tampa Bay Rays optioned 3B Kevin Padlo to Durham Bulls.
+2021-03-16,Tampa Bay Rays optioned RHP Drew Strotman to Durham Bulls.
+2021-03-16,Tampa Bay Rays optioned RHP Brent Honeywell Jr. to Durham Bulls.
+2021-03-16,Tampa Bay Rays optioned LHP Shane McClanahan to Durham Bulls.
+2021-03-16,Tampa Bay Rays optioned LHP Brendan McKay to Durham Bulls.
+2021-03-16,Tampa Bay Rays optioned RHP Luis Patino to Durham Bulls.
+2021-03-16,Tampa Bay Rays optioned SS Taylor Walls to Durham Bulls.
+2021-03-16,Arizona Diamondbacks optioned RHP J.B. Bukauskas to Reno Aces.
+2021-03-16,Arizona Diamondbacks optioned OF Stuart Fairchild to Reno Aces.
+2021-03-16,Arizona Diamondbacks optioned SS Geraldo Perdomo to Reno Aces.
+2021-03-16,Arizona Diamondbacks optioned RHP Corbin Martin to Reno Aces.
+2021-03-16,Boston Red Sox optioned RHP Eduard Bazardo to Red Sox Alternate Training Site.
+2021-03-16,New York Mets optioned CF Khalil Lee to Syracuse Mets.
+2021-03-16,Milwaukee Brewers selected the contract of 3B Travis Shaw from Nashville Sounds.
+2021-03-16,Milwaukee Brewers placed 2B Mark Mathias on the 60-day injured list. Torn labrum in right shoulder.
+2021-03-16,Milwaukee Brewers optioned RHP Phil Bickford to Nashville Sounds.
+2021-03-16,Baltimore Orioles signed free agent 3B Maikel Franco.
+2021-03-16,Baltimore Orioles placed RHP Hunter Harvey on the 60-day injured list. Left oblique strain.
+2021-03-16,SS Yolbert Sanchez assigned to Chicago White Sox.
+2021-03-16,SS Lenyn Sosa assigned to Chicago White Sox.
+2021-03-16,C Nate Nolan assigned to Chicago White Sox.
+2021-03-16,Baltimore Orioles optioned 2B Rylan Bannon to Norfolk Tides.
+2021-03-16,Baltimore Orioles optioned RF Yusniel Diaz to Norfolk Tides.
+2021-03-16,Baltimore Orioles optioned RHP Ashton Goudeau to Norfolk Tides.
+2021-03-16,Baltimore Orioles optioned CF Ryan McKenna to Norfolk Tides.
+2021-03-16,Baltimore Orioles optioned 1B Tyler Nevin to Norfolk Tides.
+2021-03-16,Boston Red Sox optioned RHP John Schreiber to Red Sox Alternate Training Site.
+2021-03-16,Boston Red Sox optioned C Connor Wong to Red Sox Alternate Training Site.
+2021-03-16,New York Mets optioned RHP Sam McWilliams to Syracuse Mets.
+2021-03-16,Seattle Mariners optioned RHP Juan Then to Everett AquaSox.
+2021-03-16,Colorado Rockies optioned LHP Yoan Aybar to Albuquerque Isotopes.
+2021-03-16,Colorado Rockies optioned OF Bret Boswell to Albuquerque Isotopes.
+2021-03-16,Colorado Rockies optioned RHP Ryan Castellani to Albuquerque Isotopes.
+2021-03-16,Colorado Rockies optioned RHP Jose Mujica to Albuquerque Isotopes.
+2021-03-16,Pittsburgh Pirates optioned RHP Max Kranick to Pirates Alternate Training Site.
+2021-03-16,Pittsburgh Pirates optioned RHP Nick Mears to Pirates Alternate Training Site.
+2021-03-16,Pittsburgh Pirates optioned SS Oneil Cruz to Pirates Alternate Training Site.
+2021-03-16,Colorado Rockies optioned RHP Justin Lawrence to Albuquerque Isotopes.
+2021-03-16,Kansas City Royals optioned C Sebastian Rivero to Omaha Storm Chasers.
+2021-03-16,Kansas City Royals optioned RHP Tyler Zuber to Omaha Storm Chasers.
+2021-03-16,Pittsburgh Pirates optioned 2B Rodolfo Castro to Altoona Curve.
+2021-03-16,Pittsburgh Pirates optioned RHP Roansy Contreras to Greensboro Grasshoppers.
+2021-03-16,Chicago White Sox optioned RHP Jonathan Stiever to Charlotte Knights.
+2021-03-16,Chicago White Sox optioned RHP Zack Burdi to Charlotte Knights.
+2021-03-16,Chicago White Sox optioned RHP Jimmy Lambert to Charlotte Knights.
+2021-03-16,Chicago White Sox optioned OF Micker Adolfo to Birmingham Barons.
+2021-03-16,Chicago White Sox optioned RHP Tyler Johnson to Charlotte Knights.
+2021-03-16,Chicago White Sox optioned LHP Bernardo Flores Jr. to Charlotte Knights.
+2021-03-16,Chicago White Sox optioned RF Blake Rutherford to Charlotte Knights.
+2021-03-16,Chicago White Sox optioned 1B Gavin Sheets to Charlotte Knights.
+2021-03-16,Chicago White Sox optioned C Seby Zavala to Charlotte Knights.
+2021-03-16,Chicago White Sox optioned 3B Jake Burger to Charlotte Knights.
+2021-03-16,Detroit Tigers optioned SS Zack Short to Toledo Mud Hens.
+2021-03-16,Detroit Tigers optioned RHP Alex Lange to Toledo Mud Hens.
+2021-03-16,Detroit Tigers optioned RHP Matt Manning to Toledo Mud Hens.
+2021-03-16,Detroit Tigers optioned RHP Franklin Perez to Toledo Mud Hens.
+2021-03-16,Detroit Tigers optioned LF Christin Stewart to Toledo Mud Hens.
+2021-03-16,Detroit Tigers optioned CF Derek Hill to Toledo Mud Hens.
+2021-03-16,Houston Astros optioned RHP Peter Solomon to Sugar Land Skeeters.
+2021-03-16,Houston Astros optioned RHP Tyler Ivey to Sugar Land Skeeters.
+2021-03-16,Houston Astros optioned RHP Jairo Solis to Sugar Land Skeeters.
+2021-03-16,Houston Astros optioned SS Freudis Nova to Sugar Land Skeeters.
+2021-03-16,Los Angeles Angels selected the contract of RHP Junior Guerra from Salt Lake Bees.
+2021-03-16,Los Angeles Angels optioned CF Brandon Marsh to Salt Lake Bees.
+2021-03-16,Toronto Blue Jays optioned RHP Ty Tice to Buffalo Bisons.
+2021-03-16,Toronto Blue Jays optioned RHP Elvis Luciano to Buffalo Bisons.
+2021-03-16,Toronto Blue Jays optioned C Gabriel Moreno to Buffalo Bisons.
+2021-03-16,Miami Marlins optioned SS Jose Devers to Pensacola Blue Wahoos.
+2021-03-16,Miami Marlins optioned RF Jerar Encarnacion to Pensacola Blue Wahoos.
+2021-03-16,Philadelphia Phillies optioned LHP Cristopher Sanchez to Phillies Alternate Training Site.
+2021-03-16,Philadelphia Phillies optioned SS Nick Maton to Phillies Alternate Training Site.
+2021-03-16,Philadelphia Phillies optioned SS C.J. Chatham to Phillies Alternate Training Site.
+2021-03-16,San Diego Padres optioned RHP Jordan Humphreys to San Antonio Missions.
+2021-03-16,San Diego Padres optioned RHP Mason Thompson to El Paso Chihuahuas.
+2021-03-16,Chicago White Sox signed free agent CF Billy Hamilton to a minor league contract and invited him to spring training.
+2021-03-16,RHP Joe Ryan roster status changed by Tampa Bay Rays.
+2021-03-17,RHP Jace Vines assigned to Kansas City Royals.
+2021-03-17,Boston Red Sox optioned RHP Tanner Houck to Red Sox Alternate Training Site.
+2021-03-17,Toronto Blue Jays optioned 2B Otto Lopez to Buffalo Bisons.
+2021-03-17,Miami Marlins optioned RHP Jordan Holloway to Pensacola Blue Wahoos.
+2021-03-18,San Francisco Giants claimed RHP Ashton Goudeau off waivers from Baltimore Orioles.
+2021-03-18,San Francisco Giants placed RHP Dedniel Nunez on the 60-day injured list. Right elbow sprain.
+2021-03-18,San Francisco Giants optioned RHP Ashton Goudeau to Sacramento River Cats.
+2021-03-18,Tampa Bay Rays released RHP Andrew Kittredge.
+2021-03-18,Detroit Tigers signed free agent RHP Mark Leiter Jr. to a minor league contract.
+2021-03-18,Seattle Mariners signed free agent RHP Darin Gillies to a minor league contract.
+2021-03-19,Chicago Cubs optioned LHP Kyle Ryan to Iowa Cubs.
+2021-03-19,Minnesota Twins optioned Shaun Anderson to Twins Alternate Training Site.
+2021-03-19,Minnesota Twins optioned Devin Smeltzer to Twins Alternate Training Site.
+2021-03-19,Cleveland Indians optioned RF Daniel Johnson to Columbus Clippers.
+2021-03-19,Chicago Cubs optioned RHP James Norwood to Iowa Cubs.
+2021-03-19,Chicago Cubs optioned LHP Justin Steele to Iowa Cubs.
+2021-03-19,Chicago Cubs optioned LHP Brailyn Marquez to Tennessee Smokies.
+2021-03-19,New York Yankees optioned RHP Albert Abreu to Scranton/Wilkes-Barre RailRiders.
+2021-03-19,New York Yankees optioned 2B Thairo Estrada to Scranton/Wilkes-Barre RailRiders.
+2021-03-19,New York Yankees optioned 1B Mike Ford to Scranton/Wilkes-Barre RailRiders.
+2021-03-19,New York Yankees optioned RHP Brooks Kriske to Scranton/Wilkes-Barre RailRiders.
+2021-03-19,Detroit Tigers placed RHP Spencer Turnbull on the 10-day injured list.
+2021-03-19,Kansas City Royals optioned LHP Kris Bubic to Omaha Storm Chasers.
+2021-03-19,San Francisco Giants signed free agent LHP Phil Pfeifer to a minor league contract and invited him to spring training.
+2021-03-19,Arizona Diamondbacks signed free agent RHP Heath Fillmyer to a minor league contract.
+2021-03-19,Arizona Diamondbacks signed free agent OF Stone Garrett to a minor league contract.
+2021-03-19,Arizona Diamondbacks signed free agent C Jarett Rindfleisch to a minor league contract.
+2021-03-19,Atlanta Braves signed free agent C Carlos Martinez to a minor league contract.
+2021-03-19,Boston Red Sox signed free agent RHP Daniel Santana to a minor league contract.
+2021-03-19,New York Mets signed free agent RHP Colby Morris to a minor league contract.
+2021-03-19,Texas Rangers signed free agent C Isaias Quiroz to a minor league contract.
+2021-03-19,Arizona Diamondbacks released RHP Bradley Roney.
+2021-03-19,Tampa Bay Rays signed free agent RHP Andrew Kittredge to a minor league contract.
+2021-03-19,Los Angeles Angels signed free agent RHP Jean Cosme to a minor league contract.
+2021-03-19,Milwaukee Brewers signed free agent RHP Zack Godley to a minor league contract.
+2021-03-19,Milwaukee Brewers optioned C Luke Maile to Nashville Sounds.
+2021-03-20,Arizona Diamondbacks optioned RHP Riley Smith to Reno Aces.
+2021-03-20,New York Mets optioned RHP Yennsy Diaz to Syracuse Mets.
+2021-03-20,New York Mets optioned C Patrick Mazeika to Syracuse Mets.
+2021-03-20,New York Mets optioned LHP Daniel Zamora to Syracuse Mets.
+2021-03-20,Milwaukee Brewers optioned LHP Eric Lauer to Nashville Sounds.
+2021-03-20,Milwaukee Brewers optioned LHP Angel Perdomo to Nashville Sounds.
+2021-03-20,Washington Nationals optioned LHP Ben Braymer to Rochester Red Wings.
+2021-03-20,Washington Nationals optioned C Tres Barrera to Rochester Red Wings.
+2021-03-20,Washington Nationals optioned RHP Steven Fuentes to Rochester Red Wings.
+2021-03-20,RHP Paul Blackburn assigned to Oakland Athletics.
+2021-03-20,Colorado Rockies selected the contract of SS Chris Owings from Albuquerque Isotopes.
+2021-03-20,St. Louis Cardinals optioned Angel Rondon to Memphis Redbirds.
+2021-03-20,St. Louis Cardinals optioned Ali Sanchez to Memphis Redbirds.
+2021-03-20,RHP Jordan Guerrero assigned to San Diego Padres.
+2021-03-20,OF John Andreoli assigned to San Diego Padres.
+2021-03-20,OF Ben Ruta assigned to San Diego Padres.
+2021-03-20,Colorado Rockies selected the contract of 1B C.J. Cron from Albuquerque Isotopes.
+2021-03-20,Colorado Rockies placed RHP Peter Lambert on the 60-day injured list. Recovering from Tommy John surgery.
+2021-03-20,San Francisco Giants optioned RF Steven Duggar to Sacramento River Cats.
+2021-03-20,St. Louis Cardinals optioned Seth Elledge to Memphis Redbirds.
+2021-03-20,St. Louis Cardinals optioned C Ivan Herrera to Springfield Cardinals.
+2021-03-20,Chicago Cubs invited non-roster RHP Pedro Strop to spring training.
+2021-03-21,Cincinnati Reds optioned C Deivy Grullon to Louisville Bats.
+2021-03-21,Pittsburgh Pirates signed free agent RHP Steven Wright to a minor league contract and invited him to spring training.
+2021-03-21,1B Luis Castro assigned to Milwaukee Brewers.
+2021-03-21,Cincinnati Reds optioned SS Jose Garcia to Louisville Bats.
+2021-03-21,Cincinnati Reds optioned RF Scott Heineman to Louisville Bats.
+2021-03-21,Cincinnati Reds optioned RHP Hector Perez to Louisville Bats.
+2021-03-21,Cincinnati Reds optioned RHP Art Warren to Louisville Bats.
+2021-03-21,Oakland Athletics optioned RHP Jordan Weems to Las Vegas Aviators.
+2021-03-21,SS Cody Freeman assigned to Texas Rangers.
+2021-03-21,Cleveland Indians optioned RF Oscar Mercado to Columbus Clippers.
+2021-03-21,Chicago White Sox placed RHP Jimmy Cordero on the 60-day injured list.
+2021-03-21,Chicago White Sox claimed LHP Nik Turley off waivers from Oakland Athletics.
+2021-03-21,Los Angeles Angels optioned LHP Jose Suarez to Salt Lake Bees.
+2021-03-21,Los Angeles Angels optioned CF Jo Adell to Salt Lake Bees.
+2021-03-21,Los Angeles Angels optioned RHP Kyle Keller to Salt Lake Bees.
+2021-03-21,Los Angeles Angels optioned 1B Matt Thaiss to Salt Lake Bees.
+2021-03-22,CF Corbin Carroll assigned to Arizona Diamondbacks.
+2021-03-22,Colorado Rockies optioned LHP Phillip Diehl to Albuquerque Isotopes.
+2021-03-22,Colorado Rockies optioned RHP Antonio Santos to Albuquerque Isotopes.
+2021-03-22,Chicago White Sox optioned CF Luis Gonzalez to White Sox Alternate Training Site.
+2021-03-22,Chicago White Sox optioned RHP Reynaldo Lopez to White Sox Alternate Training Site.
+2021-03-22,RHP Dany Jimenez assigned to Toronto Blue Jays.
+2021-03-22,Cincinnati Reds signed free agent RHP Heath Hembree to a minor league contract and invited him to spring training.
+2021-03-22,Texas Rangers recalled RHP Joe Gatto from Round Rock Express.
+2021-03-22,Texas Rangers sent Joe Gatto outright to Round Rock Express.
+2021-03-22,Los Angeles Dodgers optioned LHP Garrett Cleavinger to Oklahoma City Dodgers.
+2021-03-22,Miami Marlins optioned 1B Lewin Diaz to Jacksonville Jumbo Shrimp.
+2021-03-22,Miami Marlins optioned CF Monte Harrison to Jacksonville Jumbo Shrimp.
+2021-03-22,Philadelphia Phillies optioned Ramon Rosso to Phillies Alternate Training Site.
+2021-03-22,New York Mets signed free agent C Martin Cervenka to a minor league contract.
+2021-03-22,Los Angeles Angels released RHP Brendan McCurry.
+2021-03-22,San Francisco Giants signed free agent RHP Melvin Adon to a minor league contract.
+2021-03-22,Texas Rangers signed free agent C Blake Grant-Parks to a minor league contract.
+2021-03-22,Washington Nationals signed free agent LHP Kyle Lobstein to a minor league contract.
+2021-03-22,Baltimore Orioles signed free agent LHP Ty Blach to a minor league contract.
+2021-03-22,Los Angeles Angels signed free agent LHP Kolton Ingram to a minor league contract.
+2021-03-23,Pittsburgh Pirates optioned CF Jared Oliva to Pirates Alternate Training Site.
+2021-03-23,Pittsburgh Pirates optioned Edgar Santana to Pirates Alternate Training Site.
+2021-03-23,Seattle Mariners optioned RHP Yohan Ramirez to Mariners Alternate Training Site.
+2021-03-23,Seattle Mariners optioned 2B Donovan Walton to Mariners Alternate Training Site.
+2021-03-23,Seattle Mariners released RHP Gerson Bautista.
+2021-03-23,Baltimore Orioles signed free agent C Ramon Rodriguez to a minor league contract.
+2021-03-23,Cincinnati Reds signed free agent RHP Sam Hellinger to a minor league contract.
+2021-03-23,Chicago Cubs placed RHP Tyson Miller on the 10-day injured list.
+2021-03-24,Minnesota Twins optioned RF Alex Kirilloff to Twins Alternate Training Site.
+2021-03-24,Philadelphia Phillies optioned LHP Ranger Suarez to Phillies Alternate Training Site.
+2021-03-24,Philadelphia Phillies optioned CF Mickey Moniak to Phillies Alternate Training Site.
+2021-03-24,San Diego Padres optioned RHP Anderson Espinoza to San Antonio Missions.
+2021-03-24,Pittsburgh Pirates optioned SS Cole Tucker to Indianapolis Indians.
+2021-03-24,Oakland Athletics optioned C Austin Allen to Las Vegas Aviators.
+2021-03-24,Pittsburgh Pirates optioned RHP Miguel Yajure to Pirates Alternate Training Site.
+2021-03-24,Pittsburgh Pirates optioned RHP Sean Poppen to Pirates Alternate Training Site.
+2021-03-24,New York Mets optioned RHP Jordan Yamamoto to Syracuse Mets.
+2021-03-24,Arizona Diamondbacks optioned C Daulton Varsho to Reno Aces.
+2021-03-24,3B Jonathan Ornelas assigned to Texas Rangers.
+2021-03-24,Detroit Tigers selected the contract of Julio Teheran from Toledo Mud Hens.
+2021-03-25,San Francisco Giants optioned LHP Sam Selman to Sacramento River Cats.
+2021-03-25,San Francisco Giants optioned 3B Jason Vosler to Sacramento River Cats.
+2021-03-25,Texas Rangers optioned LHP Kolby Allard to Rangers Alternate Training Site.
+2021-03-25,Atlanta Braves optioned RHP Kyle Wright to Braves Alternate Training Site.
+2021-03-25,Atlanta Braves optioned RHP Jacob Webb to Braves Alternate Training Site.
+2021-03-25,Washington Nationals optioned RHP Dakota Bacus to Rochester Red Wings.
+2021-03-25,Texas Rangers optioned LHP Joe Palumbo to Round Rock Express.
+2021-03-25,Washington Nationals optioned RHP Ryne Harper to Rochester Red Wings.
+2021-03-25,Atlanta Braves optioned CF Guillermo Heredia to Braves Alternate Training Site.
+2021-03-25,Baltimore Orioles selected the contract of Matt Harvey from Norfolk Tides.
+2021-03-25,Houston Astros optioned 1B Taylor Jones to Sugar Land Skeeters.
+2021-03-25,Atlanta Braves signed free agent LHP Mitch Horacek to a minor league contract.
+2021-03-25,Minnesota Twins optioned LHP Lewis Thorpe to Twins Alternate Training Site.
+2021-03-25,LHP Sam Selman roster status changed by San Francisco Giants.
+2021-03-25,Boston Red Sox optioned SS Jonathan Arauz to Red Sox Alternate Training Site.
+2021-03-25,2B Jayce Easley assigned to Texas Rangers.
+2021-03-25,Los Angeles Angels optioned OF Taylor Ward to Salt Lake Bees.
+2021-03-25,Los Angeles Dodgers selected the contract of RHP Jimmy Nelson from Oklahoma City Dodgers.
+2021-03-25,Detroit Tigers optioned C Jake Rogers to Toledo Mud Hens.
+2021-03-25,Detroit Tigers optioned 3B Isaac Paredes to Toledo Mud Hens.
+2021-03-25,Los Angeles Angels optioned C Anthony Bemboom to Salt Lake Bees.
+2021-03-25,Los Angeles Angels optioned 2B Luis Rengifo to Salt Lake Bees.
+2021-03-25,Los Angeles Angels optioned 2B Jack Mayfield to Salt Lake Bees.
+2021-03-25,Los Angeles Dodgers placed RHP Tommy Kahnle on the 60-day injured list. Recovering from Tommy John surgery.
+2021-03-25,Los Angeles Dodgers optioned 3B Sheldon Neuse to Dodgers Alternate Training Site.
+2021-03-25,St. Louis Cardinals optioned RHP Johan Oviedo to Cardinals Alternate Training Site.
+2021-03-25,Atlanta Braves released RHP Carl Edwards Jr..
+2021-03-25,Los Angeles Angels released RHP Jesse Chavez.
+2021-03-25,Milwaukee Brewers released RHP Jordan Zimmermann.
+2021-03-25,Minnesota Twins released SS Andrew Romine.
+2021-03-25,Philadelphia Phillies released C Jeff Mathis.
+2021-03-25,Philadelphia Phillies released RHP Ivan Nova.
+2021-03-25,Philadelphia Phillies released RHP Hector Rondon.
+2021-03-25,Seattle Mariners released LHP Roenis Elias.
+2021-03-25,Philadelphia Phillies placed CF Simon Muzziotti on the restricted list.
+2021-03-25,Los Angeles Dodgers signed free agent RHP Yefry Ramirez to a minor league contract.
+2021-03-26,Tampa Bay Rays placed RHP Nick Anderson on the 60-day injured list. Right elbow sprain.
+2021-03-26,Tampa Bay Rays selected the contract of RHP Andrew Kittredge from Durham Bulls.
+2021-03-26,Cleveland Indians optioned LHP Kyle Nelson to Columbus Clippers.
+2021-03-26,Cleveland Indians optioned CF Bradley Zimmer to Columbus Clippers.
+2021-03-26,Cleveland Indians optioned CF Harold Ramirez to Columbus Clippers.
+2021-03-26,New York Yankees optioned RHP Deivi Garcia to Scranton/Wilkes-Barre RailRiders.
+2021-03-26,San Diego Padres optioned RHP Anderson Espinoza to San Antonio Missions.
+2021-03-26,Baltimore Orioles signed free agent LHP Wade LeBlanc.
+2021-03-26,Baltimore Orioles placed 1B Chris Davis on the 60-day injured list. Lower back strain.
+2021-03-26,Cleveland Indians optioned 1B Bobby Bradley to Columbus Clippers.
+2021-03-26,Seattle Mariners optioned LHP Aaron Fletcher to Mariners Alternate Training Site.
+2021-03-26,Seattle Mariners optioned RHP Ljay Newsome to Mariners Alternate Training Site.
+2021-03-26,Seattle Mariners optioned CF Braden Bishop to Mariners Alternate Training Site.
+2021-03-26,Atlanta Braves sent RF Abraham Almonte outright to Braves Alternate Training Site.
+2021-03-26,Atlanta Braves selected the contract of 3B Ehire Adrianza from Gwinnett Stripers.
+2021-03-26,Atlanta Braves selected the contract of RHP Nate Jones from Gwinnett Stripers.
+2021-03-26,Atlanta Braves optioned RHP Bryse Wilson to Braves Alternate Training Site.
+2021-03-26,Chicago Cubs optioned LHP Brad Wieck to Iowa Cubs.
+2021-03-26,Los Angeles Dodgers optioned CF DJ Peters to Dodgers Alternate Training Site.
+2021-03-26,Atlanta Braves placed RHP Touki Toussaint on the 60-day injured list.
+2021-03-26,Philadelphia Phillies optioned RHP Spencer Howard to Phillies Alternate Training Site.
+2021-03-26,Los Angeles Angels released OF Jon Jay.
+2021-03-26,Milwaukee Brewers released RHP Brad Boxberger.
+2021-03-26,Oakland Athletics released RHP Deolis Guerra.
+2021-03-26,Philadelphia Phillies released LHP Tony Watson.
+2021-03-26,Texas Rangers released C Drew Butera.
+2021-03-26,Baltimore Orioles optioned 2B Jahmai Jones to Orioles Alternate Training Site.
+2021-03-26,Baltimore Orioles optioned SS Richie Martin to Orioles Alternate Training Site.
+2021-03-26,Baltimore Orioles optioned LHP Keegan Akin to Orioles Alternate Training Site.
+2021-03-26,Los Angeles Angels signed free agent RHP AJ Ramos to a minor league contract.
+2021-03-27,Chicago Cubs optioned LHP Brad Wieck to Iowa Cubs.
+2021-03-27,Oakland Athletics signed free agent RHP Deolis Guerra to a minor league contract.
+2021-03-27,Chicago Cubs optioned SS Nico Hoerner to Iowa Cubs.
+2021-03-27,Toronto Blue Jays optioned C Riley Adams to Buffalo Bisons.
+2021-03-27,Chicago Cubs released LF Cameron Maybin.
+2021-03-27,New York Yankees placed RHP Clarke Schmidt on the 60-day injured list. Right elbow strain.
+2021-03-27,Washington Nationals selected the contract of SS Jordy Mercer from Rochester Red Wings.
+2021-03-27,Washington Nationals selected the contract of 2B Hernan Perez from Rochester Red Wings.
+2021-03-27,Washington Nationals optioned LHP Sam Clay to Rochester Red Wings.
+2021-03-27,Toronto Blue Jays optioned 2B Santiago Espinal to Buffalo Bisons.
+2021-03-27,Toronto Blue Jays optioned CF Josh Palacios to Buffalo Bisons.
+2021-03-27,Toronto Blue Jays optioned RHP Joel Payamps to Buffalo Bisons.
+2021-03-27,New York Yankees released C Robinson Chirinos.
+2021-03-27,New York Yankees released 2B Derek Dietrich.
+2021-03-27,New York Yankees selected the contract of OF Jay Bruce from Scranton/Wilkes-Barre RailRiders.
+2021-03-27,CF Jake Vogel assigned to Los Angeles Dodgers.
+2021-03-27,Cleveland Indians traded RHP Adam Plutko to Baltimore Orioles for cash.
+2021-03-27,Baltimore Orioles designated 2B Yolmer Sanchez for assignment.
+2021-03-27,Washington Nationals optioned RHP Kyle McGowin to Rochester Red Wings.
+2021-03-27,Washington Nationals optioned SS Luis Garcia to Rochester Red Wings.
+2021-03-27,Washington Nationals optioned 3B Carter Kieboom to Rochester Red Wings.
+2021-03-27,Washington Nationals optioned LF Yadiel Hernandez to Rochester Red Wings.
+2021-03-27,Washington Nationals designated 3B Jake Noll for assignment.
+2021-03-27,Colorado Rockies selected the contract of RHP Chi Chi Gonzalez from Albuquerque Isotopes.
+2021-03-27,Colorado Rockies optioned 3B Colton Welker to Albuquerque Isotopes.
+2021-03-27,Colorado Rockies optioned LHP Lucas Gilbreath to Albuquerque Isotopes.
+2021-03-27,Colorado Rockies placed RHP Scott Oberg on the 60-day injured list. Recovering from procedure to clear blood clots in right elbow.
+2021-03-27,Pittsburgh Pirates optioned RHP Tyler Bashlor to Pirates Alternate Training Site.
+2021-03-27,Cincinnati Reds released RHP Noe Ramirez.
+2021-03-27,Seattle Mariners optioned RHP Joey Gerber to Mariners Alternate Training Site.
+2021-03-27,LHP Ben Holmes assigned to Chicago Cubs.
+2021-03-27,Cleveland Indians designated C Beau Taylor for assignment.
+2021-03-27,Cleveland Indians placed RHP Cam Hill on the 60-day injured list. Right wrist surgery.
+2021-03-27,Cleveland Indians selected the contract of LHP Oliver Perez from Columbus Clippers.
+2021-03-27,Seattle Mariners optioned RHP Erik Swanson to Mariners Alternate Training Site.
+2021-03-27,Cleveland Indians selected the contract of OF Ben Gamel from Columbus Clippers.
+2021-03-27,Arizona Diamondbacks signed free agent C Bryan Holaday to a minor league contract.
+2021-03-27,Atlanta Braves released 2B Jason Kipnis.
+2021-03-27,Chicago Cubs signed free agent C Erick Castillo to a minor league contract.
+2021-03-27,Cincinnati Reds signed free agent RHP Nick Howard to a minor league contract.
+2021-03-27,Los Angeles Angels signed free agent SS Carlos Herrera to a minor league contract.
+2021-03-27,Miami Marlins released LHP Gio Gonzalez.
+2021-03-27,Philadelphia Phillies released RHP Michael Ynoa.
+2021-03-27,Pittsburgh Pirates released 3B Todd Frazier.
+2021-03-27,Seattle Mariners released RHP Matt Magill.
+2021-03-27,Texas Rangers released RHP Nick Vincent.
+2021-03-27,Milwaukee Brewers signed free agent RHP Jordan Zimmermann to a minor league contract.
+2021-03-27,Detroit Tigers optioned CF Daz Cameron to Toledo Mud Hens.
+2021-03-28,Detroit Tigers optioned RHP Joe Jimenez to Toledo Mud Hens.
+2021-03-28,Texas Rangers optioned SS Anderson Tejeda to Round Rock Express.
+2021-03-28,Atlanta Braves released 3B Jake Lamb.
+2021-03-28,Atlanta Braves designated RF Phillip Ervin for assignment.
+2021-03-28,Atlanta Braves selected the contract of 3B Pablo Sandoval from Gwinnett Stripers.
+2021-03-28,Tampa Bay Rays optioned RHP Chris Mazza to Durham Bulls.
+2021-03-28,Tampa Bay Rays optioned LHP Josh Fleming to Durham Bulls.
+2021-03-28,Tampa Bay Rays optioned RHP Trevor Richards to Durham Bulls.
+2021-03-28,Arizona Diamondbacks optioned RHP Jon Duplantier to Reno Aces.
+2021-03-28,Chicago Cubs selected the contract of 3B Matt Duffy from Iowa Cubs.
+2021-03-28,Chicago Cubs selected the contract of 2B Eric Sogard from Iowa Cubs.
+2021-03-28,Chicago Cubs designated 2B Ildemaro Vargas for assignment.
+2021-03-28,Chicago Cubs selected the contract of LHP Rex Brothers from Iowa Cubs.
+2021-03-28,San Francisco Giants optioned LF LaMonte Wade Jr to Sacramento River Cats.
+2021-03-28,C Drew Butera assigned to Texas Rangers.
+2021-03-28,Kansas City Royals optioned 2B Nicky Lopez to Omaha Storm Chasers.
+2021-03-28,St. Louis Cardinals optioned RHP Kodi Whitley to Cardinals Alternate Training Site.
+2021-03-28,St. Louis Cardinals optioned CF Lane Thomas to Cardinals Alternate Training Site.
+2021-03-28,New York Mets optioned LHP Stephen Tarpley to Syracuse Mets.
+2021-03-28,RHP Nick Vincent assigned to Texas Rangers.
+2021-03-28,CF Alek Thomas assigned to Arizona Diamondbacks.
+2021-03-28,Kansas City Royals selected the contract of RHP Wade Davis from Omaha Storm Chasers.
+2021-03-28,Los Angeles Angels optioned RHP Ty Buttrey to Angels Alternate Training Site.
+2021-03-28,Philadelphia Phillies optioned 3B Scott Kingery to Phillies Alternate Training Site.
+2021-03-28,Philadelphia Phillies optioned C Rafael Marchan to Phillies Alternate Training Site.
+2021-03-28,Philadelphia Phillies optioned LHP JoJo Romero to Phillies Alternate Training Site.
+2021-03-28,Philadelphia Phillies released SS C.J. Chatham.
+2021-03-28,Washington Nationals optioned LHP Seth Romero to Nationals Alternate Training Site.
+2021-03-28,Washington Nationals optioned RHP Rogelio Armenteros to Nationals Alternate Training Site.
+2021-03-28,Washington Nationals selected the contract of LHP Luis Avilan from Rochester Red Wings.
+2021-03-28,Washington Nationals designated RHP Dakota Bacus for assignment.
+2021-03-28,Oakland Athletics optioned OF Seth Brown to Las Vegas Aviators.
+2021-03-28,Oakland Athletics optioned 2B Vimael Machin to Las Vegas Aviators.
+2021-03-28,OF Jon Jay assigned to Los Angeles Angels.
+2021-03-28,Chicago Cubs released LHP Jerry Vasto.
+2021-03-28,New York Yankees released RHP Jhoulys Chacin.
+2021-03-28,Philadelphia Phillies released C Christian Bethancourt.
+2021-03-28,Miami Marlins optioned LHP Daniel Castano to Jacksonville Jumbo Shrimp.
+2021-03-28,Miami Marlins optioned RHP Nick Neidert to Jacksonville Jumbo Shrimp.
+2021-03-28,Colorado Rockies signed free agent 1B Matt Adams to a minor league contract.
+2021-03-28,New York Yankees signed free agent C Robinson Chirinos to a minor league contract.
+2021-03-29,Cincinnati Reds selected the contract of RHP Cam Bedrosian from Louisville Bats.
+2021-03-29,Cincinnati Reds placed RHP Brandon Bailey on the 60-day injured list. Recovering from Tommy John surgery.
+2021-03-29,Cincinnati Reds selected the contract of RF Tyler Naquin from Louisville Bats.
+2021-03-29,C Kyle McCann assigned to Oakland Athletics.
+2021-03-29,RHP Ryan Meisinger assigned to Chicago Cubs.
+2021-03-29,OF Cameron Maybin assigned to Chicago Cubs.
+2021-03-29,CF Dominic Fletcher assigned to Arizona Diamondbacks.
+2021-03-29,SS Aaron Bracho assigned to Cleveland Indians.
+2021-03-29,Kansas City Royals selected the contract of 2B Hanser Alberto from Omaha Storm Chasers.
+2021-03-29,Arizona Diamondbacks placed RHP Tyler Clippard on the 60-day injured list. Right shoulder sprain.
+2021-03-29,Arizona Diamondbacks selected the contract of RHP Chris Devenski from Reno Aces.
+2021-03-29,Philadelphia Phillies selected the contract of LF Matt Joyce from Lehigh Valley IronPigs.
+2021-03-29,Philadelphia Phillies selected the contract of RHP Brandon Kintzler from Lehigh Valley IronPigs.
+2021-03-29,San Diego Padres optioned OF Brian O'Grady to Padres Alternate Training Site.
+2021-03-29,Washington Nationals sent 3B Jake Noll outright to Nationals Alternate Training Site.
+2021-03-29,Miami Marlins traded RHP James Hoyt to Los Angeles Angels for cash.
+2021-03-29,Washington Nationals sent RHP Dakota Bacus outright to Nationals Alternate Training Site.
+2021-03-29,Miami Marlins optioned 2B Isan Diaz to Jacksonville Jumbo Shrimp.
+2021-03-29,Miami Marlins optioned RHP Sixto Sanchez to Jacksonville Jumbo Shrimp.
+2021-03-29,RHP Brad Boxberger assigned to Milwaukee Brewers.
+2021-03-29,Los Angeles Angels placed RHP Luke Bard on the 60-day injured list. Hip injury.
+2021-03-29,Los Angeles Angels signed free agent RHP Steve Cishek.
+2021-03-29,Los Angeles Angels signed free agent LHP Tony Watson.
+2021-03-29,Detroit Tigers released RHP Ben Taylor.
+2021-03-29,Los Angeles Angels optioned RHP James Hoyt to Angels Alternate Training Site.
+2021-03-29,Miami Marlins released LHP Dylan Lee.
+2021-03-29,Pittsburgh Pirates released C Tony Wolters.
+2021-03-29,Arizona Diamondbacks signed free agent SS Osvaldo Abreu to a minor league contract.
+2021-03-29,Chicago Cubs signed free agent SS Andrew Romine to a minor league contract.
+2021-03-29,Washington Nationals signed free agent LHP T.J. McFarland to a minor league contract.
+2021-03-29,Atlanta Braves signed free agent 2B Jason Kipnis to a minor league contract.
+2021-03-29,Atlanta Braves signed free agent C Jeff Mathis to a minor league contract.
+2021-03-29,Washington Nationals signed free agent OF Yasmany Tomas to a minor league contract.
+2021-03-29,New York Yankees signed free agent 2B Derek Dietrich to a minor league contract.
+2021-03-30,Minnesota Twins optioned OF Brent Rooker to Twins Alternate Training Site.
+2021-03-30,Minnesota Twins placed RHP Edwar Colina on the 10-day injured list. Right elbow inflammation.
+2021-03-30,Chicago White Sox signed free agent 3B Jake Lamb.
+2021-03-30,Milwaukee Brewers sent RHP Ray Black outright to Brewers Alternate Training Site.
+2021-03-30,Boston Red Sox designated RHP John Schreiber for assignment.
+2021-03-30,Boston Red Sox activated CF Franchy Cordero from the 10-day injured list.
+2021-03-30,Boston Red Sox optioned 2B Michael Chavis to Red Sox Alternate Training Site.
+2021-03-30,Boston Red Sox optioned RHP Colten Brewer to Red Sox Alternate Training Site.
+2021-03-30,Chicago White Sox designated LHP Nik Turley for assignment.
+2021-03-30,Baltimore Orioles released 2B Yolmer Sanchez.
+2021-03-30,Pittsburgh Pirates signed free agent 3B Todd Frazier to a minor league contract.
+2021-03-30,Kansas City Royals optioned 1B Ryan O'Hearn to Royals Alternate Training Site.
+2021-03-30,Kansas City Royals optioned LHP Richard Lovelady to Royals Alternate Training Site.
+2021-03-30,Kansas City Royals optioned RHP Jake Newberry to Royals Alternate Training Site.
+2021-03-30,SS Kyle Holder returned to New York Yankees from Cincinnati Reds.
+2021-03-30,Chicago White Sox optioned SS Danny Mendick to White Sox Alternate Training Site.
+2021-03-30,Texas Rangers selected the contract of RHP Ian Kennedy from Round Rock Express.
+2021-03-30,Texas Rangers selected the contract of 2B Brock Holt from Round Rock Express.
+2021-03-30,Texas Rangers placed RHP Jonathan Hernandez on the 60-day injured list. Right elbow low grade UCL sprain.
+2021-03-30,Texas Rangers placed RHP Jose Leclerc on the 60-day injured list. Recovering from Tommy John surgery.
+2021-03-30,Houston Astros optioned RHP Jake Odorizzi to Sugar Land Skeeters.
+2021-03-30,Houston Astros optioned 3B Abraham Toro to Sugar Land Skeeters.
+2021-03-30,Houston Astros optioned LHP Kent Emanuel to Corpus Christi Hooks.
+2021-03-30,Houston Astros optioned C Garrett Stubbs to Sugar Land Skeeters.
+2021-03-30,Atlanta Braves optioned C William Contreras to Braves Alternate Training Site.
+2021-03-30,Atlanta Braves optioned 3B Johan Camargo to Braves Alternate Training Site.
+2021-03-30,Los Angeles Dodgers optioned RHP Dennis Santana to Dodgers Alternate Training Site.
+2021-03-30,New York Mets signed free agent RHP Tommy Hunter to a minor league contract.
+2021-03-30,Los Angeles Dodgers optioned RHP Mitch White to Dodgers Alternate Training Site.
+2021-03-30,Los Angeles Angels signed free agent RHP Noe Ramirez to a minor league contract.
+2021-03-31,Kansas City Royals recalled 2B Nicky Lopez from Royals Alternate Training Site.
+2021-03-31,"Kansas City Royals placed SS Adalberto Mondesi on the 10-day injured list retroactive to March 30, 2021. Right oblique strain."
+2021-03-31,Chicago Cubs signed free agent C Tony Wolters.
+2021-03-31,Chicago Cubs designated RHP James Norwood for assignment.
+2021-03-31,Chicago Cubs sent 2B Ildemaro Vargas outright to Cubs Alternate Training Site.
+2021-03-31,Atlanta Braves placed RHP Mike Soroka on the 10-day injured list. Recovery from right Achilles tendon surgery.
+2021-03-31,Los Angeles Angels selected the contract of 3B Jose Rojas from Salt Lake Bees.
+2021-03-31,New York Yankees selected the contract of LHP Lucas Luetge from Scranton/Wilkes-Barre RailRiders.
+2021-03-31,"New York Yankees placed 3B Miguel Andujar on the 10-day injured list retroactive to March 29, 2021. Right wrist carpal tunnel syndrome."
+2021-03-31,New York Yankees placed LHP Zack Britton on the 60-day injured list. Left elbow bone spur.
+2021-03-31,"New York Yankees placed 1B Luke Voit on the 10-day injured list retroactive to March 29, 2021. Left knee medial meniscus injury."
+2021-03-31,"New York Yankees placed LHP Justin Wilson on the 10-day injured list retroactive to March 29, 2021. Left shoulder inflammation."
+2021-03-31,Los Angeles Angels selected the contract of CF Juan Lagares from Salt Lake Bees.
+2021-03-31,Los Angeles Angels placed 2B Franklin Barreto on the 60-day injured list. Right elbow strain.
+2021-03-31,Los Angeles Angels placed RHP Felix Pena on the 10-day injured list. Right hamstring strain.
+2021-03-31,Los Angeles Angels designated RHP Kyle Keller for assignment.
+2021-03-31,Los Angeles Angels optioned RHP Jaime Barria to Angels Alternate Training Site.
+2021-03-31,Los Angeles Angels optioned LHP Patrick Sandoval to Angels Alternate Training Site.
+2021-03-31,Seattle Mariners selected the contract of RHP Drew Steckenrider from Tacoma Rainiers.
+2021-03-31,Seattle Mariners optioned RHP Domingo Tapia to Mariners Alternate Training Site.
+2021-03-31,Seattle Mariners placed RHP Ken Giles on the 60-day injured list. Recovery from Tommy John surgery.
+2021-03-31,"Seattle Mariners placed CF Kyle Lewis on the 10-day injured list retroactive to March 29, 2021. Right knee bone bruise."
+2021-03-31,"Seattle Mariners placed 2B Shed Long Jr. on the 10-day injured list retroactive to March 29, 2021. Recovery from right shin stress fracture."
+2021-03-31,Cleveland Indians selected the contract of RHP Bryan Shaw from Columbus Clippers.
+2021-03-31,Milwaukee Brewers optioned CF Tyrone Taylor to Brewers Alternate Training Site.
+2021-03-31,Toronto Blue Jays reassigned LHP Anthony Kay to the minor leagues.
+2021-03-31,Toronto Blue Jays reassigned LHP Travis Bergen to the minor leagues.
+2021-03-31,Atlanta Braves signed free agent 2B Yolmer Sanchez to a minor league contract.
+2021-03-31,Atlanta Braves signed free agent RHP Carl Edwards Jr. to a minor league contract.
+2021-04-01,Philadelphia Phillies selected the contract of 2B Ronald Torreyes from Lehigh Valley IronPigs.
+2021-04-01,Detroit Tigers designated LF Christin Stewart for assignment.
+2021-04-01,Detroit Tigers selected the contract of LHP Derek Holland from Toledo Mud Hens.
+2021-04-01,LHP Aroldis Chapman roster status changed by New York Yankees.
+2021-04-01,"Milwaukee Brewers placed RHP Bobby Wahl on the 10-day injured list retroactive to March 29, 2021. Right oblique strain."
+2021-04-01,"Chicago Cubs placed RHP Jonathan Holder on the 10-day injured list retroactive to March 29, 2021. Right shoulder strain."
+2021-04-01,"Chicago Cubs placed RHP Rowan Wick on the 10-day injured list retroactive to March 29, 2021. Left oblique strain."
+2021-04-01,"Milwaukee Brewers placed RHP Justin Topa on the 10-day injured list retroactive to March 29, 2021. Flexor strain."
+2021-04-01,"Milwaukee Brewers placed C Jacob Nottingham on the 10-day injured list retroactive to March 31, 2021. Left thumb injury."
+2021-04-01,"Milwaukee Brewers placed RF Derek Fisher on the 10-day injured list retroactive to March 29, 2021. Left hamstring injury."
+2021-04-01,Toronto Blue Jays selected the contract of LHP Tim Mayza from Buffalo Bisons.
+2021-04-01,Toronto Blue Jays selected the contract of 2B Joe Panik from Buffalo Bisons.
+2021-04-01,"Chicago Cubs placed C Austin Romine on the 10-day injured list retroactive to March 29, 2021. Right knee sprain."
+2021-04-01,Toronto Blue Jays optioned LHP Travis Bergen to Blue Jays Alternate Training Site.
+2021-04-01,"Toronto Blue Jays placed RHP Thomas Hatch on the 10-day injured list retroactive to March 29, 2021. Right elbow impingement."
+2021-04-01,Toronto Blue Jays recalled RHP Joel Payamps from Buffalo Bisons.
+2021-04-01,Toronto Blue Jays optioned LHP Anthony Kay to Blue Jays Alternate Training Site.
+2021-04-01,"Toronto Blue Jays placed LHP Robbie Ray on the 10-day injured list retroactive to March 29, 2021. Left elbow contusion."
+2021-04-01,Toronto Blue Jays designated 2B Breyvic Valera for assignment.
+2021-04-01,Toronto Blue Jays designated C Reese McGuire for assignment.
+2021-04-01,"Toronto Blue Jays placed RHP Nate Pearson on the 10-day injured list retroactive to March 29, 2021. Right adductor strain."
+2021-04-01,"Toronto Blue Jays placed OF George Springer on the 10-day injured list retroactive to March 29, 2021. Left oblique strain."
+2021-04-01,"Toronto Blue Jays placed RHP Kirby Yates on the 10-day injured list retroactive to March 29, 2021. Right elbow surgery."
+2021-04-01,Colorado Rockies signed free agent RHP Jhoulys Chacin.
+2021-04-01,Kansas City Royals designated C Meibrys Viloria for assignment.
+2021-04-01,Kansas City Royals designated RHP Scott Blewett for assignment.
+2021-04-01,Baltimore Orioles optioned RHP Travis Lakins Sr. to Norfolk Tides.
+2021-04-01,Baltimore Orioles placed RF DJ Stewart on the 10-day injured list. Left hamstring strain.
+2021-04-01,Baltimore Orioles placed RHP Shawn Armstrong on the paternity list.
+2021-04-01,Kansas City Royals selected the contract of CF Kyle Isbel from Quad Cities River Bandits.
+2021-04-01,Colorado Rockies designated RHP Jairo Diaz for assignment.
+2021-04-01,"Boston Red Sox placed RHP Ryan Brasier on the 10-day injured list retroactive to March 29, 2021. Left calf strain."
+2021-04-01,Kansas City Royals selected the contract of LHP Jake Brentz from Northwest Arkansas Naturals.
+2021-04-01,"Colorado Rockies placed LHP Kyle Freeland on the 10-day injured list retroactive to March 29, 2021. Left shoulder strain."
+2021-04-01,"Colorado Rockies placed 2B Brendan Rodgers on the 10-day injured list retroactive to March 29, 2021. Right hamstring strain."
+2021-04-01,"Boston Red Sox placed LHP Eduardo Rodriguez on the 10-day injured list retroactive to March 29, 2021. Left elbow inflammation."
+2021-04-01,Boston Red Sox recalled RHP Tanner Houck from Red Sox Alternate Training Site.
+2021-04-01,Cincinnati Reds optioned 2B Max Schrock to Reds Alternate Training Site.
+2021-04-01,Cincinnati Reds optioned LF Mark Payton to Reds Alternate Training Site.
+2021-04-01,Cincinnati Reds designated RHP Edgar Garcia for assignment.
+2021-04-01,"Cincinnati Reds placed CF Shogo Akiyama on the 10-day injured list retroactive to March 29, 2021. Left hamstring strain."
+2021-04-01,"Cincinnati Reds placed RHP Sonny Gray on the 10-day injured list retroactive to March 29, 2021. Muscle strain in back."
+2021-04-01,"Cincinnati Reds placed RHP Michael Lorenzen on the 10-day injured list retroactive to March 29, 2021. Right shoulder strain."
+2021-04-01,Cincinnati Reds selected the contract of 3B Jonathan India from Chattanooga Lookouts.
+2021-04-01,Cincinnati Reds activated 1B Joey Votto from the 10-day injured list.
+2021-04-01,Texas Rangers selected the contract of 2B Charlie Culberson from Round Rock Express.
+2021-04-01,Texas Rangers designated 2B Rougned Odor for assignment.
+2021-04-01,Texas Rangers selected the contract of RHP Matt Bush from Round Rock Express.
+2021-04-01,Pittsburgh Pirates selected the contract of RHP Clay Holmes from Indianapolis Indians.
+2021-04-01,Texas Rangers recalled LHP Kolby Allard from Rangers Alternate Training Site.
+2021-04-01,Pittsburgh Pirates placed LHP Steven Brault on the 60-day injured list. Left lat strain.
+2021-04-01,"Pittsburgh Pirates placed RHP Cody Ponce on the 10-day injured list retroactive to March 29, 2021. Right forearm tightness."
+2021-04-01,Pittsburgh Pirates placed RHP Kyle Crick on the 10-day injured list.
+2021-04-01,"Texas Rangers placed RHP Demarcus Evans on the 10-day injured list retroactive to March 29, 2021. Right lat strain."
+2021-04-01,"Texas Rangers placed LHP Brock Burke on the 10-day injured list retroactive to March 29, 2021. Recovering from left shoulder surgery."
+2021-04-01,"Texas Rangers placed LHP Brett Martin on the 10-day injured list retroactive to March 29, 2021. Lower back tightness."
+2021-04-01,"Texas Rangers placed LHP Joely Rodriguez on the 10-day injured list retroactive to March 29, 2021. Left ankle sprain."
+2021-04-01,"Texas Rangers placed C Sam Huff on the 10-day injured list retroactive to March 29, 2021. Left hamstring strain."
+2021-04-01,Oakland Athletics selected the contract of SS Jed Lowrie from Las Vegas Aviators.
+2021-04-01,"Texas Rangers placed LF Willie Calhoun on the 10-day injured list retroactive to March 29, 2021. Left groin strain."
+2021-04-01,"Texas Rangers placed LF Khris Davis on the 10-day injured list retroactive to March 29, 2021. Left quad strain."
+2021-04-01,Oakland Athletics optioned RHP Daulton Jefferies to Athletics Alternate Training Site.
+2021-04-01,Oakland Athletics optioned LHP A.J. Puk to Athletics Alternate Training Site.
+2021-04-01,Oakland Athletics designated RF Skye Bolt for assignment.
+2021-04-01,Arizona Diamondbacks recalled RHP Riley Smith from Reno Aces.
+2021-04-01,Oakland Athletics selected the contract of LHP Reymin Guduan from Las Vegas Aviators.
+2021-04-01,"Oakland Athletics placed RHP Mike Fiers on the 10-day injured list retroactive to March 29, 2021. Lumbar strain."
+2021-04-01,"Oakland Athletics placed RHP Trevor Rosenthal on the 10-day injured list retroactive to March 30, 2021. Right shoulder inflammation."
+2021-04-01,"San Francisco Giants placed LHP Alex Wood on the 10-day injured list retroactive to March 29, 2021. Lower back strain."
+2021-04-01,"Arizona Diamondbacks placed RHP Zac Gallen on the 10-day injured list retroactive to March 29, 2021. Right forearm hairline stress fracture of radial head."
+2021-04-01,"Arizona Diamondbacks placed RF Kole Calhoun on the 10-day injured list retroactive to March 29, 2021. Right knee medial meniscus tear."
+2021-04-01,"St. Louis Cardinals placed RHP Dakota Hudson on the 10-day injured list retroactive to March 29, 2021. Right elbow injury."
+2021-04-01,"St. Louis Cardinals placed LHP Kwang Hyun Kim on the 10-day injured list retroactive to March 31, 2021. Back injury."
+2021-04-01,Tampa Bay Rays placed RF Brett Phillips on the 10-day injured list. Left hamstring strain.
+2021-04-01,"Houston Astros placed RHP Josh James on the 10-day injured list retroactive to March 29, 2021. Recovery from left hip surgery."
+2021-04-01,"St. Louis Cardinals placed CF Harrison Bader on the 10-day injured list retroactive to March 29, 2021. Right forearm injury."
+2021-04-01,"St. Louis Cardinals placed RHP Miles Mikolas on the 10-day injured list retroactive to March 29, 2021. Right shoulder injury."
+2021-04-01,Tampa Bay Rays placed 1B Ji-Man Choi on the 10-day injured list. Arthroscopic surgery on right knee.
+2021-04-01,"Houston Astros placed RHP Andre Scrubb on the 10-day injured list retroactive to March 29, 2021. Right shoulder soreness."
+2021-04-01,"Miami Marlins placed RF Jesus Sanchez on the 10-day injured list retroactive to March 29, 2021. Right groin strain."
+2021-04-01,"Houston Astros placed RHP Austin Pruitt on the 10-day injured list retroactive to March 29, 2021. Recovery from right elbow surgery."
+2021-04-01,"Miami Marlins placed RHP Jorge Guzman on the 10-day injured list retroactive to March 29, 2021. Right elbow spur."
+2021-04-01,San Diego Padres placed RHP Austin Adams on the 10-day injured list. Right elbow strain.
+2021-04-01,San Diego Padres placed RHP Michel Baez on the 60-day injured list. Right elbow surgery.
+2021-04-01,San Diego Padres placed LHP Matt Strahm on the 10-day injured list. Right patellar tendon repair.
+2021-04-01,"Houston Astros placed LHP Framber Valdez on the 10-day injured list retroactive to March 29, 2021. Fractured left ring finger."
+2021-04-01,San Diego Padres selected the contract of RHP Nabil Crismatt from El Paso Chihuahuas.
+2021-04-01,San Diego Padres placed RHP Dan Altavilla on the 10-day injured list. Right calf strain.
+2021-04-01,San Diego Padres placed RHP Javy Guerra on the 10-day injured list. Right elbow sprain.
+2021-04-01,San Diego Padres placed RHP Pierce Johnson on the 10-day injured list. Right adductor groin strain.
+2021-04-01,San Diego Padres placed RHP Dinelson Lamet on the 10-day injured list. Right UCL strain.
+2021-04-01,San Diego Padres placed C Austin Nola on the 10-day injured list. Left middle finger fracture.
+2021-04-01,San Diego Padres placed OF Jorge Ona on the 10-day injured list. Right elbow inflammation.
+2021-04-01,New York Mets placed OF Jose Martinez on the 60-day injured list. Torn meniscus in left knee.
+2021-04-01,San Diego Padres placed RF Trent Grisham on the 10-day injured list. Left hamstring strain.
+2021-04-01,"New York Mets placed RHP Carlos Carrasco on the 10-day injured list retroactive to March 29, 2021. Grade 1 right hamstring strain."
+2021-04-01,"New York Mets placed RHP Seth Lugo on the 10-day injured list retroactive to March 29, 2021. Recovery from right elbow surgery."
+2021-04-01,"New York Mets placed RHP Drew Smith on the 10-day injured list retroactive to March 29, 2021. Right shoulder soreness."
+2021-04-01,"Los Angeles Dodgers placed RHP Brusdar Graterol on the 60-day injured list retroactive to April 1, 2020."
+2021-04-01,"Los Angeles Dodgers placed RHP Joe Kelly on the 10-day injured list retroactive to March 29, 2021. Right shoulder inflammation"
+2021-04-01,Philadelphia Phillies designated LHP Kyle Dohy for assignment.
+2021-04-01,Philadelphia Phillies sent LHP Kyle Dohy outright to Phillies Alternate Training Site.
+2021-04-01,"Chicago White Sox placed CF Adam Engel on the 10-day injured list retroactive to March 29, 2021. Strained right hamstring."
+2021-04-01,"Chicago White Sox placed LHP Jace Fry on the 10-day injured list retroactive to March 29, 2021. Recovery from microdiscectomy."
+2021-04-01,"Chicago White Sox placed LF Eloy Jimenez on the 60-day injured list retroactive to March 29, 2021. Torn left pectoral tendon surgery."
+2021-04-01,Chicago White Sox sent LHP Nik Turley outright to White Sox Alternate Training Site.
+2021-04-01,Chicago White Sox selected the contract of CF Billy Hamilton from Charlotte Knights.
+2021-04-01,Chicago White Sox selected the contract of 1B Andrew Vaughn from Winston-Salem Dash.
+2021-04-01,Chicago White Sox designated LHP Bernardo Flores Jr. for assignment.
+2021-04-01,St. Louis Cardinals claimed LHP Bernardo Flores Jr. off waivers from Chicago White Sox.
