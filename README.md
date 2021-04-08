@@ -1,8 +1,7 @@
 # MLB Transaction Data
 
-This repo houses [MLB Transaction Data](http://mlb.mlb.com/mlb/transactions/) from January, 2001 to the beginning of the current month. 
-This data is in structured .csv format, with columns ```transaction``` (specifying which team did which action with which player(s)) and 
-```date``` (specifying the date of the given transaction).
+This repo houses [MLB Transaction Data](http://mlb.mlb.com/mlb/transactions/) and data extracted from these transactions (particularly injury data)
+from January, 2001 to the beginning of the current month.
 
 ## Importing the Data
 
@@ -11,40 +10,41 @@ Below are two short helper functions for importing the data in both R and Python
 
 - **R**
 ```r
-read_transactions <- function(year = "all-years") {
-  # Base URL
+library(readr)
+
+read_transactions <- function(year = "all-years", type = "injuries") {
+  if (!type %in% c("injuries", "transactions")) {
+    stop("'type' should be one of 'injuries' or 'transactions'", call. = FALSE)
+  }
   github_raw <- "https://raw.githubusercontent.com/dmolitor/mlb-transaction-data/main/"
-  # Append particular year
-  transactions_url <- paste0(github_raw, year, "/transactions.csv")
-  # Import data using readr
-  readr::read_csv(transactions_url)
+  transactions_url <- paste0(github_raw, type, "/", year, "/", type, ".csv")
+  read_csv(transactions_url)
 }
 
 # Import all transactions for 2007
-transactions_2007 <- read_transactions(year = 2007)
+transactions_2007 <- read_transactions(year = 2007, type = "transactions")
 
-# Import all transactions
-transactions_all <- read_transactions()
+# Import all injuries for 2007
+injuries_2007 <- read_transactions(year = 2007, type = "injuries")
 ```
 
 - **Python**
 ```python
 import pandas as pd
 
-def read_transactions(year = "all-years"):
-  # Base URL
+def read_transactions(year = "all-years", type = "transactions"):
+  if not type in ["transactions", "injuries"]:
+    raise ValueError("'type' should be one of 'injuries' or 'transactions'")
   github_raw = "https://raw.githubusercontent.com/dmolitor/mlb-transaction-data/main/"
-  # Append particular year
-  transactions_url = github_raw + str(year) + "/transactions.csv"
-  # Import data using pandas
+  transactions_url = github_raw + type + "/" + str(year) + "/" + type + ".csv"
   dat = pd.read_csv(transactions_url)
   return dat
 
 # Import all transactions for 2007
-transactions_2007 = read_transactions(year = 2007)
+transactions_2007 = read_transactions(year = 2007, type = "transactions")
 
-# Import all transactions
-transactions_all = read_transactions()
+# Import all injuries for 2007
+injuries_2007 = read_transactions(year = 2007, type = "injuries")
 ```
 
 ## Issues with the Data
