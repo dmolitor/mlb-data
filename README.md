@@ -49,5 +49,6 @@ injuries_2007 = read_transactions(year = 2007, type = "injuries")
 
 ## Issues with the Data
 
-On several random baseball forums I've seen people complaining about the quality of MLB's Transaction data. I'm sure this complaining is warranted. As such,
-if there are mistakes or missing records, feel free to open an issue or pull request and fix this data!
+On several random baseball forums I've seen people complaining about the quality of MLB's Transaction data. I'm sure this complaining is warranted.
+Additionally, all this data is being scraped with no direct manual oversight. As such, if there are mistakes or missing records, feel free to open an issue 
+or pull request and fix this data!
