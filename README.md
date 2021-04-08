@@ -1,7 +1,10 @@
 # MLB Data
 
-This repo houses [MLB Transaction Data](http://mlb.mlb.com/mlb/transactions/) and data extracted from these transactions (particularly injury data)
-from January, 2001 to the beginning of the current month.
+This repo houses the following MLB data sources
+1. [MLB Transaction Data](http://mlb.mlb.com/mlb/transactions/) 
+2. Injury Data (extracted from the Transaction Data)
+
+The data spans January, 2001 to the beginning of the current month.
 
 ## Importing the Data
 
