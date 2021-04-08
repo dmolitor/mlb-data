@@ -1,0 +1,868 @@
+date,transaction,injured,year,team,player,type,length,is_retroactive,date_retroactive
+2007-03-23,Transferred RHP Kris Benson to the 60-day disabled list,TRUE,2007,Baltimore Orioles,Kris Benson,transferred,60,FALSE,NA
+2007-03-23,Placed RHP Joe Nelson on the 60-day disabled list,TRUE,2007,Kansas City Royals,Joe Nelson,placed,60,FALSE,NA
+2007-03-24,Minnesota Twins Placed LHP Francisco Liriano on the 60-day disabled list recovering from November 2006 Tommy John surgery,TRUE,2007,Minnesota Twins,Francisco Liriano,placed,60,FALSE,NA
+2007-03-28,"Boston Red Sox Placed RHP Matt Clement, RHP Mike Timlin and LHP Jon Lester on the 15-day disabled list, retroactive to March 23.",TRUE,2007,Boston Red Sox,Matt Clement,placed,15,TRUE,2007-03-23
+2007-03-28,Houston Astros Placed RHP Brandon Backe (right-elbow ligament surgery) and C Hector Gimenez (right labrum) on the 15-day disabled list,TRUE,2007,Houston Astros,Brandon Backe,placed,15,FALSE,NA
+2007-03-28,Placed INF Angel Sanchez on the 60-day disabled list.,TRUE,2007,Kansas City Royals,Angel Sanchez,placed,60,FALSE,NA
+2007-03-28,"Placed 1B Nick Johnson, RHP Luis Ayala, LHP Mike O?Connor and OF Alex Escobar on the 15-day disabled list.",TRUE,2007,Washington Nationals,Nick Johnson,placed,15,FALSE,NA
+2007-03-29,Colorado Rockies Placed LHP Tom Martin on the 15-day disabled list with a strained left groin.,TRUE,2007,Colorado Rockies,Tom Martin,placed,15,FALSE,NA
+2007-03-29,Detroit Tigers Placed LHP Kenny Rogers on the 15-day disabled list.,TRUE,2007,Detroit Tigers,Kenny Rogers,placed,15,FALSE,NA
+2007-03-29,"Placed OF Laynce Nix on the 15-day disabled list, retroactive to March 23, with a strained right oblique.",TRUE,2007,Milwaukee Brewers,Laynce Nix,placed,15,TRUE,2007-03-23
+2007-03-29,"Placed INF Joaquin Arias (right shoulder inflammation) and LHP John Rheinecker (back strain) on the 15-day disabled list, retroactive to March 23.",TRUE,2007,Texas Rangers,Joaquin Arias,placed,15,TRUE,2007-03-23
+2007-03-30,"Atlanta Braves Placed INF Willy Aybar, LHP Mike Hampton and RHP Tanyon Sturtze on the 15-day disabled list",TRUE,2007,Atlanta Braves,Willy Aybar,placed,15,FALSE,NA
+2007-03-30,Detroit Tigers Placed C Vance Wilson on the 15-day disabled list with a sore right elbow and recalled C Mike Rabelo from Triple-A Toledo.,TRUE,2007,Detroit Tigers,Vance Wilson,placed,15,FALSE,NA
+2007-03-30,"Florida Marlins Placed RHP Jose Garcia, RHP Josh Johnson, RHP Logan Kensing and RHP Carlos Martinez on the 15-day disabled list, retroactive to March 23",TRUE,2007,Florida Marlins,Jose Garcia,placed,15,TRUE,2007-03-23
+2007-03-30,"Philadelphia Phillies Placed RHP Freddy Garcia, RHP Jon Lieber and C Ryan Budde on the 15-day disabled list, retroactive to March 23.",TRUE,2007,Philadelphia Phillies,Freddy Garcia,placed,15,TRUE,2007-03-23
+2007-03-30,"Placed LHP John Grabow on 15-day disabled list, retroactive to March 23",TRUE,2007,Pittsburgh Pirates,John Grabow,placed,15,TRUE,2007-03-23
+2007-03-31,"Arizona Diamondbacks Placed LHP Randy Johnson, OF Carlos Quentin and OF Jeff DaVanon on the 15-day disabled list.",TRUE,2007,Arizona Diamondbacks,Randy Johnson,placed,15,FALSE,NA
+2007-03-31,Detroit Tigers Placed LHP Edward Campusano and RHP Roman Colon on the 15-day disabled list,TRUE,2007,Detroit Tigers,Roman Colon,placed,15,FALSE,NA
+2007-03-31,Placed IF Tony Giarratano on the 60-day disabled list,TRUE,2007,Detroit Tigers,Tony Giarratano,placed,60,FALSE,NA
+2007-03-31,Placed RHP Yhency Brazoban on the 15-day disabled list (right elbow surgery),TRUE,2007,Los Angeles Dodgers,Yhency Brazoban,placed,15,FALSE,NA
+2007-03-31,Placed SS Rafael Furcal on the 15-day disabled list retroactive to March 22 (sprained left ankle),TRUE,2007,Los Angeles Dodgers,Rafael Furcal,placed,15,TRUE,2007-03-22
+2007-03-31,Placed LHP Hong-Chih Kuo (Rotator Cuff) on the 15-day disabled list retroactive to March 19,TRUE,2007,Los Angeles Dodgers,Hung Chih Kuo,placed,15,TRUE,2007-03-19
+2007-03-31,Placed OF Jason Repko on the 15-day disabled list (hamstring surgery),TRUE,2007,Los Angeles Dodgers,Jason Repko,placed,15,FALSE,NA
+2007-03-31,"Pittsburgh Pirates Placed INF Freddy Sanchez on the 15-day disabled list, retroactive to March 23.",TRUE,2007,Pittsburgh Pirates,Freddy Sanchez,placed,15,TRUE,2007-03-23
+2007-03-31,"Placed RHP Scott Cassidy on the 15-day disabled list with a strained right knee, retroactive to March 23.",TRUE,2007,San Diego Padres,Scott Cassidy,placed,15,TRUE,2007-03-23
+2007-03-31,placed INF/OF Greg Norton on 15-day disabled list with torn right meniscus.,TRUE,2007,Tampa Bay Devil Rays,Greg Norton,placed,15,FALSE,NA
+2007-03-31,Placed RHP Eric Gagne on the 15-day disabled list retroactive to March 28,TRUE,2007,Texas Rangers,Eric Gagne,placed,15,TRUE,2007-03-28
+2007-03-31,Placed RHP John Thomson and LHP Davis Romero on the 15-day disabled list,TRUE,2007,Toronto Blue Jays,John Thomson,placed,15,FALSE,NA
+2007-04-01,Baltimore Orioles Placed OF Jay Payton and RHP Sendy Rleal on 15-day disabled list and sent RHP Todd Williams outright to Triple-A Norfolk,TRUE,2007,Baltimore Orioles,Jay Payton,placed,15,FALSE,NA
+2007-04-01,"Chicago Cubs Placed RHP Kerry Wood (shoulder) and RHP Juan Mateo (shoulder) on the 15-day disabled list, and optioned OF Buck Coats to Triple-A Iowa.",TRUE,2007,Chicago Cubs,Kerry Wood,placed,15,FALSE,NA
+2007-04-01,"Chicago White Sox Purchased the contracts of LHP John Danks and C Gustavo Molina from Triple-A Charlotte and placed C Toby Hall on the 15-day disabled list, retroactive to March 26, with a dislocated right shoulder.",TRUE,2007,Chicago White Sox,John Danks,placed,15,TRUE,2007-03-26
+2007-04-01,"Cincinnati Reds Placed LHP Eric Milton (lower back stiffness), LHP Bll Bray (left index finger), IF/OF Jerry Gil (right elbow), OF Norris Hopper (right heel), IF Jeff Keppinger (right ring finger), RHP Elizardo Ramirez (right shoulder) and OF Chris Denorfia (right elbow) on the 15-day disabled list",TRUE,2007,Cincinnati Reds,Eric Milton,placed,15,FALSE,NA
+2007-04-01,purchased contract of LHP Eddie Guardado and placed Guardado (left elbow) on the 15-day disabled list,TRUE,2007,Cincinnati Reds,Eddie Guardado,placed,15,FALSE,NA
+2007-04-01,"Cleveland Indians Placed RHP Matt Miller (right forearm strain), LHP Cliff Lee (right abdominal strain), INF Joe Inglett (left quadriceps strain) and OF Franklin Gutierrez (left hamstring strain) on the 15-day disabled list, retroactive to March 23",TRUE,2007,Cleveland Indians,Matt Miller,placed,15,TRUE,2007-03-23
+2007-04-01,Colorado Rockies Placed RHP Brian Lawrence (right shoulder surgery) on the 15-day disabled list,TRUE,2007,Colorado Rockies,Brian Lawrence,placed,15,FALSE,NA
+2007-04-01,"Kansas City Royals Placed RHP Leo Nunez (right wrist fracture), RHP Scott Elarton (shoulder surgery), LHP John Bale (shoulder strain) and RHP Luke Hudson (right shoulder inflammation) on the 15-day disabled list",TRUE,2007,Kansas City Royals,Scott Elarton,placed,15,FALSE,NA
+2007-04-01,"Placed 3B Dallas McPherson on the 60-day disabled list, retroactive to March 23, recovering from lower back surgery.",TRUE,2007,Los Angeles Angels,Dallas McPherson,placed,60,TRUE,2007-03-23
+2007-04-01,Milwaukee Brewers Placed 3B Corey Koskie on the 15-day disabled list with post-concussion syndrome,TRUE,2007,Milwaukee Brewers,Corey Koskie,placed,15,FALSE,NA
+2007-04-01,"Placed RHP Pedro Martinez, RHP Juan Padilla, RHP Duaner Sanchez and LHP Dave Williams on the 15-day disabled list.",TRUE,2007,New York Mets,Pedro Martinez,placed,15,FALSE,NA
+2007-04-01,"New York Yankees Placed RHP Chien-Ming Wang on the 15-day disabled list, retroactive to March 23, with a strained right hamstring",TRUE,2007,New York Yankees,Chien Ming Wang,placed,15,TRUE,2007-03-23
+2007-04-01,"Placed RHP Jeff Karstens on the 15-day disabled list, retroactive to March 26, with a sore right elbow",TRUE,2007,New York Yankees,Jeff Karstens,placed,15,TRUE,2007-03-26
+2007-04-01,"Placed RHP Jose Veras on the 15-day disabled list, retroactive to March 23, recovering from right elbow bone chip removal",TRUE,2007,New York Yankees,Jose Veras,placed,15,TRUE,2007-03-23
+2007-04-01,"Placed RHP Humberto Sanchez on the 15-day disabled list, retroactive to March 23, with an inflamed elbow",TRUE,2007,New York Yankees,Humberto Sanchez,placed,15,TRUE,2007-03-23
+2007-04-01,"Placed RHP Esteban Loaiza on the 15-day disabled list, retroactive to March 25",TRUE,2007,Oakland Athletics,Esteban Loaiza,placed,15,TRUE,2007-03-25
+2007-04-01,"Placed 1B Dan Johnson on the 15-day disabled list, retroactive to March 27",TRUE,2007,Oakland Athletics,Dan Johnson,placed,15,TRUE,2007-03-27
+2007-04-01,"Placed OF Mark Kotsay on the 15-day disabled list, retroactive to March 23",TRUE,2007,Oakland Athletics,Mark Kotsay,placed,15,TRUE,2007-03-23
+2007-04-01,"Philadelphia Phillies Placed C/1B Chris Coste on 15-day disabled list, retroactive to March 23, with a strained right hamstring",TRUE,2007,Philadelphia Phillies,Chris Coste,placed,15,TRUE,2007-03-23
+2007-04-01,"Placed RHP Scott Mathieson on 15-day disabled list, retroactive to March 23, following Tommy John elbow ligament replacement surgery in September 2006",TRUE,2007,Philadelphia Phillies,Scott Mathieson,placed,15,TRUE,2007-03-23
+2007-04-01,Placed 1B/OF Mark Sweeney on the 15-day disabled list (retroactive to March 29) with a right foot contusion.,TRUE,2007,San Francisco Giants,Mark Sweeney,placed,15,TRUE,2007-03-29
+2007-04-01,Placed RHP Mark Lowe and LHP Cesar Jimenez on the 60-day disabled list,TRUE,2007,Seattle Mariners,Mark Lowe,placed,60,FALSE,NA
+2007-04-01,Transfered LHP Jon Switzer to the 60-day disabled listed.,TRUE,2007,Tampa Bay Devil Rays,Jon Switzer,transferred,60,FALSE,NA
+2007-04-02,Transferred LHP Eddie Guardado from the 15-day to the 60-day disabled list.,TRUE,2007,Cincinnati Reds,Eddie Guardado,transferred,60,FALSE,NA
+2007-04-03,Washington Nationals Placed OF Nook Logan on the 15-day disabled list (left foot strain),TRUE,2007,Washington Nationals,Nook Logan,placed,15,FALSE,NA
+2007-04-03,Placed SS Cristian Guzman on the 15-day disabled list (left hamstring strain).,TRUE,2007,Washington Nationals,Cristian Guzman,placed,15,FALSE,NA
+2007-04-04,"Atlanta Braves Placed RHP Lance Cormier on 15-day disabled list, retroactive to March 31, with a strained right triceps and recalled RHP Kyle Davies from Triple-A Richmond.",TRUE,2007,Atlanta Braves,Lance Cormier,placed,15,TRUE,2007-03-31
+2007-04-04,"Kansas City Royals Placed RHP Octavio Dotel on the 15-day disabled list with a left oblique strain, retroactive to March 30, and purchased the contract of RHP Jason Standridge from Triple-A Omaha",TRUE,2007,Kansas City Royals,Octavio Dotel,placed,15,TRUE,2007-03-30
+2007-04-04,Transferred RHP Leo Nunez to the 60-day disabled list.,TRUE,2007,Kansas City Royals,Ed Nunez,transferred,60,FALSE,NA
+2007-04-07,Atlanta Braves Transferred LHP Mike Hampton to the 60-day disabled list.,TRUE,2007,Atlanta Braves,Mike Hampton,transferred,60,FALSE,NA
+2007-04-07,Pittsburgh Pirates Activated INF Freddy Sanchez from the 15-day disabled list and optioned C Ryan Doumit to Triple-A Indianapolis,TRUE,2007,Pittsburgh Pirates,Freddy Sanchez,activated,15,FALSE,NA
+2007-04-08,"Baltimore Orioles Placed C Ramon Hernandez on 15-day disabled list, retroactive to March 31, and recalled LHP Kurt Birkins from Triple-A Norfolk.",TRUE,2007,Baltimore Orioles,Ramon Hernandez,placed,15,TRUE,2007-03-31
+2007-04-08,Cincinnati Reds Activated LHP Eric Milton from the 15-day disabled list and placed RHP Jared Burton (strained left hamstring) on the 15-day disabled list.,TRUE,2007,Cincinnati Reds,Eric Milton,activated,15,FALSE,NA
+2007-04-08,New York Yankees Placed OF Hideki Matsui on 15-day disabled list,TRUE,2007,New York Yankees,Hideki Matsui,placed,15,FALSE,NA
+2007-04-08,Activated RHP Jon Lieber from the 15-day disabled list.,TRUE,2007,Philadelphia Phillies,Jon Lieber,activated,15,FALSE,NA
+2007-04-09,Florida Marlins Placed RHP Ricky Nolasco on the 15-day disabled list with a tender right elbow,TRUE,2007,Florida Marlins,Ricky Nolasco,placed,15,FALSE,NA
+2007-04-09,"Minnesota Twins Placed INF Jeff Cirillo (medial meniscus tear in left knee) on the 15-day disabled list, retroactive to April 9",TRUE,2007,Minnesota Twins,Jeff Cirillo,placed,15,TRUE,NA
+2007-04-09,"Placed OF Rondell White (strained right calf) on the 15-day disabled list, retroactive to April 5",TRUE,2007,Minnesota Twins,Rondell White,placed,15,TRUE,NA
+2007-04-09,"St. Louis Cardinals Placed RHP Chris Carpenter on the 15-day disabled list, retroactive to April 2, due to swelling in his right elbow.",TRUE,2007,St. Louis Cardinals,Chris Carpenter,placed,15,TRUE,2007-04-02
+2007-04-10,"Boston Red Sox Activated RHP Mike Timlin from the 15-day disabled list, optioned LHP Javier Lopez to Triple-A Pawtucket and designated RHP J.D. Durbin for assignment.",TRUE,2007,Boston Red Sox,Mike Timlin,activated,15,FALSE,NA
+2007-04-10,Los Angeles Dodgers Placed OF Matt Kemp on the 15-day disabled list,TRUE,2007,Los Angeles Dodgers,Matt Kemp,placed,15,FALSE,NA
+2007-04-10,"Seattle Mariners Placed LHP Arthur Rhodes on 15-day disabled list, retroactive to April 1",TRUE,2007,Seattle Mariners,Arthur Rhodes,placed,15,TRUE,NA
+2007-04-12,"Baltimore Orioles Placed RHP Jaret Wright on the 15-day disabled list, retroactive to April 11, with right shoulder soreness",TRUE,2007,Baltimore Orioles,Jaret Wright,placed,15,TRUE,2007-04-11
+2007-04-12,San Diego Padres Placed C Josh Bard on the 15-day disabled list,TRUE,2007,San Diego Padres,Josh Bard,placed,15,FALSE,NA
+2007-04-12,Washington Nationals Placed LHP Ray King on the 15-day disabled list with left shoulder tendinitis and recalled RHP Saul Rivera from Triple-A Columbus.,TRUE,2007,Washington Nationals,Ray King,placed,15,FALSE,NA
+2007-04-13,Transferred OF Chris Denorfia from the 15-day to the 60-day disabled list.,TRUE,2007,Cincinnati Reds,Chris Denorfia,transferred,60,FALSE,NA
+2007-04-13,Cleveland Indians Activated OF Franklin Gutierrez from the 15-day disabled list and optioned him to Triple-A Buffalo,TRUE,2007,Cleveland Indians,Franklin Gutierrez,activated,15,FALSE,NA
+2007-04-13,Florida Marlins Activated LHP Taylor Tankersley from the 15-day disabled list.,TRUE,2007,Florida Marlins,Taylor Tankersley,activated,15,FALSE,NA
+2007-04-13,Los Angeles Angels Placed RHP Kelvim Escobar on the 15-day disabled list (retroactive to April 9) due to right shoulder irritation,TRUE,2007,Los Angeles Angels,Kelvim Escobar,placed,15,TRUE,2007-04-09
+2007-04-13,Los Angeles Dodgers Activated SS Rafael Furcal from the 15-day disabled list,TRUE,2007,Los Angeles Dodgers,Rafael Furcal,activated,15,FALSE,NA
+2007-04-13,San Francisco Giants Activated 1B/OF Mark Sweeney from the 15-day disabled list.,TRUE,2007,San Francisco Giants,Mark Sweeney,activated,15,FALSE,NA
+2007-04-13,Texas Rangers Activated RHP Eric Gagn?rom the 15-day disabled list,TRUE,2007,Texas Rangers,Eric Gagne,activated,15,FALSE,NA
+2007-04-13,"Placed RHP Jamey Wright on the 15-day disabled list, retroactive to April 11, with right shoulder inflammation.",TRUE,2007,Texas Rangers,Jamey Wright,placed,15,TRUE,2007-04-11
+2007-04-13,"Toronto Blue Jays RHP Brandon League had his option voided and was placed on the 15-day disabled list, retroactive to March 31.",TRUE,2007,Toronto Blue Jays,Brandon League,placed,15,TRUE,2007-03-31
+2007-04-13,"Placed LF Reed Johnson (herniated disc in lower back) on the 15-day disabled list, retroactive to April 12",TRUE,2007,Toronto Blue Jays,Reed Johnson,placed,15,TRUE,2007-04-12
+2007-04-14,Atlanta Braves Placed RHP Chad Paronto on the 15-day disabled list with a strained right groin and optioned LHP Macay McBride to Triple-A Richmond,TRUE,2007,Atlanta Braves,Chad Paronto,placed,15,FALSE,NA
+2007-04-14,Philadelphia Phillies Activated RHP Freddy Garcia (right bicep tendinitis) from the 15-day disabled list and designed RHP Clay Condrey for assignment.,TRUE,2007,Philadelphia Phillies,Freddy Garcia,activated,15,FALSE,NA
+2007-04-15,Colorado Rockies Placed INF Kazuo Matsui on the 15-day disabled list with lower back spasms,TRUE,2007,Colorado Rockies,Kazuo Matsui,placed,15,FALSE,NA
+2007-04-15,New York Yankees Placed RHP Carl Pavano on the 15-day disabled list with right forearm stiffness and RHP Mike Mussina on the 15-day disabled list with a strained left hamstring,TRUE,2007,New York Yankees,Carl Pavano,placed,15,FALSE,NA
+2007-04-15,Toronto Blue Jays Placed LHP B.J. Ryan on the 15-day disabled list with a strained left elbow,TRUE,2007,Toronto Blue Jays,B.J. Ryan,placed,15,FALSE,NA
+2007-04-15,Transferred LHP Davis Romero to the 60-day disabled list.,TRUE,2007,Toronto Blue Jays,Davis Romero,transferred,60,FALSE,NA
+2007-04-16,Arizona Diamondbacks Activated OF Carlos Quentin from the 15-day disabled list,TRUE,2007,Arizona Diamondbacks,Carlos Quentin,activated,15,FALSE,NA
+2007-04-16,Colorado Rockies Placed RHP Byung-Hyun Kim on the 15-day disabled list with a right thumb contusion,TRUE,2007,Colorado Rockies,Byung Hyun Kim,placed,15,FALSE,NA
+2007-04-16,Toronto Blue Jays Placed 3B Troy Glaus on the 15-day disabled list and recalled INF Ryan Roberts from Triple-A Syracuse.,TRUE,2007,Toronto Blue Jays,Troy Glaus,placed,15,FALSE,NA
+2007-04-17,"Chicago White Sox Placed OF Scott Podsednik on the 15-day disabled list, retroactive to April 16, with a right adductor pull and recalled LHP Boone Logan from Triple-A Charlotte.",TRUE,2007,Chicago White Sox,Scott Podsednik,placed,15,TRUE,2007-04-16
+2007-04-17,Houston Astros Recalled RHP Matt Albers from Triple-A Round Rock and placed RHP Jason Jennings on the 15-day disabled list.,TRUE,2007,Houston Astros,Matt Albers,placed,15,FALSE,NA
+2007-04-17,Los Angeles Angels Activated RHP Jered Weaver from the 15-day disabled list and designated RHP Greg Jones for assignment.,TRUE,2007,Los Angeles Angels,Jered Weaver,activated,15,FALSE,NA
+2007-04-17,Los Angeles Dodgers Placed RHP Jason Schmidt on the 15-day disabled list with inflammation of the right shoulder bursa sac,TRUE,2007,Los Angeles Dodgers,Jason Schmidt,placed,15,FALSE,NA
+2007-04-17,Toronto Blue Jays Transferred OF Reed Johnson from the 15-day to the 60-day disabled list.,TRUE,2007,Toronto Blue Jays,Reed Johnson,transferred,60,FALSE,NA
+2007-04-18,Reinstated OF Norris Hopper from the 15-day disabled list,TRUE,2007,Cincinnati Reds,Norris Hopper,activated,15,FALSE,NA
+2007-04-18,Cleveland Indians Activated INF Joe Inglett from the 15-day disabled list and optioned him to Triple-A Buffalo.,TRUE,2007,Cleveland Indians,Joe Inglett,activated,15,FALSE,NA
+2007-04-18,Placed RHP Jorge Julio (right calf strain) and CF Alejandro De Aza (right ankle sprain) on the 15-day disabled list and recalled RHP Lee Gardner and CF Eric Reed from Triple-A Albuquerque.,TRUE,2007,Florida Marlins,Jorge Julio,placed,15,FALSE,NA
+2007-04-18,Los Angeles Angels Placed 2B Howie Kendrick on the 15-day disabled list with a broken bone in his left middle finger.,TRUE,2007,Los Angeles Angels,Howie Kendrick,placed,15,FALSE,NA
+2007-04-19,Colorado Rockies Placed RHP Rodrigo Lopez on the 15-day disabled list with right elbow inflammation,TRUE,2007,Colorado Rockies,Rodrigo Lopez,placed,15,FALSE,NA
+2007-04-20,"Arizona Diamondbacks Placed RHP Micah Owings on the 15-day disabled list, retroactive to April 18, with a strained right hamstring and recalled LHP Dana Eveland and RHP Mike Schultz from Triple-A Tucson.",TRUE,2007,Arizona Diamondbacks,Micah Owings,placed,15,TRUE,2007-04-18
+2007-04-20,Baltimore Orioles Activated OF Jay Payton from the 15-day disabled list,TRUE,2007,Baltimore Orioles,Jay Payton,activated,15,FALSE,NA
+2007-04-20,"Detroit Tigers Transferred LHP Edward Campusano from the 15-day to the 60-day disabled list and placed RHP Jose Mesa on the 15-day disabled list, retroactive to April 17, with a pulled right groin",TRUE,2007,Detroit Tigers,Jose Mesa,transferred,60,TRUE,2007-04-17
+2007-04-20,"Florida Marlins Placed RHP Sergio Mitre on 15-day disabled list, retroactive to April 18, with blister on right middle finger",TRUE,2007,Florida Marlins,Sergio Mitre,placed,15,TRUE,2007-04-18
+2007-04-21,Arizona Diamondbacks Placed RHP Juan Cruz on the 15-day disabled list with a strained muscle in his upper triceps and recalled RHP Dustin Nippert from Triple-A Tucson.,TRUE,2007,Arizona Diamondbacks,Juan Cruz,placed,15,FALSE,NA
+2007-04-21,"Colorado Rockies Placed RHP Ramon Ramirez on the 15-day disabled list, retroactive to April 18, with a sprained right elbow",TRUE,2007,Colorado Rockies,Ramon Ramirez,placed,15,TRUE,2007-04-18
+2007-04-21,Los Angeles Angels Activated RHP Bartolo Colon from the 15-day disabled list,TRUE,2007,Los Angeles Angels,Bartolo Colon,activated,15,FALSE,NA
+2007-04-21,New York Yankees Activated RHP Jeff Karstens from the 15-day disabled list and optioned RHP Chris Britton to Triple-A Scranton/Wilkes-Barre.,TRUE,2007,New York Yankees,Jeff Karstens,activated,15,FALSE,NA
+2007-04-22,"Cincinnati Reds Recalled INF Jeff Keppinger from his rehabilitation assignment, reinstated him from the 15-day disabled list and optioned him to Triple-A Louisville.",TRUE,2007,Cincinnati Reds,Jeff Keppinger,activated,15,FALSE,NA
+2007-04-22,Pittsburgh Pirates Activated LHP John Grabow from the 15-day disabled list and optioned LHP Juan Perez to Triple-A Indianapolis.,TRUE,2007,Pittsburgh Pirates,John Grabow,activated,15,FALSE,NA
+2007-04-23,Chicago Cubs Placed RHP Wade Miller on the 15-day disabled list (back spasms) and recalled RHP Rocky Cherry from Triple-A Iowa.,TRUE,2007,Chicago Cubs,Wade Miller,placed,15,FALSE,NA
+2007-04-23,Cleveland Indians Placed INF Andy Marte on the 15-day disabled list with a strained left hamstring,TRUE,2007,Cleveland Indians,Andy Marte,placed,15,FALSE,NA
+2007-04-23,New York Yankees Activated OF Hideki Matsui from the 15-day disabled list and optioned LHP Chase Wright to Double-A Trenton.,TRUE,2007,New York Yankees,Hideki Matsui,activated,15,FALSE,NA
+2007-04-23,"Placed RHP Rich Harden on the 15-day disabled list, retroactive to April 16",TRUE,2007,Oakland Athletics,Rich Harden,placed,15,TRUE,2007-04-16
+2007-04-23,Transferred OF Mark Kotsay to the 60-day disabled list,TRUE,2007,Oakland Athletics,Mark Kotsay,transferred,60,FALSE,NA
+2007-04-23,Philadelphia Phillies Activated C Ryan Budde from the 15-day disabled list.,TRUE,2007,Philadelphia Phillies,Ryan Budde,activated,15,FALSE,NA
+2007-04-23,"Placed RHP Felix Hernandez on the 15-day disabled list, retroactive to April 19, with a strained flexor-pronator muscle in his right forearm.",TRUE,2007,Seattle Mariners,Felix Hernandez,placed,15,TRUE,2007-04-19
+2007-04-23,Texas Rangers Placed RHP Eric Gagn?n the 15-day disabled list with a right hip strain,TRUE,2007,Texas Rangers,Eric Gagne,placed,15,FALSE,NA
+2007-04-23,Toronto Blue Jays Transferred LHP B.J. Ryan from the 15-day to the 60-day disabled list.,TRUE,2007,Toronto Blue Jays,B.J. Ryan,transferred,60,FALSE,NA
+2007-04-24,Arizona Diamondbacks Activated LHP Randy Johnson from the 15-day disabled list,TRUE,2007,Arizona Diamondbacks,Randy Johnson,activated,15,FALSE,NA
+2007-04-24,Baltimore Orioles Placed RHP Scott Williamson on the 15-day disabled list with right triceps tendon tightness and recalled RHP Jim Johnson from Triple-A Norfolk.,TRUE,2007,Baltimore Orioles,Scott Williamson,placed,15,FALSE,NA
+2007-04-24,"Colorado Rockies Placed RHP LaTroy Hawkins on the 15-day disabled list, retroactive to April 21, with right elbow inflammation and activated LHP Tom Martin from the 15-day disabled list.",TRUE,2007,Colorado Rockies,LaTroy Hawkins,placed,15,TRUE,2007-04-21
+2007-04-24,Los Angeles Angels Activated RHP Kelvim Escobar from 15-day disabled list,TRUE,2007,Los Angeles Angels,Kelvim Escobar,activated,15,FALSE,NA
+2007-04-24,New York Yankees Activated RHP Ching-Ming Wang from the 15-day disabled list,TRUE,2007,New York Yankees,Chien Ming Wang,activated,15,FALSE,NA
+2007-04-24,Tampa Bay Devil Rays Placed 3B Akinori Iwamura on the 15-day disabled list with a right oblique strain and recalled INF Jorge Cantu from Triple-A Durham.,TRUE,2007,Tampa Bay Devil Rays,Akinori Iwamura,placed,15,FALSE,NA
+2007-04-25,Florida Marlins Purchased the contract of RHP Nate Field from Triple-A Albuquerque and transferred RHP Logan Kensing from the 15-day to the 60-day disabled list.,TRUE,2007,Florida Marlins,Nate Field,transferred,60,FALSE,NA
+2007-04-25,Houston Astros Placed RHP Rick White on the 15-day disabled list (strained oblique) and purchased the contract of LHP Stephen Randolph from Triple-A Round Rock.,TRUE,2007,Houston Astros,Rick White,placed,15,FALSE,NA
+2007-04-25,"Milwaukee Brewers Placed RHP Greg Aquino on the 15-day disabled list, retroactive to April 21, with right forearm tightness.",TRUE,2007,Milwaukee Brewers,Greg Aquino,placed,15,TRUE,2007-04-21
+2007-04-25,Oakland Athletics Activated 1B Dan Johnson from the 15-day disabled list and optioned C Adam Melhuse to Triple-A Sacramento.,TRUE,2007,Oakland Athletics,Dan Johnson,activated,15,FALSE,NA
+2007-04-25,Toronto Blue Jays Placed C Gregg Zaun on the 15-day disabled list,TRUE,2007,Toronto Blue Jays,Gregg Zaun,placed,15,FALSE,NA
+2007-04-26,Baltimore Orioles Activated C Ramon Hernandez from the 15-day disabled list,TRUE,2007,Baltimore Orioles,Ramon Hernandez,activated,15,FALSE,NA
+2007-04-26,Los Angeles Angels Transferred OF Juan Rivera from the 15-day to the 60-day disabled list,TRUE,2007,Los Angeles Angels,Juan Rivera,transferred,60,FALSE,NA
+2007-04-26,"Pittsburgh Pirates Placed C Humberto Cota on the 15-day disabled list, retroactive to April 23, with a left shoulder strain and recalled C Ryan Doumit from Triple-A Indianapolis.",TRUE,2007,Pittsburgh Pirates,Humberto Cota,placed,15,TRUE,2007-04-23
+2007-04-27,Los Angeles Dodgers Activated OF Matt Kemp from the 15-day disabled list and optioned him to Triple-A Las Vegas.,TRUE,2007,Los Angeles Dodgers,Matt Kemp,activated,15,FALSE,NA
+2007-04-27,San Diego Padres Activated C Josh Bard from the 15-day disabled list and placed 3B Russell Branyan on the bereavement list.,TRUE,2007,San Diego Padres,Josh Bard,activated,15,FALSE,NA
+2007-04-28,Toronto Blue Jays Activated 3B Troy Glaus from the 15-day disabled list and optioned INF Ryan Roberts to Triple-A Syracuse.,TRUE,2007,Toronto Blue Jays,Troy Glaus,activated,15,FALSE,NA
+2007-04-29,Baltimore Orioles Activated RHP Jaret Wright from the disabled list and optioned RHP Jim Johnson to Triple-A Norfolk.,TRUE,2007,Baltimore Orioles,Jaret Wright,activated,NA,FALSE,NA
+2007-04-29,Placed DH Jim Thome on the 15-day disabled list (retroactive to April 28) and recalled OF Ryan Sweeney from Triple-A Charlotte.,TRUE,2007,Chicago White Sox,Jim Thome,placed,15,TRUE,2007-04-28
+2007-04-29,Los Angeles Angels Activated 3B Chone Figgins from the 15-day disabled list and optioned 3B Brandon Wood to Triple-A Salt Lake.,TRUE,2007,Los Angeles Angels,Chone Figgins,activated,15,FALSE,NA
+2007-04-29,New York Yankees Placed RHP Jeff Karstens on the 15-day disabled list with a fractured right fibula,TRUE,2007,New York Yankees,Jeff Karstens,placed,15,FALSE,NA
+2007-04-29,Washington Nationals Placed RHP Jerome Williams on the 15-day disabled list with a sprained left ankle and activated LHP Ray King from the 15-day disabled list.,TRUE,2007,Washington Nationals,Jerome Williams,placed,15,FALSE,NA
+2007-04-30,Atlanta Braves Placed RHP Bob Wickman on the 15-day disabled list and activated RHP Chad Paronto from the 15-day disabled list.,TRUE,2007,Atlanta Braves,Bob Wickman,placed,15,FALSE,NA
+2007-04-30,Baltimore Orioles Placed RHP Jaret Wright on the 15-day disabled list with a recurrence of right shoulder soreness,TRUE,2007,Baltimore Orioles,Jaret Wright,placed,15,FALSE,NA
+2007-04-30,"New York Mets Placed RHP Orlando Hernandez on the 15-day disabled list, retroactive to April 25, with bursitis in his right shoulder",TRUE,2007,New York Mets,Orlando Hernandez,placed,15,TRUE,2007-04-25
+2007-04-30,"Placed INF Jose Valentin on the 15-day disabled list, retroactive to April 29, with a partial tear of the ACL ligament of his right knee",TRUE,2007,New York Mets,Jose Valentin,placed,15,TRUE,2007-04-29
+2007-04-30,Toronto Blue Jays Placed LHP Gustavo Chacin on the 15-day disabled list with a left shoulder strain.,TRUE,2007,Toronto Blue Jays,Gustavo Chacin,placed,15,FALSE,NA
+2007-05-01,Florida Marlins Activated RHP Ricky Nolasco from the 15-day disabled list and designated RHP Nate Field for assignment.,TRUE,2007,Florida Marlins,Ricky Nolasco,activated,15,FALSE,NA
+2007-05-01,Kansas City Royals Placed 1B Ryan Shealy on the 15-day disabled list with a left hamstring injury,TRUE,2007,Kansas City Royals,Ryan Shealy,placed,15,FALSE,NA
+2007-05-01,Minnesota Twins Activated INF Jeff Cirillo from the 15-day disabled list and optioned INF Alexi Casilla to Triple-A Rochester.,TRUE,2007,Minnesota Twins,Jeff Cirillo,activated,15,FALSE,NA
+2007-05-01,"Oakland Athletics Placed OF Bobby Kielty on the 15-day disabled list, retroactive to April 29, with a strained left calf",TRUE,2007,Oakland Athletics,Bobby Kielty,placed,15,TRUE,2007-04-29
+2007-05-01,Texas Rangers Placed OF Frank Catalanotto (right bicep strain) on 15-day disabled list,TRUE,2007,Texas Rangers,Frank Catalanotto,placed,15,FALSE,NA
+2007-05-02,Placed LHP Mark Redman (left toe ailment) and C Brayan Pena (concussion-related symptoms) on the 15-day disabled list,TRUE,2007,Atlanta Braves,Mark Redman,placed,15,FALSE,NA
+2007-05-02,Transfered RHP Tanyon Sturtze to the 60-day disabled list.,TRUE,2007,Atlanta Braves,Tanyon Sturtze,transferred,60,FALSE,NA
+2007-05-02,Los Angeles Angels Placed INF Maicer Izturis on the 15-day disabled list with a tight right hamstring and recalled INF Brandon Wood from Triple-A Salt Lake.,TRUE,2007,Los Angeles Angels,Maicer Izturis,placed,15,FALSE,NA
+2007-05-03,Arizona Diamondbacks Activated RHP Micah Owings from the disabled list,TRUE,2007,Arizona Diamondbacks,Micah Owings,activated,NA,FALSE,NA
+2007-05-03,Boston Red Sox Placed RHP Mike Timlin on the 15-day disabled list with right shoulder tendinitis and recalled RHP Devern Hansack from Triple-A Pawtucket.,TRUE,2007,Boston Red Sox,Mike Timlin,placed,15,FALSE,NA
+2007-05-03,Cleveland Indians Activated LHP Cliff Lee from the 15-day disabled list,TRUE,2007,Cleveland Indians,Cliff Lee,activated,15,FALSE,NA
+2007-05-03,New York Yankees Placed RHP Phil Hughes on the 15-day disabled list,TRUE,2007,New York Yankees,Phil Hughes,placed,15,FALSE,NA
+2007-05-03,"Sent RHP Chris Britton to Triple-A Scranton, activated RHP Mike Mussina from the 15-day disabled list.",TRUE,2007,New York Yankees,Chris Britton,placed,15,FALSE,NA
+2007-05-03,Pittsburgh Pirates Placed RHP John Wasdin on the 15-day disabled list with a sprained right thumb,TRUE,2007,Pittsburgh Pirates,John Wasdin,placed,15,FALSE,NA
+2007-05-03,San Francisco Giants Placed RHP Russ Ortiz on the 15-day disabled list with right elbow neuritis (retroactive to May 2) and recalled INF Kevin Frandsen from Triple-A Fresno.,TRUE,2007,San Francisco Giants,Russ Ortiz,placed,15,TRUE,2007-05-02
+2007-05-04,"Baltimore Orioles Placed LHP Adam Loewen on the 15-day disabled list, retroactive to May 2, with a stress fracture in his left elbow.",TRUE,2007,Baltimore Orioles,Adam Loewen,placed,15,TRUE,2007-05-02
+2007-05-04,Florida Marlins Optioned RHP Anibal Sanchez Triple-A to Albuquerque and activated RHP Jorge Julio from the disabled list.,TRUE,2007,Florida Marlins,Anibal Sanchez,activated,NA,FALSE,NA
+2007-05-04,"Los Angeles Angels Placed OF Garret Anderson on the 15-day disabled list, retroactive to April 28, with a right hip flexor tendon tear",TRUE,2007,Los Angeles Angels,Garret Anderson,placed,15,TRUE,2007-04-28
+2007-05-04,Los Angeles Dodgers Activated LHP Hong-Chih Kuo from the 15-day disabled list and optioned him to Triple-A Las Vegas.,TRUE,2007,Los Angeles Dodgers,Hung Chih Kuo,activated,15,FALSE,NA
+2007-05-04,"Oakland Athletics Placed DH Mike Piazza on the 15-day disabled list, retroactive to May 3, with a sprained right shoulder",TRUE,2007,Oakland Athletics,Mike Piazza,placed,15,TRUE,2007-05-03
+2007-05-04,Transferred Esteban Loaiza to the 60-day disabled list,TRUE,2007,Oakland Athletics,Esteban Loaiza,transferred,60,FALSE,NA
+2007-05-04,"Philadelphia Phillies Placed RHP Tom Gordon on the 15-day disabled list, retroactive to May 2, with right rotator cuff inflammation",TRUE,2007,Philadelphia Phillies,Tom Gordon,placed,15,TRUE,2007-05-02
+2007-05-04,"San Diego Padres Placed RHP Clay Hensley on the 15-day disabled list, retroactive to May 3, due to a strained right groin and recalled LHP Justin Hampson from Triple-A Portland.",TRUE,2007,San Diego Padres,Clay Hensley,placed,15,TRUE,2007-05-03
+2007-05-05,Detroit Tigers Placed RHP Joel Zumaya on the 15-day disabled list and recalled RHP Aquilino Lopez from Triple-A Toledo.,TRUE,2007,Detroit Tigers,Joel Zumaya,placed,15,FALSE,NA
+2007-05-05,Activated RHP Sergio Mitre from the 15-day disabled list.,TRUE,2007,Florida Marlins,Sergio Mitre,activated,15,FALSE,NA
+2007-05-05,Philadelphia Phillies Placed RHP Ryan Madson on the 15-day disabled list with a strained left oblique muscle and purchased the contract of RHP Clay Condrey from Triple-A Ottawa.,TRUE,2007,Philadelphia Phillies,Ryan Madson,placed,15,FALSE,NA
+2007-05-05,Texas Rangers Placed RHP Kevin Millwood on the 15-day disabled list with a strained left hamstring and recalled RHP Wes Littleton from Triple-A Oklahoma.,TRUE,2007,Texas Rangers,Kevin Millwood,placed,15,FALSE,NA
+2007-05-06,Florida Marlins Placed OF Cody Ross on the 15-day disabled list with a left hamstring strain and recalled OF Eric Reed from Triple-A Albuquerque.,TRUE,2007,Florida Marlins,Cody Ross,placed,15,FALSE,NA
+2007-05-06,Los Angeles Dodgers Placed Marlon Anderson on the 15-day disabled list and recalled INF Andy LaRoche from Triple-A Las Vegas.,TRUE,2007,Los Angeles Dodgers,Marlon Anderson,placed,15,FALSE,NA
+2007-05-06,Minnesota Twins Placed C Joe Mauer on the 15-day disabled list with a strained left quad.,TRUE,2007,Minnesota Twins,Joe Mauer,placed,15,FALSE,NA
+2007-05-06,St. Louis Cardinals Placed OF Preston Wilson on the 15-day disabled list and optioned RHP Dennis Dove to Triple-A Memphis,TRUE,2007,St. Louis Cardinals,Preston Wilson,placed,15,FALSE,NA
+2007-05-06,"Washington Nationals Activated OF Nook Logan and SS Cristian Guzman from the 15-day disabled list, placed RHP John Patterson (right elbow biceps soreness) on the 15-day disabled list and outrighted OF Michael Restovich to Triple-A Columbus.",TRUE,2007,Washington Nationals,Nook Logan,activated,15,FALSE,NA
+2007-05-07,transferred LHP Adam Loewen to the 60-day disabled list.,TRUE,2007,Baltimore Orioles,Adam Loewen,transferred,60,FALSE,NA
+2007-05-07,"Cleveland Indians Placed RHP Jake Westbrook on the 15-day disabled list, retroactive to May 3, with a strained left abdominal muscle",TRUE,2007,Cleveland Indians,Jake Westbrook,placed,15,TRUE,2007-05-03
+2007-05-07,Transferred RHP Humberto Sanchez to the 60-day disabled list.,TRUE,2007,New York Yankees,Humberto Sanchez,transferred,60,FALSE,NA
+2007-05-08,"Los Angeles Angels Placed RHP Justin Speier on the 15-day disabled list, retroactive to April 30, due to a non-baseball related medical condition, and recalled INF Kendry Morales from Triple-A Salt Lake.",TRUE,2007,Los Angeles Angels,Justin Speier,placed,15,TRUE,2007-04-30
+2007-05-08,Texas Rangers Activated RHP Eric Gagne from the disabled list and optioned RHP Wes Littleton to Triple-A Oklahoma.,TRUE,2007,Texas Rangers,Eric Gagne,activated,NA,FALSE,NA
+2007-05-08,"Placed RHP Ryan Wagner on the 15-day disabled list, retroactive to May 7, with right rotator cuff inflammation and designated INF Josh Wilson for assignment.",TRUE,2007,Washington Nationals,Ryan Wagner,placed,15,TRUE,2007-05-07
+2007-05-09,Cincinnati Reds Placed LHP Eric Milton on the 15-day disabled list with a sprained left elbow,TRUE,2007,Cincinnati Reds,Eric Milton,placed,15,FALSE,NA
+2007-05-09,Recalled RHP Jared Burton from a rehab assignment and activated him from the 15-day disabled list.,TRUE,2007,Cincinnati Reds,Jared Burton,activated,15,FALSE,NA
+2007-05-09,Cleveland Indians Activated RHP Matt Miller from the 15-day disabled list and optioned him to Triple-A Buffalo.,TRUE,2007,Cleveland Indians,Matt Miller,activated,15,FALSE,NA
+2007-05-10,Transferred 3B Willy Aybar from the restricted list to the 15-day disabled list.,TRUE,2007,Atlanta Braves,Willy Aybar,transferred,15,FALSE,NA
+2007-05-10,Reinstated RHP Luke Hudson from the 15-day disabled list.,TRUE,2007,Kansas City Royals,Luke Hudson,activated,15,FALSE,NA
+2007-05-10,San Francisco Giants Placed OF Dave Roberts on the 15-day disabled list with left elbow bone spurs and designated OF Todd Linden for assignment.,TRUE,2007,San Francisco Giants,Dave Roberts,placed,15,FALSE,NA
+2007-05-10,Toronto Blue Jays Placed RHP Victor Zambrano on the 15-day disabled list and recalled RHP Jamie Vermilyea from Triple-A Syracuse.,TRUE,2007,Toronto Blue Jays,Victor Zambrano,placed,15,FALSE,NA
+2007-05-11,Activated RHP Juan Cruz from the 15-day disabled list,TRUE,2007,Arizona Diamondbacks,Juan Cruz,activated,15,FALSE,NA
+2007-05-11,"Florida Marlins Placed RHP Henry Owens on the 15-day disabled list, retroactive May 9, with right shoulder rotator cuff tendinitis and selected OF John Gall from Triple-A Albuquerque.",TRUE,2007,Florida Marlins,Henry Owens,placed,15,TRUE,2007-05-09
+2007-05-11,Houston Astros Activated RHP Rick White from the 15-day disabled list and optioned OF Chris Burke to Triple-A Round Rock.,TRUE,2007,Houston Astros,Rick White,activated,15,FALSE,NA
+2007-05-11,Kansas City Royals Placed C Jason LaRue on the 15-day disabled list with a left clavicle contusion,TRUE,2007,Kansas City Royals,Jason LaRue,placed,15,FALSE,NA
+2007-05-11,Transferred LHP John Bale from the 15-day to the 60-day disabled list.,TRUE,2007,Kansas City Royals,John Bale,transferred,60,FALSE,NA
+2007-05-11,"Minnesota Twins Placed OF Josh Rabe on the 15-day disabled list, retroactive to May 10, with right shoulder inflammation and reinstated OF Lew Ford from his rehab assignment at Triple-A Rochester.",TRUE,2007,Minnesota Twins,Josh Rabe,placed,15,TRUE,2007-05-10
+2007-05-11,Oakland Athletics Activated OF Milton Bradley from the 15-day disabled list and optioned OF Danny Putnam to Triple-A Sacramento.,TRUE,2007,Oakland Athletics,Milton Bradley,activated,15,FALSE,NA
+2007-05-11,Seattle Mariners Placed RHP Jeff Weaver (right shoulder tendinitis) on the 15-day disabled list,TRUE,2007,Seattle Mariners,Jeff Weaver,placed,15,FALSE,NA
+2007-05-11,Toronto Blue Jays Placed RHP Roy Halladay (acute appendicitis) on the 15-day disabled list.,TRUE,2007,Toronto Blue Jays,Roy Halladay,placed,15,FALSE,NA
+2007-05-12,Kansas City Royals Activated RHP Scott Elarton from the 15-day disabled list,TRUE,2007,Kansas City Royals,Scott Elarton,activated,15,FALSE,NA
+2007-05-12,"Philadelphia Phillies Placed 1B Ryan Howard on 15-day disabled list, retroactive to May 10, with a strain left quadriceps and recalled C Chris Coste from Triple-A Ottawa.",TRUE,2007,Philadelphia Phillies,Ryan Howard,placed,15,TRUE,2007-05-10
+2007-05-13,Baltimore Orioles Placed RHP Jon Leicester on the 15-day disabled list and activated RHP Scott Williamson from the disabled list.,TRUE,2007,Baltimore Orioles,Jon Leicester,placed,15,FALSE,NA
+2007-05-13,Transferred LHP Kenny Rogers from the 15-day to the 60-day disabled list.,TRUE,2007,Detroit Tigers,Kenny Rogers,transferred,60,FALSE,NA
+2007-05-13,Kansas City Royals Recalled SS Angel Berroa from Triple-A Omaha and placed INF Ross Gload on the 15-day disabled list with strained quadriceps,TRUE,2007,Kansas City Royals,Angel Berroa,placed,15,FALSE,NA
+2007-05-13,Placed RHP Luke Hudson on the 15-day disabled list with right biceps tendinitis and recalled RHP Brian Bannister from Triple-A Omaha.,TRUE,2007,Kansas City Royals,Luke Hudson,placed,15,FALSE,NA
+2007-05-13,St. Louis Cardinals Activated OF Juan Encarnacion from the 15-day disabled list and optioned OF Skip Schumaker to Triple-A Memphis.,TRUE,2007,St. Louis Cardinals,Juan Encarnacion,activated,15,FALSE,NA
+2007-05-14,Florida Marlins Returned OF Jeremy Hermida from his rehab assignment with Triple-A Albuquerque and activated him from the 15-day disabled list.,TRUE,2007,Florida Marlins,Jeremy Hermida,activated,15,FALSE,NA
+2007-05-14,Texas Rangers Activated RHP Kevin Millwood from the disabled list and optioned RHP Mike Wood to Triple-A Oklahoma.,TRUE,2007,Texas Rangers,Kevin Millwood,activated,NA,FALSE,NA
+2007-05-14,"Washington Nationals Reinstated RHP Chad Cordero from the Bereavement List and placed RHP Shawn Hill on the 15-day disabled list, retroactive to May 12, with a left shoulder strain",TRUE,2007,Washington Nationals,Chad Cordero,activated,15,TRUE,2007-05-12
+2007-05-15,Atlanta Braves Activated RHP Bob Wickman from the 15-day disabled list and optioned RHP Kevin Barry to Triple-A Richmond.,TRUE,2007,Atlanta Braves,Bob Wickman,activated,15,FALSE,NA
+2007-05-15,Transferred RHP Kerry Wood from the 15-day to the 60-day disabled list.,TRUE,2007,Chicago Cubs,Kerry Wood,transferred,60,FALSE,NA
+2007-05-15,Colorado Rockies Activated RHP Ramon Ramirez from the 15-day disabled list.,TRUE,2007,Colorado Rockies,Ramon Ramirez,activated,15,FALSE,NA
+2007-05-15,Los Angeles Angels Activated INF Maicer Izturis from the 15-day disabled list,TRUE,2007,Los Angeles Angels,Maicer Izturis,activated,15,FALSE,NA
+2007-05-15,Transferred RHP Jose Veras from the 15-day to the 60-day disabled list.,TRUE,2007,New York Yankees,Jose Veras,transferred,60,FALSE,NA
+2007-05-15,"Oakland Athletics Placed RHP Huston Street on the 15-day disabled list, retroactive to May 13, with an irritation in his right ulnar nerve and selected RHP Connor Robertson from Triple-A Sacramento.",TRUE,2007,Oakland Athletics,Huston Street,placed,15,TRUE,2007-05-13
+2007-05-15,Seattle Mariners Activated RHP Felix Hernandez from the 15-day disabled list,TRUE,2007,Seattle Mariners,Felix Hernandez,activated,15,FALSE,NA
+2007-05-15,Texas Rangers Placed RHP Kevin Millwood (left hamstring strain) on the 15-day disabled list,TRUE,2007,Texas Rangers,Kevin Millwood,placed,15,FALSE,NA
+2007-05-15,"Placed LHP Ron Mahay (right rib cage strain) on the 15-day disabled list, retroactive to May 12",TRUE,2007,Texas Rangers,Ron Mahay,placed,15,TRUE,2007-05-12
+2007-05-15,Washington Nationals Activated RHP Jerome Williams from the 15-day disabled list.,TRUE,2007,Washington Nationals,Jerome Williams,activated,15,FALSE,NA
+2007-05-16,Placed 3B Chad Tracy on the 15-day disabled list with a strained oblique,TRUE,2007,Arizona Diamondbacks,Chad Tracy,placed,15,FALSE,NA
+2007-05-16,Transferred OF Jeff DaVanon from the 15-day to the 60-day disabled list,TRUE,2007,Arizona Diamondbacks,Jeff DaVanon,transferred,60,FALSE,NA
+2007-05-16,Atlanta Braves Placed LHP Mike Gonzalez on the 15-day disabled list and recalled LHP Macay McBride from Triple-A Richmond.,TRUE,2007,Atlanta Braves,Mike Gonzalez,placed,15,FALSE,NA
+2007-05-16,"Detroit Tigers Placed RHP Jeremy Bonderman on the 15-day disabled list, retroactive to May 9.",TRUE,2007,Detroit Tigers,Jeremy Bonderman,placed,15,TRUE,2007-05-09
+2007-05-16,Kansas City Royals Recalled 1B Ryan Shealy from his injury rehabilitation assignment and activated him from the 15-day disabled list,TRUE,2007,Kansas City Royals,Ryan Shealy,activated,15,FALSE,NA
+2007-05-16,Minnesota Twins Placed RHP Jesse Crain on the 15-day disabled list with right shoulder inflammation and recalled RHP Julio DePaula from Triple-A Rochester.,TRUE,2007,Minnesota Twins,Jesse Crain,placed,15,FALSE,NA
+2007-05-16,New York Mets Placed OF Moises Alou on the 15-day disabled list with a pulled left quad,TRUE,2007,New York Mets,Moises Alou,placed,15,FALSE,NA
+2007-05-16,Oakland Athletics Placed OF Chris Snelling on the 15-day disabled list retroactive to May 11 with a left knee contusion,TRUE,2007,Oakland Athletics,Chris Snelling,placed,15,TRUE,2007-05-11
+2007-05-16,Transferred outfielder Bobby Kielty from the 15-day to the 60-day disabled list.,TRUE,2007,Oakland Athletics,Bobby Kielty,transferred,60,FALSE,NA
+2007-05-16,Seattle Mariners Transferred LHP Arthur Rhodes from the 15-day to the 60-day disabled list.,TRUE,2007,Seattle Mariners,Arthur Rhodes,transferred,60,FALSE,NA
+2007-05-16,Texas Rangers Placed OF Brad Wilkerson on the 15-day disabled list with a pulled right hamstring.,TRUE,2007,Texas Rangers,Brad Wilkerson,placed,15,FALSE,NA
+2007-05-16,Transferred LHP John Rheinecker from the 15-day to the 60-day disabled list.,TRUE,2007,Texas Rangers,John Rheinecker,transferred,60,FALSE,NA
+2007-05-16,Washington Nationals Placed RHP Jerome Williams on the 15-day disabled list with a right shoulder strain and selected the contract of LHP Billy Traber from Triple-A Columbus,TRUE,2007,Washington Nationals,Jerome Williams,placed,15,FALSE,NA
+2007-05-16,Transferred 1B Nick Johnson from the 15-day to the 60-day disabled list.,TRUE,2007,Washington Nationals,Nick Johnson,transferred,60,FALSE,NA
+2007-05-17,Activated C Brayan Pena from the 15-day disabled list.,TRUE,2007,Atlanta Braves,Brayan Pena,activated,15,FALSE,NA
+2007-05-17,Chicago White Sox Recalled C Toby Hall from his rehabilitation assignment from Triple-A Charlotte and reinstated him from the 15-day disabled list.,TRUE,2007,Chicago White Sox,Toby Hall,activated,15,FALSE,NA
+2007-05-17,"Florida Marlins Activated RHP Byung-Hyun Kim from the disabled list, and returned him from his rehabilitation assignment",TRUE,2007,Florida Marlins,Byung Hyun Kim,activated,NA,FALSE,NA
+2007-05-17,"Placed INF Mike Jacobs on the 15-day disabled list, retroactive to May 14, with a fractured right thumb.",TRUE,2007,Florida Marlins,Mike Jacobs,placed,15,TRUE,2007-05-14
+2007-05-17,"Tampa Bay Devil Rays Placed OF Rocco Baldelli on the 15-day disabled list with a left hamstring strain, and activated Greg Norton from the 15-day disabled list.",TRUE,2007,Tampa Bay Devil Rays,Rocco Baldelli,placed,15,FALSE,NA
+2007-05-17,Transferred INF Joaquin Arias from the 15-day to 60-day disabled list,TRUE,2007,Texas Rangers,Joaquin Arias,transferred,60,FALSE,NA
+2007-05-18,Atlanta Braves Activated LHP Mark Redman from the 15-day disabled list and optioned C Brayan Pena to Triple-A Richmond.,TRUE,2007,Atlanta Braves,Mark Redman,activated,15,FALSE,NA
+2007-05-18,"Colorado Rockies Placed RHP Zach McClellan on the 15-day disabled list, retroactive to May 14, with right shoulder inflammation",TRUE,2007,Colorado Rockies,Zach McClellan,placed,15,TRUE,2007-05-14
+2007-05-18,"Washington Nationals Placed RHP Jason Bergmann on the 15-day disabled list, retroactive to May 15, with right elbow inflammation and transferred RHP Luis Ayala from the 15-day to the 60-day disabled list.",TRUE,2007,Washington Nationals,Jason Bergmann,placed,15,TRUE,2007-05-15
+2007-05-19,"Boston Red Sox Placed RHP Josh Beckett on the 15-day disabled list, retroactive to May 14, with an avulsion on his right middle finger and recalled RHP Devern Hansack from Triple-A Pawtucket",TRUE,2007,Boston Red Sox,Josh Beckett,placed,15,TRUE,2007-05-14
+2007-05-19,Cleveland Indians Activated 3B Andy Marte from the disabled list,TRUE,2007,Cleveland Indians,Andy Marte,activated,NA,FALSE,NA
+2007-05-19,"Florida Marlins Placed RHP Ricky Nolasco on the 15-day disabled list, retroactive to May 18, with right elbow inflammation",TRUE,2007,Florida Marlins,Ricky Nolasco,placed,15,TRUE,2007-05-18
+2007-05-19,Selected the contract of RHP Justin Miller from Triple-A Albuquerque and transferred RHP Jose Garcia to 60-day disabled list.,TRUE,2007,Florida Marlins,Justin Miller,transferred,60,FALSE,NA
+2007-05-19,"Texas Rangers Placed INF/OF Jerry Hairston Jr. (pinched nerve in neck) on the 15-day disabled list, retroactive to May 17",TRUE,2007,Texas Rangers,Jerry Hairston,placed,15,TRUE,2007-05-17
+2007-05-19,"Placed 3B Hank Blalock (Thoracic Outlet Syndrome) on the 60-day disabled list, retroactive to May 17",TRUE,2007,Texas Rangers,Hank Blalock,placed,60,TRUE,2007-05-17
+2007-05-20,Atlanta Braves Placed RHP Anthony Lerew on the 15-day disabled list and recalled INF Martin Prado from Triple-A Richmond.,TRUE,2007,Atlanta Braves,Anthony Lerew,placed,15,FALSE,NA
+2007-05-20,Chicago White Sox Activated DH Jim Thome from the 15-day disabled list,TRUE,2007,Chicago White Sox,Jim Thome,activated,15,FALSE,NA
+2007-05-20,New York Yankees Purchased the contract of RHP Tyler Clippard from Triple-A Scranton/Wilkes-Barre and placed RHP Darrell Rasner on the 60-day disabled list with a fractured right index finger.,TRUE,2007,New York Yankees,Tyler Clippard,placed,60,FALSE,NA
+2007-05-20,Pittsburgh Pirates Activated C Humberto Cota from the 15-day disabled list and optioned INF Brad Eldred and RHP Marty McLeary to Triple-A Indianapolis.,TRUE,2007,Pittsburgh Pirates,Humberto Cota,activated,15,FALSE,NA
+2007-05-21,Cincinnati Reds Transferred INF Jerry Gil from the 15-day to the 60-day disabled list,TRUE,2007,Cincinnati Reds,Jerry Gil,transferred,60,FALSE,NA
+2007-05-21,Colorado Rockies Activated INF Kazuo Matsui from the 15-day disabled list,TRUE,2007,Colorado Rockies,Kazuo Matsui,activated,15,FALSE,NA
+2007-05-21,San Francisco Giants Activated RHP Russ Ortiz from the 15-day disabled list and optioned LHP Jonathan Sanchez to Triple-A Fresno.,TRUE,2007,San Francisco Giants,Russ Ortiz,activated,15,FALSE,NA
+2007-05-21,Texas Rangers Activated OF Frank Catalanotto from the 15-day disabled list and optioned INF Travis Metcalf to Double-A Frisco.,TRUE,2007,Texas Rangers,Frank Catalanotto,activated,15,FALSE,NA
+2007-05-22,"Cincinnati Reds Placed OF Josh Hamilton on the 15-day disabled list with gastroenteritis, retroactive to May 19, and recalled from 3B Edwin Encarnacion Triple-A Louisville.",TRUE,2007,Cincinnati Reds,Josh Hamilton,placed,15,TRUE,2007-05-19
+2007-05-22,Colorado Rockies Activated RHP LaTroy Hawkins from the 15-day disabled list,TRUE,2007,Colorado Rockies,LaTroy Hawkins,activated,15,FALSE,NA
+2007-05-22,Kansas City Royals Recalled RHP Octavio Dotel from his rehabilitation assignment and activated him from the 15-day disabled list,TRUE,2007,Kansas City Royals,Octavio Dotel,activated,15,FALSE,NA
+2007-05-22,"Los Angeles Angels Placed INF Maicer Izturis on 15-day disabled list, retroactive to May 21, with right hamstring irritation and recalled INF Howie Kendrick from his rehabilitation assignment and activated from the 15-day disbled list.",TRUE,2007,Los Angeles Angels,Maicer Izturis,placed,15,TRUE,2007-05-21
+2007-05-22,Minnesota Twins Placed LHP Glen Perkins on the 15-day disabled list with a mild muscle strain in the back of his left shoulder,TRUE,2007,Minnesota Twins,Glen Perkins,placed,15,FALSE,NA
+2007-05-22,"Oakland Athletics Placed RHP Justin Duchscherer on the 15-day disabled list, retroactive to May 15, with a right hip strain",TRUE,2007,Oakland Athletics,Justin Duchscherer,placed,15,TRUE,2007-05-15
+2007-05-23,Los Angeles Dodgers Recalled RHP Yhency Brazoban from Triple-A Las Vegas and placed RHP Chin-hui Tsao on the 15-day disabled list with a right shoulder strain.,TRUE,2007,Los Angeles Dodgers,Yhency Brazoban,placed,15,FALSE,NA
+2007-05-23,"Oakland Athletics Recalled INF Donnie Murphy from Triple-A Sacramento and placed OF Milton Bradley on the 15-day disabled list, retroactive to May 15, with a strained left hamstring.",TRUE,2007,Oakland Athletics,Donnie Murphy,placed,15,TRUE,2007-05-15
+2007-05-23,Philadelphia Phillies Reinstated RHP Ryan Madson from the 15-day disabled list.,TRUE,2007,Philadelphia Phillies,Ryan Madson,activated,15,FALSE,NA
+2007-05-23,"Seattle Mariners Placed RHP Chris Reitsma on the 15-day disabled list, retroactive to May 19, with inflammation in his right elbow",TRUE,2007,Seattle Mariners,Chris Reitsma,placed,15,TRUE,2007-05-19
+2007-05-24,Detroit Tigers Activated RHP Jeremy Bonderman from the 15-day disabled list.,TRUE,2007,Detroit Tigers,Jeremy Bonderman,activated,15,FALSE,NA
+2007-05-24,"Milwaukee Brewers Purchased the contract of 3B Ryan Braun from Triple-A Nashville and placed RHP Elmer Dessens on the 15-day disabled list, retroactive to May 19, with a right shoulder strain.",TRUE,2007,Milwaukee Brewers,Ryan Braun,placed,15,TRUE,2007-05-19
+2007-05-24,"Minnesota Twins Placed LHP Dennys Reyes on the 15-day disabled list, retroactive to May 21, with inflammation in his left shoulder",TRUE,2007,Minnesota Twins,Dennys Reyes,placed,15,TRUE,2007-05-21
+2007-05-24,Purchased the contract of LHP Jason Miller from Triple-A Rochester and transferred INF Alejandro Machado from the 15-day to the 60-day disabled list.,TRUE,2007,Minnesota Twins,Jason Miller,transferred,60,FALSE,NA
+2007-05-24,"Tampa Bay Devil Rays Placed C Josh Paul on the 15-day disabled list, retroactive to May 20, and recalled C Shawn Riggans from Triple-A Durham.",TRUE,2007,Tampa Bay Devil Rays,Josh Paul,placed,15,TRUE,2007-05-20
+2007-05-25,Milwaukee Brewers Activated RHP Greg Aquino from the 15-day disabled list and optioned him to Triple-A Nashville.,TRUE,2007,Milwaukee Brewers,Greg Aquino,activated,15,FALSE,NA
+2007-05-25,"Oakland Athletics Placed RHP Connor Robertson on the 15-day disabled list, retroactive to May 22, with a fractured right thumb and selected LHP Erasmo Ramirez from Triple-A Sacramento",TRUE,2007,Oakland Athletics,Connor Robertson,placed,15,TRUE,2007-05-22
+2007-05-25,Philadelphia Phillies Placed RHP Brett Myers on the 15-day disabled list with a right shoulder strain and purchased the contract of LHP Mike Zagurski from Double-A Reading,TRUE,2007,Philadelphia Phillies,Brett Myers,placed,15,FALSE,NA
+2007-05-25,Activated 1B Ryan Howard from the 15-day disabled list and optioned C/IF Chris Coste to Double-A Reading.,TRUE,2007,Philadelphia Phillies,Ryan Howard,activated,15,FALSE,NA
+2007-05-25,Placed LHP Horacio Ramirez on the 15-day disabled list with tendinitis in his left shoulder.,TRUE,2007,Seattle Mariners,Horacio Ramirez,placed,15,FALSE,NA
+2007-05-26,"Detroit Tigers Placed RHP Fernando Rodney on the 15-day disabled list with biceps tendinitis, retroactive to May 21",TRUE,2007,Detroit Tigers,Fernando Rodney,placed,15,TRUE,2007-05-21
+2007-05-26,Kansas City Royals Placed RHP Joakim Soria on the 15-day disabled list with right shoulder inflammation,TRUE,2007,Kansas City Royals,Joakim Soria,placed,15,FALSE,NA
+2007-05-26,Recalled C Jason LaRue from his rehabilitation assignment and activated him from the 15-day disabled list,TRUE,2007,Kansas City Royals,Jason LaRue,activated,15,FALSE,NA
+2007-05-26,"San Diego Padres Placed OF Brian Giles on the 15-day disabled list, retroactive to May 20, and recalled OF Paul McAnulty from Triple-A Portland.",TRUE,2007,San Diego Padres,Brian Giles,placed,15,TRUE,2007-05-20
+2007-05-27,"Arizona Diamondbacks Placed INF Jason Smith on the 15-day disabled list, retroactive to May 19, with a burst appendix.",TRUE,2007,Arizona Diamondbacks,Jason Smith,placed,15,TRUE,2007-05-19
+2007-05-28,Chicago White Sox Placed INF/OF Pablo Ozuna on the 15-day disabled list with a fractured right fibula and a torn right deltoid ligament,TRUE,2007,Chicago White Sox,Pablo Ozuna,placed,15,FALSE,NA
+2007-05-28,Colorado Rockies Placed RHP Josh Fogg on the 15-day disabled list with a strained left hamstring,TRUE,2007,Colorado Rockies,Josh Fogg,placed,15,FALSE,NA
+2007-05-28,Optioned Speier to Colorado Springs and activated RHP Rodrigo Lopez from the 15-day disabled list.,TRUE,2007,Colorado Rockies,Rodrigo Lopez,activated,15,FALSE,NA
+2007-05-28,New York Mets Activated RHP Orlando Hernandez from the 15-day disabled list,TRUE,2007,New York Mets,Orlando Hernandez,activated,15,FALSE,NA
+2007-05-28,Tampa Bay Devil Rays Activated 3B Akinori Iwamura from the 15-day disabled list and optioned OF/DH Jonny Gomes to Triple-A Durham.,TRUE,2007,Tampa Bay Devil Rays,Akinori Iwamura,activated,15,FALSE,NA
+2007-05-29,Boston Red Sox Activated RHP Josh Beckett the from 15-day disabled list.,TRUE,2007,Boston Red Sox,Josh Beckett,activated,15,FALSE,NA
+2007-05-29,Placed OF Ryan Freel on the 15-day disabled list.,TRUE,2007,Cincinnati Reds,Ryan Freel,placed,15,FALSE,NA
+2007-05-29,Houston Astros Activated RHP Jason Jennings from the 15-day disabled list and optioned LHP Mark McLemore to Triple-A Round Rock.,TRUE,2007,Houston Astros,Jason Jennings,activated,15,FALSE,NA
+2007-05-29,"New York Mets Placed OF Shawn Green on the 15-day disabled list, retroactive to May 26, with a chip fracture on the base of the first metatarsal of the right foot",TRUE,2007,New York Mets,Shawn Green,placed,15,TRUE,2007-05-26
+2007-05-29,Toronto Blue Jays Transferred RHP Brandon League to the 60-day disabled list.,TRUE,2007,Toronto Blue Jays,Brandon League,transferred,60,FALSE,NA
+2007-05-30,Transferred RHP Jesse Crain to the 60-day disabled list,TRUE,2007,Minnesota Twins,Jesse Crain,transferred,60,FALSE,NA
+2007-05-30,Oakland Athletics Activated OF Milton Bradley from the 15-day disabled list and designated OF Hiram Bocachica for assignment,TRUE,2007,Oakland Athletics,Milton Bradley,activated,15,FALSE,NA
+2007-05-30,San Diego Padres Activated RHP Scott Cassidy from the 15-day disabled list and optioned him to Triple-A Portland.,TRUE,2007,San Diego Padres,Scott Cassidy,activated,15,FALSE,NA
+2007-05-30,St. Louis Cardinals Placed C Yadier Molina on the 15-day disabled list with a fractured left wrist,TRUE,2007,St. Louis Cardinals,Yadier Molina,placed,15,FALSE,NA
+2007-05-31,Florida Marlins Activated RHP Henry Owens from the 15-day disabled list,TRUE,2007,Florida Marlins,Henry Owens,activated,15,FALSE,NA
+2007-05-31,"Milwaukee Brewers Placed 2B Rickie Weeks on the 15-day disabled list, retroactive to May 30, with tendinitis in right wrist",TRUE,2007,Milwaukee Brewers,Rickie Weeks,placed,15,TRUE,2007-05-30
+2007-05-31,activated RHP Roy Halladay from the 15-day disabled list.,TRUE,2007,Toronto Blue Jays,Roy Halladay,activated,15,FALSE,NA
+2007-06-01,"Atlanta Braves Placed INF Chipper Jones on the 15-day disabled list, retroactive to May 24",TRUE,2007,Atlanta Braves,Chipper Jones,placed,15,TRUE,2007-05-24
+2007-06-01,"Chicago Cubs Placed C Henry Blanco on the 15-day disabled list, retroactive to May 31, with a cervical herniated disc",TRUE,2007,Chicago Cubs,Henry Blanco,placed,15,TRUE,2007-05-31
+2007-06-01,Chicago White Sox Placed OF Darin Erstad on the 15-day disabled list with a sprained left ankle and recalled OF Jerry Owens from Triple-A Charlotte.,TRUE,2007,Chicago White Sox,Darin Erstad,placed,15,FALSE,NA
+2007-06-01,Placed RHP Yhency Brazoban on 15-day disabled list and recalled RHP Eric Hull from Triple-A Las Vegas.,TRUE,2007,Los Angeles Dodgers,Yhency Brazoban,placed,15,FALSE,NA
+2007-06-01,New York Yankees Placed 1B/DH Jason Giambi on the 15-day disabled list,TRUE,2007,New York Yankees,Jason Giambi,placed,15,FALSE,NA
+2007-06-01,Oakland Athletics Reinstated OF Mark Kotsay from the 60-day disabled list,TRUE,2007,Oakland Athletics,Mark Kotsay,activated,60,FALSE,NA
+2007-06-01,San Diego Padres Reinstated RHP Clay Hensley from the 15-day disabled list and was optioned to Triple-A Portland,TRUE,2007,San Diego Padres,Clay Hensley,activated,15,FALSE,NA
+2007-06-01,Texas Rangers Activated RHP Kevin Millwood from 15-day disabled list,TRUE,2007,Texas Rangers,Kevin Millwood,activated,15,FALSE,NA
+2007-06-02,Chicago Cubs Activated RHP Juan Mateo from the 15-day disabled list and optioned him to Single-A Peoria.,TRUE,2007,Chicago Cubs,Juan Mateo,activated,15,FALSE,NA
+2007-06-02,Houston Astros Placed RHP Rick White on 15-day disabled list with a pinched nerve in his neck,TRUE,2007,Houston Astros,Rick White,placed,15,FALSE,NA
+2007-06-02,Transferred C Hector Gimenez from the 15-day to the 60-day disabled list.,TRUE,2007,Houston Astros,Hector Gimenez,transferred,60,FALSE,NA
+2007-06-02,Los Angeles Angels Activated OF Garret Anderson from the 15-day disabled list,TRUE,2007,Los Angeles Angels,Garret Anderson,activated,15,FALSE,NA
+2007-06-02,Seattle Mariners Placed RHP Sean White on the 15-day disabled list with right biceps tendinitis and recalled RHP Jon Huber from Triple-A Tacoma.,TRUE,2007,Seattle Mariners,Sean White,placed,15,FALSE,NA
+2007-06-02,Activated LHP Jon Switzer from the 60-day disabled list and optioned him to Durham.,TRUE,2007,Tampa Bay Devil Rays,Jon Switzer,activated,60,FALSE,NA
+2007-06-03,Atlanta Braves Activated RHP Lance Cormier from the 15-day disabled list and optioned INF Martin Prado to Triple-A Richmond.,TRUE,2007,Atlanta Braves,Lance Cormier,activated,15,FALSE,NA
+2007-06-03,Chicago Cubs Placed INF/OF Daryle Ward on the 15-day disabled list with a left hip strain,TRUE,2007,Chicago Cubs,Daryle Ward,placed,15,FALSE,NA
+2007-06-03,New York Yankees Placed 1B Doug Mientkiewicz on the 15-day disabled list.,TRUE,2007,New York Yankees,Doug Mientkiewicz,placed,15,FALSE,NA
+2007-06-03,Tampa Bay Devil Rays Transferred C Josh Paul from the 15-day to the 60-day disabled list.,TRUE,2007,Tampa Bay Devil Rays,Josh Paul,transferred,60,FALSE,NA
+2007-06-03,Toronto Blue Jays Placed 1B Lyle Overbay on the 15-day disabled list.,TRUE,2007,Toronto Blue Jays,Lyle Overbay,placed,15,FALSE,NA
+2007-06-04,Transferred INF/OF Pablo Ozuna from the 15-day to the 60-day disabled list.,TRUE,2007,Chicago White Sox,Pablo Ozuna,transferred,60,FALSE,NA
+2007-06-04,Seattle Mariners Activated RHP Chris Reitsma from the 15-day disabled list,TRUE,2007,Seattle Mariners,Chris Reitsma,activated,15,FALSE,NA
+2007-06-04,"Tampa Bay Devil Rays Placed C Shawn Riggans on the 15-day disabled list, retroactive to June 2, with a right elbow injury",TRUE,2007,Tampa Bay Devil Rays,Shawn Riggans,placed,15,TRUE,2007-06-02
+2007-06-05,Cincinnati Reds Activated OF Josh Hamilton from the 15-day disabled list and recalled RHP Todd Coffey from Triple-A Louisville.,TRUE,2007,Cincinnati Reds,Josh Hamilton,activated,15,FALSE,NA
+2007-06-05,Detroit Tigers Activated RHP Fernando Rodney from the 15-day disabled list.,TRUE,2007,Detroit Tigers,Fernando Rodney,activated,15,FALSE,NA
+2007-06-05,Los Angeles Dodgers Activated RHP Jason Schmidt from 15-day disabled list and optioned RHP Eric Hull to Triple-A Las Vegas.,TRUE,2007,Los Angeles Dodgers,Jason Schmidt,activated,15,FALSE,NA
+2007-06-05,Transferred RHP Carl Pavano from the 15-day to the 60-day disabled list.,TRUE,2007,New York Yankees,Carl Pavano,transferred,60,FALSE,NA
+2007-06-05,"St. Louis Cardinals Purchased the contract of C Kelly Stinnett from Triple-A Memphis, optioned C Brian Esposito to Triple-A Memphis and transferred RHP Josh Kinney from 15-day to 60-day disabled list.",TRUE,2007,St. Louis Cardinals,Kelly Stinnett,transferred,60,FALSE,NA
+2007-06-05,Texas Rangers Activated LHP John Rheinecker (back strain) from the 60-day disabled list and INF/OF Jerry Hairston Jr. (pinched nerve in neck) from the 15-day disabled list,TRUE,2007,Texas Rangers,John Rheinecker,activated,60,FALSE,NA
+2007-06-05,Toronto Blue Jays Transferred RHP John Thomson to the 60-day disabled list and purchased the contract of C Curtis Thigpen from Triple-A Syracuse.,TRUE,2007,Toronto Blue Jays,John Thomson,transferred,60,FALSE,NA
+2007-06-06,"Chicago Cubs Placed RHP Angel Guzman on the 15-day disabled list, retroactive to June 2, with a strained right elbow and, selected RHP Sean Gallagher from Double-A Tennessee and transferred RHP Roberto Novoa to the 60-day disabled list.",TRUE,2007,Chicago Cubs,Angel Guzman,placed,15,TRUE,2007-06-02
+2007-06-06,"Chicago White Sox Placed 3B Joe Crede on the 15-day disabled list, retroactive to June 5, with lower back inflammation and recalled 3B Josh Fields from Triple-A Charlotte.",TRUE,2007,Chicago White Sox,Joe Crede,placed,15,TRUE,2007-06-05
+2007-06-06,Colorado Rockies Activated RHP Josh Fogg from the 15-day disabled list,TRUE,2007,Colorado Rockies,Josh Fogg,activated,15,FALSE,NA
+2007-06-07,Detroit Tigers Placed RHP Zach Miner and LHP Nate Robertson on the 15-day disabled list,TRUE,2007,Detroit Tigers,Zach Miner,placed,15,FALSE,NA
+2007-06-07,Kansas City Royals Activated RHP Joakim Soria from the 15-day disabled list and optioned RHP Ryan Braun to Triple-A Omaha.,TRUE,2007,Kansas City Royals,Joakim Soria,activated,15,FALSE,NA
+2007-06-07,New York Mets Placed OF Endy Chavez on the 15-day disabled list and activated INF Jose Valentin from the disabled list.,TRUE,2007,New York Mets,Endy Chavez,placed,15,FALSE,NA
+2007-06-07,San Francisco Giants Placed RHP Russ Ortiz on the 15-day disabled list (retroactive to June 5) with a right forearm strain and recalled LHP Jonathan Sanchez from Triple-A Fresno.,TRUE,2007,San Francisco Giants,Russ Ortiz,placed,15,TRUE,2007-06-05
+2007-06-08,"Baltimore Orioles Placed C Ramon Hernandez on the 15-day disabled list, retroactive to June 7, with a groin contusion",TRUE,2007,Baltimore Orioles,Ramon Hernandez,placed,15,TRUE,2007-06-07
+2007-06-08,Minnesota Twins Activated C Joe Mauer from the 15-day disabled list and optioned LHP Jason Miller to Triple-A Rochester.,TRUE,2007,Minnesota Twins,Joe Mauer,activated,15,FALSE,NA
+2007-06-08,"Oakland Athletics Placed OF Milton Bradley on the 15-day disabled list, retroactive to June 3, with a strained right calf and recalled Donnie Murphy from Triple-A Sacramento.",TRUE,2007,Oakland Athletics,Milton Bradley,placed,15,TRUE,2007-06-03
+2007-06-08,Toronto Blue Jays Activated C Gregg Zaun from the 15-day disabled list and sent RHP Ismael Ramirez outright to Triple-A Syracuse.,TRUE,2007,Toronto Blue Jays,Gregg Zaun,activated,15,FALSE,NA
+2007-06-09,Atlanta Braves Placed RHP Lance Cormier (arm soreness) on 15-day disabled list,TRUE,2007,Atlanta Braves,Lance Cormier,placed,15,FALSE,NA
+2007-06-09,Boston Red Sox Activated RHP Mike Timlin from the 15-day disabled list and designated LHP J.C. Romero for assignment.,TRUE,2007,Boston Red Sox,Mike Timlin,activated,15,FALSE,NA
+2007-06-09,Los Angeles Dodgers Recalled OF Matt Kemp from Triple-A Las Vegas and placed INF Ramon Martinez on the 15-day disabled list.,TRUE,2007,Los Angeles Dodgers,Matt Kemp,placed,15,FALSE,NA
+2007-06-09,Transferred RHP Phil Hughes from the 15-day to the 60-day disabled list.,TRUE,2007,New York Yankees,Phil Hughes,transferred,60,FALSE,NA
+2007-06-09,Philadelphia Phillies Placed RHP Freddy Garcia on the 15-day disabled list,TRUE,2007,Philadelphia Phillies,Freddy Garcia,placed,15,FALSE,NA
+2007-06-09,Pittsburgh Pirates Placed RHP Salomon Torres on the 15-day disabled list with right medial elbow inflammation and purchased the contract of RHP Masumi Kuwata from Triple-A Indianapolis.,TRUE,2007,Pittsburgh Pirates,Salomon Torres,placed,15,FALSE,NA
+2007-06-09,San Francisco Giants Placed C Eliezer Alfonzo and OF Fred Lewis on the 15-day disabled list,TRUE,2007,San Francisco Giants,Eliezer Alfonzo,placed,15,FALSE,NA
+2007-06-09,activated OF Dave Roberts from the DL,TRUE,2007,San Francisco Giants,Dave Roberts,activated,NA,FALSE,NA
+2007-06-09,"Seattle Mariners Activated Jeff Weaver from the 15-day disabled list and placed RHP Jon Huber on the 15-day disabled list, retroactive to June 7, with right forearm stiffness.",TRUE,2007,Seattle Mariners,Jeff Weaver,activated,15,TRUE,2007-06-07
+2007-06-09,Texas Rangers Placed 1B Mark Teixeira on the 15-day disabled list and recalled INF Travis Metcalf from Double-A Frisco,TRUE,2007,Texas Rangers,Mark Teixeira,placed,15,FALSE,NA
+2007-06-09,Activated OF Brad Wilkerson from 15-day disabled list,TRUE,2007,Texas Rangers,Brad Wilkerson,activated,15,FALSE,NA
+2007-06-09,Transferred RHP Jamey Wright from the 15-day to the 60-day disabled list.,TRUE,2007,Texas Rangers,Jamey Wright,transferred,60,FALSE,NA
+2007-06-10,Arizona Diamondbacks Activated 3B Chad Tracy from the 15-day disabled list and optioned INF/OF Robby Hammock to Triple-A Tucson.,TRUE,2007,Arizona Diamondbacks,Chad Tracy,activated,15,FALSE,NA
+2007-06-10,Kansas City Royals Activated RHP Leo Nunez from the 60-day disabled list and optioned him to Double-A Wichita.,TRUE,2007,Kansas City Royals,Ed Nunez,activated,60,FALSE,NA
+2007-06-11,Boston Red Sox Activated LHP Jon Lester from the 15-day disabled list and optioned him to Triple-A Pawtucket.,TRUE,2007,Boston Red Sox,Jon Lester,activated,15,FALSE,NA
+2007-06-11,"Chicago Cubs Reinstated OF Cliff Floyd from the bereavement list and placed INF Aramis Ramirez on the 15-day disabled list, retroactive to June 7, with left patellar tendonitis.",TRUE,2007,Chicago Cubs,Cliff Floyd,activated,15,TRUE,2007-06-07
+2007-06-11,New York Mets Activated OF Shawn Green from the 15-day disabled list,TRUE,2007,New York Mets,Shawn Green,activated,15,FALSE,NA
+2007-06-11,Seattle Mariners Placed RHP Chris Reitsma on the 15-day disabled list with inflammation in his right elbow and recalled LHP Jake Woods from Triple-A Tacoma.,TRUE,2007,Seattle Mariners,Chris Reitsma,placed,15,FALSE,NA
+2007-06-12,"Cincinnati Reds Placed RHP Jared Burton (low back spasms) on the 15-day disabled list, retroactive to June 11, and recalled RHP Todd Coffey from Louisville",TRUE,2007,Cincinnati Reds,Jared Burton,placed,15,TRUE,2007-06-11
+2007-06-12,Reinstated RHP Elizardo Ramirez from the 15-day disabled list and optioned him to Louisville,TRUE,2007,Cincinnati Reds,Elizardo Ramirez,activated,15,FALSE,NA
+2007-06-12,"placed RHP Tim Corcoran on the 15-day disabled list, retroactive to June 9, with a right elbow strain",TRUE,2007,Tampa Bay Devil Rays,Tim Corcoran,placed,15,TRUE,2007-06-09
+2007-06-13,Atlanta Braves Activated INF Chipper Jones from the 15-day disabled list and optioned RHP Blaine Boyer to Triple-A Richmond.,TRUE,2007,Atlanta Braves,Chipper Jones,activated,15,FALSE,NA
+2007-06-13,"Florida Marlins Placed RHP Henry Owens on the 15-day disabled list, retroactive to June 9, with right shoulder inflammation",TRUE,2007,Florida Marlins,Henry Owens,placed,15,TRUE,2007-06-09
+2007-06-13,"Reinstated RHP Carlos Martinez from the 15-day disabled list, and optioned him to Double-A Carolina.",TRUE,2007,Florida Marlins,Carlos Martinez,activated,15,FALSE,NA
+2007-06-13,"Tampa Bay Devil Rays Placed INF/OF B.J. Upton was on the 15-day disabled list, retroactive to June 9, and recalled OF Jonny Gomes from Triple-A Durham.",TRUE,2007,Tampa Bay Devil Rays,B.J. Upton,placed,15,TRUE,2007-06-09
+2007-06-14,Placed SS Adam Everett on the 15-day disabled list with a fractured right fibula.,TRUE,2007,Houston Astros,Adam Everett,placed,15,FALSE,NA
+2007-06-14,Kansas City Royals Placed RHP Brandon Duckworth on the 15-day disabled list with a left rib-cage injury,TRUE,2007,Kansas City Royals,Brandon Duckworth,placed,15,FALSE,NA
+2007-06-14,"Placed INF Mark Grudzielanek on the 15-day disabled list, retroactive to June 13, with a torn meniscus in his left knee",TRUE,2007,Kansas City Royals,Mark Grudzielanek,placed,15,TRUE,2007-06-13
+2007-06-14,"Milwaukee Brewers Placed LHP Chris Capuano on the 15-day disabled list, retroactive to June 9, with a strained left groin",TRUE,2007,Milwaukee Brewers,Chris Capuano,placed,15,TRUE,2007-06-09
+2007-06-14,Minnesota Twins Activated LHP Dennys Reyes from the 15-day disabled list and optioned to LHP Carmen Cali Triple-A Rochester.,TRUE,2007,Minnesota Twins,Dennys Reyes,activated,15,FALSE,NA
+2007-06-14,"Texas Rangers Recalled RHP Kameron Loe from Triple-A Oklahoma and placed RHP Brandon McCarthy (blister on right middle finger) on the 15-day disabled list, retroactive to June 10.",TRUE,2007,Texas Rangers,Kameron Loe,placed,15,TRUE,2007-06-10
+2007-06-15,Texas Rangers Activated LHP Ron Mahay from the 15-day disabled list,TRUE,2007,Texas Rangers,Ron Mahay,activated,15,FALSE,NA
+2007-06-16,Arizona Diamondbacks Placed LHP Randy Johnson on the 15-day disabled list and promoted RHP Enrique Gonzalez from Triple-A Tucson,TRUE,2007,Arizona Diamondbacks,Randy Johnson,placed,15,FALSE,NA
+2007-06-16,Chicago White Sox Recalled RHP David Aardsma from Triple-A Charlotte and placed RHP Dewon Day on the 15-day disabled list,TRUE,2007,Chicago White Sox,David Aardsma,placed,15,FALSE,NA
+2007-06-16,Houston Astros Optioned LHP Mark McLemore to Triple-A Round Rock and activated RHP Rick White from the 15-day disabled list.,TRUE,2007,Houston Astros,Mark McLemore,activated,15,FALSE,NA
+2007-06-16,Los Angeles Angels Placed OF Garret Anderson on the 15-day disabled list with right hip flexor injury.,TRUE,2007,Los Angeles Angels,Garret Anderson,placed,15,FALSE,NA
+2007-06-16,"St. Louis Cardinals Recalled RHP Anthony Reyes and SS Brendan Ryan from Triple-A Memphis, optioned RHP Kelvin Jimenez to Memphis and placed SS David Eckstein on the 15-day disabled list with back spasms.",TRUE,2007,St. Louis Cardinals,Anthony Reyes,placed,15,FALSE,NA
+2007-06-16,Texas Rangers Activated RHP Jamey Wright from the 60-day disabled list,TRUE,2007,Texas Rangers,Jamey Wright,activated,60,FALSE,NA
+2007-06-16,Recalled RHP Josh Rupe from Oklahoma and placed him on the 60-day disabled list.,TRUE,2007,Texas Rangers,Josh Rupe,placed,60,FALSE,NA
+2007-06-17,"Baltimore Orioles Recalled RHP Jim Hoey from Triple-A Norfolk, purchased the contract of RHP Cory Doyne from Norfolk, released RHP Todd Williams and placed RHP Danys Baez on the 15-day disabled list with tendinitis in right forearm.",TRUE,2007,Baltimore Orioles,Jim Hoey,placed,15,FALSE,NA
+2007-06-17,"Boston Red Sox Placed RHP Brendan Donnelly on the 15-day disabled list, retroactive to June 11, with a strained right forearm and recalled RHP Manny Delcarmen from Triple-A Pawtucket.",TRUE,2007,Boston Red Sox,Brendan Donnelly,placed,15,TRUE,2007-06-11
+2007-06-17,Placed LHP Mike Stanton on 15-day disabled list.,TRUE,2007,Cincinnati Reds,Mike Stanton,placed,15,FALSE,NA
+2007-06-17,Florida Marlins Purchased the contract of OF Brett Carroll from Triple-A Albuquerque and transferred OF Alejandro De Aza from the 15-day to the 60-day disabled list,TRUE,2007,Florida Marlins,Brett Carroll,transferred,60,FALSE,NA
+2007-06-17,Philadelphia Phillies Placed RHP Francisco Rosario on the 15-day disabled list and recalled RHP Brian Sanches from Triple-A Ottawa.,TRUE,2007,Philadelphia Phillies,Brian Sanches,placed,15,FALSE,NA
+2007-06-18,Florida Marlins Reinstated RHP Josh Johnson from the 15-day disabled list and optioned RHP Lee Gardner to Triple-A Albuquerque.,TRUE,2007,Florida Marlins,Josh Johnson,activated,15,FALSE,NA
+2007-06-18,Los Angeles Dodgers Placed RHP Jason Schmidt on 15-day disabled list,TRUE,2007,Los Angeles Dodgers,Jason Schmidt,placed,15,FALSE,NA
+2007-06-18,Activated IF/OF Marlon Anderson from 15-day disabled list.,TRUE,2007,Los Angeles Dodgers,Marlon Anderson,activated,15,FALSE,NA
+2007-06-18,Milwaukee Brewers Activated INF Rickie Weeks from the 15-day disabled list and optioned OF Tony Gwynn to Triple-A Nashville.,TRUE,2007,Milwaukee Brewers,Rickie Weeks,activated,15,FALSE,NA
+2007-06-18,"San Francisco Giants Placed INF Rich Aurilia on the 15-day disabled list, retroactive to June 17, with a neck strain, purchased the contract of INF Luis Figueroa from Triple-A Fresno and transferred C Eliezer Alfonzo from the 15-day to the 60-day disabled list.",TRUE,2007,San Francisco Giants,Rich Aurilia,placed,15,TRUE,2007-06-17
+2007-06-18,"St. Louis Cardinals Placed OF Jim Edmonds and RHP Braden Looper on the 15-day disabled list, retroactive to June 16",TRUE,2007,St. Louis Cardinals,Jim Edmonds,placed,15,TRUE,2007-06-16
+2007-06-18,Washington Nationals Reinstated LHP Mike O'Connor from the 60-day disabled list and optioned him to Double-A Harrisburg,TRUE,2007,Washington Nationals,Mike O'Connor,activated,60,FALSE,NA
+2007-06-18,Transferred RHP Ryan Wagner to the 60-day disabled list.,TRUE,2007,Washington Nationals,Ryan Wagner,transferred,60,FALSE,NA
+2007-06-19,Transferred RHP Jaret Wright and RHP Jon Leicester from the 15-day disabled list to the 60-day disabled list.,TRUE,2007,Baltimore Orioles,Jaret Wright,transferred,60,FALSE,NA
+2007-06-19,Chicago Cubs Activated INF Daryle Ward from the 15-day disabled list.,TRUE,2007,Chicago Cubs,Daryle Ward,activated,15,FALSE,NA
+2007-06-19,Houston Astros Placed RHP Brad Lidge on the 15-day disabled list with a strained oblique muscle and purchased the contract of LHP Stephen Randolph from Triple-A Round Rock.,TRUE,2007,Houston Astros,Brad Lidge,placed,15,FALSE,NA
+2007-06-19,"Kansas City Royals Placed 1B/DH Mike Sweeney on the 15-day disabled list, retroactive to June 18, with a sore right knee",TRUE,2007,Kansas City Royals,Mike Sweeney,placed,15,TRUE,2007-06-18
+2007-06-19,"Toronto Blue Jays Placed RHP A.J. Burnett on the 15-day disabled list, retroactive to June 12, and recalled RHP Ty Taubenheim from Triple-A Syracuse.",TRUE,2007,Toronto Blue Jays,A.J. Burnett,placed,15,TRUE,2007-06-12
+2007-06-20,Cleveland Indians Placed OF David Dellucci on the 15-day disabled list with a strained left hamstring,TRUE,2007,Cleveland Indians,David Dellucci,placed,15,FALSE,NA
+2007-06-20,Oakland Athletics Reinstated OF Milton Bradley from the 15-day disabled list and optioned INF J.J. Furmaniak to Triple-A Sacramento.,TRUE,2007,Oakland Athletics,Milton Bradley,activated,15,FALSE,NA
+2007-06-20,Washington Nationals Reinstated RHP Luis Ayala from the 60-day disabled list,TRUE,2007,Washington Nationals,Luis Ayala,activated,60,FALSE,NA
+2007-06-20,Transferred OF Alex Escobar from the 15-day to the 60-day disabled list.,TRUE,2007,Washington Nationals,Alex Escobar,transferred,60,FALSE,NA
+2007-06-21,Reinstated RHP Rich Harden from the 15-day disabled list and optioned RHP Shane Komine to Triple-A Sacramento.,TRUE,2007,Oakland Athletics,Rich Harden,activated,15,FALSE,NA
+2007-06-21,Washington Nationals Activated RHP Jerome Williams from the 15-day disabled list and sent him outright to Double-A Harrisburg.,TRUE,2007,Washington Nationals,Jerome Williams,activated,15,FALSE,NA
+2007-06-22,Baltimore Orioles Placed SS Miguel Tejada on the 15-day disabled list with a non-displaced fracture of the left radius,TRUE,2007,Baltimore Orioles,Miguel Tejada,placed,15,FALSE,NA
+2007-06-22,Activated C Ramon Hernandez from the 15-day disabled list,TRUE,2007,Baltimore Orioles,Ramon Hernandez,activated,15,FALSE,NA
+2007-06-22,"Boston Red Sox Placed RHP Curt Schilling on the 15-day disabled list, retroactive to June 19, with tendinitis in his right shoulder and recalled OF David Murphy from Triple-A Pawtucket.",TRUE,2007,Boston Red Sox,Curt Schilling,placed,15,TRUE,2007-06-19
+2007-06-22,Chicago Cubs Reinstated INF Aramis Ramirez from the 15-day disabled list.,TRUE,2007,Chicago Cubs,Aramis Ramirez,activated,15,FALSE,NA
+2007-06-22,Chicago White Sox Reinstated OF Darin Erstad from the 15-day disabled list.,TRUE,2007,Chicago White Sox,Darin Erstad,activated,15,FALSE,NA
+2007-06-22,Reinstated LHP Kenny Rogers from the 60-day disabled list.,TRUE,2007,Detroit Tigers,Kenny Rogers,activated,60,FALSE,NA
+2007-06-22,Florida Marlins Reinstated 1B Mike Jacobs from the 15-day disabled list and optioned OF Reggie Abercrombie to Triple-A Albuquerque.,TRUE,2007,Florida Marlins,Mike Jacobs,activated,15,FALSE,NA
+2007-06-22,"Kansas City Royals Signed RHP pitcher John Thomson to a one-year Major League contract and placed RHP Scott Elarton on the 15-day disabled list, retroactive to June 20, with a right foot sprain.",TRUE,2007,Kansas City Royals,John Thomson,placed,15,TRUE,2007-06-20
+2007-06-22,"San Diego Padres Placed RHP Doug Brocail on the 15-day disabled list, retroactive to June 21, due to a strained left gluteus muscle and recalled LHP Royce Ring from Triple-A Portland.",TRUE,2007,San Diego Padres,Doug Brocail,placed,15,TRUE,2007-06-21
+2007-06-22,"Seattle Mariners Placed RHP Cha Seung Baek on the 15-day disabled list, retroactive to June 17, with inflammation in his right shoulder",TRUE,2007,Seattle Mariners,Cha Seung Baek,placed,15,TRUE,2007-06-17
+2007-06-22,"Placed LHP Tyler Johnson on the 15-day disabled list, retroactive to June 19, with tendinitis in his left biceps",TRUE,2007,St. Louis Cardinals,Tyler Johnson,placed,15,TRUE,2007-06-19
+2007-06-22,Transferred LHP Mark Mulder from the 15-day to the 60-day disabled list.,TRUE,2007,St. Louis Cardinals,Mark Mulder,transferred,60,FALSE,NA
+2007-06-22,Transferred OF Rocco Baldelli from the 15-day to the 60-day disabled list.,TRUE,2007,Tampa Bay Devil Rays,Rocco Baldelli,transferred,60,FALSE,NA
+2007-06-23,Chicago White Sox Placed OF Darin Erstad on the 15-day disabled list with a sprained left ankle,TRUE,2007,Chicago White Sox,Darin Erstad,placed,15,FALSE,NA
+2007-06-23,Recalled OF Scott Podsednik from his rehabilitation assignment with Triple-A Charlotte and reinstated him from the 15-day disabled list.,TRUE,2007,Chicago White Sox,Scott Podsednik,activated,15,FALSE,NA
+2007-06-23,"Philadelphia Phillies Placed RHP Jon Lieber on the 15-day disabled list with a ruptured tendon in his right foot, and purchased the contract of RHP Clay Condrey from Triple-A Ottawa.",TRUE,2007,Philadelphia Phillies,Jon Lieber,placed,15,FALSE,NA
+2007-06-24,Cleveland Indians Activated RHP Jake Westbrook from the 15-day disabled list,TRUE,2007,Cleveland Indians,Jake Westbrook,activated,15,FALSE,NA
+2007-06-24,Recalled and reinstated RHP Jason Bergmann from the 15-day disabled list and optioned RHP Chris Schroder to Triple-A Columbus,TRUE,2007,Washington Nationals,Jason Bergmann,activated,15,FALSE,NA
+2007-06-24,Placed RHP Jesus Colome on the 15-day disabled list with a right lower extremity soft-tissue infection and recalled RHP Chris Schroder from Triple-A Columbus.,TRUE,2007,Washington Nationals,Jesus Colome,placed,15,FALSE,NA
+2007-06-25,"Oakland Athletics Placed RHP Kiko Calero on the 15-day disabled list, retroactive to June 17, with an inflamed right shoulder",TRUE,2007,Oakland Athletics,Kiko Calero,placed,15,TRUE,2007-06-17
+2007-06-25,Pittsburgh Pirates Recalled RHP John Wasdin from his rehab assignment and reinstated him from the 15-day disabled list.,TRUE,2007,Pittsburgh Pirates,John Wasdin,activated,15,FALSE,NA
+2007-06-25,"Texas Rangers Recalled RHP Scott Feldman from Triple-A Oklahoma and placed RHP Vicente Padilla (right triceps irritation) on the 15-day disabled list, retroactive to June 22.",TRUE,2007,Texas Rangers,Scott Feldman,placed,15,TRUE,2007-06-22
+2007-06-25,Washington Nationals Activated RHP Jason Bergmann from the 15-day disabled list,TRUE,2007,Washington Nationals,Jason Bergmann,activated,15,FALSE,NA
+2007-06-25,Placed SS Cristian Guzman on the 15-day disabled list with a sprained left thumb,TRUE,2007,Washington Nationals,Cristian Guzman,placed,15,FALSE,NA
+2007-06-26,Chicago Cubs Placed RHP Ryan Dempster on the 15-day disabled list retroactive to June 23,TRUE,2007,Chicago Cubs,Ryan Dempster,placed,15,TRUE,2007-06-23
+2007-06-26,Transferred RHP Wade Miller from the 15-day disabled list to the 60-day disabled list.,TRUE,2007,Chicago Cubs,Wade Miller,transferred,60,FALSE,NA
+2007-06-26,Detroit Tigers Placed RHP Fernando Rodney on the 15-day disabled list and activated LHP Nate Robertson.,TRUE,2007,Detroit Tigers,Fernando Rodney,placed,15,FALSE,NA
+2007-06-26,Florida Marlins Placed INF Aaron Boone on the 15-day disabled list with a sprained left knee,TRUE,2007,Florida Marlins,Aaron Boone,placed,15,FALSE,NA
+2007-06-27,"Cleveland Indians Placed LHP Aaron Fultz on the 15-day disabled list with a right intercostal strain, retroactive to June 24, and recalled RHP Edward Mujica from Triple-A Buffalo.",TRUE,2007,Cleveland Indians,Aaron Fultz,placed,15,TRUE,2007-06-24
+2007-06-27,Florida Marlins Transferred OF Cody Ross from the 15-day to the 60-day disabled list.,TRUE,2007,Florida Marlins,Cody Ross,transferred,60,FALSE,NA
+2007-06-28,Arizona Diamondbacks Activated LHP Randy Johnson from the disabled list and designated LHP Randy Choate for assignment.,TRUE,2007,Arizona Diamondbacks,Randy Johnson,activated,NA,FALSE,NA
+2007-06-28,Transferred RHP Scott Mathieson from the 15-day disabled list to the 60-day disabled list,TRUE,2007,Philadelphia Phillies,Scott Mathieson,transferred,60,FALSE,NA
+2007-06-28,Placed OF Jayson Werth on the 15-day disabled list and recalled C/INF Chris Coste from Double-A Reading.,TRUE,2007,Philadelphia Phillies,Jayson Werth,placed,15,FALSE,NA
+2007-06-28,San Diego Padres Reinstated OF Brian Giles from 15-day disabled list,TRUE,2007,San Diego Padres,Brian Giles,activated,15,FALSE,NA
+2007-06-28,St. Louis Cardinals Activated C Yadier Molina from the 15-day disabled list and sent C Kelly Stinnett outright to Triple-A Memphis.,TRUE,2007,St. Louis Cardinals,Yadier Molina,activated,15,FALSE,NA
+2007-06-28,Toronto Blue Jays Activated A.J. Burnett from the 15-day disabled list and optioned RHP Ty Taubenheim to Triple-A Syracuse.,TRUE,2007,Toronto Blue Jays,A.J. Burnett,activated,15,FALSE,NA
+2007-06-29,Los Angeles Dodgers Activated Chin-hui Tsao from the 15-day disabled list,TRUE,2007,Los Angeles Dodgers,Chin hui Tsao,activated,15,FALSE,NA
+2007-06-29,"Placed OF Travis Buck on the 15-day disabled list, retroactive to June 28, with a sprained right thumb and optioned RHP Ruddy Lugo to Triple-A Sacramento",TRUE,2007,Oakland Athletics,Travis Buck,placed,15,TRUE,2007-06-28
+2007-06-29,Transferred OF Chris Snelling from the 15-day disabled list to the 60-day disabled list.,TRUE,2007,Oakland Athletics,Chris Snelling,transferred,60,FALSE,NA
+2007-06-30,Atlanta Braves Activated RHP Lance Cormier from the 15-day disabled list and optioned him to Triple-A Richmond.,TRUE,2007,Atlanta Braves,Lance Cormier,activated,15,FALSE,NA
+2007-06-30,Baltimore Orioles Placed RHP Steve Trachsel on the 15-day disabled list with a strained gluteus and recalled LHP Kurt Birkins from Triple-A Norfolk.,TRUE,2007,Baltimore Orioles,Steve Trachsel,placed,15,FALSE,NA
+2007-06-30,"Boston Red Sox Purchased the contract of OF Jacoby Ellsbury from Triple-A Pawtucket and placed RHP Joel Pineiro on the 15-day disabled list, retroactive to June 28, with a right ankle sprain.",TRUE,2007,Boston Red Sox,Jacoby Ellsbury,placed,15,TRUE,2007-06-28
+2007-06-30,"Kansas City Royals Placed 1B Ryan Shealy on the 15-day disabled list, retroactive to June 26, with a left hamstring strain",TRUE,2007,Kansas City Royals,Ryan Shealy,placed,15,TRUE,2007-06-26
+2007-06-30,Recalled INF/OF Ross Gload from his injury rehab assignment and activated him from the 15-day disabled list,TRUE,2007,Kansas City Royals,Ross Gload,activated,15,FALSE,NA
+2007-06-30,Placed RHP Luke Hudson on the 60-day disabled list.,TRUE,2007,Kansas City Royals,Luke Hudson,placed,60,FALSE,NA
+2007-06-30,Transferred RHP Tom Gordon to the 60-day disabled list.,TRUE,2007,Philadelphia Phillies,Tom Gordon,transferred,60,FALSE,NA
+2007-06-30,Pittsburgh Pirates Placed OF Chris Duffy on the 15-day disabled list,TRUE,2007,Pittsburgh Pirates,Chris Duffy,placed,15,FALSE,NA
+2007-06-30,San Francisco Giants Activated OF Fred Lewis from the 15-day disabled list and designated INF Luis Figueroa for assignment.,TRUE,2007,San Francisco Giants,Fred Lewis,activated,15,FALSE,NA
+2007-07-01,Chicago Cubs Placed RHP Rocky Cherry on the 15-day disabled list with a right lat strain,TRUE,2007,Chicago Cubs,Rocky Cherry,placed,15,FALSE,NA
+2007-07-01,New York Mets Placed RHP Jorge Sosa on the 15-day disabled list,TRUE,2007,New York Mets,Jorge Sosa,placed,15,FALSE,NA
+2007-07-01,Transferred RHP Jeff Karstens to the 60-day disabled list.,TRUE,2007,New York Yankees,Jeff Karstens,transferred,60,FALSE,NA
+2007-07-01,"Pittsburgh Pirates Placed LHP Zach Duke on the 15-day disabled list, retroactive to June 29, with tendonitis in his left elbow.",TRUE,2007,Pittsburgh Pirates,Zach Duke,placed,15,TRUE,2007-06-29
+2007-07-01,"San Diego Padres Placed OF Milton Bradley on the 15-day disabled list, retroactive to June 21, due to a strained left oblique muscle.",TRUE,2007,San Diego Padres,Milton Bradley,placed,15,TRUE,2007-06-21
+2007-07-01,"Toronto Blue Jays Placed RHP A.J. Burnett on the 15-day disabled list, retroactive to June 29, and recalled RHP Jesse Litsch from Triple-A Syracuse.",TRUE,2007,Toronto Blue Jays,A.J. Burnett,placed,15,TRUE,2007-06-29
+2007-07-02,Transferred RHP Ricky Nolasco to the 60-day disabled list.,TRUE,2007,Florida Marlins,Ricky Nolasco,transferred,60,FALSE,NA
+2007-07-02,Los Angeles Angels Placed C Mike Napoli on the 15-day disabled list with a sprained left ankle,TRUE,2007,Los Angeles Angels,Mike Napoli,placed,15,FALSE,NA
+2007-07-02,Placed INF Erick Aybar on the 15-day disabled list with a bruised right hand,TRUE,2007,Los Angeles Angels,Erick Aybar,placed,15,FALSE,NA
+2007-07-02,Activated OF Garret Anderson from the 15-day disabled list,TRUE,2007,Los Angeles Angels,Garret Anderson,activated,15,FALSE,NA
+2007-07-02,Activated INF Maicer Izturis from the 15-day disabled list,TRUE,2007,Los Angeles Angels,Maicer Izturis,activated,15,FALSE,NA
+2007-07-02,Milwaukee Brewers Activated LHP Chris Capuano from the 15-day disabled list.,TRUE,2007,Milwaukee Brewers,Chris Capuano,activated,15,FALSE,NA
+2007-07-02,New York Mets Placed LHP Oliver Perez on the 15-day disabled list,TRUE,2007,New York Mets,Oliver Perez,placed,15,FALSE,NA
+2007-07-02,St. Louis Cardinals Activated RHP Braden Looper from the 15-day disabled list and optioned RHP Anthony Reyes to Triple-A Memphis.,TRUE,2007,St. Louis Cardinals,Braden Looper,activated,15,FALSE,NA
+2007-07-02,"Texas Rangers Activated RHP Brandon McCarthy from the 15-day disabled list and has placed INF Ian Kinsler on the 15-day disabled list, retroactive to June 29, with a left foot stress fracture.",TRUE,2007,Texas Rangers,Brandon McCarthy,activated,15,TRUE,2007-06-29
+2007-07-02,"Washington Nationals Placed LHP Micah Bowie on the 15-day disabled list, retroactive to June 28, with mild synovitis in the left hip.",TRUE,2007,Washington Nationals,Micah Bowie,placed,15,TRUE,2007-06-28
+2007-07-03,"Arizona Diamondbacks Placed LHP Randy Johnson on the 15-day disabled list, retroactive to June 29, with a sore back and recalled RHP Yusmeiro Petit from Triple-A Tucson.",TRUE,2007,Arizona Diamondbacks,Randy Johnson,placed,15,TRUE,2007-06-29
+2007-07-03,"Chicago White Sox Placed OF Scott Podsednik on the 15-day disabled list, retroactive to July 2, with a strained left ribcage muscle and recalled OF Jerry Owens from Triple-A Charlotte.",TRUE,2007,Chicago White Sox,Scott Podsednik,placed,15,TRUE,2007-07-02
+2007-07-03,Cincinnati Reds Activated UT Ryan Freel from the 15-day disabled list and designated C Chad Moeller for assignment.,TRUE,2007,Cincinnati Reds,Ryan Freel,activated,15,FALSE,NA
+2007-07-03,Colorado Rockies Placed RHP Jason Hirsh on the 15-day disabled list with a sprained right ankle,TRUE,2007,Colorado Rockies,Jason Hirsh,placed,15,FALSE,NA
+2007-07-03,"San Francisco Giants Activated IF Rich Aurilia from the 15-day disabled list, placed RHP Vinnie Chulk on bereavement leave and recalled LHP Patrick Misch from Triple-A Fresno.",TRUE,2007,San Francisco Giants,Rich Aurilia,activated,15,FALSE,NA
+2007-07-03,Tampa Bay Devil Rays Transferred RHP Tim Corcoran from the 15-day to the 60-day disabled list.,TRUE,2007,Tampa Bay Devil Rays,Tim Corcoran,transferred,60,FALSE,NA
+2007-07-04,"Los Angeles Dodgers Recalled LHP Hong-Chih Kuo from Triple-A Las Vegas and placed him on the 15-day disabled list, retroactive to June 30, with left elbow irritation",TRUE,2007,Los Angeles Dodgers,Hung Chih Kuo,placed,15,TRUE,2007-06-30
+2007-07-04,Placed LHP Randy Wolf on the 15-day disabled list with tenderness in his left shoulder,TRUE,2007,Los Angeles Dodgers,Randy Wolf,placed,15,FALSE,NA
+2007-07-04,Transferred RHP Duaner Sanchez to the 60-day disabled list.,TRUE,2007,New York Mets,Duaner Sanchez,transferred,60,FALSE,NA
+2007-07-04,"San Francisco Giants Placed LHP Jonathan Sanchez on the 15-day disabled list, retroactive to June 25, with a rib cage strain and purchased the contract of RHP Scott Atchison from Triple-A Fresno.",TRUE,2007,San Francisco Giants,Jonathan Sanchez,placed,15,TRUE,2007-06-25
+2007-07-04,Tampa Bay Devil Rays Placed RHP Al Reyes on the 15-day disabled list with a strained rotator cuff and recalled LHP Jon Switzer from Triple-A Durham.,TRUE,2007,Tampa Bay Devil Rays,Al Reyes,placed,15,FALSE,NA
+2007-07-05,Cincinnati Reds Reinstated LHP Mike Stanton from the 15-day disabled list,TRUE,2007,Cincinnati Reds,Mike Stanton,activated,15,FALSE,NA
+2007-07-05,Florida Marlins Placed RHP Josh Johnson on the 15-day disabled list with right forearm strain,TRUE,2007,Florida Marlins,Josh Johnson,placed,15,FALSE,NA
+2007-07-05,New York Mets Placed OF Carlos Gomez on the 15-day disabled list and promoted OF David Newhan from Triple-A New Orleans.,TRUE,2007,New York Mets,Carlos Gomez,placed,15,FALSE,NA
+2007-07-06,"Atlanta Braves Placed RHP John Smoltz on the 15-day disabled list, retroactive to July 3",TRUE,2007,Atlanta Braves,John Smoltz,placed,15,TRUE,NA
+2007-07-06,Transfered RHP Matt Clement to the 60-day disabled list.,TRUE,2007,Boston Red Sox,Matt Clement,transferred,60,FALSE,NA
+2007-07-06,"Chicago White Sox Placed RHP Mike MacDougal on the 15-day disabled list retroactive to July 5, with right shoulder inflammation",TRUE,2007,Chicago White Sox,Mike MacDougal,placed,15,TRUE,2007-07-05
+2007-07-06,Reinstated RHP Dewon Day from the 15-day disabled list.,TRUE,2007,Chicago White Sox,Dewon Day,activated,15,FALSE,NA
+2007-07-06,Transferred C Vance Wilson from the 15-day to the 60-day disabled list,TRUE,2007,Detroit Tigers,Vance Wilson,transferred,60,FALSE,NA
+2007-07-06,Kansas City Royals Activated 2B Mark Grudzielanek from the 15-day disabled list,TRUE,2007,Kansas City Royals,Mark Grudzielanek,activated,15,FALSE,NA
+2007-07-06,Milwaukee Brewers Placed OF Bill Hall on the 15-day disabled list with a sprained right ankle and recalled OF Tony Gwynn from Triple-A Nashville.,TRUE,2007,Milwaukee Brewers,Bill Hall,placed,15,FALSE,NA
+2007-07-06,Oakland Athletics Activated RHP Kiko Calero from the 15-day disabled list,TRUE,2007,Oakland Athletics,Kiko Calero,activated,15,FALSE,NA
+2007-07-06,Toronto Blue Jays Activated OF Reed Johnson from the 60-day disabled list,TRUE,2007,Toronto Blue Jays,Reed Johnson,activated,60,FALSE,NA
+2007-07-07,Baltimore Orioles Placed SS Freddie Bynum on the 15-day disabled list with a strained left hamstring and recalled INF Luis Hernandez from Triple-A Norfolk.,TRUE,2007,Baltimore Orioles,Freddie Bynum,placed,15,FALSE,NA
+2007-07-07,"Cincinnati Reds Placed INF Juan Castro (sprained right elbow) on the 15-day disabled list, retroactive to July 6",TRUE,2007,Cincinnati Reds,Juan Castro,placed,15,TRUE,NA
+2007-07-07,Returned RHP Jared Burton from a rehabilitation assignment and reinstated him from the 15-day disabled list.,TRUE,2007,Cincinnati Reds,Jared Burton,activated,15,FALSE,NA
+2007-07-07,San Diego Padres Activated RHP Doug Brocail from the 15-day disabled list,TRUE,2007,San Diego Padres,Doug Brocail,activated,15,FALSE,NA
+2007-07-07,Activated OF Milton Bradley from the 15-day disabled list,TRUE,2007,San Diego Padres,Milton Bradley,activated,15,FALSE,NA
+2007-07-07,"Placed OF Terrmel Sledge on the 15-day disabled list, retroactive to June 28, with a sprained right thumb.",TRUE,2007,San Diego Padres,Terrmel Sledge,placed,15,TRUE,2007-06-28
+2007-07-08,Oakland Athletics Reinstated OF Bobby Kielty from the 15-day disabled list,TRUE,2007,Oakland Athletics,Bobby Kielty,activated,15,FALSE,NA
+2007-07-09,Seattle Mariners Activated LHP Cesar Jimenez from the 60-day disabled list and optioned him to Triple-A Tacoma.,TRUE,2007,Seattle Mariners,Cesar Jimenez,activated,60,FALSE,NA
+2007-07-12,Baltimore Orioles Activated RHP Danys Baez from the 15-day disabled list,TRUE,2007,Baltimore Orioles,Danys Baez,activated,15,FALSE,NA
+2007-07-12,"Cincinnati Reds Placed OF Josh Hamilton on the 15-day disabled list, retroactive to July 8, with a sprained right wrist and selected the contract of C Chad Moeller from Triple-A Louisville",TRUE,2007,Cincinnati Reds,Josh Hamilton,placed,15,TRUE,2007-07-08
+2007-07-12,Houston Astros Activated RHP Brad Lidge from the 15-day disabled list and optioned LHP Mark McLemore to Triple-A Round Rock.,TRUE,2007,Houston Astros,Brad Lidge,activated,15,FALSE,NA
+2007-07-12,"Oakland Athletics Placed RHP Rich Harden on the 15-day disabled list, retroactive to July 8, with a strained right shoulder and placed IF Donnie Murphy on the bereavement list",TRUE,2007,Oakland Athletics,Rich Harden,placed,15,TRUE,2007-07-08
+2007-07-12,Transferred RHP Justin Duchscherer to the 60-day disabled list.,TRUE,2007,Oakland Athletics,Justin Duchscherer,transferred,60,FALSE,NA
+2007-07-12,St. Louis Cardinals Activated SS David Eckstein from the 15-day disabled list and optioned IF Brendan Ryan to Triple-A Memphis,TRUE,2007,St. Louis Cardinals,David Eckstein,activated,15,FALSE,NA
+2007-07-12,"Placed RHP Todd Wellemeyer on the 15-day disabled list, retroactive to July 9, with a sprained right elbow",TRUE,2007,St. Louis Cardinals,Todd Wellemeyer,placed,15,TRUE,2007-07-09
+2007-07-12,Toronto Blue Jays Activated 1B Lyle Overbay from the 15-day disabled list.,TRUE,2007,Toronto Blue Jays,Lyle Overbay,activated,15,FALSE,NA
+2007-07-13,Boston Red Sox Activated RHP Joel Pineiro from the 15-day disabled list and sent 1B-OF Jeff Bailey outright to Triple-A Pawtucket.,TRUE,2007,Boston Red Sox,Joel Pineiro,activated,15,FALSE,NA
+2007-07-13,Transferred OF David Dellucci (left hamstring surgery) from the 15-day to the 60-day disabled list.,TRUE,2007,Cleveland Indians,David Dellucci,transferred,60,FALSE,NA
+2007-07-13,"Colorado Rockies Placed LHP Brian Fuentes on the 15-day disabled list, retroactive to July 4, with a mild strain of his left latissimus dorsi muscle (left lat)",TRUE,2007,Colorado Rockies,Brian Fuentes,placed,15,TRUE,2007-07-04
+2007-07-13,Transferred OF Reggie Sanders from the 15-day to the 60-day disabled list.,TRUE,2007,Kansas City Royals,Reggie Sanders,transferred,60,FALSE,NA
+2007-07-13,Los Angeles Angels Activated RHP Justin Speier from the 15-day disabled list,TRUE,2007,Los Angeles Angels,Justin Speier,activated,15,FALSE,NA
+2007-07-13,"Placed RHP Chris Resop on the 15-day disabled list, retroactive to July 9, with right triceps tendinitis.",TRUE,2007,Los Angeles Angels,Chris Resop,placed,15,TRUE,2007-07-09
+2007-07-13,Tampa Bay Devil Rays Activated OF/IF B.J. Upton from 15-day disabled list.,TRUE,2007,Tampa Bay Devil Rays,B.J. Upton,activated,15,FALSE,NA
+2007-07-13,Texas Rangers Activated 1B Mark Teixeira from the 15-day disabled list and optioned OF Victor Diaz to Triple-A Oklahoma.,TRUE,2007,Texas Rangers,Mark Teixeira,activated,15,FALSE,NA
+2007-07-14,"Baltimore Orioles Placed 3B Melvin Mora on the 15-day disabled list, retroactive to July 13, with a left mid-foot sprain",TRUE,2007,Baltimore Orioles,Melvin Mora,placed,15,TRUE,2007-07-13
+2007-07-14,Kansas City Royals Activated LHP John Bale from the 60-day disabled list,TRUE,2007,Kansas City Royals,John Bale,activated,60,FALSE,NA
+2007-07-14,Transferred RHP Roman Colon from the 15-day to the 60-day disabled list.,TRUE,2007,Kansas City Royals,Roman Colon,transferred,60,FALSE,NA
+2007-07-14,"Los Angeles Angels Placed 2B Howie Kendrick on the 15-day disabled list, retroactive to July 8, with a fractured left index finger and recalled IF Brandon Wood from Triple-A Salt Lake.",TRUE,2007,Los Angeles Angels,Howie Kendrick,placed,15,TRUE,2007-07-08
+2007-07-14,Transferred RHP Jon Lieber to the 60-day disabled list.,TRUE,2007,Philadelphia Phillies,Jon Lieber,transferred,60,FALSE,NA
+2007-07-14,Toronto Blue Jays Activated RHP Brandon League from the 60-day disabled list,TRUE,2007,Toronto Blue Jays,Brandon League,activated,60,FALSE,NA
+2007-07-15,Los Angeles Dodgers Placed RHP Chin-hui Tsao on the 15-day disabled list with a sore right shoulder and recalled RHP D.J. Houlton from Triple-A Las Vegas.,TRUE,2007,Los Angeles Dodgers,Chin hui Tsao,placed,15,FALSE,NA
+2007-07-15,New York Mets Activated LHP Oliver Perez from the 15-day disabled list and optioned RHP Mike Pelfrey to Triple-A New Orleans.,TRUE,2007,New York Mets,Oliver Perez,activated,15,FALSE,NA
+2007-07-15,Pittsburgh Pirates Placed INF Jose Bautista on the 15-day disabled list with a left hand laceration,TRUE,2007,Pittsburgh Pirates,Jose Bautista,placed,15,FALSE,NA
+2007-07-15,Recalled RHP Salomon Torres from his rehab assignment with Triple-A Indianapolis and reinstated him from the 15-day disabled list.,TRUE,2007,Pittsburgh Pirates,Salomon Torres,activated,15,FALSE,NA
+2007-07-15,Seattle Mariners Activated LHP Horacio Ramirez from the 15-day disabled list,TRUE,2007,Seattle Mariners,Horacio Ramirez,activated,15,FALSE,NA
+2007-07-16,Atlanta Braves Transferred LHP Mike Gonzalez to the 60-day disabled list.,TRUE,2007,Atlanta Braves,Mike Gonzalez,transferred,60,FALSE,NA
+2007-07-16,Kansas City Royals Activated OF Reggie Sanders from the 60-day disabled list and optioned OF Joey Gathright to Triple-A Omaha,TRUE,2007,Kansas City Royals,Reggie Sanders,activated,60,FALSE,NA
+2007-07-16,"Placed RHP John Thomson on the 15-day disabled list with lower back spasms, retroactive to July 15",TRUE,2007,Kansas City Royals,John Thomson,placed,15,TRUE,2007-07-15
+2007-07-16,"Milwaukee Brewers Placed RHP Ben Sheets on the 15-day disabled list, retroactive to July 15, with a sprained right middle finger",TRUE,2007,Milwaukee Brewers,Ben Sheets,placed,15,TRUE,2007-07-15
+2007-07-16,New York Mets Activated RHP Jorge Sosa from the 15-day disabled list.,TRUE,2007,New York Mets,Jorge Sosa,activated,15,FALSE,NA
+2007-07-16,Reinstated RHP Connor Robertson from the 15-day disabled list and optioned him to Triple-A Sacramento.,TRUE,2007,Oakland Athletics,Connor Robertson,activated,15,FALSE,NA
+2007-07-16,Philadelphia Phillies Activated RHP Tom Gordon from 60-day disabled list and optioned RHP Brian Sanches to Triple-A Ottawa,TRUE,2007,Philadelphia Phillies,Tom Gordon,activated,60,FALSE,NA
+2007-07-16,Transferred RHP Freddy Garcia from the 15-day to the 60-day disabled list.,TRUE,2007,Philadelphia Phillies,Freddy Garcia,transferred,60,FALSE,NA
+2007-07-17,Arizona Diamondbacks Activated OF Jeff DaVanon from the 60-day disabled list and optioned OF Jeff Salazar to Triple-A Tucson.,TRUE,2007,Arizona Diamondbacks,Jeff DaVanon,activated,60,FALSE,NA
+2007-07-17,Transferred INF Joe Crede from the 15-day to the 60-day disabled list.,TRUE,2007,Chicago White Sox,Joe Crede,transferred,60,FALSE,NA
+2007-07-18,Activated RHP John Smoltz from the 15-day disabled list and optioned RHP Joey Devine to Triple-A Richmond.,TRUE,2007,Atlanta Braves,John Smoltz,activated,15,FALSE,NA
+2007-07-18,Chicago Cubs Activated RHP Rocky Cherry from the 15-day disabled list and optioned him to Triple-A Iowa.,TRUE,2007,Chicago Cubs,Rocky Cherry,activated,15,FALSE,NA
+2007-07-18,Activated C Mike Napoli from the 15-day disabled list.,TRUE,2007,Los Angeles Angels,Mike Napoli,activated,15,FALSE,NA
+2007-07-18,San Diego Padres Activated OF Terrmel Sledge from the 15-day disabled list and designated OF Hiram Bocachica for assignment.,TRUE,2007,San Diego Padres,Terrmel Sledge,activated,15,FALSE,NA
+2007-07-18,Tampa Bay Devil Rays Activated RHP Al Reyes from the 15-day disabled list.,TRUE,2007,Tampa Bay Devil Rays,Al Reyes,activated,15,FALSE,NA
+2007-07-19,Transferred RHP Anthony Lerew to the 60-day disabled list.,TRUE,2007,Atlanta Braves,Anthony Lerew,transferred,60,FALSE,NA
+2007-07-19,Reinstated RHP Jon Leicester from the 60-day disabled list and was designated for assignment.,TRUE,2007,Baltimore Orioles,Jon Leicester,activated,60,FALSE,NA
+2007-07-19,Transfered LHP Eric Milton to the 60-day disabled list.,TRUE,2007,Cincinnati Reds,Eric Milton,transferred,60,FALSE,NA
+2007-07-19,Detroit Tigers Placed OF Marcus Thames on the 15-day disabled list,TRUE,2007,Detroit Tigers,Marcus Thames,placed,15,FALSE,NA
+2007-07-19,Florida Marlins Reinstated OF Cody Ross from the 60-day disabled list,TRUE,2007,Florida Marlins,Cody Ross,activated,60,FALSE,NA
+2007-07-19,San Francisco Giants Activated LHP Jonathan Sanchez from the 15-day disabled list and optioned LHP Patrick Misch to Triple-A Fresno.,TRUE,2007,San Francisco Giants,Jonathan Sanchez,activated,15,FALSE,NA
+2007-07-19,St. Louis Cardinals Activated OF Jim Edmonds from the 15-day disabled list and optioned RHP Andy Cavazos to Triple-A Memphis.,TRUE,2007,St. Louis Cardinals,Jim Edmonds,activated,15,FALSE,NA
+2007-07-19,"Placed RHP Akinori Otsuka (right forearm inflammation) on the 15-day disabled list, retroactive to July 9.",TRUE,2007,Texas Rangers,Akinori Otsuka,placed,15,TRUE,2007-07-09
+2007-07-20,Chicago Cubs Activated RHP Ryan Dempster from the 15-day disabled list,TRUE,2007,Chicago Cubs,Ryan Dempster,activated,15,FALSE,NA
+2007-07-20,Placed INF Daryle Ward on the 15-day disabled list with a strained right calf,TRUE,2007,Chicago Cubs,Daryle Ward,placed,15,FALSE,NA
+2007-07-20,Cincinnati Reds Activated LHP Bill Bray (left shoulder tendinitis) from the 15-day disabled list and was optioned to Triple-A Louisville.,TRUE,2007,Cincinnati Reds,Bill Bray,activated,15,FALSE,NA
+2007-07-20,"Minnesota Twins Placed OF Michael Cuddyer on the 15-day disabled list, retroactive to July 19, with a sprained right thumb.",TRUE,2007,Minnesota Twins,Michael Cuddyer,placed,15,TRUE,2007-07-19
+2007-07-20,Transferred 1B Doug Mientkiewicz to the 60-day disabled list.,TRUE,2007,New York Yankees,Doug Mientkiewicz,transferred,60,FALSE,NA
+2007-07-20,Oakland Athletics Activated DH Mike Piazza from the 15-day disabled list,TRUE,2007,Oakland Athletics,Mike Piazza,activated,15,FALSE,NA
+2007-07-20,"Washington Nationals Placed RHP Jason Simontacchi on the 15-day disabled list, retroactive to July 16, with right elbow tendinitis.",TRUE,2007,Washington Nationals,Jason Simontacchi,placed,15,TRUE,2007-07-16
+2007-07-21,Baltimore Orioles Activated RHP Steve Trachsel from the 15-day disabled list.,TRUE,2007,Baltimore Orioles,Steve Trachsel,activated,15,FALSE,NA
+2007-07-21,Colorado Rockies Transferred RHP Zack McClellan from the 15-day to the 60-day disabled list,TRUE,2007,Colorado Rockies,Zach Mc Clellan,transferred,60,FALSE,NA
+2007-07-21,New York Mets Placed 2B Jose Valentin on the 15-day disabled list with a broken right tibia and recalled IF Anderson Hernandez from Triple-A New Orleans.,TRUE,2007,New York Mets,Jose Valentin,placed,15,FALSE,NA
+2007-07-22,Minnesota Twins Reinstated OF Rondell White from the 15-day disabled list,TRUE,2007,Minnesota Twins,Rondell White,activated,15,FALSE,NA
+2007-07-23,"Houston Astros Placed OF Hunter Pence on the 15-day disabled list, and recalled OF Jason Lane from Triple-A Round Rock.",TRUE,2007,Houston Astros,Hunter Pence,placed,15,FALSE,NA
+2007-07-23,Oakland Athletics Activated RHP Huston Street from the 15-day disabled list,TRUE,2007,Oakland Athletics,Huston Street,activated,15,FALSE,NA
+2007-07-23,"Tampa Bay Devil Rays Placed RHP Jay Witasick on the 15-day disabled list, retroactive to July 22, with a right elbow strain and optioned LHP J.P. Howell to Triple-A Durham",TRUE,2007,Tampa Bay Devil Rays,Jay Witasick,placed,15,TRUE,2007-07-22
+2007-07-24,Chicago White Sox Returned OF Scott Podsednik from his rehabilitation assignment at Triple-A Charlotte and reinstated him from the 15-day disabled list,TRUE,2007,Chicago White Sox,Scott Podsednik,activated,15,FALSE,NA
+2007-07-24,placed OF Luis Terrero on the 15-day disabled list with a strained left groin,TRUE,2007,Chicago White Sox,Luis Terrero,placed,15,FALSE,NA
+2007-07-24,Los Angeles Angels Placed RHP Bartolo Colon on the 15-day disabled list with right elbow irritation,TRUE,2007,Los Angeles Angels,Bartolo Colon,placed,15,FALSE,NA
+2007-07-24,Seattle Mariners Activated RHP Mark Lowe from the 60-day disabled list,TRUE,2007,Seattle Mariners,Mark Lowe,activated,60,FALSE,NA
+2007-07-24,Transferred RHP Sean White from the 15-day to 60-day disabled list.,TRUE,2007,Seattle Mariners,Sean White,transferred,60,FALSE,NA
+2007-07-25,"Baltimore Orioles Placed RHP Chris Ray on the 15-day disabled list, retroactive to July 21, with a right elbow ulnar collateral injury and recalled RHP Cory Doyne from Triple-A Norfolk.",TRUE,2007,Baltimore Orioles,Chris Ray,placed,15,TRUE,2007-07-21
+2007-07-25,Detroit Tigers Optioned RHP Virgil Vasquez to Triple-A Toledo and activated LHP Tim Byrdak from the 15-day disabled list.,TRUE,2007,Detroit Tigers,Virgil Vasquez,activated,15,FALSE,NA
+2007-07-25,Milwaukee Brewers Reinstated OF Bill Hall from the 15-day disabled list and optioned OF Tony Gwynn to Triple-A Nashville,TRUE,2007,Milwaukee Brewers,Bill Hall,activated,15,FALSE,NA
+2007-07-25,Oakland Athletics Placed SS Bobby Crosby on the 15-day disabled list with a fractured left hand and recalled IF Donnie Murphy from Triple-A Sacramento.,TRUE,2007,Oakland Athletics,Bobby Crosby,placed,15,FALSE,NA
+2007-07-26,Cincinnati Reds Placed IF Pedro Lopez on the 15-day disabled list and activated IF Juan Castro from the 15-day disabled list.,TRUE,2007,Cincinnati Reds,Pedro Lopez,placed,15,FALSE,NA
+2007-07-26,Minnesota Twins Transferred OF Josh Rabe to the 60-day disabled list and purchased the contract of 3B Brian Buscher from Triple-A Rochester.,TRUE,2007,Minnesota Twins,Josh Rabe,transferred,60,FALSE,NA
+2007-07-26,Philadelphia Phillies Placed 2B Chase Utley on the 15-day disabled list.,TRUE,2007,Philadelphia Phillies,Chase Utley,placed,15,FALSE,NA
+2007-07-27,Baltimore Orioles Activated SS Miguel Tejada from the 15-day disabled list and optioned OF Jon Knott to Triple-A Norfolk.,TRUE,2007,Baltimore Orioles,Miguel Tejada,activated,15,FALSE,NA
+2007-07-27,Activated RHP Brett Myers from the 15-day disabled list and optioned LHP Mike Zagurski to Ottawa,TRUE,2007,Philadelphia Phillies,Brett Myers,activated,15,FALSE,NA
+2007-07-27,Tampa Bay Devil Rays Reinstated C Josh Paul from the 60-day disabled list and designated C Raul Casanova for assignment.,TRUE,2007,Tampa Bay Devil Rays,Josh Paul,activated,60,FALSE,NA
+2007-07-27,"Washington Nationals Placed RHP Jason Bergmann on the 15-day disabled list, retroactive to July 25, with left hamstring tightness.",TRUE,2007,Washington Nationals,Jason Bergmann,placed,15,TRUE,2007-07-25
+2007-07-28,Los Angeles Angels Placed C Mike Napoli on the 15-day disabled list with a strained right hamstring,TRUE,2007,Los Angeles Angels,Mike Napoli,placed,15,FALSE,NA
+2007-07-29,Philadelphia Phillies Placed RHP Ryan Madson on 15-day disabled list with right shoulder strain and recalled RHP Geoff Geary from Triple-A Ottawa,TRUE,2007,Philadelphia Phillies,Ryan Madson,placed,15,FALSE,NA
+2007-07-29,"San Diego Padres Placed RHP Chris Young on the 15-day disabled list, retroactive to July 25",TRUE,2007,San Diego Padres,Chris Young,placed,15,TRUE,2007-07-25
+2007-07-29,St. Louis Cardinals Activated INF Scott Spiezio from the 15-day disabled list,TRUE,2007,St. Louis Cardinals,Scott Spiezio,activated,15,FALSE,NA
+2007-07-30,"Detroit Tigers Placed LHP Kenny Rogers on the 15-day disabled list, retroactive to July 26, with left elbow inflammation and recalled RHP Jordan Tata from Triple-A Toledo.",TRUE,2007,Detroit Tigers,Kenny Rogers,placed,15,TRUE,2007-07-26
+2007-07-30,Seattle Mariners Placed RHP Chris Reitsma on the 15-day disabled list,TRUE,2007,Seattle Mariners,Chris Reitsma,placed,15,FALSE,NA
+2007-07-30,Toronto Blue Jays Voided the option of LHP Gustavo Chacin and placed him back on the 15-day disabled list.,TRUE,2007,Toronto Blue Jays,Gustavo Chacin,placed,15,FALSE,NA
+2007-07-31,Transferred 3B Willy Aybar from the 15-day to the 60-day disabled list.,TRUE,2007,Atlanta Braves,Willy Aybar,transferred,60,FALSE,NA
+2007-07-31,Reinstated OF Darin Erstad from 15-day disabled list.,TRUE,2007,Chicago White Sox,Darin Erstad,activated,15,FALSE,NA
+2007-07-31,"Reinstated SS Alex Gonzalez from the restricted list and placed INF Juan Castro on the 15-day disabled list, retroactive to July 29, with a sprained right elbow",TRUE,2007,Cincinnati Reds,Alex Gonzalez,activated,15,TRUE,2007-07-29
+2007-07-31,"New York Mets Placed OF Carlos Beltran on the 15-day disabled list, retroactive to July 25, with a strained oblique.",TRUE,2007,New York Mets,Carlos Beltran,placed,15,TRUE,2007-07-25
+2007-07-31,Placed OF Shane Victorino on the 15-day disabled list with a right calf muscle strain and placed OF Michael Bourn on the 15-day disabled list with a left ankle strain,TRUE,2007,Philadelphia Phillies,Shane Victorino,placed,15,FALSE,NA
+2007-07-31,Reinstated OF Jayson Werth from the 15-day disabled list,TRUE,2007,Philadelphia Phillies,Jayson Werth,activated,15,FALSE,NA
+2007-07-31,Activated 2B Ian Kinsler from the 15-day disabled list,TRUE,2007,Texas Rangers,Ian Kinsler,activated,15,FALSE,NA
+2007-08-01,Cleveland Indians Activated LHP Aaron Fultz from the disabled list and designated RHP Fernando Cabrera for assignment.,TRUE,2007,Cleveland Indians,Aaron Fultz,activated,NA,FALSE,NA
+2007-08-01,Kansas City Royals Placed OF Reggie Sanders on the 15-day disabled list with a tear in his left hamstring,TRUE,2007,Kansas City Royals,Reggie Sanders,placed,15,FALSE,NA
+2007-08-01,placed LHP Jorge De La Rosa on the 15-day disabled list with a strained left elbow,TRUE,2007,Kansas City Royals,Jorge De La Rosa,placed,15,FALSE,NA
+2007-08-01,activated 1B Ryan Shealy from the 15-day disabled list and optioned him to Triple-A Omaha.,TRUE,2007,Kansas City Royals,Ryan Shealy,activated,15,FALSE,NA
+2007-08-01,Reinstated RHP Elmer Dessens from the 15-day disabled list.,TRUE,2007,Milwaukee Brewers,Elmer Dessens,activated,15,FALSE,NA
+2007-08-01,New York Yankees Activated RHP Jeff Karstens from the 60-day disabled list and optioned IF Chris Basak to Triple-A Scranton/Wilkes-Barre.,TRUE,2007,New York Yankees,Jeff Karstens,activated,60,FALSE,NA
+2007-08-01,Pittsburgh Pirates Activated 3B Jose Bautista from the 15-day disabled list.,TRUE,2007,Pittsburgh Pirates,Jose Bautista,activated,15,FALSE,NA
+2007-08-02,Arizona Diamondbacks Placed OF Carlos Quentin on the 15-day disabled list with a right hamstring strain,TRUE,2007,Arizona Diamondbacks,Carlos Quentin,placed,15,FALSE,NA
+2007-08-02,Chicago White Sox Reinstated RHP Mike MacDougal from 15-day disabled list,TRUE,2007,Chicago White Sox,Mike MacDougal,activated,15,FALSE,NA
+2007-08-02,"Colorado Rockies Placed RHP Rodrigo Lopez on the 15-day disabled list, retroactive to July 27, with a torn tendon in his right forearm and activated RHP Jason Hirsh from the 15-day disabled list.",TRUE,2007,Colorado Rockies,Rodrigo Lopez,placed,15,TRUE,2007-07-27
+2007-08-03,transferred LHP Randy Johnson from the 15-day to the 60-day disabled list,TRUE,2007,Arizona Diamondbacks,Randy Johnson,transferred,60,FALSE,NA
+2007-08-03,Atlanta Braves Placed SS Edgar Renteria on the 15-day disabled list and recalled RHP Joey Devine from Triple-A Richmond,TRUE,2007,Atlanta Braves,Edgar Renteria,placed,15,FALSE,NA
+2007-08-03,Activated RHP Kerry Wood from the 60-day disabled list,TRUE,2007,Chicago Cubs,Kerry Wood,activated,60,FALSE,NA
+2007-08-03,Transferred RHP Angel Guzman from the 15-day disabled list to the 60-day disabled list.,TRUE,2007,Chicago Cubs,Angel Guzman,transferred,60,FALSE,NA
+2007-08-03,Placed LHP Renyel Pinto on 15-day disabled list with a left shoulder strain and recalled RHP Carlos Martinez from Double-A Carolina.,TRUE,2007,Florida Marlins,Renyel Pinto,placed,15,FALSE,NA
+2007-08-03,Houston Astros Placed RHP Chris Sampson on the 15-day disabled list with a sprained right ulnar collateral ligament,TRUE,2007,Houston Astros,Chris Sampson,placed,15,FALSE,NA
+2007-08-03,Minnesota Twins Reinstated OF Michael Cuddyer from the 15-day disabled list,TRUE,2007,Minnesota Twins,Michael Cuddyer,activated,15,FALSE,NA
+2007-08-03,Oakland Athletics Placed INF Eric Chavez on the 15-day disabled list retroactive to July 27 with lower back spasms,TRUE,2007,Oakland Athletics,Eric Chavez,placed,15,TRUE,2007-07-27
+2007-08-03,Philadelphia Phillies Placed C Rod Barajas on the 15-day disabled list with a right groin strain and purchased the contract of RHP Clay Condrey from Triple-A Ottawa,TRUE,2007,Philadelphia Phillies,Rod Barajas,placed,15,FALSE,NA
+2007-08-03,Transferred RHP Francisco Rosario from the 15-day to the 60-day disabled list.,TRUE,2007,Philadelphia Phillies,Ray Francis,transferred,60,FALSE,NA
+2007-08-04,Detroit Tigers Placed LHP Andrew Miller on the 15-day disabled list with a left hamstring strain,TRUE,2007,Detroit Tigers,Andrew Miller,placed,15,FALSE,NA
+2007-08-04,recalled RHP Fernando Rodney from his rehab assignment and reinstated him from the disabled list,TRUE,2007,Detroit Tigers,Fernando Rodney,activated,NA,FALSE,NA
+2007-08-04,New York Yankees Reinstated RHP Phil Hughes from the 60-day disabled list,TRUE,2007,New York Yankees,Phil Hughes,activated,60,FALSE,NA
+2007-08-04,"San Francisco Giants Recalled LHP Patrick Misch from Triple-A Fresno and placed IF Rich Aurilia on the 15-day disabled list, retroactive to Aug. 2, with a strained right hamstring.",TRUE,2007,San Francisco Giants,Rich Aurilia,placed,15,TRUE,2007-08-02
+2007-08-04,"Texas Rangers Placed RHP Kameron Loe on the 15-day disabled list with tightness in his lower back, retroactive to July 29",TRUE,2007,Texas Rangers,Kameron Loe,placed,15,TRUE,2007-07-29
+2007-08-05,Baltimore Orioles Activated 3B Melvin Mora from the 15-day disabled list,TRUE,2007,Baltimore Orioles,Melvin Mora,activated,15,FALSE,NA
+2007-08-06,"Boston Red Sox Activated RHP Curt Schilling from the 15-day disabled list, placed INF Eric Hinske on the bereavement list and recalled OF Brandon Moss from Triple-A Pawtucket",TRUE,2007,Boston Red Sox,Curt Schilling,activated,15,FALSE,NA
+2007-08-06,Chicago Cubs Placed OF Alfonso Soriano on the 15-day disabled list with a right quad strain,TRUE,2007,Chicago Cubs,Alfonso Soriano,placed,15,FALSE,NA
+2007-08-06,Los Angeles Angels Activated INF Erick Aybar from the 15-day disabled list,TRUE,2007,Los Angeles Angels,Erick Aybar,activated,15,FALSE,NA
+2007-08-06,"St. Louis Cardinals Placed LHP Mike Maroth on the 15-day disabled list, retroactive to Aug. 5, with left elbow tendinitis",TRUE,2007,St. Louis Cardinals,Mike Maroth,placed,15,TRUE,2007-08-05
+2007-08-06,activated LHP Tyler Johnson from the 15-day disabled list.,TRUE,2007,St. Louis Cardinals,Tyler Johnson,activated,15,FALSE,NA
+2007-08-07,"Placed IF/OF Ryan Freel on the 15-day disabled list, retroactive to Aug. 3, with torn cartilage in his right knee",TRUE,2007,Cincinnati Reds,Ryan Freel,placed,15,TRUE,2007-08-03
+2007-08-07,Reinstated LHP Eddie Guardado from the 60-day disabled list,TRUE,2007,Cincinnati Reds,Eddie Guardado,activated,60,FALSE,NA
+2007-08-07,activated 1B/DH Jason Giambi from the 15-day disabled list,TRUE,2007,New York Yankees,Jason Giambi,activated,15,FALSE,NA
+2007-08-08,Chicago Cubs Placed OF Angel Pagan on the 15-day disabled list with colitis and recalled OF Felix Pie from Triple-A Iowa,TRUE,2007,Chicago Cubs,Angel Pagan,placed,15,FALSE,NA
+2007-08-08,Colorado Rockies Placed C Edwin Bellorin on the 15-day disabled list,TRUE,2007,Colorado Rockies,Edwin Bellorin,placed,15,FALSE,NA
+2007-08-08,Florida Marlins Activated OF Alejandro De Aza from the 60-day disabled list and designated OF Joe Borchard for assignment,TRUE,2007,Florida Marlins,Alejandro De Aza,activated,60,FALSE,NA
+2007-08-08,Activated RHP Logan Kensing from the 60-day disabled list and optioned him to Triple-A Albuquerque,TRUE,2007,Florida Marlins,Logan Kensing,activated,60,FALSE,NA
+2007-08-08,"Minnesota Twins Placed INF Brian Buscher on the 15-day disabled list, retroactive to Aug. 7, with an infection in his right leg.",TRUE,2007,Minnesota Twins,Brian Buscher,placed,15,TRUE,2007-08-07
+2007-08-08,Texas Rangers Placed INF Jerry Hairston Jr. on the 15-day disabled list with a sore lower back.,TRUE,2007,Texas Rangers,Jerry Hairston,placed,15,FALSE,NA
+2007-08-09,"Colorado Rockies Placed RHP Jason Hirsh on 15-day disabled list, retroactive to Aug. 8, with a fractured fibula in his right leg",TRUE,2007,Colorado Rockies,Jason Hirsh,placed,15,TRUE,2007-08-08
+2007-08-09,Transferred RHP Rodrigo Lopez from the 15-day to the 60-day disabled list,TRUE,2007,Colorado Rockies,Rodrigo Lopez,transferred,60,FALSE,NA
+2007-08-09,Detroit Tigers Reinstated OF Marcus Thames from the 15-day disabled list,TRUE,2007,Detroit Tigers,Marcus Thames,activated,15,FALSE,NA
+2007-08-09,San Diego Padres Reinstated RHP Chris Young from the 15-day disabled list and designated LHP David Wells for assignment.,TRUE,2007,San Diego Padres,Chris Young,activated,15,FALSE,NA
+2007-08-09,Tampa Bay Devil Rays Activated RHP Tim Corcoran from the 60-day disabled list and optioned him to Double-A Montgomery.,TRUE,2007,Tampa Bay Devil Rays,Tim Corcoran,activated,60,FALSE,NA
+2007-08-10,Atlanta Braves Placed RHP Octavio Dotel (right shoulder strain) on the 15-day disabled list and recalled RHP Manny Acosta from Triple-A Richmond,TRUE,2007,Atlanta Braves,Octavio Dotel,placed,15,FALSE,NA
+2007-08-10,Transferred RHP Josh Johnson to the 60-day disabled list,TRUE,2007,Florida Marlins,Josh Johnson,transferred,60,FALSE,NA
+2007-08-10,"Milwaukee Brewers Placed INF Tony Graffanino on the 15-day disabled list, retroactive to Aug. 9, with a torn ACL and medial meniscus tear in his right knee",TRUE,2007,Milwaukee Brewers,Tony Graffanino,placed,15,TRUE,2007-08-09
+2007-08-10,New York Mets Activated OF Carlos Beltran from the 15-day disabled list,TRUE,2007,New York Mets,Carlos Beltran,activated,15,FALSE,NA
+2007-08-10,Placed OF Scott Hairston on the 15-day disabled list with a strained left oblique muscle,TRUE,2007,San Diego Padres,Scott Hairston,placed,15,FALSE,NA
+2007-08-10,"San Francisco Giants Activated RHP Russ Ortiz from the 15-day disabled list, optioned LHP Patrick Misch to Triple-A Fresno and recalled OF Daniel Ortmeier from Triple-A Fresno.",TRUE,2007,San Francisco Giants,Russ Ortiz,activated,15,FALSE,NA
+2007-08-11,Colorado Rockies Placed INF/OF Jeff Baker on the 15-day disabled list with a mild concussion,TRUE,2007,Colorado Rockies,Jeff Baker,placed,15,FALSE,NA
+2007-08-11,San Diego Padres Placed C Michael Barrett on the 15-day disabled list with concussion-like symptoms,TRUE,2007,San Diego Padres,Michael Barrett,placed,15,FALSE,NA
+2007-08-12,Chicago Cubs Activated INF Daryle Ward from the 15-day disabled list and placed OF Cliff Floyd on the bereavement list.,TRUE,2007,Chicago Cubs,Daryle Ward,activated,15,FALSE,NA
+2007-08-12,Cincinnati Reds Returned OF Josh Hamilton from a rehabilitation assignment and reinstated him from the 15-day disabled list,TRUE,2007,Cincinnati Reds,Josh Hamilton,activated,15,FALSE,NA
+2007-08-12,recalled OF Sean Barker from Colorado Springs and placed him on the 60-day disabled list with a left hamstring strain.,TRUE,2007,Colorado Rockies,Sean Barker,placed,60,FALSE,NA
+2007-08-12,New York Mets Paul Lo Duca: Placed on the 15-day disabled list with strained right hamstring.,TRUE,2007,New York Mets,Paul Lo Duca,placed,15,FALSE,NA
+2007-08-12,St. Louis Cardinals Placed 2B Adam Kennedy on the 15-day disabled list with torn medial meniscus in his right knee,TRUE,2007,St. Louis Cardinals,Adam Kennedy,placed,15,FALSE,NA
+2007-08-12,Toronto Blue Jays Placed RHP Brandon League on the 15-day disabled list with a right oblique strain and activated RHP A.J. Burnett from the 15-day disabled list.,TRUE,2007,Toronto Blue Jays,Brandon League,placed,15,FALSE,NA
+2007-08-13,Baltimore Orioles Placed OF Jay Gibbons on the 15-day disabled list with a right labrum tear,TRUE,2007,Baltimore Orioles,Jay Gibbons,placed,15,FALSE,NA
+2007-08-14,Transferred C Henry Blanco to the 60-day disabled list.,TRUE,2007,Chicago Cubs,Henry Blanco,transferred,60,FALSE,NA
+2007-08-14,Cincinnati Reds Placed C David Ross on the 15-day disabled list with a concussion,TRUE,2007,Cincinnati Reds,David Ross,placed,15,FALSE,NA
+2007-08-14,Colorado Rockies Activated LHP Brian Fuentes from the 15-day disabled list.,TRUE,2007,Colorado Rockies,Brian Fuentes,activated,15,FALSE,NA
+2007-08-14,Transferred RHP Jason Schmidt from the 15-day to the 60-day disabled list,TRUE,2007,Los Angeles Dodgers,Jason Schmidt,transferred,60,FALSE,NA
+2007-08-14,Placed 3B Nomar Garciaparra on the 15-day disabled list due to a left calf strain,TRUE,2007,Los Angeles Dodgers,Nomar Garciaparra,placed,15,FALSE,NA
+2007-08-14,Placed C/OF Ryan Doumit on the 15-day disabled list with a sprained left wrist and transferred LHP Zach Duke from the 15-day to the 60-day disabled list,TRUE,2007,Pittsburgh Pirates,Ryan Doumit,placed,15,FALSE,NA
+2007-08-14,Washington Nationals Reinstated RHP Shawn Hill from the 15-day disabled list.,TRUE,2007,Washington Nationals,Shawn Hill,activated,15,FALSE,NA
+2007-08-15,Arizona Diamondbacks Placed INF Chad Tracy on the 15-day disabled list (right knee),TRUE,2007,Arizona Diamondbacks,Chad Tracy,placed,15,FALSE,NA
+2007-08-15,Transferred INF Juan Castro from the 15-day to the 60-day disabled list,TRUE,2007,Cincinnati Reds,Juan Castro,transferred,60,FALSE,NA
+2007-08-15,Colorado Rockies Placed OF Willy Taveras on 15-day disabled list,TRUE,2007,Colorado Rockies,Willy Taveras,placed,15,FALSE,NA
+2007-08-15,"Philadelphia Phillies Placed RHP Adam Eaton on the 15-day disabled list, retroactive to Aug. 12, with right shoulder inflammation",TRUE,2007,Philadelphia Phillies,Adam Eaton,placed,15,TRUE,2007-08-12
+2007-08-15,San Francisco Giants Placed RHP Randy Messenger on the 15-day disabled list with a broken left hand.,TRUE,2007,San Francisco Giants,Randy Messenger,placed,15,FALSE,NA
+2007-08-15,Tampa Bay Devil Rays Transferred C Shawn Riggans from the 15-day to the 60-day disabled list,TRUE,2007,Tampa Bay Devil Rays,Shawn Riggans,transferred,60,FALSE,NA
+2007-08-15,"Texas Rangers Activated RHP Vicente Padilla from the 15-day disabled list and placed RHP Brandon McCarthy on the 15-day disabled list, retroactive to Aug. 11, with a stress fracture in his right shoulder blade.",TRUE,2007,Texas Rangers,Vicente Padilla,activated,15,TRUE,2007-08-11
+2007-08-16,"Placed RHP Aaron Cook on the 15-day disabled list, retroactive to Aug. 11, with a strained left oblique.",TRUE,2007,Colorado Rockies,Aaron Cook,placed,15,TRUE,2007-08-11
+2007-08-17,Placed C Doug Mirabelli on the 15-day disabled list with a strained right calf,TRUE,2007,Boston Red Sox,Doug Mirabelli,placed,15,FALSE,NA
+2007-08-17,Transferred RHP Brendan Donnelly from the 15-day to the 60-day disabled list.,TRUE,2007,Boston Red Sox,Brendan Donnelly,transferred,60,FALSE,NA
+2007-08-17,Houston Astros Placed LHP Stephen Randolph on the 15-day disabled list and recalled RHP Juan Gutierrez from Triple-A Round Rock.,TRUE,2007,Houston Astros,Stephen Randolph,placed,15,FALSE,NA
+2007-08-17,Oakland Athletics Placed OF Mark Kotsay on the 15-day disabled list retroactive to Aug. 15 with lower back spasms,TRUE,2007,Oakland Athletics,Mark Kotsay,placed,15,TRUE,2007-08-15
+2007-08-17,San Francisco Giants Activated IF Rich Aurilia from the 15-day disabled list and placed RHP Tim Lincecum on the bereavement list.,TRUE,2007,San Francisco Giants,Rich Aurilia,activated,15,FALSE,NA
+2007-08-18,"New York Mets Placed C Ramon Castro on the 15-day disabled list, retroactive to Aug. 13, with lower back pain and purchased the contract of C Sandy Alomar Jr. from Triple-A New Orleans",TRUE,2007,New York Mets,Ramon Castro,placed,15,TRUE,2007-08-13
+2007-08-18,Transferred OF Carlos Gomez from the 15-day to the 60-day disabled list.,TRUE,2007,New York Mets,Carlos Gomez,transferred,60,FALSE,NA
+2007-08-18,Texas Rangers Activated RHP Kameron Loe from the 15-day disabled list,TRUE,2007,Texas Rangers,Kameron Loe,activated,15,FALSE,NA
+2007-08-18,"placed RHP Willie Eyre on the 15-day disabled list, retroactive to Aug. 17, with right elbow stiffness.",TRUE,2007,Texas Rangers,Willie Eyre,placed,15,TRUE,2007-08-17
+2007-08-18,reinstated RHP Jesus Colome from the 15-day disabled list.,TRUE,2007,Washington Nationals,Jesus Colome,activated,15,FALSE,NA
+2007-08-19,Philadelphia Phillies Placed LHP Mike Zagurski on the 15-day disabled list with a pulled hamstring and recalled RHP Yoel Hernandez from Triple-A Ottawa.,TRUE,2007,Philadelphia Phillies,Mike Zagurski,placed,15,FALSE,NA
+2007-08-20,Baltimore Orioles Activated OF Freddie Bynum from the 15-day disabled list,TRUE,2007,Baltimore Orioles,Freddie Bynum,activated,15,FALSE,NA
+2007-08-20,Detroit Tigers Activated RHP Joel Zumaya from the 15-day disabled list and optioned RHP Aquilino Lopez to Triple-A Toledo.,TRUE,2007,Detroit Tigers,Joel Zumaya,activated,15,FALSE,NA
+2007-08-20,Los Angeles Angels Activated INF Howie Kendrick from the 15-day disabled list,TRUE,2007,Los Angeles Angels,Howie Kendrick,activated,15,FALSE,NA
+2007-08-20,Placed INF Erick Aybar on the 15-day disabled list with a strained left hamstring.,TRUE,2007,Los Angeles Angels,Erick Aybar,placed,15,FALSE,NA
+2007-08-20,"Oakland Athletics Placed OF Travis Buck on the 15-day disabled list, retroactive to Aug. 18, with a strained left hamstring",TRUE,2007,Oakland Athletics,Travis Buck,placed,15,TRUE,2007-08-18
+2007-08-21,Atlanta Braves Placed LHP Chuck James on the 15-day disabled list and recalled LHP Jo-Jo Reyes from Triple-A Richmond,TRUE,2007,Atlanta Braves,Chuck James,placed,15,FALSE,NA
+2007-08-21,Activated C Henry Blanco from the 60-day disabled list.,TRUE,2007,Chicago Cubs,Henry Blanco,activated,60,FALSE,NA
+2007-08-21,Florida Marlins Reinstated RHP Ricky Nolasco from the disabled list and optioned to Triple-A Albuquerque.,TRUE,2007,Florida Marlins,Ricky Nolasco,activated,NA,FALSE,NA
+2007-08-21,Houston Astros Placed on the Jason Jennings on 15-day disabled list with a torn flexor tendon in his right elbow,TRUE,2007,Houston Astros,Jason Jennings,placed,15,FALSE,NA
+2007-08-21,Activated OF Hunter Pence from the 15-day disabled list.,TRUE,2007,Houston Astros,Hunter Pence,activated,15,FALSE,NA
+2007-08-21,New York Mets Transferred RHP Pedro Martinez to the 60-day disabled list and optioned INF Anderson Hernandez to Triple-A New Orleans.,TRUE,2007,New York Mets,Pedro Martinez,transferred,60,FALSE,NA
+2007-08-21,Philadelphia Phillies Placed RHP Yoel Hernandez on the 15-day disabled list with a right shoulder strain and recalled LHP Fabio Castro from Triple-A Ottawa.,TRUE,2007,Philadelphia Phillies,Yoel Hernandez,placed,15,FALSE,NA
+2007-08-21,San Francisco Giants Activated RHP Tim Lincecum from the bereavement list and placed RHP Russ Ortiz on the 15-day disabled list with a strained right elbow.,TRUE,2007,San Francisco Giants,Tim Lincecum,activated,15,FALSE,NA
+2007-08-22,Atlanta Braves Activated SS Edgar Renteria from the 15-day disabled list,TRUE,2007,Atlanta Braves,Edgar Renteria,activated,15,FALSE,NA
+2007-08-22,Kansas City Royals Placed LHP Odalis Perez on 15-day disabled list with a strained left knee and recalled OF Shane Costa from Triple-A Omaha.,TRUE,2007,Kansas City Royals,Odalis Perez,placed,15,FALSE,NA
+2007-08-22,"Oakland Athletics Reinstated RHP Esteban Loaiza from the 15-day disabled list and placed Donnie Murphy on the 15-day disabled list, retroactive to Aug. 19, with a strained rib cage muscle",TRUE,2007,Oakland Athletics,Esteban Loaiza,activated,15,TRUE,2007-08-19
+2007-08-22,Transferred RHP Rich Harden to the 60-day disabled list.,TRUE,2007,Oakland Athletics,Rich Harden,transferred,60,FALSE,NA
+2007-08-22,Philadelphia Phillies Placed LHP Cole Hamels on the 15-day disabled list with a mild left elbow strain and activated OF Shane Victorino from the disabled list.,TRUE,2007,Philadelphia Phillies,Cole Hamels,placed,15,FALSE,NA
+2007-08-22,San Francisco Giants Activated C Eliezer Alfonzo from the 60-day disabled list and optioned him to Triple-A Fresno.,TRUE,2007,San Francisco Giants,Eliezer Alfonzo,activated,60,FALSE,NA
+2007-08-23,Atlanta Braves Placed SS Edgar Renteria on the 15-day disabled list and recalled IF Martin Prado to Triple-A Richmond.,TRUE,2007,Atlanta Braves,Edgar Renteria,placed,15,FALSE,NA
+2007-08-23,Detroit Tigers Activated LHP Andrew Miller from the 15-day disabled list and optioned RHP Zach Miner to Triple-A Toledo.,TRUE,2007,Detroit Tigers,Andrew Miller,activated,15,FALSE,NA
+2007-08-23,Minnesota Twins Placed INF Tommy Watkins on the 15-day disabled list with a lower abdominal muscle strain,TRUE,2007,Minnesota Twins,Tommy Watkins,placed,15,FALSE,NA
+2007-08-23,Reinstated INF Brian Buscher from the 15-day disabled list.,TRUE,2007,Minnesota Twins,Brian Buscher,activated,15,FALSE,NA
+2007-08-24,Placed LHP Bobby Livingston on the 15-day disabled list with a tear in the labrum of his left shoulder,TRUE,2007,Cincinnati Reds,Bobby Livingston,placed,15,FALSE,NA
+2007-08-24,Kansas City Royals Placed OF Mark Teahen on the 15-day disabled list with a hyperextended left elbow,TRUE,2007,Kansas City Royals,Mark Teahen,placed,15,FALSE,NA
+2007-08-24,transferred 1B/DH Mike Sweeney from the 15-day disabled list to the 60-day DL.,TRUE,2007,Kansas City Royals,Mike Sweeney,transferred,60,FALSE,NA
+2007-08-24,New York Yankees Recalled RHP Brian Bruney from Triple-A Scranton/Wilkes-Barre and placed LHP Ron Villone on the 15-day disabled list with a lower back strain.,TRUE,2007,New York Yankees,Brian Bruney,placed,15,FALSE,NA
+2007-08-24,St. Louis Cardinals Activated RHP Todd Wellemeyer from the 15-day disabled list and optioned RHP Brad Thompson to Triple-A Memphis.,TRUE,2007,St. Louis Cardinals,Todd Wellemeyer,activated,15,FALSE,NA
+2007-08-25,Pittsburgh Pirates Placed RHP Salomon Torres on the 15-day disabled list with right medial elbow inflammation,TRUE,2007,Pittsburgh Pirates,Salomon Torres,placed,15,FALSE,NA
+2007-08-25,San Diego Padres Placed 2B Marcus Giles on 15-day disabled list with a left knee sprain,TRUE,2007,San Diego Padres,Marcus Giles,placed,15,FALSE,NA
+2007-08-26,Detroit Tigers Placed RHP Jair Jurrjens on the 15-day disabled list with right shoulder inflammation and recalled RHP Zach Miner from Triple-A Toledo.,TRUE,2007,Detroit Tigers,Jair Jurrjens,placed,15,FALSE,NA
+2007-08-26,"Minnesota Twins Placed LHP Dennys Reyes on the 15-day disabled list, retroactive to August 22, with left elbow inflammation",TRUE,2007,Minnesota Twins,Dennys Reyes,placed,15,TRUE,2007-08-22
+2007-08-26,New York Mets Activated C Paul Lo Duca from the disabled list and designated C Sandy Alomar for assignment,TRUE,2007,New York Mets,Paul Lo Duca,activated,NA,FALSE,NA
+2007-08-27,"Detroit Tigers Placed OF/DH Gary Sheffield on the 15-day disabled list, retroactive to Aug. 22, with a sore right shoulder and recalled OF Timo Perez from Triple A-Toledo.",TRUE,2007,Detroit Tigers,Gary Sheffield,placed,15,TRUE,2007-08-22
+2007-08-27,Philadelphia Phillies Activated 2B Chase Utley from 15-day disabled list,TRUE,2007,Philadelphia Phillies,Chase Utley,activated,15,FALSE,NA
+2007-08-27,"San Francisco Giants Placed RHP Vinnie Chulk on the 15-day disabled list, retroactive to Aug. 25, with Buerger's Disease in his right middle finger",TRUE,2007,San Francisco Giants,Vinnie Chulk,placed,15,TRUE,2007-08-25
+2007-08-27,Purchased the contract of RHP Tyler Walker from Triple-A Fresno and transferred RHP Russ Ortiz to the 60-day disabled list,TRUE,2007,San Francisco Giants,Tyler Walker,transferred,60,FALSE,NA
+2007-08-28,Chicago Cubs Activated OF Alfonso Soriano from the 15-day disabled list and optioned LHP Carmen Pignatiello to Triple-A Iowa,TRUE,2007,Chicago Cubs,Alfonso Soriano,activated,15,FALSE,NA
+2007-08-28,Cincinnati Reds Activated C David Ross from the 15-day disabled list,TRUE,2007,Cincinnati Reds,David Ross,activated,15,FALSE,NA
+2007-08-28,"Milwaukee Brewers Placed RHP Claudio Vargas on the 15-day disabled list, retroactive to Aug. 25, with a lower back injury.",TRUE,2007,Milwaukee Brewers,Claudio Vargas,placed,15,TRUE,2007-08-25
+2007-08-28,New York Mets Activated OF Endy Chavez from 15-day disabled list,TRUE,2007,New York Mets,Endy Chavez,activated,15,FALSE,NA
+2007-08-28,Philadelphia Phillies Activated RHP Adam Eaton from 15-day disabled list,TRUE,2007,Philadelphia Phillies,Adam Eaton,activated,15,FALSE,NA
+2007-08-28,Seattle Mariners Recalled RHP Mark Lowe from Triple-A Tacoma and placed him on the 15-day disabled list with a sore right elbow.,TRUE,2007,Seattle Mariners,Mark Lowe,placed,15,FALSE,NA
+2007-08-29,Transferred OF Jason Repko from the 15-day to the 60-day disabled list.,TRUE,2007,Los Angeles Dodgers,Jason Repko,transferred,60,FALSE,NA
+2007-08-29,Milwaukee Brewers Activated RHP Ben Sheets from the 15-day disabled list.,TRUE,2007,Milwaukee Brewers,Ben Sheets,activated,15,FALSE,NA
+2007-08-29,Texas Rangers Placed INF Travis Metcalf on the 15-day disabled list with a left hamstring strain.,TRUE,2007,Texas Rangers,Travis Metcalf,placed,15,FALSE,NA
+2007-08-29,Activated INF/OF Jerry Hairston Jr. from the 15-day disabled list.,TRUE,2007,Texas Rangers,Jerry Hairston,activated,15,FALSE,NA
+2007-08-31,Cleveland Indians Recalled OF Brad Snyder from Triple-A Buffalo and placed him on the 15-day disabled list.,TRUE,2007,Cleveland Indians,Brad Snyder,placed,15,FALSE,NA
+2007-08-31,Houston Astros Activated RHP Brandon Backe from the 15-day disabled list,TRUE,2007,Houston Astros,Brandon Backe,activated,15,FALSE,NA
+2007-08-31,Kansas City Royals Reinstated 1B/DH Mike Sweeney from the 60-day disabled list,TRUE,2007,Kansas City Royals,Mike Sweeney,activated,60,FALSE,NA
+2007-08-31,transferred RHP John Thomson and 1B Ryan Shealy from the 15-day to the 60-day disabled list,TRUE,2007,Kansas City Royals,John Thomson,transferred,60,FALSE,NA
+2007-08-31,Milwaukee Brewers Placed LHP Manny Parra on the 15-day disabled list with a fractured left thumb and recalled RHP Greg Aquino from Triple-A Nashville.,TRUE,2007,Milwaukee Brewers,Manny Parra,placed,15,FALSE,NA
+2007-08-31,Placed Robles on the 15-day disabled list with a left wrist tendon sheath tear and placed Ketchner on the 15-day disabled list with left shoulder rotator cuff tendinitis.,TRUE,2007,San Diego Padres,Ed Keas,placed,15,FALSE,NA
+2007-09-01,Transferred RHP Brendan Donnelly from the 15-day to the 60-day disabled list,TRUE,2007,Boston Red Sox,Brendan Donnelly,transferred,60,FALSE,NA
+2007-09-01,Activated C Doug Mirabelli from the 15-day disabled list.,TRUE,2007,Boston Red Sox,Doug Mirabelli,activated,15,FALSE,NA
+2007-09-01,activated OF Luis Terrero from the 15-day disabled list,TRUE,2007,Chicago White Sox,Luis Terrero,activated,15,FALSE,NA
+2007-09-01,Colorado Rockies Activated INF/OF Jeff Baker and OF Willy Taveras from the 15-day disabled list,TRUE,2007,Colorado Rockies,Jeff Baker,activated,15,FALSE,NA
+2007-09-01,Kansas City Royals Activated RHP Brandon Duckworth from the 15-day disabled list,TRUE,2007,Kansas City Royals,Brandon Duckworth,activated,15,FALSE,NA
+2007-09-01,Transferred RHP Chris Resop to the 60-day disabled list,TRUE,2007,Los Angeles Angels,Chris Resop,transferred,60,FALSE,NA
+2007-09-01,"Transferred RHP Yhency Brazoban, RHP Chin-hui Tsao and LHP Randy Wolf to the 60-day disabled list.",TRUE,2007,Los Angeles Dodgers,Yhency Brazoban,transferred,60,FALSE,NA
+2007-09-01,transferred 3B Corey Koskie to the 60-day disabled list.,TRUE,2007,Milwaukee Brewers,Corey Koskie,transferred,60,FALSE,NA
+2007-09-01,New York Yankees Activated 1B Doug Mientkiewicz and RHP Jose Veras from the 60-day disabled list,TRUE,2007,New York Yankees,Doug Mientkiewicz,activated,60,FALSE,NA
+2007-09-01,transferred 3B Eric Chavez to the 60-day disabled list.,TRUE,2007,Oakland Athletics,Eric Chavez,transferred,60,FALSE,NA
+2007-09-01,Philadelphia Phillies Activated C Rod Barajas and RHP Francisco Rosario from the 15-day disabled list,TRUE,2007,Philadelphia Phillies,Rod Barajas,activated,15,FALSE,NA
+2007-09-01,transferred LHP Mike Zagurski to the 60-day disabled list.,TRUE,2007,Philadelphia Phillies,Mike Zagurski,transferred,60,FALSE,NA
+2007-09-01,transferred OF Chris Duffy to the 60-day disabled list.,TRUE,2007,Pittsburgh Pirates,Chris Duffy,transferred,60,FALSE,NA
+2007-09-01,San Diego Padres Reinstated C Michael Barrett from the 15-day disabled list,TRUE,2007,San Diego Padres,Michael Barrett,activated,15,FALSE,NA
+2007-09-01,activated RHP Sean White from the 60-day disabled list.,TRUE,2007,Seattle Mariners,Sean White,activated,60,FALSE,NA
+2007-09-01,activated LHP Mike Maroth from the 15-day disabled list,TRUE,2007,St. Louis Cardinals,Mike Maroth,activated,15,FALSE,NA
+2007-09-01,Tampa Bay Devil Rays Activated RHP Jay Witasick from the 15-day disabled list.,TRUE,2007,Tampa Bay Devil Rays,Jay Witasick,activated,15,FALSE,NA
+2007-09-01,Texas Rangers Activated INF Hank Blalock from the 60-day disabled list,TRUE,2007,Texas Rangers,Hank Blalock,activated,60,FALSE,NA
+2007-09-02,Los Angeles Angels Recalled OF Juan Rivera from rehabilitation and activated him from the 60-day disabled list,TRUE,2007,Los Angeles Angels,Juan Rivera,activated,60,FALSE,NA
+2007-09-03,Colorado Rockies Activated C Edwin Bellorin from the 15-day disabled list.,TRUE,2007,Colorado Rockies,Edwin Bellorin,activated,15,FALSE,NA
+2007-09-03,Transferred RHP Henry Owens to the 60-day disabled list.,TRUE,2007,Florida Marlins,Henry Owens,transferred,60,FALSE,NA
+2007-09-03,Kansas City Royals Activated OF Mark Teahen from the 15-day disabled list,TRUE,2007,Kansas City Royals,Mark Teahen,activated,15,FALSE,NA
+2007-09-03,Oakland Athletics Activated INF Donnie Murphy from the 15-day disabled list,TRUE,2007,Oakland Athletics,Donnie Murphy,activated,15,FALSE,NA
+2007-09-04,transferred RHP Chris Ray from the 15-day to the 60-day disabled list.,TRUE,2007,Baltimore Orioles,Chris Ray,transferred,60,FALSE,NA
+2007-09-04,Transferred RHP Jason Hirsh to 60-day disabled list.,TRUE,2007,Colorado Rockies,Jason Hirsh,transferred,60,FALSE,NA
+2007-09-04,Transferred RHP Jason Jennings from the 15-day to the 60-day disabled list,TRUE,2007,Houston Astros,Jason Jennings,transferred,60,FALSE,NA
+2007-09-04,transferred OF Reggie Sanders from the 15-day disabled list to the 60-day disabled list,TRUE,2007,Kansas City Royals,Reggie Sanders,transferred,60,FALSE,NA
+2007-09-04,Placed LHP Hong-Chih Kuo on the 60-day disabled list and activated INF Nomar Garciaparra from the 15-day disabled list,TRUE,2007,Los Angeles Dodgers,Nomar Garciaparra,placed,60,FALSE,NA
+2007-09-04,Purchased the contract of C Mike Rivera from Triple-A Nashville and transferred INF Tony Graffanino to the 60-day disabled list.,TRUE,2007,Milwaukee Brewers,Mike Rivera,transferred,60,FALSE,NA
+2007-09-04,Philadelphia Phillies Transferred RHP Ryan Madson to the 60-day disabled list,TRUE,2007,Philadelphia Phillies,Ryan Madson,transferred,60,FALSE,NA
+2007-09-04,"San Francisco Giants Recalled C Eliezer Alfonzo, OF Eugenio Velez and LHP Erick Threets from Triple-A Fresno, purchased the contract of RHP Dan Giese from Triple-A Fresno and placed RHP Merkin Valdez on the 60-day disabled list recovering from elbow ligament replacement surgery.",TRUE,2007,San Francisco Giants,Eliezer Alfonzo,placed,60,FALSE,NA
+2007-09-04,Transferred RHP Chris Reitsma from the 15-day to the 60-day disabled list.,TRUE,2007,Seattle Mariners,Chris Reitsma,transferred,60,FALSE,NA
+2007-09-04,Placed OF Juan Encarnacion on the 60-day disabled list.,TRUE,2007,St. Louis Cardinals,Juan Encarnacion,placed,60,FALSE,NA
+2007-09-04,"Texas Rangers Recalled OF Freddy Guzman and LHP A.J. Murray from Triple-A Oklahoma, purchased the contract of LHP Bill White from Double-A Frisco and placed RHP Willie Eyre on the 60-day disabled list (recovering from Tommy John surgery).",TRUE,2007,Texas Rangers,Freddy Guzman,placed,60,FALSE,NA
+2007-09-04,Toronto Blue Jays Activated RHP Brandon League from the 15-day disabled list,TRUE,2007,Toronto Blue Jays,Brandon League,activated,15,FALSE,NA
+2007-09-04,Transferred LHP Gustavo Chacin to the 60-day disabled list.,TRUE,2007,Toronto Blue Jays,Gustavo Chacin,transferred,60,FALSE,NA
+2007-09-04,Transferred RHP John Patterson and RHP Jason Simontacchi to the 60-day disabled list and activated LHP Micah Bowie from the 15-day disabled list.,TRUE,2007,Washington Nationals,John Patterson,transferred,60,FALSE,NA
+2007-09-05,Detroit Tigers Activated LHP Kenny Rogers from the 15-day disabled list.,TRUE,2007,Detroit Tigers,Kenny Rogers,activated,15,FALSE,NA
+2007-09-05,Los Angeles Angels Activated INF Erick Aybar from the 15-day disabled list.,TRUE,2007,Los Angeles Angels,Erick Aybar,activated,15,FALSE,NA
+2007-09-05,Transferred RHP Akinori Otsuka from the 15-day to the 60-day disabled list (right forearm tightness).,TRUE,2007,Texas Rangers,Akinori Otsuka,transferred,60,FALSE,NA
+2007-09-06,Cleveland Indians Activated OF David Dellucci from the 60-day disabled list and designated IF Joe Inglett for assignment.,TRUE,2007,Cleveland Indians,David Dellucci,activated,60,FALSE,NA
+2007-09-06,Detroit Tigers Activated OF Gary Sheffield from the 15-day disabled list.,TRUE,2007,Detroit Tigers,Gary Sheffield,activated,15,FALSE,NA
+2007-09-06,St. Louis Cardinals Activated LHP Mark Mulder from the 60-day disabled list and transferred 3B Scott Rolen from the 15-day to the 60-day disabled list.,TRUE,2007,St. Louis Cardinals,Mark Mulder,activated,60,FALSE,NA
+2007-09-07,Atlanta Braves Activated SS Edgar Renteria from the 15-day disabled list.,TRUE,2007,Atlanta Braves,Edgar Renteria,activated,15,FALSE,NA
+2007-09-07,Oakland Athletics Travis Buck: Transferred from the 15-day to the 60-day disabled list.,TRUE,2007,Oakland Athletics,Travis Buck,transferred,60,FALSE,NA
+2007-09-07,Claimed OF Kevin Thompson off waivers from the Yankees and transferred OF Travis Buck from the 15-day to the 60-day disabled list.,TRUE,2007,Oakland Athletics,Kevin Thompson,transferred,60,FALSE,NA
+2007-09-07,San Francisco Giants Purchased the contract of IF Scott McClain from Triple-A Fresno and transferred RHP Vinnie Chulk from the 15-day disabled list to the 60-day disabled list.,TRUE,2007,San Francisco Giants,Scott McClain,transferred,60,FALSE,NA
+2007-09-08,Colorado Rockies Purchased the contract of LHP Josh Newman from Triple-A Colorado Springs and recalled RHP Ramon Ramirez from Triple-A Colorado Springs and placed him on the 60-day disabled list with right elbow inflammation.,TRUE,2007,Colorado Rockies,Josh Newman,placed,60,FALSE,NA
+2007-09-08,New York Yankees Activated LHP Ron Villone from the 15-day disabled list.,TRUE,2007,New York Yankees,Ron Villone,activated,15,FALSE,NA
+2007-09-08,Pittsburgh Pirates Activated C/OF Ryan Doumit from 15-day disabled list.,TRUE,2007,Pittsburgh Pirates,Ryan Doumit,activated,15,FALSE,NA
+2007-09-08,San Diego Padres Activated OF Scott Hairston from the 15-day disabled list.,TRUE,2007,San Diego Padres,Scott Hairston,activated,15,FALSE,NA
+2007-09-09,placed LHP Erik Bedard on the 60-day disabled list with a strained right oblique muscle.,TRUE,2007,Baltimore Orioles,Erik Bedard,placed,60,FALSE,NA
+2007-09-09,Cincinnati Reds Activated IF Pedro Lopez from the 15-day disabled list.,TRUE,2007,Cincinnati Reds,Pedro Lopez,activated,15,FALSE,NA
+2007-09-09,Milwaukee Brewers Activated RHP Claudio Vargas from the 15-day disabled list.,TRUE,2007,Milwaukee Brewers,Claudio Vargas,activated,15,FALSE,NA
+2007-09-09,San Diego Padres Activated 2B Marcus Giles from the 15-day disabled list.,TRUE,2007,San Diego Padres,Marcus Giles,activated,15,FALSE,NA
+2007-09-10,Minnesota Twins Placed C Jose Morales on the 60-day disabled list with a sprained left ankle and purchased the contract of C Matthew LeCroy from Triple-A Rochester.,TRUE,2007,Minnesota Twins,Jose Morales,placed,60,FALSE,NA
+2007-09-10,New York Yankees Transferred 1B Andy Phillips from the 15-day disabled list to the 60-day disabled list.,TRUE,2007,New York Yankees,Andy Phillips,transferred,60,FALSE,NA
+2007-09-10,Philadelphia Phillies Activated OF Michael Bourn from the 15-day disabled list.,TRUE,2007,Philadelphia Phillies,Michael Bourn,activated,15,FALSE,NA
+2007-09-10,Tampa Bay Devil Rays Transferred SS Ben Zobrist from the 15-day to the 60-day disabled list.,TRUE,2007,Tampa Bay Devil Rays,Ben Zobrist,transferred,60,FALSE,NA
+2007-09-11,Detroit Tigers Activated RHP Jair Jurrjens from the 15-day disabled list.,TRUE,2007,Detroit Tigers,Jair Jurrjens,activated,15,FALSE,NA
+2007-09-11,Kansas City Royals Activated LHP Jorge De La Rosa from the 15-day disabled list.,TRUE,2007,Kansas City Royals,Jorge De La Rosa,activated,15,FALSE,NA
+2007-09-11,Minnesota Twins Activated LHP Glen Perkins from the 15-day disabled list.,TRUE,2007,Minnesota Twins,Glen Perkins,activated,15,FALSE,NA
+2007-09-11,Texas Rangers Activated RHP Brandon McCarthy from the 15-day disabled list.,TRUE,2007,Texas Rangers,Brandon McCarthy,activated,15,FALSE,NA
+2007-09-12,Transferred INF Aaron Boone to the 60-day disabled list.,TRUE,2007,Florida Marlins,Aaron Boone,transferred,60,FALSE,NA
+2007-09-12,Pittsburgh Pirates Placed C Ryan Doumit on the 60-day disabled list with a sprained right ankle,TRUE,2007,Pittsburgh Pirates,Ryan Doumit,placed,60,FALSE,NA
+2007-09-12,Activated LHP Zach Duke from the 60-day disabled list.,TRUE,2007,Pittsburgh Pirates,Zach Duke,activated,60,FALSE,NA
+2007-09-12,Seattle Mariners Activated RHP Jon Huber from the 15-day disabled list.,TRUE,2007,Seattle Mariners,Jon Huber,activated,15,FALSE,NA
+2007-09-13,Texas Rangers Activated 3B Travis Metcalf from the 15-day disabled list.,TRUE,2007,Texas Rangers,Travis Metcalf,activated,15,FALSE,NA
+2007-09-14,Florida Marlins Reinstated LHP Renyel Pinto from the 15-day disabled list.,TRUE,2007,Florida Marlins,Renyel Pinto,activated,15,FALSE,NA
+2007-09-14,Houston Astros Activated LHP Stephen Randolph from the 15-day disabled list.,TRUE,2007,Houston Astros,Stephen Randolph,activated,15,FALSE,NA
+2007-09-15,New York Mets Activated C Ramon Castro from the 15-day disabled list.,TRUE,2007,New York Mets,Ramon Castro,activated,15,FALSE,NA
+2007-09-15,Oakland Athletics Selected the contract of LHP Jerry Blevins from Triple-A Sacramento and transferred Bobby Crosby to the 60-day disabled list.,TRUE,2007,Oakland Athletics,Jerry Blevins,transferred,60,FALSE,NA
+2007-09-15,San Diego Padres Activated IF Oscar Robles from the 15-day disabled list.,TRUE,2007,San Diego Padres,Oscar Robles,activated,15,FALSE,NA
+2007-09-15,Toronto Blue Jays Placed 3B Troy Glaus on the 60-day disabled list with a sore left heel,TRUE,2007,Toronto Blue Jays,Troy Glaus,placed,60,FALSE,NA
+2007-09-16,transferred RHP Aaron Cook from the 15-day to the 60-day disabled list.,TRUE,2007,Colorado Rockies,Aaron Cook,transferred,60,FALSE,NA
+2007-09-16,Houston Astros Activated SS Adam Everett from the 15-day disabled list.,TRUE,2007,Houston Astros,Adam Everett,activated,15,FALSE,NA
+2007-09-17,Seattle Mariners Activated RHP Cha Seung Baek from the 15-day disabled list.,TRUE,2007,Seattle Mariners,Cha Seung Baek,activated,15,FALSE,NA
+2007-09-18,Philadelphia Phillies Activated LHP Cole Hamels from the 15-day disabled list.,TRUE,2007,Philadelphia Phillies,Cole Hamels,activated,15,FALSE,NA
+2007-09-20,Atlanta Braves Activated RHP Octavio Dotel from the 15-day disabled list.,TRUE,2007,Atlanta Braves,Octavio Dotel,activated,15,FALSE,NA
+2007-09-21,Transferred LHP Odalis Perez to the 60-day disabled list.,TRUE,2007,Kansas City Royals,Odalis Perez,transferred,60,FALSE,NA
+2007-09-21,Milwaukee Brewers Activated LHP Manny Parra from the 15-day disabled list.,TRUE,2007,Milwaukee Brewers,Manny Parra,activated,15,FALSE,NA
+2007-09-21,transferred LHP Jason Vargas from the 15-day to the 60-day disabled list.,TRUE,2007,New York Mets,Jason Vargas,transferred,60,FALSE,NA
+2007-09-21,Washington Nationals Reinstated SS Cristian Guzman from the 15-day disabled list.,TRUE,2007,Washington Nationals,Cristian Guzman,activated,15,FALSE,NA
+2007-09-22,Toronto Blue Jays Placed OF Vernon Wells on the 60-day disabled list with a cyst and torn labrum in his left shoulder,TRUE,2007,Toronto Blue Jays,Vernon Wells,placed,60,FALSE,NA
+2007-09-24,Transferred RHP Yoel Hernandez from the 15-day to the 60-day disabled list.,TRUE,2007,Philadelphia Phillies,Yoel Hernandez,transferred,60,FALSE,NA
+2007-09-25,"San Diego Padres Purchased the contract of OF Drew Macias from Double-A San Antonio, recalled IF Chase Headley from San Antonio and placed RHP Clay Hensley on the 60-day disabled list recovering from surgery on a torn labrum in his right shoulder.",TRUE,2007,San Diego Padres,Drew Macias,placed,60,FALSE,NA
+2007-09-26,Cincinnati Reds Reinstated INF Jerry Gil (right elbow) from the 60-day disabled list and transferred OF Ryan Freel (right knee) to the 60-day disabled list.,TRUE,2007,Cincinnati Reds,Jerry Gil,activated,60,FALSE,NA
+2007-09-27,Transferred LHP Bobby Livingston from the 15-day to the 60-day disabled list.,TRUE,2007,Cincinnati Reds,Bobby Livingston,transferred,60,FALSE,NA
+2007-10-10,Reinstated RHP Jason Simontacchi from the 60-day disabled list and outrighted him to Triple-A Columbus.,TRUE,2007,Washington Nationals,Jason Simontacchi,activated,60,FALSE,NA
+2007-10-11,Activated RHP Jose Garcia from the 60-day disabled list,TRUE,2007,Houston Astros,Jose Garcia,activated,60,FALSE,NA
+2007-10-11,"Minnesota Twins Activated LHP Dennys Reyes from the 15-day disabled list and LHP Francisco Liriano, RHP Jesse Crain and C Jose Morales from the 60-day disabled list.",TRUE,2007,Minnesota Twins,Dennys Reyes,activated,15,FALSE,NA
+2007-10-11,Activated SS Alejandro Machado from the 60-day disabled list and sent him outright to Triple-A Rochester,TRUE,2007,Minnesota Twins,Alejandro Machado,activated,60,FALSE,NA
+2007-10-15,"Texas Rangers Rangers activated SS Joaquin Arias, RHP Willie Eyre, RHP Akinori Otsuka and RHP Josh Rupe from the 60-day disabled list",TRUE,2007,Texas Rangers,Joaquin Arias,activated,60,FALSE,NA
+2007-10-18,Houston Astros Activated C Hector Gimenez from the 60-day disabled list and sent him outright to Triple-A Round Rock,TRUE,2007,Houston Astros,Hector Gimenez,activated,60,FALSE,NA
+2007-10-18,"Washington Nationals Activated 1B Nick Johnson, RHP John Patterson and RHP Ryan Wagner from the 60-day disabled list.",TRUE,2007,Washington Nationals,Nick Johnson,activated,60,FALSE,NA
+2007-10-23,"Activated LHP Erik Bedard, RHP Kris Benson, OF Jay Gibbons, LHP Adam Loewen and RHP Chris Ray from the 60-day disabled list.",TRUE,2007,Baltimore Orioles,Erik Bedard,activated,60,FALSE,NA
+2007-10-23,Colorado Rockies Activated RHP Aaron Cook from the 60-day disabled list.,TRUE,2007,Colorado Rockies,Aaron Cook,activated,60,FALSE,NA
+2007-10-24,Seattle Mariners Activated RHP Chris Reitsma and LHP Arthur Rhodes from the 60-day disabled list,TRUE,2007,Seattle Mariners,Chris Reitsma,activated,60,FALSE,NA
+2007-10-25,Seattle Mariners Activated RHP Mark Lowe from the 15-day disabled list.,TRUE,2007,Seattle Mariners,Mark Lowe,activated,15,FALSE,NA
+2007-10-26,Activated 3B Joe Crede from the 60-day disabled list,TRUE,2007,Chicago White Sox,Joe Crede,activated,60,FALSE,NA
+2007-10-26,Activated INF Pablo Ozuna from the 60-day disabled list.,TRUE,2007,Chicago White Sox,Pablo Ozuna,activated,60,FALSE,NA
+2007-10-29,Houston Astros Activated RHP Jason Jennings from the 60-day disabled list.,TRUE,2007,Houston Astros,Jason Jennings,activated,60,FALSE,NA
+2007-10-29,Kansas City Royals Activated OF Reggie Sanders from the 60-day disabled list.,TRUE,2007,Kansas City Royals,Reggie Sanders,activated,60,FALSE,NA
+2007-10-29,New York Mets Activated 2B Damion Easley from the 15-day disabled list.,TRUE,2007,New York Mets,Damion Easley,activated,15,FALSE,NA
+2007-10-29,Philadelphia Phillies Activated RHP Jon Lieber from the 60-day disabled list.,TRUE,2007,Philadelphia Phillies,Jon Lieber,activated,60,FALSE,NA
+2007-10-30,Boston Red Sox Activated RHP Matt Clement from the 60-day disabled list.,TRUE,2007,Boston Red Sox,Matt Clement,activated,60,FALSE,NA
+2007-10-30,Cincinnati Reds Activated LHP Eric Milton from the 60-day disabled list.,TRUE,2007,Cincinnati Reds,Eric Milton,activated,60,FALSE,NA
+2007-10-30,Colorado Rockies Sean Barker: Activated from the 60-day disabled list.,TRUE,2007,Colorado Rockies,Sean Barker,activated,60,FALSE,NA
+2007-10-30,Jason Hirsh: Activated from the 60-day disabled list.,TRUE,2007,Colorado Rockies,Jason Hirsh,activated,60,FALSE,NA
+2007-10-30,Florida Marlins Activated INF Aaron Boone from the 60-day disabled list.,TRUE,2007,Florida Marlins,Aaron Boone,activated,60,FALSE,NA
+2007-10-30,Activated RHP Chin-hui Tsao from the 60-day disabled list.,TRUE,2007,Los Angeles Dodgers,Chin hui Tsao,activated,60,FALSE,NA
+2007-10-30,"San Francisco Giants Activated RHPs Vinnie Chulk, Russ Ortiz and Merkin Valdez and C Mike Matheny from the 60-day disabled list.",TRUE,2007,San Francisco Giants,Vinnie Chulk,activated,60,FALSE,NA
+2007-10-31,Colorado Rockies Activated RHP Ramon Ramirez and RHP Rodrigo Lopez from the 60-day disabled list.,TRUE,2007,Colorado Rockies,Ramon Ramirez,activated,60,FALSE,NA
+2007-10-31,"New York Yankees Activated RHP Carl Pavano, 1B Andy Phillips, RHP Darrell Rasner and RHP Humberto Sanchez from the 60-day disabled list.",TRUE,2007,New York Yankees,Carl Pavano,activated,60,FALSE,NA
+2007-10-31,Philadelphia Phillies Activated RHP Freddy Garcia from the 60-day disabled list.,TRUE,2007,Philadelphia Phillies,Freddy Garcia,activated,60,FALSE,NA
+2007-11-01,Chicago Cubs Activated OF Angel Pagan from the 15-day disabled list.,TRUE,2007,Chicago Cubs,Angel Pagan,activated,15,FALSE,NA
+2007-11-01,Colorado Rockies Activated RHP Darren Clarke from the 60-day disabled list.,TRUE,2007,Colorado Rockies,Darren Clarke,activated,60,FALSE,NA
+2007-11-01,Kansas City Royals Activated LHP Odalis Perez and RHP John Thomson from the 60-day disabled list,TRUE,2007,Kansas City Royals,Odalis Perez,activated,60,FALSE,NA
+2007-11-01,"Los Angeles Dodgers Activated OF Jason Repko, RHP Yhency Brazoban, RHP Jason Schmidt, LHP Hong-Chih Kuo and LHP Randy Wolf from the 60-day disabled list",TRUE,2007,Los Angeles Dodgers,Jason Repko,activated,60,FALSE,NA
+2007-11-01,Activated RHP Clay Hensley from the 60-day disabled list and LHP Ryan Ketchner from the 15-day disabled list.,TRUE,2007,San Diego Padres,Clay Hensley,activated,60,FALSE,NA
+2007-11-02,"Cincinnati Reds Activated INF Juan Castro, OF Ryan Freel and LHP Bobby Livingston from the 60-day disabled list.",TRUE,2007,Cincinnati Reds,Juan Castro,activated,60,FALSE,NA
+2007-11-02,"Philadelphia Phillies Activated RHP Ryan Madson, RHP Scott Mathieson and LHP Mike Zagurski from the 60-day disabled list.",TRUE,2007,Philadelphia Phillies,Ryan Madson,activated,60,FALSE,NA
+2007-11-02,"St. Louis Cardinals Activated 2B Adam Kennedy from the 15-day disabled list and RHP Chris Carpenter, OF Juan Encarnacion, RHP Josh Kinney, 3B Scott Rolen and OF Preston Wilson from the 60-day disabled list.",TRUE,2007,St. Louis Cardinals,Adam Kennedy,activated,15,FALSE,NA
+2007-11-06,"New York Mets Activated LHP Jason Vargas, OF Ben Johnson, RHP Juan Padilla, RHP Duaner Sanchez and 2B Jose Valentin from the 60-day disabled list",TRUE,2007,New York Mets,Jason Vargas,activated,60,FALSE,NA
+2007-11-07,Detroit Tigers Activated SS Tony Giarratano and C Vance Wilson from the 60-day disabled list.,TRUE,2007,Detroit Tigers,Tony Giarratano,activated,60,FALSE,NA
+2007-11-12,Arizona Diamondbacks Activated LHP Randy Johnson from the 60-day disabled list.,TRUE,2007,Arizona Diamondbacks,Randy Johnson,activated,60,FALSE,NA
+2007-11-12,Florida Marlins Activated RHP Henry Owens and RHP Josh Johnson from the 60-day disabled list.,TRUE,2007,Florida Marlins,Henry Owens,activated,60,FALSE,NA
+2007-11-13,"Atlanta Braves Activated 3B Willy Aybar, LHP Mike Gonzalez, LHP Mike Hampton and RHP Anthony Lerew from the 60-day disabled list.",TRUE,2007,Atlanta Braves,Willy Aybar,activated,60,FALSE,NA
+2007-11-13,Boston Red Sox Activated RHP Brendan Donnelly from the 60-day disabled list.,TRUE,2007,Boston Red Sox,Brendan Donnelly,activated,60,FALSE,NA
+2007-11-13,Chicago Cubs Activated RHP Angel Guzman and RHP Mark Prior from the 60-day disabled list,TRUE,2007,Chicago Cubs,Angel Guzman,activated,60,FALSE,NA
+2007-11-13,"Reinstated RHP Roman Colon, RHP Luke Hudson, RHP Joe Nelson, INF Angel Sanchez and INF Ryan Shealy from the 60-day disabled list",TRUE,2007,Kansas City Royals,Roman Colon,activated,60,FALSE,NA
+2007-11-13,Los Angeles Angels Activated 3B Dallas McPherson from the 60-day disabled list.,TRUE,2007,Los Angeles Angels,Dallas McPherson,activated,60,FALSE,NA
+2007-11-13,Pittsburgh Pirates Activated C Ryan Doumit and OF Chris Duffy from the 60-day disabled list.,TRUE,2007,Pittsburgh Pirates,Ryan Doumit,activated,60,FALSE,NA
+2007-11-13,"Toronto Blue Jays Activated LHP Gustavo Chacin, 3B Troy Glaus, LHP Davis Romero, LHP B.J. Ryan and CF Vernon Wells from the 60-day disabled list",TRUE,2007,Toronto Blue Jays,Gustavo Chacin,activated,60,FALSE,NA
+2007-11-14,"Activated OF Rocco Baldelli, C Shawn Riggans and SS Ben Zobrist from the 60-day disabled list.",TRUE,2007,Tampa Bay Rays,Rocco Baldelli,activated,60,FALSE,NA

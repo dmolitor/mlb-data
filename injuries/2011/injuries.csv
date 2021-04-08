@@ -1,0 +1,860 @@
+date,transaction,injured,year,team,player,type,length,is_retroactive,date_retroactive
+2011-03-12,Toronto Blue Jays placed RHP Dustin McGowan on the 60-day disabled list.,TRUE,2011,Toronto Blue Jays,Dustin McGowan,placed,60,FALSE,NA
+2011-03-22,Houston Astros placed C Jason Castro on the 15-day disabled list.,TRUE,2011,Houston Astros,Jason Castro,placed,15,FALSE,NA
+2011-03-22,Chicago Cubs placed RHP Brian Schlitter on the 15-day disabled list.,TRUE,2011,Chicago Cubs,Brian Schlitter,placed,15,FALSE,NA
+2011-03-23,Washington Nationals placed RHP Stephen Strasburg on the 60-day disabled list.,TRUE,2011,Washington Nationals,Stephen Strasburg,placed,60,FALSE,NA
+2011-03-25,St. Louis Cardinals placed RHP Adam Wainwright on the 60-day disabled list.,TRUE,2011,St. Louis Cardinals,Adam Wainwright,placed,60,FALSE,NA
+2011-03-26,"Milwaukee Brewers placed RHP Zack Greinke on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Milwaukee Brewers,Zack Greinke,placed,15,TRUE,2011-03-22
+2011-03-26,"Milwaukee Brewers placed LHP Manny Parra on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Milwaukee Brewers,Manny Parra,placed,15,TRUE,2011-03-22
+2011-03-26,Toronto Blue Jays placed LF Corey Patterson on the 15-day disabled list.,TRUE,2011,Toronto Blue Jays,Corey Patterson,placed,15,FALSE,NA
+2011-03-27,Atlanta Braves placed RHP Kris Medlen on the 15-day disabled list.,TRUE,2011,Atlanta Braves,Kris Medlen,placed,15,FALSE,NA
+2011-03-27,"Milwaukee Brewers placed RHP LaTroy Hawkins on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Milwaukee Brewers,LaTroy Hawkins,placed,15,TRUE,2011-03-22
+2011-03-28,Washington Nationals placed RHP Henry Alberto Rodriguez on the 15-day disabled list.,TRUE,2011,Washington Nationals,Henry Alberto Rodriguez,placed,15,FALSE,NA
+2011-03-28,Washington Nationals placed RHP Chien-Ming Wang on the 60-day disabled list.,TRUE,2011,Washington Nationals,Chien Ming Wang,placed,60,FALSE,NA
+2011-03-28,"San Diego Padres placed CF Eric Patterson on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,San Diego Padres,Eric Patterson,placed,15,TRUE,2011-03-22
+2011-03-29,"Baltimore Orioles placed RHP Justin Duchscherer on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Baltimore Orioles,Justin Duchscherer,placed,15,TRUE,2011-03-22
+2011-03-29,"San Diego Padres placed 3B Jarrett Hoffpauir on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,San Diego Padres,Jarrett Hoffpauir,placed,15,TRUE,2011-03-22
+2011-03-29,"San Diego Padres placed RHP Mat Latos on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,San Diego Padres,Mat Latos,placed,15,TRUE,2011-03-22
+2011-03-29,"San Diego Padres placed LHP Joe Thatcher on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,San Diego Padres,Joe Thatcher,placed,15,TRUE,2011-03-22
+2011-03-29,Toronto Blue Jays placed LHP Jesse Carlson on the 60-day disabled list.,TRUE,2011,Toronto Blue Jays,Jesse Carlson,placed,60,FALSE,NA
+2011-03-29,"Los Angeles Angels placed LHP Scott Downs on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Los Angeles Angels,Scott Downs,placed,15,TRUE,2011-03-22
+2011-03-29,"Los Angeles Angels placed 1B Kendrys Morales on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Los Angeles Angels,Kendrys Morales,placed,15,TRUE,2011-03-22
+2011-03-29,"Los Angeles Angels placed RHP Joel Pineiro on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Los Angeles Angels,Joel Pineiro,placed,15,TRUE,2011-03-22
+2011-03-29,"Los Angeles Angels placed LF Reggie Willits on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Los Angeles Angels,Reggie Willits,placed,15,TRUE,2011-03-22
+2011-03-30,"Milwaukee Brewers placed RF Corey Hart on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Milwaukee Brewers,Corey Hart,placed,15,TRUE,2011-03-22
+2011-03-30,"Milwaukee Brewers placed C Jonathan Lucroy on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Milwaukee Brewers,Jonathan Lucroy,placed,15,TRUE,2011-03-22
+2011-03-30,Florida Marlins placed C John Baker on the 60-day disabled list.,TRUE,2011,Florida Marlins,John Baker,placed,60,FALSE,NA
+2011-03-30,"Cleveland Indians placed CF Grady Sizemore on the 15-day disabled list retroactive to March 29, 2011.",TRUE,2011,Cleveland Indians,Grady Sizemore,placed,15,TRUE,2011-03-29
+2011-03-30,"Cleveland Indians placed RHP Joe Smith on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Cleveland Indians,Joe Smith,placed,15,TRUE,2011-03-22
+2011-03-30,Cleveland Indians placed LF Trevor Crowe on the 60-day disabled list.,TRUE,2011,Cleveland Indians,Trevor Crowe,placed,60,FALSE,NA
+2011-03-30,Detroit Tigers placed 2B Carlos Guillen on the 15-day disabled list.,TRUE,2011,Detroit Tigers,Carlos Guillen,placed,15,FALSE,NA
+2011-03-30,Detroit Tigers placed RHP Joel Zumaya on the 15-day disabled list.,TRUE,2011,Detroit Tigers,Joel Zumaya,placed,15,FALSE,NA
+2011-03-30,"New York Yankees placed C Francisco Cervelli on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,New York Yankees,Francisco Cervelli,placed,15,TRUE,2011-03-22
+2011-03-30,"New York Yankees placed LHP Pedro Feliciano on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,New York Yankees,Pedro Feliciano,placed,15,TRUE,2011-03-22
+2011-03-30,"New York Yankees placed LF Colin Curtis on the 60-day disabled list retroactive to March 22, 2011.",TRUE,2011,New York Yankees,Colin Curtis,placed,60,TRUE,2011-03-22
+2011-03-30,"New York Yankees placed LHP Damaso Marte on the 60-day disabled list retroactive to March 22, 2011.",TRUE,2011,New York Yankees,Damaso Marte,placed,60,TRUE,2011-03-22
+2011-03-30,"Cincinnati Reds placed RHP Jose Arredondo on the 15-day disabled list retroactive to March 25, 2011.",TRUE,2011,Cincinnati Reds,Jose Arredondo,placed,15,TRUE,2011-03-25
+2011-03-30,"Cincinnati Reds placed RHP Homer Bailey on the 15-day disabled list retroactive to March 24, 2011.",TRUE,2011,Cincinnati Reds,Homer Bailey,placed,15,TRUE,2011-03-24
+2011-03-30,"Cincinnati Reds placed RHP Johnny Cueto on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Cincinnati Reds,Johnny Cueto,placed,15,TRUE,2011-03-22
+2011-03-30,"Cincinnati Reds placed RHP Jared Burton on the 15-day disabled list retroactive to March 29, 2011.",TRUE,2011,Cincinnati Reds,Jared Burton,placed,15,TRUE,2011-03-29
+2011-03-30,"Cincinnati Reds placed LF Fred Lewis on the 15-day disabled list retroactive to March 27, 2011.",TRUE,2011,Cincinnati Reds,Fred Lewis,placed,15,TRUE,2011-03-27
+2011-03-30,"Kansas City Royals placed C Jason Kendall on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Kansas City Royals,Jason Kendall,placed,15,TRUE,2011-03-22
+2011-03-30,"Arizona Diamondbacks placed 1B Geoff Blum on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Arizona Diamondbacks,Geoff Blum,placed,15,TRUE,2011-03-22
+2011-03-30,"Arizona Diamondbacks placed LHP Zach Duke on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Arizona Diamondbacks,Zach Duke,placed,15,TRUE,2011-03-22
+2011-03-30,"Oakland Athletics placed 2B Adam Rosales on the 60-day disabled list retroactive to March 22, 2011.",TRUE,2011,Oakland Athletics,Adam Rosales,placed,60,TRUE,2011-03-22
+2011-03-30,"Oakland Athletics placed RHP Andrew Bailey on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Oakland Athletics,Andrew Bailey,placed,15,TRUE,2011-03-22
+2011-03-30,"Oakland Athletics placed RHP Rich Harden on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Oakland Athletics,Rich Harden,placed,15,TRUE,2011-03-22
+2011-03-30,"Philadelphia Phillies placed RHP Brad Lidge on the 15-day disabled list retroactive to March 25, 2011.",TRUE,2011,Philadelphia Phillies,Brad Lidge,placed,15,TRUE,2011-03-25
+2011-03-30,"Philadelphia Phillies placed 2B Chase Utley on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Philadelphia Phillies,Chase Utley,placed,15,TRUE,2011-03-22
+2011-03-30,"Chicago White Sox placed RHP Jake Peavy on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Chicago White Sox,Jake Peavy,placed,15,TRUE,2011-03-22
+2011-03-30,"Seattle Mariners placed CF Franklin Gutierrez on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Seattle Mariners,Franklin Gutierrez,placed,15,TRUE,2011-03-22
+2011-03-30,"Seattle Mariners placed RHP David Aardsma on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Seattle Mariners,David Aardsma,placed,15,TRUE,2011-03-22
+2011-03-30,"San Francisco Giants placed RHP Brian Wilson on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,San Francisco Giants,Brian Wilson,placed,15,TRUE,2011-03-22
+2011-03-30,"St. Louis Cardinals placed 3B Nick Punto on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,St. Louis Cardinals,Nick Punto,placed,15,TRUE,2011-03-22
+2011-03-30,"Toronto Blue Jays placed RHP Octavio Dotel on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Toronto Blue Jays,Octavio Dotel,placed,15,TRUE,2011-03-22
+2011-03-30,"Toronto Blue Jays placed RHP Frank Francisco on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Toronto Blue Jays,Frank Francisco,placed,15,TRUE,2011-03-22
+2011-03-30,"Toronto Blue Jays placed RHP Brandon Morrow on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Toronto Blue Jays,Brandon Morrow,placed,15,TRUE,2011-03-22
+2011-03-30,"Los Angeles Dodgers placed 3B Casey Blake on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Los Angeles Dodgers,Casey Blake,placed,15,TRUE,2011-03-22
+2011-03-30,"Los Angeles Dodgers placed RHP Jon Garland on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Los Angeles Dodgers,Jon Garland,placed,15,TRUE,2011-03-22
+2011-03-30,"Los Angeles Dodgers placed LF Jay Gibbons on the 15-day disabled list retroactive to March 26, 2011.",TRUE,2011,Los Angeles Dodgers,Jay Gibbons,placed,15,TRUE,2011-03-26
+2011-03-30,"Los Angeles Dodgers placed C Dioner Navarro on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Los Angeles Dodgers,Dioner Navarro,placed,15,TRUE,2011-03-22
+2011-03-30,"Los Angeles Dodgers placed RHP Vicente Padilla on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Los Angeles Dodgers,Vicente Padilla,placed,15,TRUE,2011-03-22
+2011-03-31,"New York Mets placed LF Jason Bay on the 15-day disabled list retroactive to March 25, 2011.",TRUE,2011,New York Mets,Jason Bay,placed,15,TRUE,2011-03-25
+2011-03-31,"New York Mets placed LHP Johan Santana on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,New York Mets,Johan Santana,placed,15,TRUE,2011-03-22
+2011-03-31,"Boston Red Sox placed LHP Felix Doubront on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Boston Red Sox,Felix Doubront,placed,15,TRUE,2011-03-22
+2011-03-31,"Texas Rangers placed RHP Omar Beltre on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Texas Rangers,Omar Beltre,placed,15,TRUE,2011-03-22
+2011-03-31,"Texas Rangers placed RHP Scott Feldman on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Texas Rangers,Scott Feldman,placed,15,TRUE,2011-03-22
+2011-03-31,"Texas Rangers placed RHP Tommy Hunter on the 15-day disabled list retroactive to March 25, 2011.",TRUE,2011,Texas Rangers,Tommy Hunter,placed,15,TRUE,2011-03-25
+2011-03-31,"Texas Rangers placed RHP Brandon Webb on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Texas Rangers,Brandon Webb,placed,15,TRUE,2011-03-22
+2011-03-31,"Colorado Rockies placed RHP Aaron Cook on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Colorado Rockies,Aaron Cook,placed,15,TRUE,2011-03-22
+2011-03-31,"Tampa Bay Rays placed LHP J.P. Howell on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Tampa Bay Rays,J.P. Howell,placed,15,TRUE,2011-03-22
+2011-03-31,"Pittsburgh Pirates placed RHP Jose Ascanio on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Pittsburgh Pirates,Jose Ascanio,placed,15,TRUE,2011-03-22
+2011-03-31,"Pittsburgh Pirates placed RHP Brad Lincoln on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Pittsburgh Pirates,Brad Lincoln,placed,15,TRUE,2011-03-22
+2011-03-31,"Pittsburgh Pirates placed LHP Scott Olsen on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Pittsburgh Pirates,Scott Olsen,placed,15,TRUE,2011-03-22
+2011-03-31,"Pittsburgh Pirates placed C Chris Snyder on the 15-day disabled list retroactive to March 25, 2011.",TRUE,2011,Pittsburgh Pirates,Chris Snyder,placed,15,TRUE,2011-03-25
+2011-03-31,"Houston Astros placed RHP Alberto Arias on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Houston Astros,Alberto Arias,placed,15,TRUE,2011-03-22
+2011-03-31,"San Francisco Giants placed RF Cody Ross on the 15-day disabled list retroactive to March 22, 2011. right calf strain",TRUE,2011,San Francisco Giants,Cody Ross,placed,15,TRUE,2011-03-22
+2011-03-31,"Houston Astros placed SS Clint Barmes on the 15-day disabled list retroactive to March 26, 2011.",TRUE,2011,Houston Astros,Clint Barmes,placed,15,TRUE,2011-03-26
+2011-03-31,"Houston Astros placed 2B Jeff Keppinger on the 15-day disabled list retroactive to March 22, 2011.",TRUE,2011,Houston Astros,Jeff Keppinger,placed,15,TRUE,2011-03-22
+2011-04-03,"Atlanta Braves placed RHP Jair Jurrjens on the 15-day disabled list retroactive to March 25, 2011.",TRUE,2011,Atlanta Braves,Jair Jurrjens,placed,15,TRUE,2011-03-25
+2011-04-03,"Baltimore Orioles placed LHP Brian Matusz on the 15-day disabled list retroactive to March 30, 2011.",TRUE,2011,Baltimore Orioles,Brian Matusz,placed,15,TRUE,2011-03-30
+2011-04-03,Tampa Bay Rays placed 3B Evan Longoria on the 15-day disabled list.,TRUE,2011,Tampa Bay Rays,Evan Longoria,placed,15,FALSE,NA
+2011-04-06,Los Angeles Dodgers activated 3B Casey Blake from the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Casey Blake,activated,15,FALSE,NA
+2011-04-06,San Francisco Giants activated RHP Brian Wilson from the 15-day disabled list.,TRUE,2011,San Francisco Giants,Brian Wilson,activated,15,FALSE,NA
+2011-04-06,"Oakland Athletics placed RHP Michael Wuertz on the 15-day disabled list retroactive to April 2, 2011.",TRUE,2011,Oakland Athletics,Michael Wuertz,placed,15,TRUE,2011-04-02
+2011-04-06,Milwaukee Brewers placed RHP Takashi Saito on the 15-day disabled list.,TRUE,2011,Milwaukee Brewers,Takashi Saito,placed,15,FALSE,NA
+2011-04-07,"Detroit Tigers placed RHP Ryan Perry on the 15-day disabled list retroactive to April 5, 2011.",TRUE,2011,Detroit Tigers,Ryan Perry,placed,15,TRUE,2011-04-05
+2011-04-08,Minnesota Twins placed 2B Tsuyoshi Nishioka on the 15-day disabled list.,TRUE,2011,Minnesota Twins,Tsuyoshi Nishioka,placed,15,FALSE,NA
+2011-04-08,"Boston Red Sox placed RHP Matt Albers on the 15-day disabled list retroactive to April 6, 2011.",TRUE,2011,Boston Red Sox,Matt Albers,placed,15,TRUE,2011-04-06
+2011-04-08,Boston Red Sox activated LHP Felix Doubront from the 15-day disabled list.,TRUE,2011,Boston Red Sox,Felix Doubront,activated,15,FALSE,NA
+2011-04-08,"Chicago Cubs placed RHP Andrew Cashner on the 15-day disabled list retroactive to April 6, 2011.",TRUE,2011,Chicago Cubs,Andrew Cashner,placed,15,TRUE,2011-04-06
+2011-04-08,"Chicago Cubs placed RHP Randy Wells on the 15-day disabled list retroactive to April 5, 2011.",TRUE,2011,Chicago Cubs,Randy Wells,placed,15,TRUE,2011-04-05
+2011-04-08,"Seattle Mariners placed C Adam Moore on the 60-day disabled list retroactive to April 7, 2011.",TRUE,2011,Seattle Mariners,Adam Moore,placed,60,TRUE,2011-04-07
+2011-04-08,Toronto Blue Jays activated RHP Octavio Dotel from the 15-day disabled list.,TRUE,2011,Toronto Blue Jays,Octavio Dotel,activated,15,FALSE,NA
+2011-04-09,"Los Angeles Angels placed LHP Scott Kazmir on the 15-day disabled list retroactive to April 4, 2011.",TRUE,2011,Los Angeles Angels,Scott Kazmir,placed,15,TRUE,2011-04-04
+2011-04-09,"Minnesota Twins placed RHP Kevin Slowey on the 15-day disabled list retroactive to April 5, 2011.",TRUE,2011,Minnesota Twins,Kevin Slowey,placed,15,TRUE,2011-04-05
+2011-04-09,Pittsburgh Pirates placed RHP Ross Ohlendorf on the 15-day disabled list.,TRUE,2011,Pittsburgh Pirates,Ross Ohlendorf,placed,15,FALSE,NA
+2011-04-10,New York Mets placed C Ronny Paulino on the 15-day disabled list. anemia,TRUE,2011,New York Mets,Ronny Paulino,placed,15,FALSE,NA
+2011-04-10,"Los Angeles Angels placed SS Erick Aybar on the 15-day disabled list retroactive to April 3, 2011.",TRUE,2011,Los Angeles Angels,Erick Aybar,placed,15,TRUE,2011-04-03
+2011-04-10,"Los Angeles Dodgers placed C Hector Gimenez on the 15-day disabled list retroactive to April 9, 2011.",TRUE,2011,Los Angeles Dodgers,Hector Gimenez,placed,15,TRUE,2011-04-09
+2011-04-10,San Diego Padres activated CF Eric Patterson from the 15-day disabled list.,TRUE,2011,San Diego Padres,Eric Patterson,activated,15,FALSE,NA
+2011-04-11,Los Angeles Angels activated LHP Scott Downs from the 15-day disabled list.,TRUE,2011,Los Angeles Angels,Scott Downs,activated,15,FALSE,NA
+2011-04-11,Milwaukee Brewers activated C Jonathan Lucroy from the 15-day disabled list.,TRUE,2011,Milwaukee Brewers,Jonathan Lucroy,activated,15,FALSE,NA
+2011-04-11,Toronto Blue Jays activated LF Corey Patterson from the 15-day disabled list.,TRUE,2011,Toronto Blue Jays,Corey Patterson,activated,15,FALSE,NA
+2011-04-11,Toronto Blue Jays placed RF Rajai Davis on the 15-day disabled list.,TRUE,2011,Toronto Blue Jays,Rajai Davis,placed,15,FALSE,NA
+2011-04-12,"Washington Nationals placed 3B Ryan Zimmerman on the 15-day disabled list retroactive to April 10, 2011. left abdominal strain",TRUE,2011,Washington Nationals,Ryan Zimmerman,placed,15,TRUE,2011-04-10
+2011-04-12,Los Angeles Dodgers placed SS Rafael Furcal on the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Rafael Furcal,placed,15,FALSE,NA
+2011-04-12,Los Angeles Angels activated LF Reggie Willits from the 15-day disabled list.,TRUE,2011,Los Angeles Angels,Reggie Willits,activated,15,FALSE,NA
+2011-04-13,"New York Yankees placed RHP Luis Ayala on the 15-day disabled list retroactive to April 10, 2011.",TRUE,2011,New York Yankees,Luis Ayala,placed,15,TRUE,2011-04-10
+2011-04-13,Texas Rangers placed LF Josh Hamilton on the 15-day disabled list. fractured right humerus,TRUE,2011,Texas Rangers,Josh Hamilton,placed,15,FALSE,NA
+2011-04-13,St. Louis Cardinals placed RHP Bryan Augenstein on the 15-day disabled list.,TRUE,2011,St. Louis Cardinals,Bryan Augenstein,placed,15,FALSE,NA
+2011-04-13,St. Louis Cardinals placed LHP Brian Tallet on the 15-day disabled list.,TRUE,2011,St. Louis Cardinals,Brian Tallet,placed,15,FALSE,NA
+2011-04-13,"Baltimore Orioles placed SS J.J. Hardy on the 15-day disabled list retroactive to April 10, 2011.",TRUE,2011,Baltimore Orioles,J.J. Hardy,placed,15,TRUE,2011-04-10
+2011-04-14,Pittsburgh Pirates activated C Chris Snyder from the 15-day disabled list.,TRUE,2011,Pittsburgh Pirates,Chris Snyder,activated,15,FALSE,NA
+2011-04-14,Colorado Rockies transferred RHP Aaron Cook from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Colorado Rockies,Aaron Cook,transferred,60,FALSE,NA
+2011-04-14,"Kansas City Royals placed RHP Robinson Tejeda on the 15-day disabled list retroactive to April 13, 2011.",TRUE,2011,Kansas City Royals,Robinson Tejeda,placed,15,TRUE,2011-04-13
+2011-04-14,"Minnesota Twins placed C Joe Mauer on the 15-day disabled list retroactive to April 13, 2011.",TRUE,2011,Minnesota Twins,Joe Mauer,placed,15,TRUE,2011-04-13
+2011-04-15,Cleveland Indians activated RHP Joe Smith from the 15-day disabled list.,TRUE,2011,Cleveland Indians,Joe Smith,activated,15,FALSE,NA
+2011-04-15,"Houston Astros placed RHP Wilton Lopez on the 15-day disabled list retroactive to April 14, 2011. irritation of the ulnar nerve in right elbow",TRUE,2011,Houston Astros,Wilton Lopez,placed,15,TRUE,2011-04-14
+2011-04-15,"Arizona Diamondbacks placed RHP Aaron Heilman on the 15-day disabled list retroactive to April 14, 2011. right shoulder tendinitis",TRUE,2011,Arizona Diamondbacks,Aaron Heilman,placed,15,TRUE,2011-04-14
+2011-04-15,New York Yankees placed RHP Phil Hughes on the 15-day disabled list. tired arm,TRUE,2011,New York Yankees,Phil Hughes,placed,15,FALSE,NA
+2011-04-15,New York Yankees transferred LHP Pedro Feliciano from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,New York Yankees,Pedro Feliciano,transferred,60,FALSE,NA
+2011-04-15,"San Francisco Giants placed CF Andres Torres on the 15-day disabled list retroactive to April 10, 2011.",TRUE,2011,San Francisco Giants,Andres Torres,placed,15,TRUE,2011-04-10
+2011-04-15,Los Angeles Dodgers activated RHP Jon Garland from the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Jon Garland,activated,15,FALSE,NA
+2011-04-15,Atlanta Braves placed RHP Peter Moylan on the 15-day disabled list.,TRUE,2011,Atlanta Braves,Peter Moylan,placed,15,FALSE,NA
+2011-04-16,"New York Mets placed RHP Chris Young on the 15-day disabled list retroactive to April 11, 2011.",TRUE,2011,New York Mets,Chris Young,placed,15,TRUE,2011-04-11
+2011-04-16,Atlanta Braves activated RHP Jair Jurrjens from the 15-day disabled list.,TRUE,2011,Atlanta Braves,Jair Jurrjens,activated,15,FALSE,NA
+2011-04-16,"Los Angeles Dodgers placed LHP Hung-Chih Kuo on the 15-day disabled list retroactive to April 14, 2011.",TRUE,2011,Los Angeles Dodgers,Hung Chih Kuo,placed,15,TRUE,2011-04-14
+2011-04-17,Cleveland Indians activated CF Grady Sizemore from the 15-day disabled list.,TRUE,2011,Cleveland Indians,Grady Sizemore,activated,15,FALSE,NA
+2011-04-17,"Cleveland Indians placed RHP Mitch Talbot on the 15-day disabled list retroactive to April 12, 2011.",TRUE,2011,Cleveland Indians,Mitch Talbot,placed,15,TRUE,2011-04-12
+2011-04-17,"Washington Nationals placed RHP Todd Coffey on the 15-day disabled list retroactive to April 9, 2011.",TRUE,2011,Washington Nationals,Todd Coffey,placed,15,TRUE,2011-04-09
+2011-04-17,San Francisco Giants placed LHP Barry Zito on the 15-day disabled list. right mid-foot sprain,TRUE,2011,San Francisco Giants,Barry Zito,placed,15,FALSE,NA
+2011-04-18,"Oakland Athletics placed LHP Dallas Braden on the 15-day disabled list retroactive to April 17, 2011. stiff left shoulder",TRUE,2011,Oakland Athletics,Dallas Braden,placed,15,TRUE,2011-04-17
+2011-04-18,Oakland Athletics transferred RHP Rich Harden from the 15-day disabled list to the 60-day disabled list. strained right shoulder,TRUE,2011,Oakland Athletics,Rich Harden,transferred,60,FALSE,NA
+2011-04-18,Detroit Tigers transferred RHP Joel Zumaya from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Detroit Tigers,Joel Zumaya,transferred,60,FALSE,NA
+2011-04-18,Baltimore Orioles transferred RHP Justin Duchscherer from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Baltimore Orioles,Justin Duchscherer,transferred,60,FALSE,NA
+2011-04-19,Toronto Blue Jays activated RHP Frank Francisco from the 15-day disabled list.,TRUE,2011,Toronto Blue Jays,Frank Francisco,activated,15,FALSE,NA
+2011-04-19,Philadelphia Phillies placed LHP J.C. Romero on the 15-day disabled list. right calf strain,TRUE,2011,Philadelphia Phillies,J.C. Romero,placed,15,FALSE,NA
+2011-04-19,"St. Louis Cardinals placed LF Allen Craig on the 15-day disabled list retroactive to April 17, 2011.",TRUE,2011,St. Louis Cardinals,Allen Craig,placed,15,TRUE,2011-04-17
+2011-04-19,"St. Louis Cardinals placed 2B Skip Schumaker on the 15-day disabled list retroactive to April 16, 2011.",TRUE,2011,St. Louis Cardinals,Skip Schumaker,placed,15,TRUE,2011-04-16
+2011-04-19,St. Louis Cardinals activated 2B Nick Punto from the 15-day disabled list.,TRUE,2011,St. Louis Cardinals,Nick Punto,activated,15,FALSE,NA
+2011-04-19,Detroit Tigers placed C Victor Martinez on the 15-day disabled list.,TRUE,2011,Detroit Tigers,Victor Martinez,placed,15,FALSE,NA
+2011-04-20,Los Angeles Angels activated SS Erick Aybar from the 15-day disabled list.,TRUE,2011,Los Angeles Angels,Erick Aybar,activated,15,FALSE,NA
+2011-04-20,San Francisco Giants activated RF Cody Ross from the 15-day disabled list.,TRUE,2011,San Francisco Giants,Cody Ross,activated,15,FALSE,NA
+2011-04-20,New York Mets placed RHP Bobby Parnell on the 15-day disabled list.,TRUE,2011,New York Mets,Bobby Parnell,placed,15,FALSE,NA
+2011-04-20,Texas Rangers placed RHP Mason Tobin on the 60-day disabled list.,TRUE,2011,Texas Rangers,Mason Tobin,placed,60,FALSE,NA
+2011-04-21,Toronto Blue Jays activated RHP Brandon Morrow from the 15-day disabled list.,TRUE,2011,Toronto Blue Jays,Brandon Morrow,activated,15,FALSE,NA
+2011-04-21,Milwaukee Brewers activated RHP LaTroy Hawkins from the 15-day disabled list.,TRUE,2011,Milwaukee Brewers,LaTroy Hawkins,activated,15,FALSE,NA
+2011-04-21,"Florida Marlins placed LF Logan Morrison on the 15-day disabled list retroactive to April 20, 2011.",TRUE,2011,Florida Marlins,Logan Morrison,placed,15,TRUE,2011-04-20
+2011-04-21,"Milwaukee Brewers placed RF Nyjer Morgan on the 15-day disabled list retroactive to April 18, 2011.",TRUE,2011,Milwaukee Brewers,Nyjer Morgan,placed,15,TRUE,2011-04-18
+2011-04-22,Los Angeles Dodgers activated RHP Vicente Padilla from the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Vicente Padilla,activated,15,FALSE,NA
+2011-04-22,New York Mets placed CF Angel Pagan on the 15-day disabled list.,TRUE,2011,New York Mets,Angel Pagan,placed,15,FALSE,NA
+2011-04-22,"Los Angeles Angels placed LHP Scott Downs on the 15-day disabled list retroactive to April 14, 2011.",TRUE,2011,Los Angeles Angels,Scott Downs,placed,15,TRUE,2011-04-14
+2011-04-23,Toronto Blue Jays placed 3B Jayson Nix on the 15-day disabled list.,TRUE,2011,Toronto Blue Jays,Jayson Nix,placed,15,FALSE,NA
+2011-04-23,"Texas Rangers placed RHP Neftali Feliz on the 15-day disabled list retroactive to April 21, 2011.",TRUE,2011,Texas Rangers,Neftali Feliz,placed,15,TRUE,2011-04-21
+2011-04-24,Washington Nationals activated RHP Todd Coffey from the 15-day disabled list.,TRUE,2011,Washington Nationals,Todd Coffey,activated,15,FALSE,NA
+2011-04-24,"Cincinnati Reds placed 3B Scott Rolen on the 15-day disabled list retroactive to April 21, 2011.",TRUE,2011,Cincinnati Reds,Scott Rolen,placed,15,TRUE,2011-04-21
+2011-04-25,"Toronto Blue Jays placed 2B Aaron Hill on the 15-day disabled list retroactive to April 20, 2011.",TRUE,2011,Toronto Blue Jays,Aaron Hill,placed,15,TRUE,2011-04-20
+2011-04-25,"Philadelphia Phillies placed RHP Jose Contreras on the 15-day disabled list retroactive to April 22, 2011.",TRUE,2011,Philadelphia Phillies,Jose Contreras,placed,15,TRUE,2011-04-22
+2011-04-25,Los Angeles Dodgers activated C Dioner Navarro from the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Dioner Navarro,activated,15,FALSE,NA
+2011-04-25,"Arizona Diamondbacks placed LF Willie Bloomquist on the 15-day disabled list retroactive to April 22, 2011. strained right hamstring",TRUE,2011,Arizona Diamondbacks,Willie Bloomquist,placed,15,TRUE,2011-04-22
+2011-04-25,Oakland Athletics activated RHP Michael Wuertz from the 15-day disabled list.,TRUE,2011,Oakland Athletics,Michael Wuertz,activated,15,FALSE,NA
+2011-04-26,Pittsburgh Pirates transferred LHP Scott Olsen from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Pittsburgh Pirates,Scott Olsen,transferred,60,FALSE,NA
+2011-04-26,"Houston Astros placed LF Jason Michaels on the 15-day disabled list retroactive to April 25, 2011.",TRUE,2011,Houston Astros,Jason Michaels,placed,15,TRUE,2011-04-25
+2011-04-26,New York Mets activated RHP Chris Young from the 15-day disabled list.,TRUE,2011,New York Mets,Chris Young,activated,15,FALSE,NA
+2011-04-26,Milwaukee Brewers activated 1B Corey Hart from the 15-day disabled list.,TRUE,2011,Milwaukee Brewers,Corey Hart,activated,15,FALSE,NA
+2011-04-26,Milwaukee Brewers placed RF Erick Almonte on the 7-day disabled list.,TRUE,2011,Milwaukee Brewers,Erick Almonte,placed,7,FALSE,NA
+2011-04-27,Washington Nationals activated RHP Henry Alberto Rodriguez from the 15-day disabled list.,TRUE,2011,Washington Nationals,Henry Alberto Rodriguez,activated,15,FALSE,NA
+2011-04-27,"Washington Nationals placed RHP Chad Gaudin on the 15-day disabled list retroactive to April 26, 2011.",TRUE,2011,Washington Nationals,Chad Gaudin,placed,15,TRUE,2011-04-26
+2011-04-27,Texas Rangers placed RHP Darren O'Day on the 60-day disabled list.,TRUE,2011,Texas Rangers,Darren O'Day,placed,60,FALSE,NA
+2011-04-28,"Minnesota Twins placed LF Delmon Young on the 15-day disabled list retroactive to April 19, 2011. strained left oblique",TRUE,2011,Minnesota Twins,Delmon Young,placed,15,TRUE,2011-04-19
+2011-04-28,Los Angeles Angels activated RHP Joel Pineiro from the 15-day disabled list.,TRUE,2011,Los Angeles Angels,Joel Pineiro,activated,15,FALSE,NA
+2011-04-28,"San Francisco Giants placed 3B Mark DeRosa on the 15-day disabled list retroactive to April 25, 2011.",TRUE,2011,San Francisco Giants,Mark DeRosa,placed,15,TRUE,2011-04-25
+2011-04-28,"Cleveland Indians placed RHP Carlos Carrasco on the 15-day disabled list retroactive to April 25, 2011.",TRUE,2011,Cleveland Indians,Carlos Carrasco,placed,15,TRUE,2011-04-25
+2011-04-29,Houston Astros activated SS Clint Barmes from the 15-day disabled list.,TRUE,2011,Houston Astros,Clint Barmes,activated,15,FALSE,NA
+2011-04-29,Toronto Blue Jays activated CF Rajai Davis from the 15-day disabled list.,TRUE,2011,Toronto Blue Jays,Rajai Davis,activated,15,FALSE,NA
+2011-04-29,"Philadelphia Phillies placed RHP Joe Blanton on the 15-day disabled list retroactive to April 24, 2011.",TRUE,2011,Philadelphia Phillies,Joe Blanton,placed,15,TRUE,2011-04-24
+2011-04-29,New York Mets activated C Ronny Paulino from the 15-day disabled list.,TRUE,2011,New York Mets,Ronny Paulino,activated,15,FALSE,NA
+2011-04-29,New York Yankees activated C Francisco Cervelli from the 15-day disabled list.,TRUE,2011,New York Yankees,Francisco Cervelli,activated,15,FALSE,NA
+2011-04-29,"Los Angeles Dodgers placed 3B Casey Blake on the 15-day disabled list retroactive to April 25, 2011.",TRUE,2011,Los Angeles Dodgers,Casey Blake,placed,15,TRUE,2011-04-25
+2011-04-29,Philadelphia Phillies transferred RHP Brad Lidge from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Philadelphia Phillies,Brad Lidge,transferred,60,FALSE,NA
+2011-04-30,"Pittsburgh Pirates placed RHP Evan Meek on the 15-day disabled list retroactive to April 27, 2011.",TRUE,2011,Pittsburgh Pirates,Evan Meek,placed,15,TRUE,2011-04-27
+2011-04-30,San Francisco Giants placed 3B Pablo Sandoval on the 15-day disabled list.,TRUE,2011,San Francisco Giants,Pablo Sandoval,placed,15,FALSE,NA
+2011-05-01,Los Angeles Dodgers activated LHP Hung-Chih Kuo from the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Hung Chih Kuo,activated,15,FALSE,NA
+2011-05-02,"Florida Marlins placed 3B Donnie Murphy on the 15-day disabled list retroactive to April 30, 2011.",TRUE,2011,Florida Marlins,Donnie Murphy,placed,15,TRUE,2011-04-30
+2011-05-02,St. Louis Cardinals placed 3B David Freese on the 15-day disabled list.,TRUE,2011,St. Louis Cardinals,David Freese,placed,15,FALSE,NA
+2011-05-02,St. Louis Cardinals activated LF Allen Craig from the 15-day disabled list.,TRUE,2011,St. Louis Cardinals,Allen Craig,activated,15,FALSE,NA
+2011-05-03,Milwaukee Brewers activated RF Nyjer Morgan from the 15-day disabled list.,TRUE,2011,Milwaukee Brewers,Nyjer Morgan,activated,15,FALSE,NA
+2011-05-03,Milwaukee Brewers placed LHP Zach Braddock on the 15-day disabled list.,TRUE,2011,Milwaukee Brewers,Zach Braddock,placed,15,FALSE,NA
+2011-05-03,Tampa Bay Rays activated 3B Evan Longoria from the 15-day disabled list.,TRUE,2011,Tampa Bay Rays,Evan Longoria,activated,15,FALSE,NA
+2011-05-03,"Colorado Rockies placed 3B Ty Wigginton on the 15-day disabled list retroactive to April 27, 2011.",TRUE,2011,Colorado Rockies,Ty Wigginton,placed,15,TRUE,2011-04-27
+2011-05-03,Houston Astros activated RHP Wilton Lopez from the 15-day disabled list.,TRUE,2011,Houston Astros,Wilton Lopez,activated,15,FALSE,NA
+2011-05-03,Los Angeles Dodgers activated LF Jay Gibbons from the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Jay Gibbons,activated,15,FALSE,NA
+2011-05-03,Los Angeles Dodgers placed LF Marcus Thames on the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Marcus Thames,placed,15,FALSE,NA
+2011-05-04,"Minnesota Twins placed DH Jim Thome on the 15-day disabled list retroactive to May 1, 2011.",TRUE,2011,Minnesota Twins,Jim Thome,placed,15,TRUE,2011-05-01
+2011-05-04,Detroit Tigers activated C Victor Martinez from the 15-day disabled list.,TRUE,2011,Detroit Tigers,Victor Martinez,activated,15,FALSE,NA
+2011-05-04,"Minnesota Twins placed LF Jason Repko on the 15-day disabled list retroactive to May 2, 2011. right quad strain",TRUE,2011,Minnesota Twins,Jason Repko,placed,15,TRUE,2011-05-02
+2011-05-04,"New York Mets placed RHP Pedro Beato on the 15-day disabled list retroactive to May 2, 2011.",TRUE,2011,New York Mets,Pedro Beato,placed,15,TRUE,2011-05-02
+2011-05-04,Philadelphia Phillies activated LHP J.C. Romero from the 15-day disabled list.,TRUE,2011,Philadelphia Phillies,J.C. Romero,activated,15,FALSE,NA
+2011-05-04,San Diego Padres placed 2B Orlando Hudson on the 15-day disabled list.,TRUE,2011,San Diego Padres,Orlando Hudson,placed,15,FALSE,NA
+2011-05-04,San Diego Padres transferred LHP Joe Thatcher from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,San Diego Padres,Joe Thatcher,transferred,60,FALSE,NA
+2011-05-05,Cincinnati Reds activated RHP Homer Bailey from the 15-day disabled list.,TRUE,2011,Cincinnati Reds,Homer Bailey,activated,15,FALSE,NA
+2011-05-05,"Boston Red Sox placed RHP Bobby Jenks on the 15-day disabled list retroactive to May 2, 2011. right biceps strain",TRUE,2011,Boston Red Sox,Bobby Jenks,placed,15,TRUE,2011-05-02
+2011-05-05,Boston Red Sox placed RHP Dan Wheeler on the 15-day disabled list. left calf strain,TRUE,2011,Boston Red Sox,Dan Wheeler,placed,15,FALSE,NA
+2011-05-05,Houston Astros placed RHP Brandon Lyon on the 15-day disabled list.,TRUE,2011,Houston Astros,Brandon Lyon,placed,15,FALSE,NA
+2011-05-05,Arizona Diamondbacks activated RHP Aaron Heilman from the 15-day disabled list.,TRUE,2011,Arizona Diamondbacks,Aaron Heilman,activated,15,FALSE,NA
+2011-05-05,Kansas City Royals transferred C Jason Kendall from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Kansas City Royals,Jason Kendall,transferred,60,FALSE,NA
+2011-05-06,Milwaukee Brewers placed RF Nyjer Morgan on the 15-day disabled list.,TRUE,2011,Milwaukee Brewers,Nyjer Morgan,placed,15,FALSE,NA
+2011-05-06,"Tampa Bay Rays placed RHP Jeff Niemann on the 15-day disabled list retroactive to May 5, 2011.",TRUE,2011,Tampa Bay Rays,Jeff Niemann,placed,15,TRUE,2011-05-05
+2011-05-06,New York Yankees placed 3B Eric Chavez on the 15-day disabled list.,TRUE,2011,New York Yankees,Eric Chavez,placed,15,FALSE,NA
+2011-05-06,"Los Angeles Dodgers placed RHP Jonathan Broxton on the 15-day disabled list retroactive to May 4, 2011.",TRUE,2011,Los Angeles Dodgers,Jonathan Broxton,placed,15,TRUE,2011-05-04
+2011-05-06,Texas Rangers activated RHP Neftali Feliz from the 15-day disabled list.,TRUE,2011,Texas Rangers,Neftali Feliz,activated,15,FALSE,NA
+2011-05-06,"San Diego Padres placed C Nick Hundley on the 15-day disabled list retroactive to May 5, 2011. right oblique strain",TRUE,2011,San Diego Padres,Nick Hundley,placed,15,TRUE,2011-05-05
+2011-05-07,"Washington Nationals placed CF Rick Ankiel on the 15-day disabled list retroactive to May 3, 2011.",TRUE,2011,Washington Nationals,Rick Ankiel,placed,15,TRUE,2011-05-03
+2011-05-07,"Philadelphia Phillies placed RHP Roy Oswalt on the 15-day disabled list retroactive to April 27, 2011.",TRUE,2011,Philadelphia Phillies,Roy Oswalt,placed,15,TRUE,2011-04-27
+2011-05-07,Minnesota Twins activated RHP Kevin Slowey from the 15-day disabled list.,TRUE,2011,Minnesota Twins,Kevin Slowey,activated,15,FALSE,NA
+2011-05-07,Florida Marlins placed RHP Clay Hensley on the 15-day disabled list.,TRUE,2011,Florida Marlins,Clay Hensley,placed,15,FALSE,NA
+2011-05-07,"Texas Rangers placed RF Nelson Cruz on the 15-day disabled list retroactive to May 4, 2011. strained right quadriceps muscle",TRUE,2011,Texas Rangers,Nelson Cruz,placed,15,TRUE,2011-05-04
+2011-05-07,"Colorado Rockies placed RHP Esmil Rogers on the 15-day disabled list retroactive to May 2, 2011. right lat muscle strain",TRUE,2011,Colorado Rockies,Esmil Rogers,placed,15,TRUE,2011-05-02
+2011-05-08,Houston Astros placed LF Jason Bourgeois on the 15-day disabled list.,TRUE,2011,Houston Astros,Jason Bourgeois,placed,15,FALSE,NA
+2011-05-08,Cincinnati Reds activated RHP Johnny Cueto from the 15-day disabled list.,TRUE,2011,Cincinnati Reds,Johnny Cueto,activated,15,FALSE,NA
+2011-05-08,Boston Red Sox placed SS Marco Scutaro on the 15-day disabled list.,TRUE,2011,Boston Red Sox,Marco Scutaro,placed,15,FALSE,NA
+2011-05-08,"New York Mets placed RHP Chris Young on the 15-day disabled list retroactive to May 2, 2011.",TRUE,2011,New York Mets,Chris Young,placed,15,TRUE,2011-05-02
+2011-05-08,New York Mets transferred LHP Johan Santana from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,New York Mets,Johan Santana,transferred,60,FALSE,NA
+2011-05-08,"Philadelphia Phillies placed C Carlos Ruiz on the 15-day disabled list retroactive to April 28, 2011.",TRUE,2011,Philadelphia Phillies,Carlos Ruiz,placed,15,TRUE,2011-04-28
+2011-05-09,Philadelphia Phillies activated RHP Joe Blanton from the 15-day disabled list.,TRUE,2011,Philadelphia Phillies,Joe Blanton,activated,15,FALSE,NA
+2011-05-10,Los Angeles Angels placed CF Vernon Wells on the 15-day disabled list.,TRUE,2011,Los Angeles Angels,Vernon Wells,placed,15,FALSE,NA
+2011-05-10,Baltimore Orioles activated SS J.J. Hardy from the 15-day disabled list.,TRUE,2011,Baltimore Orioles,J.J. Hardy,activated,15,FALSE,NA
+2011-05-10,San Francisco Giants activated CF Andres Torres from the 15-day disabled list.,TRUE,2011,San Francisco Giants,Andres Torres,activated,15,FALSE,NA
+2011-05-10,San Francisco Giants activated 3B Mark DeRosa from the 15-day disabled list.,TRUE,2011,San Francisco Giants,Mark DeRosa,activated,15,FALSE,NA
+2011-05-11,"Kansas City Royals placed LHP Bruce Chen on the 15-day disabled list retroactive to May 6, 2011.",TRUE,2011,Kansas City Royals,Bruce Chen,placed,15,TRUE,2011-05-06
+2011-05-11,Chicago White Sox activated RHP Jake Peavy from the 15-day disabled list.,TRUE,2011,Chicago White Sox,Jake Peavy,activated,15,FALSE,NA
+2011-05-11,Cleveland Indians activated RHP Carlos Carrasco from the 15-day disabled list.,TRUE,2011,Cleveland Indians,Carlos Carrasco,activated,15,FALSE,NA
+2011-05-11,Pittsburgh Pirates activated RHP Jose Ascanio from the 15-day disabled list.,TRUE,2011,Pittsburgh Pirates,Jose Ascanio,activated,15,FALSE,NA
+2011-05-11,"Los Angeles Angels placed RHP Francisco Rodriguez on the 15-day disabled list retroactive to May 10, 2011.",TRUE,2011,Los Angeles Angels,Francisco Rodriguez,placed,15,TRUE,2011-05-10
+2011-05-11,Chicago Cubs placed C Geovany Soto on the 15-day disabled list.,TRUE,2011,Chicago Cubs,Geovany Soto,placed,15,FALSE,NA
+2011-05-11,"Los Angeles Dodgers placed LHP Hung-Chih Kuo on the 15-day disabled list retroactive to May 10, 2011.",TRUE,2011,Los Angeles Dodgers,Hung Chih Kuo,placed,15,TRUE,2011-05-10
+2011-05-11,New York Yankees activated RHP Luis Ayala from the 15-day disabled list.,TRUE,2011,New York Yankees,Luis Ayala,activated,15,FALSE,NA
+2011-05-12,"New York Mets placed 1B Ike Davis on the 15-day disabled list retroactive to May 11, 2011.",TRUE,2011,New York Mets,Ike Davis,placed,15,TRUE,2011-05-11
+2011-05-12,Philadelphia Phillies placed C Brian Schneider on the 15-day disabled list.,TRUE,2011,Philadelphia Phillies,Brian Schneider,placed,15,FALSE,NA
+2011-05-13,Houston Astros activated LF Jason Michaels from the 15-day disabled list.,TRUE,2011,Houston Astros,Jason Michaels,activated,15,FALSE,NA
+2011-05-13,Philadelphia Phillies activated C Carlos Ruiz from the 15-day disabled list.,TRUE,2011,Philadelphia Phillies,Carlos Ruiz,activated,15,FALSE,NA
+2011-05-13,Minnesota Twins activated LF Delmon Young from the 15-day disabled list.,TRUE,2011,Minnesota Twins,Delmon Young,activated,15,FALSE,NA
+2011-05-13,"Detroit Tigers placed RF Magglio Ordonez on the 15-day disabled list retroactive to May 11, 2011.",TRUE,2011,Detroit Tigers,Magglio Ordonez,placed,15,TRUE,2011-05-11
+2011-05-13,Cincinnati Reds activated 3B Scott Rolen from the 15-day disabled list.,TRUE,2011,Cincinnati Reds,Scott Rolen,activated,15,FALSE,NA
+2011-05-14,"Milwaukee Brewers placed RHP Brandon Kintzler on the 15-day disabled list retroactive to May 5, 2011.",TRUE,2011,Milwaukee Brewers,Brandon Kintzler,placed,15,TRUE,2011-05-05
+2011-05-14,Texas Rangers transferred RHP Brandon Webb from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Texas Rangers,Brandon Webb,transferred,60,FALSE,NA
+2011-05-14,Texas Rangers placed CF Julio Borbon on the 15-day disabled list. left hamstring inflammation,TRUE,2011,Texas Rangers,Julio Borbon,placed,15,FALSE,NA
+2011-05-14,Cincinnati Reds activated RHP Jose Arredondo from the 15-day disabled list.,TRUE,2011,Cincinnati Reds,Jose Arredondo,activated,15,FALSE,NA
+2011-05-14,Los Angeles Dodgers placed RHP Vicente Padilla on the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Vicente Padilla,placed,15,FALSE,NA
+2011-05-15,"Atlanta Braves placed RHP Brandon Beachy on the 15-day disabled list retroactive to May 14, 2011.",TRUE,2011,Atlanta Braves,Brandon Beachy,placed,15,TRUE,2011-05-14
+2011-05-15,"Los Angeles Dodgers placed RHP Blake Hawksworth on the 15-day disabled list retroactive to May 11, 2011.",TRUE,2011,Los Angeles Dodgers,Blake Hawksworth,placed,15,TRUE,2011-05-11
+2011-05-15,Minnesota Twins placed LHP Jose Mijares on the 15-day disabled list.,TRUE,2011,Minnesota Twins,Jose Mijares,placed,15,FALSE,NA
+2011-05-16,Toronto Blue Jays activated 3B Jayson Nix from the 15-day disabled list.,TRUE,2011,Toronto Blue Jays,Jayson Nix,activated,15,FALSE,NA
+2011-05-16,"Cleveland Indians placed CF Grady Sizemore on the 15-day disabled list retroactive to May 11, 2011.",TRUE,2011,Cleveland Indians,Grady Sizemore,placed,15,TRUE,2011-05-11
+2011-05-16,Cincinnati Reds placed LHP Aroldis Chapman on the 15-day disabled list.,TRUE,2011,Cincinnati Reds,Aroldis Chapman,placed,15,FALSE,NA
+2011-05-16,Philadelphia Phillies activated RHP Roy Oswalt from the 15-day disabled list.,TRUE,2011,Philadelphia Phillies,Roy Oswalt,activated,15,FALSE,NA
+2011-05-16,"Boston Red Sox placed RHP John Lackey on the 15-day disabled list retroactive to May 12, 2011.",TRUE,2011,Boston Red Sox,John Lackey,placed,15,TRUE,2011-05-12
+2011-05-17,"Toronto Blue Jays placed 1B Adam Lind on the 15-day disabled list retroactive to May 8, 2011.",TRUE,2011,Toronto Blue Jays,Adam Lind,placed,15,TRUE,2011-05-08
+2011-05-17,New York Mets activated RHP Pedro Beato from the 15-day disabled list.,TRUE,2011,New York Mets,Pedro Beato,activated,15,FALSE,NA
+2011-05-17,"Milwaukee Brewers placed LHP Mitch Stetter on the 15-day disabled list retroactive to May 15, 2011.",TRUE,2011,Milwaukee Brewers,Mitch Stetter,placed,15,TRUE,2011-05-15
+2011-05-17,"Chicago White Sox placed 3B Mark Teahen on the 15-day disabled list retroactive to May 12, 2011.",TRUE,2011,Chicago White Sox,Mark Teahen,placed,15,TRUE,2011-05-12
+2011-05-17,"New York Yankees placed RHP Rafael Soriano on the 15-day disabled list retroactive to May 14, 2011.",TRUE,2011,New York Yankees,Rafael Soriano,placed,15,TRUE,2011-05-14
+2011-05-17,"New York Mets placed 3B David Wright on the 15-day disabled list retroactive to May 16, 2011.",TRUE,2011,New York Mets,David Wright,placed,15,TRUE,2011-05-16
+2011-05-18,Seattle Mariners activated CF Franklin Gutierrez from the 15-day disabled list.,TRUE,2011,Seattle Mariners,Franklin Gutierrez,activated,15,FALSE,NA
+2011-05-18,St. Louis Cardinals placed 2B Nick Punto on the 15-day disabled list.,TRUE,2011,St. Louis Cardinals,Nick Punto,placed,15,FALSE,NA
+2011-05-18,"Kansas City Royals placed RHP Kyle Davies on the 15-day disabled list retroactive to May 17, 2011.",TRUE,2011,Kansas City Royals,Kyle Davies,placed,15,TRUE,2011-05-17
+2011-05-18,"Boston Red Sox placed RHP Daisuke Matsuzaka on the 15-day disabled list retroactive to May 17, 2011.",TRUE,2011,Boston Red Sox,Daisuke Matsuzaka,placed,15,TRUE,2011-05-17
+2011-05-18,"Baltimore Orioles placed SS Cesar Izturis on the 15-day disabled list retroactive to May 13, 2011.",TRUE,2011,Baltimore Orioles,Cesar Izturis,placed,15,TRUE,2011-05-13
+2011-05-18,Arizona Diamondbacks activated SS Willie Bloomquist from the 15-day disabled list.,TRUE,2011,Arizona Diamondbacks,Willie Bloomquist,activated,15,FALSE,NA
+2011-05-19,"Baltimore Orioles placed 2B Brian Roberts on the 7-day disabled list retroactive to May 17, 2011.",TRUE,2011,Baltimore Orioles,Brian Roberts,placed,7,TRUE,2011-05-17
+2011-05-19,"Baltimore Orioles placed 1B Derrek Lee on the 15-day disabled list retroactive to May 17, 2011.",TRUE,2011,Baltimore Orioles,Derrek Lee,placed,15,TRUE,2011-05-17
+2011-05-19,San Francisco Giants placed 3B Mark DeRosa on the 15-day disabled list.,TRUE,2011,San Francisco Giants,Mark DeRosa,placed,15,FALSE,NA
+2011-05-19,Kansas City Royals activated RHP Robinson Tejeda from the 15-day disabled list.,TRUE,2011,Kansas City Royals,Robinson Tejeda,activated,15,FALSE,NA
+2011-05-19,San Diego Padres activated 2B Orlando Hudson from the 15-day disabled list.,TRUE,2011,San Diego Padres,Orlando Hudson,activated,15,FALSE,NA
+2011-05-20,St. Louis Cardinals activated LHP Brian Tallet from the 15-day disabled list.,TRUE,2011,St. Louis Cardinals,Brian Tallet,activated,15,FALSE,NA
+2011-05-20,Tampa Bay Rays activated LHP J.P. Howell from the 15-day disabled list.,TRUE,2011,Tampa Bay Rays,J.P. Howell,activated,15,FALSE,NA
+2011-05-20,"Philadelphia Phillies placed CF Shane Victorino on the 15-day disabled list retroactive to May 19, 2011. right hamstring strain",TRUE,2011,Philadelphia Phillies,Shane Victorino,placed,15,TRUE,2011-05-19
+2011-05-20,"Cleveland Indians placed DH Travis Hafner on the 15-day disabled list retroactive to May 18, 2011.",TRUE,2011,Cleveland Indians,Travis Hafner,placed,15,TRUE,2011-05-18
+2011-05-20,"Oakland Athletics placed RHP Brandon McCarthy on the 15-day disabled list retroactive to May 19, 2011.",TRUE,2011,Oakland Athletics,Brandon McCarthy,placed,15,TRUE,2011-05-19
+2011-05-20,Boston Red Sox activated RHP Dan Wheeler from the 15-day disabled list.,TRUE,2011,Boston Red Sox,Dan Wheeler,activated,15,FALSE,NA
+2011-05-20,"Toronto Blue Jays placed RHP Jesse Litsch on the 15-day disabled list retroactive to May 19, 2011.",TRUE,2011,Toronto Blue Jays,Jesse Litsch,placed,15,TRUE,2011-05-19
+2011-05-21,"Detroit Tigers placed LHP Brad Thomas on the 15-day disabled list retroactive to May 11, 2011.",TRUE,2011,Detroit Tigers,Brad Thomas,placed,15,TRUE,2011-05-11
+2011-05-21,Cleveland Indians placed RHP Alex White on the 15-day disabled list. right middle finger soreness,TRUE,2011,Cleveland Indians,Alex White,placed,15,FALSE,NA
+2011-05-21,Florida Marlins transferred 3B Donnie Murphy from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Florida Marlins,Donnie Murphy,transferred,60,FALSE,NA
+2011-05-21,"Florida Marlins placed RHP Josh Johnson on the 15-day disabled list retroactive to May 17, 2011.",TRUE,2011,Florida Marlins,Josh Johnson,placed,15,TRUE,2011-05-17
+2011-05-21,Baltimore Orioles transferred SS Cesar Izturis from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Baltimore Orioles,Cesar Izturis,transferred,60,FALSE,NA
+2011-05-22,Minnesota Twins placed LHP Glen Perkins on the 15-day disabled list.,TRUE,2011,Minnesota Twins,Glen Perkins,placed,15,FALSE,NA
+2011-05-22,Florida Marlins activated RHP Clay Hensley from the 15-day disabled list.,TRUE,2011,Florida Marlins,Clay Hensley,activated,15,FALSE,NA
+2011-05-22,"Los Angeles Dodgers placed 3B Juan Uribe on the 15-day disabled list retroactive to May 21, 2011.",TRUE,2011,Los Angeles Dodgers,Juan Uribe,placed,15,TRUE,2011-05-21
+2011-05-22,Los Angeles Dodgers activated SS Rafael Furcal from the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Rafael Furcal,activated,15,FALSE,NA
+2011-05-22,Chicago Cubs placed CF Marlon Byrd on the 15-day disabled list. facial fractures,TRUE,2011,Chicago Cubs,Marlon Byrd,placed,15,FALSE,NA
+2011-05-23,Philadelphia Phillies activated 2B Chase Utley from the 15-day disabled list.,TRUE,2011,Philadelphia Phillies,Chase Utley,activated,15,FALSE,NA
+2011-05-23,Minnesota Twins activated DH Jim Thome from the 15-day disabled list.,TRUE,2011,Minnesota Twins,Jim Thome,activated,15,FALSE,NA
+2011-05-23,Minnesota Twins activated LF Jason Repko from the 15-day disabled list.,TRUE,2011,Minnesota Twins,Jason Repko,activated,15,FALSE,NA
+2011-05-23,Pittsburgh Pirates activated RHP Evan Meek from the 15-day disabled list.,TRUE,2011,Pittsburgh Pirates,Evan Meek,activated,15,FALSE,NA
+2011-05-23,"Atlanta Braves placed RF Jason Heyward on the 15-day disabled list retroactive to May 22, 2011.",TRUE,2011,Atlanta Braves,Jason Heyward,placed,15,TRUE,2011-05-22
+2011-05-23,Atlanta Braves transferred RHP Peter Moylan from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Atlanta Braves,Peter Moylan,transferred,60,FALSE,NA
+2011-05-23,"Philadelphia Phillies placed RHP Joe Blanton on the 15-day disabled list retroactive to May 16, 2011. right elbow inflammation",TRUE,2011,Philadelphia Phillies,Joe Blanton,placed,15,TRUE,2011-05-16
+2011-05-23,Milwaukee Brewers transferred LHP Manny Parra from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Milwaukee Brewers,Manny Parra,transferred,60,FALSE,NA
+2011-05-23,Texas Rangers activated LF Josh Hamilton from the 15-day disabled list.,TRUE,2011,Texas Rangers,Josh Hamilton,activated,15,FALSE,NA
+2011-05-23,Texas Rangers activated RF Nelson Cruz from the 15-day disabled list.,TRUE,2011,Texas Rangers,Nelson Cruz,activated,15,FALSE,NA
+2011-05-23,St. Louis Cardinals placed C Gerald Laird on the 15-day disabled list. fracture of right index finger,TRUE,2011,St. Louis Cardinals,Gerald Laird,placed,15,FALSE,NA
+2011-05-23,Atlanta Braves placed CF Nate McLouth on the 15-day disabled list. strained left oblique,TRUE,2011,Atlanta Braves,Nate McLouth,placed,15,FALSE,NA
+2011-05-23,"Washington Nationals placed 1B Adam LaRoche on the 15-day disabled list retroactive to May 22, 2011. torn labrum in left shoulder",TRUE,2011,Washington Nationals,Adam LaRoche,placed,15,TRUE,2011-05-22
+2011-05-23,Detroit Tigers transferred 2B Carlos Guillen from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Detroit Tigers,Carlos Guillen,transferred,60,FALSE,NA
+2011-05-24,Detroit Tigers placed LHP Phil Coke on the 15-day disabled list.,TRUE,2011,Detroit Tigers,Phil Coke,placed,15,FALSE,NA
+2011-05-24,"Arizona Diamondbacks placed RHP Sam Demel on the 15-day disabled list retroactive to May 22, 2011.",TRUE,2011,Arizona Diamondbacks,Sam Demel,placed,15,TRUE,2011-05-22
+2011-05-24,Washington Nationals activated CF Rick Ankiel from the 15-day disabled list.,TRUE,2011,Washington Nationals,Rick Ankiel,activated,15,FALSE,NA
+2011-05-24,Chicago Cubs transferred RHP Brian Schlitter from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Chicago Cubs,Brian Schlitter,transferred,60,FALSE,NA
+2011-05-24,"Chicago Cubs placed RHP Matt Garza on the 15-day disabled list retroactive to May 18, 2011.",TRUE,2011,Chicago Cubs,Matt Garza,placed,15,TRUE,2011-05-18
+2011-05-25,Cleveland Indians activated RHP Mitch Talbot from the 15-day disabled list.,TRUE,2011,Cleveland Indians,Mitch Talbot,activated,15,FALSE,NA
+2011-05-25,"Tampa Bay Rays placed 2B Elliot Johnson on the 15-day disabled list retroactive to May 24, 2011.",TRUE,2011,Tampa Bay Rays,Elliot Johnson,placed,15,TRUE,2011-05-24
+2011-05-25,Milwaukee Brewers transferred RHP Takashi Saito from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Milwaukee Brewers,Takashi Saito,transferred,60,FALSE,NA
+2011-05-25,New York Yankees transferred RHP Phil Hughes from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,New York Yankees,Phil Hughes,transferred,60,FALSE,NA
+2011-05-25,"Minnesota Twins placed RHP Kevin Slowey on the 15-day disabled list retroactive to May 21, 2011.",TRUE,2011,Minnesota Twins,Kevin Slowey,placed,15,TRUE,2011-05-21
+2011-05-25,Arizona Diamondbacks placed RHP Juan Gutierrez on the 15-day disabled list.,TRUE,2011,Arizona Diamondbacks,Juan Gutierrez,placed,15,FALSE,NA
+2011-05-25,Colorado Rockies placed LHP Jorge De La Rosa on the 15-day disabled list.,TRUE,2011,Colorado Rockies,Jorge De La Rosa,placed,15,FALSE,NA
+2011-05-26,Boston Red Sox placed CF Darnell McDonald on the 15-day disabled list.,TRUE,2011,Boston Red Sox,Darnell McDonald,placed,15,FALSE,NA
+2011-05-26,Philadelphia Phillies activated RHP Jose Contreras from the 15-day disabled list.,TRUE,2011,Philadelphia Phillies,Jose Contreras,activated,15,FALSE,NA
+2011-05-26,"Cincinnati Reds placed LHP Matt Maloney on the 15-day disabled list retroactive to May 24, 2011.",TRUE,2011,Cincinnati Reds,Matt Maloney,placed,15,TRUE,2011-05-24
+2011-05-26,"Los Angeles Angels placed 2B Howie Kendrick on the 15-day disabled list retroactive to May 20, 2011.",TRUE,2011,Los Angeles Angels,Howie Kendrick,placed,15,TRUE,2011-05-20
+2011-05-26,San Francisco Giants placed C Buster Posey on the 60-day disabled list.,TRUE,2011,San Francisco Giants,Buster Posey,placed,60,FALSE,NA
+2011-05-26,San Francisco Giants placed SS Mike Fontenot on the 15-day disabled list.,TRUE,2011,San Francisco Giants,Mike Fontenot,placed,15,FALSE,NA
+2011-05-27,"San Diego Padres placed 2B Orlando Hudson on the 15-day disabled list retroactive to May 26, 2011.",TRUE,2011,San Diego Padres,Orlando Hudson,placed,15,TRUE,2011-05-26
+2011-05-27,Cincinnati Reds placed RHP Homer Bailey on the 15-day disabled list. sprained posterior capsule in right shoulder,TRUE,2011,Cincinnati Reds,Homer Bailey,placed,15,FALSE,NA
+2011-05-28,"Washington Nationals placed LHP Tom Gorzelanny on the 15-day disabled list retroactive to May 24, 2011.",TRUE,2011,Washington Nationals,Tom Gorzelanny,placed,15,TRUE,2011-05-24
+2011-05-28,Houston Astros placed C Humberto Quintero on the 15-day disabled list.,TRUE,2011,Houston Astros,Humberto Quintero,placed,15,FALSE,NA
+2011-05-28,Pittsburgh Pirates placed LHP Joe Beimel on the 15-day disabled list.,TRUE,2011,Pittsburgh Pirates,Joe Beimel,placed,15,FALSE,NA
+2011-05-28,San Francisco Giants activated RHP Santiago Casilla from the 15-day disabled list.,TRUE,2011,San Francisco Giants,Santiago Casilla,activated,15,FALSE,NA
+2011-05-28,Arizona Diamondbacks activated LHP Zach Duke from the 15-day disabled list.,TRUE,2011,Arizona Diamondbacks,Zach Duke,activated,15,FALSE,NA
+2011-05-28,"Houston Astros placed LHP Wandy Rodriguez on the 15-day disabled list retroactive to May 23, 2011.",TRUE,2011,Houston Astros,Wandy Rodriguez,placed,15,TRUE,2011-05-23
+2011-05-28,Houston Astros transferred C Jason Castro from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Houston Astros,Jason Castro,transferred,60,FALSE,NA
+2011-05-28,"Toronto Blue Jays placed 2B John McDonald on the 15-day disabled list retroactive to May 27, 2011.",TRUE,2011,Toronto Blue Jays,John McDonald,placed,15,TRUE,2011-05-27
+2011-05-28,"Minnesota Twins placed RHP Joe Nathan on the 15-day disabled list retroactive to May 24, 2011.",TRUE,2011,Minnesota Twins,Joe Nathan,placed,15,TRUE,2011-05-24
+2011-05-28,Minnesota Twins transferred 2B Tsuyoshi Nishioka from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Minnesota Twins,Tsuyoshi Nishioka,transferred,60,FALSE,NA
+2011-05-29,"Chicago White Sox placed RHP Ramon Pena on the 15-day disabled list retroactive to May 28, 2011. right elbow tendinitis",TRUE,2011,Chicago White Sox,Ramon Pena,placed,15,TRUE,2011-05-28
+2011-05-29,"Boston Red Sox placed LHP Franklin Morales on the 15-day disabled list retroactive to May 26, 2011. left forearm strain",TRUE,2011,Boston Red Sox,Franklin Morales,placed,15,TRUE,2011-05-26
+2011-05-29,Chicago Cubs activated C Geovany Soto from the 15-day disabled list.,TRUE,2011,Chicago Cubs,Geovany Soto,activated,15,FALSE,NA
+2011-05-29,"Chicago Cubs placed LF Reed Johnson on the 15-day disabled list retroactive to May 26, 2011. lower back spasms",TRUE,2011,Chicago Cubs,Reed Johnson,placed,15,TRUE,2011-05-26
+2011-05-29,Chicago Cubs transferred RHP Andrew Cashner from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Chicago Cubs,Andrew Cashner,transferred,60,FALSE,NA
+2011-05-29,Los Angeles Dodgers placed RHP Kenley Jansen on the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Kenley Jansen,placed,15,FALSE,NA
+2011-05-29,"Cincinnati Reds placed RHP Sam LeCure on the 15-day disabled list retroactive to May 23, 2011.",TRUE,2011,Cincinnati Reds,Sam LeCure,placed,15,TRUE,2011-05-23
+2011-05-30,Minnesota Twins activated LHP Jose Mijares from the 15-day disabled list.,TRUE,2011,Minnesota Twins,Jose Mijares,activated,15,FALSE,NA
+2011-05-30,"Chicago Cubs placed 2B Jeff Baker on the 15-day disabled list retroactive to May 29, 2011.",TRUE,2011,Chicago Cubs,Jeff Baker,placed,15,TRUE,2011-05-29
+2011-05-30,Pittsburgh Pirates placed C Ryan Doumit on the 15-day disabled list.,TRUE,2011,Pittsburgh Pirates,Ryan Doumit,placed,15,FALSE,NA
+2011-05-30,"Pittsburgh Pirates placed 1B Steve Pearce on the 15-day disabled list retroactive to May 29, 2011.",TRUE,2011,Pittsburgh Pirates,Steve Pearce,placed,15,TRUE,2011-05-29
+2011-05-30,"Minnesota Twins placed LHP Francisco Liriano on the 15-day disabled list retroactive to May 23, 2011.",TRUE,2011,Minnesota Twins,Francisco Liriano,placed,15,TRUE,2011-05-23
+2011-05-30,New York Mets activated RHP Bobby Parnell from the 15-day disabled list.,TRUE,2011,New York Mets,Bobby Parnell,activated,15,FALSE,NA
+2011-05-31,Boston Red Sox activated RHP Bobby Jenks from the 15-day disabled list.,TRUE,2011,Boston Red Sox,Bobby Jenks,activated,15,FALSE,NA
+2011-05-31,Chicago Cubs placed LF Alfonso Soriano on the 15-day disabled list. left quadriceps strain,TRUE,2011,Chicago Cubs,Alfonso Soriano,placed,15,FALSE,NA
+2011-05-31,Baltimore Orioles placed 2B Brian Roberts on the 15-day disabled list.,TRUE,2011,Baltimore Orioles,Brian Roberts,placed,15,FALSE,NA
+2011-06-01,"San Diego Padres placed CF Cameron Maybin on the 15-day disabled list retroactive to May 28, 2011.",TRUE,2011,San Diego Padres,Cameron Maybin,placed,15,TRUE,2011-05-28
+2011-06-02,"New York Mets placed RHP Taylor Buchholz on the 15-day disabled list retroactive to May 30, 2011.",TRUE,2011,New York Mets,Taylor Buchholz,placed,15,TRUE,2011-05-30
+2011-06-02,"St. Louis Cardinals placed RHP Kyle McClellan on the 15-day disabled list retroactive to May 31, 2011.",TRUE,2011,St. Louis Cardinals,Kyle McClellan,placed,15,TRUE,2011-05-31
+2011-06-02,"St. Louis Cardinals placed LF Matt Holliday on the 15-day disabled list retroactive to June 1, 2011.",TRUE,2011,St. Louis Cardinals,Matt Holliday,placed,15,TRUE,2011-06-01
+2011-06-02,Minnesota Twins placed DH Jim Thome on the 15-day disabled list.,TRUE,2011,Minnesota Twins,Jim Thome,placed,15,FALSE,NA
+2011-06-02,"Minnesota Twins placed RF Jason Kubel on the 15-day disabled list retroactive to May 31, 2011.",TRUE,2011,Minnesota Twins,Jason Kubel,placed,15,TRUE,2011-05-31
+2011-06-03,Minnesota Twins transferred C Joe Mauer from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Minnesota Twins,Joe Mauer,transferred,60,FALSE,NA
+2011-06-03,Philadelphia Phillies activated CF Shane Victorino from the 15-day disabled list.,TRUE,2011,Philadelphia Phillies,Shane Victorino,activated,15,FALSE,NA
+2011-06-03,"Detroit Tigers placed 3B Brandon Inge on the 15-day disabled list retroactive to June 1, 2011.",TRUE,2011,Detroit Tigers,Brandon Inge,placed,15,TRUE,2011-06-01
+2011-06-03,New York Mets transferred RHP Chris Young from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,New York Mets,Chris Young,transferred,60,FALSE,NA
+2011-06-03,"Florida Marlins placed RHP Clay Hensley on the 15-day disabled list retroactive to June 2, 2011.",TRUE,2011,Florida Marlins,Clay Hensley,placed,15,TRUE,2011-06-02
+2011-06-03,"Boston Red Sox placed LHP Rich Hill on the 15-day disabled list retroactive to June 2, 2011.",TRUE,2011,Boston Red Sox,Rich Hill,placed,15,TRUE,2011-06-02
+2011-06-03,Boston Red Sox transferred RHP Daisuke Matsuzaka from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Boston Red Sox,Daisuke Matsuzaka,transferred,60,FALSE,NA
+2011-06-04,Houston Astros activated LF Jason Bourgeois from the 15-day disabled list.,TRUE,2011,Houston Astros,Jason Bourgeois,activated,15,FALSE,NA
+2011-06-04,Los Angeles Dodgers placed SS Rafael Furcal on the 15-day disabled list. strained left oblique,TRUE,2011,Los Angeles Dodgers,Rafael Furcal,placed,15,FALSE,NA
+2011-06-04,Los Angeles Angels activated 2B Howie Kendrick from the 15-day disabled list.,TRUE,2011,Los Angeles Angels,Howie Kendrick,activated,15,FALSE,NA
+2011-06-04,"Los Angeles Dodgers placed RHP Jon Garland on the 15-day disabled list retroactive to June 2, 2011.",TRUE,2011,Los Angeles Dodgers,Jon Garland,placed,15,TRUE,2011-06-02
+2011-06-04,"Colorado Rockies placed RHP Matt Daley on the 15-day disabled list retroactive to June 1, 2011.",TRUE,2011,Colorado Rockies,Matt Daley,placed,15,TRUE,2011-06-01
+2011-06-04,Baltimore Orioles activated 1B Derrek Lee from the 15-day disabled list.,TRUE,2011,Baltimore Orioles,Derrek Lee,activated,15,FALSE,NA
+2011-06-04,Washington Nationals placed LHP Doug Slaten on the 15-day disabled list. left elbow ulnar neuritis,TRUE,2011,Washington Nationals,Doug Slaten,placed,15,FALSE,NA
+2011-06-05,Boston Red Sox activated RHP John Lackey from the 15-day disabled list.,TRUE,2011,Boston Red Sox,John Lackey,activated,15,FALSE,NA
+2011-06-06,"Florida Marlins placed SS Hanley Ramirez on the 15-day disabled list retroactive to May 30, 2011.",TRUE,2011,Florida Marlins,Hanley Ramirez,placed,15,TRUE,2011-05-30
+2011-06-06,Los Angeles Dodgers activated RHP Blake Hawksworth from the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Blake Hawksworth,activated,15,FALSE,NA
+2011-06-06,Los Angeles Dodgers activated LF Marcus Thames from the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Marcus Thames,activated,15,FALSE,NA
+2011-06-06,Los Angeles Dodgers activated 3B Juan Uribe from the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Juan Uribe,activated,15,FALSE,NA
+2011-06-06,Chicago Cubs activated RHP Matt Garza from the 15-day disabled list.,TRUE,2011,Chicago Cubs,Matt Garza,activated,15,FALSE,NA
+2011-06-07,Minnesota Twins activated LHP Francisco Liriano from the 15-day disabled list.,TRUE,2011,Minnesota Twins,Francisco Liriano,activated,15,FALSE,NA
+2011-06-07,"Oakland Athletics placed LHP Brett Anderson on the 15-day disabled list retroactive to June 6, 2011.",TRUE,2011,Oakland Athletics,Brett Anderson,placed,15,TRUE,2011-06-06
+2011-06-07,Oakland Athletics placed 2B Mark Ellis on the 15-day disabled list.,TRUE,2011,Oakland Athletics,Mark Ellis,placed,15,FALSE,NA
+2011-06-07,Oakland Athletics transferred LHP Dallas Braden from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Oakland Athletics,Dallas Braden,transferred,60,FALSE,NA
+2011-06-07,Los Angeles Angels activated CF Vernon Wells from the 15-day disabled list.,TRUE,2011,Los Angeles Angels,Vernon Wells,activated,15,FALSE,NA
+2011-06-08,Detroit Tigers activated LHP Phil Coke from the 15-day disabled list.,TRUE,2011,Detroit Tigers,Phil Coke,activated,15,FALSE,NA
+2011-06-08,New York Yankees transferred 3B Eric Chavez from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,New York Yankees,Eric Chavez,transferred,60,FALSE,NA
+2011-06-08,San Diego Padres activated C Nick Hundley from the 15-day disabled list.,TRUE,2011,San Diego Padres,Nick Hundley,activated,15,FALSE,NA
+2011-06-08,Colorado Rockies activated RHP Aaron Cook from the 60-day disabled list.,TRUE,2011,Colorado Rockies,Aaron Cook,activated,60,FALSE,NA
+2011-06-08,Colorado Rockies transferred LHP Jorge De La Rosa from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Colorado Rockies,Jorge De La Rosa,transferred,60,FALSE,NA
+2011-06-08,"New York Yankees placed RHP Joba Chamberlain on the 15-day disabled list retroactive to June 6, 2011.",TRUE,2011,New York Yankees,Joba Chamberlain,placed,15,TRUE,2011-06-06
+2011-06-08,Boston Red Sox placed RHP Bobby Jenks on the 15-day disabled list.,TRUE,2011,Boston Red Sox,Bobby Jenks,placed,15,FALSE,NA
+2011-06-08,"Chicago White Sox placed RHP Jake Peavy on the 15-day disabled list retroactive to June 6, 2011.",TRUE,2011,Chicago White Sox,Jake Peavy,placed,15,TRUE,2011-06-06
+2011-06-09,Houston Astros activated RHP Brandon Lyon from the 15-day disabled list.,TRUE,2011,Houston Astros,Brandon Lyon,activated,15,FALSE,NA
+2011-06-09,Pittsburgh Pirates placed C Chris Snyder on the 15-day disabled list.,TRUE,2011,Pittsburgh Pirates,Chris Snyder,placed,15,FALSE,NA
+2011-06-09,"San Diego Padres placed RHP Luke Gregerson on the 15-day disabled list retroactive to June 7, 2011.",TRUE,2011,San Diego Padres,Luke Gregerson,placed,15,TRUE,2011-06-07
+2011-06-10,Minnesota Twins placed CF Denard Span on the 7-day disabled list.,TRUE,2011,Minnesota Twins,Denard Span,placed,7,FALSE,NA
+2011-06-10,"Pittsburgh Pirates placed RHP Evan Meek on the 15-day disabled list retroactive to June 8, 2011.",TRUE,2011,Pittsburgh Pirates,Evan Meek,placed,15,TRUE,2011-06-08
+2011-06-10,Pittsburgh Pirates transferred C Chris Snyder from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Pittsburgh Pirates,Chris Snyder,transferred,60,FALSE,NA
+2011-06-10,New York Yankees transferred RHP Joba Chamberlain from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,New York Yankees,Joba Chamberlain,transferred,60,FALSE,NA
+2011-06-10,Washington Nationals placed RHP Cole Kimball on the 15-day disabled list. right shoulder inflammation,TRUE,2011,Washington Nationals,Cole Kimball,placed,15,FALSE,NA
+2011-06-10,"Atlanta Braves placed LF Martin Prado on the 15-day disabled list retroactive to June 8, 2011.",TRUE,2011,Atlanta Braves,Martin Prado,placed,15,TRUE,2011-06-08
+2011-06-11,San Francisco Giants placed 2B Freddy Sanchez on the 15-day disabled list.,TRUE,2011,San Francisco Giants,Freddy Sanchez,placed,15,FALSE,NA
+2011-06-12,Tampa Bay Rays activated SS Elliot Johnson from the 15-day disabled list.,TRUE,2011,Tampa Bay Rays,Elliot Johnson,activated,15,FALSE,NA
+2011-06-12,"New York Yankees placed RHP Amauri Sanit on the 15-day disabled list retroactive to June 11, 2011. right elbow inflammation",TRUE,2011,New York Yankees,Amauri Sanit,placed,15,TRUE,2011-06-11
+2011-06-12,New York Yankees placed RHP Bartolo Colon on the 15-day disabled list. strained left hamstring,TRUE,2011,New York Yankees,Bartolo Colon,placed,15,FALSE,NA
+2011-06-12,Texas Rangers placed C Mike Napoli on the 15-day disabled list. strained left oblique muscle,TRUE,2011,Texas Rangers,Mike Napoli,placed,15,FALSE,NA
+2011-06-12,"St. Louis Cardinals placed LF Allen Craig on the 15-day disabled list retroactive to June 8, 2011. right knee contusion",TRUE,2011,St. Louis Cardinals,Allen Craig,placed,15,TRUE,2011-06-08
+2011-06-13,"San Diego Padres placed RHP Aaron Harang on the 15-day disabled list retroactive to June 10, 2011.",TRUE,2011,San Diego Padres,Aaron Harang,placed,15,TRUE,2011-06-10
+2011-06-13,Seattle Mariners transferred RHP David Aardsma from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Seattle Mariners,David Aardsma,transferred,60,FALSE,NA
+2011-06-13,"Chicago Cubs placed RHP Kerry Wood on the 15-day disabled list retroactive to June 9, 2011.",TRUE,2011,Chicago Cubs,Kerry Wood,placed,15,TRUE,2011-06-09
+2011-06-13,San Diego Padres activated CF Cameron Maybin from the 15-day disabled list.,TRUE,2011,San Diego Padres,Cameron Maybin,activated,15,FALSE,NA
+2011-06-13,"Los Angeles Angels placed RHP Fernando Rodney on the 15-day disabled list retroactive to June 9, 2011.",TRUE,2011,Los Angeles Angels,Fernando Rodney,placed,15,TRUE,2011-06-09
+2011-06-14,"Florida Marlins placed CF Scott Cousins on the 15-day disabled list retroactive to June 13, 2011.",TRUE,2011,Florida Marlins,Scott Cousins,placed,15,TRUE,2011-06-13
+2011-06-14,Washington Nationals activated 3B Ryan Zimmerman from the 15-day disabled list.,TRUE,2011,Washington Nationals,Ryan Zimmerman,activated,15,FALSE,NA
+2011-06-14,Florida Marlins activated SS Hanley Ramirez from the 15-day disabled list.,TRUE,2011,Florida Marlins,Hanley Ramirez,activated,15,FALSE,NA
+2011-06-14,New York Yankees placed SS Derek Jeter on the 15-day disabled list.,TRUE,2011,New York Yankees,Derek Jeter,placed,15,FALSE,NA
+2011-06-14,Chicago Cubs activated LF Reed Johnson from the 15-day disabled list.,TRUE,2011,Chicago Cubs,Reed Johnson,activated,15,FALSE,NA
+2011-06-14,Boston Red Sox activated LF Darnell McDonald from the 15-day disabled list.,TRUE,2011,Boston Red Sox,Darnell McDonald,activated,15,FALSE,NA
+2011-06-14,San Francisco Giants activated 3B Pablo Sandoval from the 15-day disabled list.,TRUE,2011,San Francisco Giants,Pablo Sandoval,activated,15,FALSE,NA
+2011-06-14,"Minnesota Twins placed 1B Justin Morneau on the 15-day disabled list retroactive to June 10, 2011.",TRUE,2011,Minnesota Twins,Justin Morneau,placed,15,TRUE,2011-06-10
+2011-06-15,Florida Marlins transferred RHP Josh Johnson from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Florida Marlins,Josh Johnson,transferred,60,FALSE,NA
+2011-06-15,St. Louis Cardinals activated RHP Kyle McClellan from the 15-day disabled list.,TRUE,2011,St. Louis Cardinals,Kyle McClellan,activated,15,FALSE,NA
+2011-06-15,"Baltimore Orioles placed RHP Alfredo Simon on the 15-day disabled list retroactive to June 13, 2011.",TRUE,2011,Baltimore Orioles,Alfredo Simon,placed,15,TRUE,2011-06-13
+2011-06-15,Atlanta Braves activated RF Jason Heyward from the 15-day disabled list.,TRUE,2011,Atlanta Braves,Jason Heyward,activated,15,FALSE,NA
+2011-06-15,Minnesota Twins activated 2B Tsuyoshi Nishioka from the 60-day disabled list.,TRUE,2011,Minnesota Twins,Tsuyoshi Nishioka,activated,60,FALSE,NA
+2011-06-15,"Chicago Cubs placed 2B Darwin Barney on the 15-day disabled list retroactive to June 14, 2011.",TRUE,2011,Chicago Cubs,Darwin Barney,placed,15,TRUE,2011-06-14
+2011-06-15,"Houston Astros placed RHP Brandon Lyon on the 15-day disabled list retroactive to June 14, 2011.",TRUE,2011,Houston Astros,Brandon Lyon,placed,15,TRUE,2011-06-14
+2011-06-15,New York Yankees transferred RHP Rafael Soriano from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,New York Yankees,Rafael Soriano,transferred,60,FALSE,NA
+2011-06-16,"St. Louis Cardinals placed RHP Eduardo Sanchez on the 15-day disabled list retroactive to June 13, 2011.",TRUE,2011,St. Louis Cardinals,Eduardo Sanchez,placed,15,TRUE,2011-06-13
+2011-06-16,"Toronto Blue Jays placed RHP Casey Janssen on the 15-day disabled list retroactive to June 15, 2011.",TRUE,2011,Toronto Blue Jays,Casey Janssen,placed,15,TRUE,2011-06-15
+2011-06-17,Minnesota Twins activated C Joe Mauer from the 60-day disabled list.,TRUE,2011,Minnesota Twins,Joe Mauer,activated,60,FALSE,NA
+2011-06-17,Minnesota Twins activated LHP Glen Perkins from the 15-day disabled list.,TRUE,2011,Minnesota Twins,Glen Perkins,activated,15,FALSE,NA
+2011-06-17,Cleveland Indians activated DH Travis Hafner from the 15-day disabled list.,TRUE,2011,Cleveland Indians,Travis Hafner,activated,15,FALSE,NA
+2011-06-17,"Atlanta Braves placed RHP Tommy Hanson on the 15-day disabled list retroactive to June 13, 2011.",TRUE,2011,Atlanta Braves,Tommy Hanson,placed,15,TRUE,2011-06-13
+2011-06-17,Boston Red Sox placed SS Jed Lowrie on the 15-day disabled list.,TRUE,2011,Boston Red Sox,Jed Lowrie,placed,15,FALSE,NA
+2011-06-18,Cleveland Indians placed 1B Matt LaPorta on the 15-day disabled list.,TRUE,2011,Cleveland Indians,Matt LaPorta,placed,15,FALSE,NA
+2011-06-18,Boston Red Sox placed LF Carl Crawford on the 15-day disabled list.,TRUE,2011,Boston Red Sox,Carl Crawford,placed,15,FALSE,NA
+2011-06-18,Los Angeles Dodgers activated RHP Kenley Jansen from the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Kenley Jansen,activated,15,FALSE,NA
+2011-06-19,Washington Nationals activated LHP Tom Gorzelanny from the 15-day disabled list.,TRUE,2011,Washington Nationals,Tom Gorzelanny,activated,15,FALSE,NA
+2011-06-19,"Washington Nationals placed CF Rick Ankiel on the 15-day disabled list retroactive to June 15, 2011.",TRUE,2011,Washington Nationals,Rick Ankiel,placed,15,TRUE,2011-06-15
+2011-06-19,Atlanta Braves activated CF Nate McLouth from the 15-day disabled list.,TRUE,2011,Atlanta Braves,Nate McLouth,activated,15,FALSE,NA
+2011-06-19,"Boston Red Sox placed RHP Clay Buchholz on the 15-day disabled list retroactive to June 17, 2011. lower back strain",TRUE,2011,Boston Red Sox,Clay Buchholz,placed,15,TRUE,2011-06-17
+2011-06-19,Los Angeles Dodgers placed C Rod Barajas on the 15-day disabled list. sprained right ankle,TRUE,2011,Los Angeles Dodgers,Rod Barajas,placed,15,FALSE,NA
+2011-06-20,Tampa Bay Rays activated RHP Jeff Niemann from the 15-day disabled list.,TRUE,2011,Tampa Bay Rays,Jeff Niemann,activated,15,FALSE,NA
+2011-06-21,"St. Louis Cardinals placed 1B Albert Pujols on the 15-day disabled list retroactive to June 20, 2011.",TRUE,2011,St. Louis Cardinals,Albert Pujols,placed,15,TRUE,2011-06-20
+2011-06-21,"San Diego Padres placed 1B Brad Hawpe on the 15-day disabled list retroactive to June 19, 2011.",TRUE,2011,San Diego Padres,Brad Hawpe,placed,15,TRUE,2011-06-19
+2011-06-22,Atlanta Braves activated RHP Brandon Beachy from the 15-day disabled list.,TRUE,2011,Atlanta Braves,Brandon Beachy,activated,15,FALSE,NA
+2011-06-22,Cincinnati Reds activated RHP Sam LeCure from the 15-day disabled list.,TRUE,2011,Cincinnati Reds,Sam LeCure,activated,15,FALSE,NA
+2011-06-22,"New York Yankees placed RHP Jeff Marquez on the 15-day disabled list retroactive to June 20, 2011.",TRUE,2011,New York Yankees,Jeff Marquez,placed,15,TRUE,2011-06-20
+2011-06-22,Atlanta Braves transferred RHP Kris Medlen from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Atlanta Braves,Kris Medlen,transferred,60,FALSE,NA
+2011-06-23,Detroit Tigers activated 3B Brandon Inge from the 15-day disabled list.,TRUE,2011,Detroit Tigers,Brandon Inge,activated,15,FALSE,NA
+2011-06-23,"Oakland Athletics placed LF Josh Willingham on the 15-day disabled list retroactive to June 18, 2011.",TRUE,2011,Oakland Athletics,Josh Willingham,placed,15,TRUE,2011-06-18
+2011-06-23,"Philadelphia Phillies placed RHP Jose Contreras on the 15-day disabled list retroactive to June 20, 2011.",TRUE,2011,Philadelphia Phillies,Jose Contreras,placed,15,TRUE,2011-06-20
+2011-06-23,Minnesota Twins placed CF Denard Span on the 15-day disabled list.,TRUE,2011,Minnesota Twins,Denard Span,placed,15,FALSE,NA
+2011-06-24,Minnesota Twins activated RHP Joe Nathan from the 15-day disabled list.,TRUE,2011,Minnesota Twins,Joe Nathan,activated,15,FALSE,NA
+2011-06-24,Cincinnati Reds activated LHP Aroldis Chapman from the 15-day disabled list.,TRUE,2011,Cincinnati Reds,Aroldis Chapman,activated,15,FALSE,NA
+2011-06-24,Philadelphia Phillies placed RHP Roy Oswalt on the 15-day disabled list. lower back inflammation,TRUE,2011,Philadelphia Phillies,Roy Oswalt,placed,15,FALSE,NA
+2011-06-24,Philadelphia Phillies activated C Brian Schneider from the 15-day disabled list.,TRUE,2011,Philadelphia Phillies,Brian Schneider,activated,15,FALSE,NA
+2011-06-24,Kansas City Royals activated LHP Bruce Chen from the 15-day disabled list.,TRUE,2011,Kansas City Royals,Bruce Chen,activated,15,FALSE,NA
+2011-06-25,Cleveland Indians placed RF Shin-Soo Choo on the 15-day disabled list.,TRUE,2011,Cleveland Indians,Shin Soo Choo,placed,15,FALSE,NA
+2011-06-25,San Francisco Giants activated LHP Barry Zito from the 15-day disabled list.,TRUE,2011,San Francisco Giants,Barry Zito,activated,15,FALSE,NA
+2011-06-25,San Francisco Giants placed LHP Jonathan Sanchez on the 15-day disabled list.,TRUE,2011,San Francisco Giants,Jonathan Sanchez,placed,15,FALSE,NA
+2011-06-26,Minnesota Twins placed LF Delmon Young on the 15-day disabled list.,TRUE,2011,Minnesota Twins,Delmon Young,placed,15,FALSE,NA
+2011-06-26,Chicago White Sox placed LHP John Danks on the 15-day disabled list.,TRUE,2011,Chicago White Sox,John Danks,placed,15,FALSE,NA
+2011-06-27,St. Louis Cardinals activated 3B David Freese from the 15-day disabled list.,TRUE,2011,St. Louis Cardinals,David Freese,activated,15,FALSE,NA
+2011-06-27,Boston Red Sox transferred LHP Rich Hill from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Boston Red Sox,Rich Hill,transferred,60,FALSE,NA
+2011-06-28,"Philadelphia Phillies placed RHP Ryan Madson on the 15-day disabled list retroactive to June 19, 2011. right hand contusion",TRUE,2011,Philadelphia Phillies,Ryan Madson,placed,15,TRUE,2011-06-19
+2011-06-28,"Pittsburgh Pirates placed LF Jose Tabata on the 15-day disabled list retroactive to June 27, 2011.",TRUE,2011,Pittsburgh Pirates,Jose Tabata,placed,15,TRUE,2011-06-27
+2011-06-28,Boston Red Sox activated LHP Franklin Morales from the 15-day disabled list.,TRUE,2011,Boston Red Sox,Franklin Morales,activated,15,FALSE,NA
+2011-06-28,"Oakland Athletics placed RHP Grant Balfour on the 15-day disabled list retroactive to June 22, 2011.",TRUE,2011,Oakland Athletics,Grant Balfour,placed,15,TRUE,2011-06-22
+2011-06-28,Atlanta Braves activated RHP Tommy Hanson from the 15-day disabled list.,TRUE,2011,Atlanta Braves,Tommy Hanson,activated,15,FALSE,NA
+2011-06-29,Seattle Mariners placed C Chris Gimenez on the 15-day disabled list.,TRUE,2011,Seattle Mariners,Chris Gimenez,placed,15,FALSE,NA
+2011-06-29,"Seattle Mariners placed LHP Erik Bedard on the 15-day disabled list retroactive to June 28, 2011.",TRUE,2011,Seattle Mariners,Erik Bedard,placed,15,TRUE,2011-06-28
+2011-06-29,Baltimore Orioles activated RHP Alfredo Simon from the 15-day disabled list.,TRUE,2011,Baltimore Orioles,Alfredo Simon,activated,15,FALSE,NA
+2011-06-29,Chicago Cubs activated 2B Darwin Barney from the 15-day disabled list.,TRUE,2011,Chicago Cubs,Darwin Barney,activated,15,FALSE,NA
+2011-07-01,"Detroit Tigers placed RHP Al Alburquerque on the 15-day disabled list retroactive to June 30, 2011.",TRUE,2011,Detroit Tigers,Al Alburquerque,placed,15,TRUE,2011-06-30
+2011-07-01,Chicago Cubs activated RHP Kerry Wood from the 15-day disabled list.,TRUE,2011,Chicago Cubs,Kerry Wood,activated,15,FALSE,NA
+2011-07-01,Chicago Cubs placed RHP Carlos Zambrano on the 15-day disabled list.,TRUE,2011,Chicago Cubs,Carlos Zambrano,placed,15,FALSE,NA
+2011-07-01,"Washington Nationals placed SS Jerry Hairston on the 15-day disabled list retroactive to June 30, 2011.",TRUE,2011,Washington Nationals,Jerry Hairston,placed,15,TRUE,2011-06-30
+2011-07-01,Oakland Athletics activated RHP Rich Harden from the 60-day disabled list.,TRUE,2011,Oakland Athletics,Rich Harden,activated,60,FALSE,NA
+2011-07-01,"Arizona Diamondbacks placed RHP J.J. Putz on the 15-day disabled list retroactive to June 29, 2011.",TRUE,2011,Arizona Diamondbacks,J.J. Putz,placed,15,TRUE,2011-06-29
+2011-07-02,"Florida Marlins placed RHP Ryan Webb on the 15-day disabled list retroactive to June 27, 2011.",TRUE,2011,Florida Marlins,Ryan Webb,placed,15,TRUE,2011-06-27
+2011-07-02,Kansas City Royals activated RHP Kyle Davies from the 15-day disabled list.,TRUE,2011,Kansas City Royals,Kyle Davies,activated,15,FALSE,NA
+2011-07-02,Pittsburgh Pirates placed SS Ronny Cedeno on the 7-day disabled list.,TRUE,2011,Pittsburgh Pirates,Ronny Cedeno,placed,7,FALSE,NA
+2011-07-02,Milwaukee Brewers activated RHP Takashi Saito from the 60-day disabled list.,TRUE,2011,Milwaukee Brewers,Takashi Saito,activated,60,FALSE,NA
+2011-07-03,Cleveland Indians placed RHP Roberto Hernandez on the 15-day disabled list.,TRUE,2011,Cleveland Indians,Roberto Hernandez,placed,15,FALSE,NA
+2011-07-03,Oakland Athletics activated RHP Brandon McCarthy from the 15-day disabled list.,TRUE,2011,Oakland Athletics,Brandon McCarthy,activated,15,FALSE,NA
+2011-07-03,Seattle Mariners transferred C Chris Gimenez from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Seattle Mariners,Chris Gimenez,transferred,60,FALSE,NA
+2011-07-03,Los Angeles Dodgers placed 3B Casey Blake on the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Casey Blake,placed,15,FALSE,NA
+2011-07-04,Texas Rangers activated C Mike Napoli from the 15-day disabled list.,TRUE,2011,Texas Rangers,Mike Napoli,activated,15,FALSE,NA
+2011-07-04,New York Yankees activated SS Derek Jeter from the 15-day disabled list.,TRUE,2011,New York Yankees,Derek Jeter,activated,15,FALSE,NA
+2011-07-05,"Baltimore Orioles placed LF Luke Scott on the 15-day disabled list retroactive to July 4, 2011.",TRUE,2011,Baltimore Orioles,Luke Scott,placed,15,TRUE,2011-07-04
+2011-07-05,Chicago Cubs placed RHP Marcos Mateo on the 15-day disabled list.,TRUE,2011,Chicago Cubs,Marcos Mateo,placed,15,FALSE,NA
+2011-07-05,St. Louis Cardinals activated 1B Albert Pujols from the 15-day disabled list.,TRUE,2011,St. Louis Cardinals,Albert Pujols,activated,15,FALSE,NA
+2011-07-05,San Diego Padres placed LHP Clayton Richard on the 15-day disabled list.,TRUE,2011,San Diego Padres,Clayton Richard,placed,15,FALSE,NA
+2011-07-06,New York Yankees activated RHP Phil Hughes from the 60-day disabled list.,TRUE,2011,New York Yankees,Phil Hughes,activated,60,FALSE,NA
+2011-07-06,Boston Red Sox placed LHP Jon Lester on the 15-day disabled list.,TRUE,2011,Boston Red Sox,Jon Lester,placed,15,FALSE,NA
+2011-07-07,Tampa Bay Rays placed RHP Wade Davis on the 15-day disabled list.,TRUE,2011,Tampa Bay Rays,Wade Davis,placed,15,FALSE,NA
+2011-07-07,"New York Mets placed SS Jose Reyes on the 15-day disabled list retroactive to July 3, 2011.",TRUE,2011,New York Mets,Jose Reyes,placed,15,TRUE,2011-07-03
+2011-07-07,St. Louis Cardinals activated C Gerald Laird from the 15-day disabled list.,TRUE,2011,St. Louis Cardinals,Gerald Laird,activated,15,FALSE,NA
+2011-07-07,Oakland Athletics activated LF Josh Willingham from the 15-day disabled list.,TRUE,2011,Oakland Athletics,Josh Willingham,activated,15,FALSE,NA
+2011-07-07,Oakland Athletics activated RHP Grant Balfour from the 15-day disabled list.,TRUE,2011,Oakland Athletics,Grant Balfour,activated,15,FALSE,NA
+2011-07-07,Washington Nationals placed C Ivan Rodriguez on the 15-day disabled list.,TRUE,2011,Washington Nationals,Ivan Rodriguez,placed,15,FALSE,NA
+2011-07-07,Texas Rangers placed SS Andres Blanco on the 15-day disabled list.,TRUE,2011,Texas Rangers,Andres Blanco,placed,15,FALSE,NA
+2011-07-08,"Philadelphia Phillies placed CF Shane Victorino on the 15-day disabled list retroactive to July 4, 2011.",TRUE,2011,Philadelphia Phillies,Shane Victorino,placed,15,TRUE,2011-07-04
+2011-07-08,Colorado Rockies placed CF Charlie Blackmon on the 15-day disabled list.,TRUE,2011,Colorado Rockies,Charlie Blackmon,placed,15,FALSE,NA
+2011-07-08,"San Diego Padres placed C Nick Hundley on the 15-day disabled list retroactive to July 6, 2011.",TRUE,2011,San Diego Padres,Nick Hundley,placed,15,TRUE,2011-07-06
+2011-07-08,Texas Rangers transferred RHP Scott Feldman from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Texas Rangers,Scott Feldman,transferred,60,FALSE,NA
+2011-07-08,San Francisco Giants placed 2B Bill Hall on the 15-day disabled list. deep laceration of left leg,TRUE,2011,San Francisco Giants,Bill Hall,placed,15,FALSE,NA
+2011-07-08,San Francisco Giants activated SS Mike Fontenot from the 15-day disabled list.,TRUE,2011,San Francisco Giants,Mike Fontenot,activated,15,FALSE,NA
+2011-07-09,Atlanta Braves placed 3B Chipper Jones on the 15-day disabled list.,TRUE,2011,Atlanta Braves,Chipper Jones,placed,15,FALSE,NA
+2011-07-09,San Diego Padres activated RHP Aaron Harang from the 15-day disabled list.,TRUE,2011,San Diego Padres,Aaron Harang,activated,15,FALSE,NA
+2011-07-10,Chicago White Sox placed C Ramon Castro on the 15-day disabled list.,TRUE,2011,Chicago White Sox,Ramon Castro,placed,15,FALSE,NA
+2011-07-13,"Cleveland Indians placed RHP Mitch Talbot on the 15-day disabled list retroactive to July 9, 2011.",TRUE,2011,Cleveland Indians,Mitch Talbot,placed,15,TRUE,2011-07-09
+2011-07-14,"Tampa Bay Rays placed C John Jaso on the 15-day disabled list retroactive to July 10, 2011.",TRUE,2011,Tampa Bay Rays,John Jaso,placed,15,TRUE,2011-07-10
+2011-07-14,Texas Rangers activated RHP Scott Feldman from the 60-day disabled list.,TRUE,2011,Texas Rangers,Scott Feldman,activated,60,FALSE,NA
+2011-07-14,"New York Yankees placed 3B Alex Rodriguez on the 15-day disabled list retroactive to July 8, 2011. meniscus tear in right knee",TRUE,2011,New York Yankees,Alex Rodriguez,placed,15,TRUE,2011-07-08
+2011-07-14,Los Angeles Dodgers activated C Rod Barajas from the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Rod Barajas,activated,15,FALSE,NA
+2011-07-15,Arizona Diamondbacks activated 1B Geoff Blum from the 15-day disabled list.,TRUE,2011,Arizona Diamondbacks,Geoff Blum,activated,15,FALSE,NA
+2011-07-15,"Philadelphia Phillies placed 3B Placido Polanco on the 15-day disabled list retroactive to July 5, 2011.",TRUE,2011,Philadelphia Phillies,Placido Polanco,placed,15,TRUE,2011-07-05
+2011-07-15,San Francisco Giants placed LF Pat Burrell on the 15-day disabled list.,TRUE,2011,San Francisco Giants,Pat Burrell,placed,15,FALSE,NA
+2011-07-15,"Cincinnati Reds placed RHP Jose Arredondo on the 15-day disabled list retroactive to July 7, 2011.",TRUE,2011,Cincinnati Reds,Jose Arredondo,placed,15,TRUE,2011-07-07
+2011-07-15,Pittsburgh Pirates activated LHP Joe Beimel from the 15-day disabled list.,TRUE,2011,Pittsburgh Pirates,Joe Beimel,activated,15,FALSE,NA
+2011-07-15,Colorado Rockies transferred CF Charlie Blackmon from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Colorado Rockies,Charlie Blackmon,transferred,60,FALSE,NA
+2011-07-15,San Francisco Giants transferred 3B Mark DeRosa from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,San Francisco Giants,Mark DeRosa,transferred,60,FALSE,NA
+2011-07-15,"Los Angeles Angels placed CF Peter Bourjos on the 15-day disabled list retroactive to July 8, 2011.",TRUE,2011,Los Angeles Angels,Peter Bourjos,placed,15,TRUE,2011-07-08
+2011-07-16,Detroit Tigers activated RHP Al Alburquerque from the 15-day disabled list.,TRUE,2011,Detroit Tigers,Al Alburquerque,activated,15,FALSE,NA
+2011-07-16,Detroit Tigers activated 2B Carlos Guillen from the 60-day disabled list.,TRUE,2011,Detroit Tigers,Carlos Guillen,activated,60,FALSE,NA
+2011-07-16,Chicago Cubs activated RHP Carlos Zambrano from the 15-day disabled list.,TRUE,2011,Chicago Cubs,Carlos Zambrano,activated,15,FALSE,NA
+2011-07-16,"Boston Red Sox placed RHP Bobby Jenks on the 15-day disabled list retroactive to July 8, 2011.",TRUE,2011,Boston Red Sox,Bobby Jenks,placed,15,TRUE,2011-07-08
+2011-07-16,Pittsburgh Pirates placed SS Ronny Cedeno on the 15-day disabled list.,TRUE,2011,Pittsburgh Pirates,Ronny Cedeno,placed,15,FALSE,NA
+2011-07-17,"Baltimore Orioles placed DH Vladimir Guerrero on the 15-day disabled list retroactive to July 11, 2011.",TRUE,2011,Baltimore Orioles,Vladimir Guerrero,placed,15,TRUE,2011-07-11
+2011-07-17,"Minnesota Twins placed RHP Scott Baker on the 15-day disabled list retroactive to July 7, 2011.",TRUE,2011,Minnesota Twins,Scott Baker,placed,15,TRUE,2011-07-07
+2011-07-18,Tampa Bay Rays placed C Jose Lobaton on the 15-day disabled list.,TRUE,2011,Tampa Bay Rays,Jose Lobaton,placed,15,FALSE,NA
+2011-07-18,Cleveland Indians placed CF Grady Sizemore on the 15-day disabled list.,TRUE,2011,Cleveland Indians,Grady Sizemore,placed,15,FALSE,NA
+2011-07-18,Tampa Bay Rays placed RHP Juan Cruz on the 15-day disabled list.,TRUE,2011,Tampa Bay Rays,Juan Cruz,placed,15,FALSE,NA
+2011-07-18,Cleveland Indians activated RHP Roberto Hernandez from the 15-day disabled list.,TRUE,2011,Cleveland Indians,Roberto Hernandez,activated,15,FALSE,NA
+2011-07-18,New York Yankees placed SS Ramiro Pena on the 15-day disabled list. appendicitis,TRUE,2011,New York Yankees,Ramiro Pena,placed,15,FALSE,NA
+2011-07-18,Boston Red Sox activated LF Carl Crawford from the 15-day disabled list.,TRUE,2011,Boston Red Sox,Carl Crawford,activated,15,FALSE,NA
+2011-07-19,Toronto Blue Jays activated RHP Casey Janssen from the 15-day disabled list.,TRUE,2011,Toronto Blue Jays,Casey Janssen,activated,15,FALSE,NA
+2011-07-19,Baltimore Orioles transferred 2B Brian Roberts from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Baltimore Orioles,Brian Roberts,transferred,60,FALSE,NA
+2011-07-19,New York Mets activated SS Jose Reyes from the 15-day disabled list.,TRUE,2011,New York Mets,Jose Reyes,activated,15,FALSE,NA
+2011-07-19,"New York Yankees placed RHP Sergio Mitre on the 15-day disabled list retroactive to July 16, 2011.",TRUE,2011,New York Yankees,Sergio Mitre,placed,15,TRUE,2011-07-16
+2011-07-19,San Francisco Giants placed 3B Miguel Tejada on the 15-day disabled list.,TRUE,2011,San Francisco Giants,Miguel Tejada,placed,15,FALSE,NA
+2011-07-19,San Francisco Giants transferred 2B Freddy Sanchez from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,San Francisco Giants,Freddy Sanchez,transferred,60,FALSE,NA
+2011-07-20,Chicago White Sox activated LHP John Danks from the 15-day disabled list.,TRUE,2011,Chicago White Sox,John Danks,activated,15,FALSE,NA
+2011-07-20,Los Angeles Angels transferred 1B Kendrys Morales from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Los Angeles Angels,Kendrys Morales,transferred,60,FALSE,NA
+2011-07-21,Pittsburgh Pirates transferred RHP Evan Meek from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Pittsburgh Pirates,Evan Meek,transferred,60,FALSE,NA
+2011-07-21,Milwaukee Brewers placed CF Carlos Gomez on the 15-day disabled list.,TRUE,2011,Milwaukee Brewers,Carlos Gomez,placed,15,FALSE,NA
+2011-07-21,Arizona Diamondbacks placed SS Stephen Drew on the 15-day disabled list.,TRUE,2011,Arizona Diamondbacks,Stephen Drew,placed,15,FALSE,NA
+2011-07-22,Minnesota Twins activated RF Jason Kubel from the 15-day disabled list.,TRUE,2011,Minnesota Twins,Jason Kubel,activated,15,FALSE,NA
+2011-07-22,Philadelphia Phillies activated RHP Brad Lidge from the 60-day disabled list.,TRUE,2011,Philadelphia Phillies,Brad Lidge,activated,60,FALSE,NA
+2011-07-22,Pittsburgh Pirates activated SS Ronny Cedeno from the 15-day disabled list.,TRUE,2011,Pittsburgh Pirates,Ronny Cedeno,activated,15,FALSE,NA
+2011-07-22,Pittsburgh Pirates activated 1B Steve Pearce from the 15-day disabled list.,TRUE,2011,Pittsburgh Pirates,Steve Pearce,activated,15,FALSE,NA
+2011-07-22,Baltimore Orioles activated LF Luke Scott from the 15-day disabled list.,TRUE,2011,Baltimore Orioles,Luke Scott,activated,15,FALSE,NA
+2011-07-22,New York Mets activated 3B David Wright from the 15-day disabled list.,TRUE,2011,New York Mets,David Wright,activated,15,FALSE,NA
+2011-07-22,"Cincinnati Reds placed 3B Scott Rolen on the 15-day disabled list retroactive to July 21, 2011.",TRUE,2011,Cincinnati Reds,Scott Rolen,placed,15,TRUE,2011-07-21
+2011-07-22,Colorado Rockies placed LF Carlos Gonzalez on the 15-day disabled list.,TRUE,2011,Colorado Rockies,Carlos Gonzalez,placed,15,FALSE,NA
+2011-07-22,Los Angeles Angels activated RHP Fernando Rodney from the 15-day disabled list.,TRUE,2011,Los Angeles Angels,Fernando Rodney,activated,15,FALSE,NA
+2011-07-23,Minnesota Twins activated RHP Scott Baker from the 15-day disabled list.,TRUE,2011,Minnesota Twins,Scott Baker,activated,15,FALSE,NA
+2011-07-23,Los Angeles Angels activated CF Peter Bourjos from the 15-day disabled list.,TRUE,2011,Los Angeles Angels,Peter Bourjos,activated,15,FALSE,NA
+2011-07-23,Baltimore Orioles placed LF Luke Scott on the 15-day disabled list.,TRUE,2011,Baltimore Orioles,Luke Scott,placed,15,FALSE,NA
+2011-07-23,Texas Rangers placed 3B Adrian Beltre on the 15-day disabled list.,TRUE,2011,Texas Rangers,Adrian Beltre,placed,15,FALSE,NA
+2011-07-24,Cincinnati Reds placed SS Zack Cozart on the 15-day disabled list. hyperextended left elbow,TRUE,2011,Cincinnati Reds,Zack Cozart,placed,15,FALSE,NA
+2011-07-25,"Pittsburgh Pirates placed CF Alex Presley on the 15-day disabled list retroactive to July 23, 2011. left hand contusion",TRUE,2011,Pittsburgh Pirates,Alex Presley,placed,15,TRUE,2011-07-23
+2011-07-25,Colorado Rockies activated RHP Esmil Rogers from the 15-day disabled list.,TRUE,2011,Colorado Rockies,Esmil Rogers,activated,15,FALSE,NA
+2011-07-25,Boston Red Sox activated LHP Jon Lester from the 15-day disabled list.,TRUE,2011,Boston Red Sox,Jon Lester,activated,15,FALSE,NA
+2011-07-25,Atlanta Braves activated 3B Chipper Jones from the 15-day disabled list.,TRUE,2011,Atlanta Braves,Chipper Jones,activated,15,FALSE,NA
+2011-07-26,Arizona Diamondbacks activated RHP J.J. Putz from the 15-day disabled list.,TRUE,2011,Arizona Diamondbacks,J.J. Putz,activated,15,FALSE,NA
+2011-07-26,"Arizona Diamondbacks placed 1B Geoff Blum on the 15-day disabled list retroactive to July 25, 2011.",TRUE,2011,Arizona Diamondbacks,Geoff Blum,placed,15,TRUE,2011-07-25
+2011-07-26,New York Yankees activated 3B Eric Chavez from the 60-day disabled list.,TRUE,2011,New York Yankees,Eric Chavez,activated,60,FALSE,NA
+2011-07-26,"Boston Red Sox placed RF J.D. Drew on the 15-day disabled list retroactive to July 20, 2011.",TRUE,2011,Boston Red Sox,J.D. Drew,placed,15,TRUE,2011-07-20
+2011-07-26,Baltimore Orioles activated DH Vladimir Guerrero from the 15-day disabled list.,TRUE,2011,Baltimore Orioles,Vladimir Guerrero,activated,15,FALSE,NA
+2011-07-26,Colorado Rockies placed 1B Jason Giambi on the 15-day disabled list.,TRUE,2011,Colorado Rockies,Jason Giambi,placed,15,FALSE,NA
+2011-07-27,Atlanta Braves placed C Brian McCann on the 15-day disabled list.,TRUE,2011,Atlanta Braves,Brian McCann,placed,15,FALSE,NA
+2011-07-27,Pittsburgh Pirates placed SS Chase d'Arnaud on the 15-day disabled list.,TRUE,2011,Pittsburgh Pirates,Chase d'Arnaud,placed,15,FALSE,NA
+2011-07-28,Milwaukee Brewers placed 2B Rickie Weeks on the 15-day disabled list.,TRUE,2011,Milwaukee Brewers,Rickie Weeks,placed,15,FALSE,NA
+2011-07-28,Texas Rangers placed CF Craig Gentry on the 7-day disabled list.,TRUE,2011,Texas Rangers,Craig Gentry,placed,7,FALSE,NA
+2011-07-28,Pittsburgh Pirates placed RHP Chris Leroux on the 15-day disabled list.,TRUE,2011,Pittsburgh Pirates,Chris Leroux,placed,15,FALSE,NA
+2011-07-28,Minnesota Twins placed 2B Alexi Casilla on the 15-day disabled list.,TRUE,2011,Minnesota Twins,Alexi Casilla,placed,15,FALSE,NA
+2011-07-29,Washington Nationals activated RHP Chien-Ming Wang from the 60-day disabled list.,TRUE,2011,Washington Nationals,Chien Ming Wang,activated,60,FALSE,NA
+2011-07-29,New York Yankees activated RHP Rafael Soriano from the 60-day disabled list.,TRUE,2011,New York Yankees,Rafael Soriano,activated,60,FALSE,NA
+2011-07-29,Atlanta Braves placed CF Nate McLouth on the 15-day disabled list.,TRUE,2011,Atlanta Braves,Nate McLouth,placed,15,FALSE,NA
+2011-07-29,New York Yankees transferred RHP Sergio Mitre from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,New York Yankees,Sergio Mitre,transferred,60,FALSE,NA
+2011-07-29,"Los Angeles Dodgers placed RHP Kenley Jansen on the 15-day disabled list retroactive to July 27, 2011.",TRUE,2011,Los Angeles Dodgers,Kenley Jansen,placed,15,TRUE,2011-07-27
+2011-07-30,Milwaukee Brewers transferred LHP Mitch Stetter from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Milwaukee Brewers,Mitch Stetter,transferred,60,FALSE,NA
+2011-07-30,Philadelphia Phillies activated 3B Placido Polanco from the 15-day disabled list.,TRUE,2011,Philadelphia Phillies,Placido Polanco,activated,15,FALSE,NA
+2011-07-30,Oakland Athletics placed RHP Michael Wuertz on the 15-day disabled list.,TRUE,2011,Oakland Athletics,Michael Wuertz,placed,15,FALSE,NA
+2011-07-30,Arizona Diamondbacks transferred SS Stephen Drew from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Arizona Diamondbacks,Stephen Drew,transferred,60,FALSE,NA
+2011-07-30,Arizona Diamondbacks placed LHP Alberto Castillo on the 15-day disabled list.,TRUE,2011,Arizona Diamondbacks,Alberto Castillo,placed,15,FALSE,NA
+2011-07-30,"Los Angeles Dodgers placed 3B Juan Uribe on the 15-day disabled list retroactive to July 24, 2011.",TRUE,2011,Los Angeles Dodgers,Juan Uribe,placed,15,TRUE,2011-07-24
+2011-07-31,Pittsburgh Pirates transferred C Ryan Doumit from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Pittsburgh Pirates,Ryan Doumit,transferred,60,FALSE,NA
+2011-07-31,Kansas City Royals placed C Matt Treanor on the 7-day disabled list.,TRUE,2011,Kansas City Royals,Matt Treanor,placed,7,FALSE,NA
+2011-07-31,Texas Rangers activated SS Andres Blanco from the 15-day disabled list.,TRUE,2011,Texas Rangers,Andres Blanco,activated,15,FALSE,NA
+2011-07-31,Houston Astros transferred RHP Brandon Lyon from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Houston Astros,Brandon Lyon,transferred,60,FALSE,NA
+2011-07-31,"San Diego Padres placed RHP Dustin Moseley on the 15-day disabled list retroactive to July 27, 2011.",TRUE,2011,San Diego Padres,Dustin Moseley,placed,15,TRUE,2011-07-27
+2011-07-31,Oakland Athletics transferred LHP Brett Anderson from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Oakland Athletics,Brett Anderson,transferred,60,FALSE,NA
+2011-07-31,St. Louis Cardinals transferred RHP Eduardo Sanchez from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,St. Louis Cardinals,Eduardo Sanchez,transferred,60,FALSE,NA
+2011-07-31,Boston Red Sox transferred RHP Clay Buchholz from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Boston Red Sox,Clay Buchholz,transferred,60,FALSE,NA
+2011-08-01,"Kansas City Royals placed RHP Kyle Davies on the 15-day disabled list retroactive to July 26, 2011. right shoulder impingement",TRUE,2011,Kansas City Royals,Kyle Davies,placed,15,TRUE,2011-07-26
+2011-08-01,"Atlanta Braves placed RHP Scott Linebrink on the 15-day disabled list retroactive to July 30, 2011.",TRUE,2011,Atlanta Braves,Scott Linebrink,placed,15,TRUE,2011-07-30
+2011-08-01,"Seattle Mariners placed RHP Chris Ray on the 15-day disabled list retroactive to July 30, 2011. strained right shoulder latisimus dorsi",TRUE,2011,Seattle Mariners,Chris Ray,placed,15,TRUE,2011-07-30
+2011-08-01,Los Angeles Dodgers placed RHP Rubby De La Rosa on the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Rubby De La Rosa,placed,15,FALSE,NA
+2011-08-01,San Francisco Giants placed LHP Barry Zito on the 15-day disabled list. right foot strain,TRUE,2011,San Francisco Giants,Barry Zito,placed,15,FALSE,NA
+2011-08-01,San Francisco Giants activated LHP Jonathan Sanchez from the 15-day disabled list.,TRUE,2011,San Francisco Giants,Jonathan Sanchez,activated,15,FALSE,NA
+2011-08-02,Minnesota Twins activated CF Denard Span from the 15-day disabled list.,TRUE,2011,Minnesota Twins,Denard Span,activated,15,FALSE,NA
+2011-08-02,Baltimore Orioles transferred LF Luke Scott from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Baltimore Orioles,Luke Scott,transferred,60,FALSE,NA
+2011-08-02,Tampa Bay Rays activated RHP Juan Cruz from the 15-day disabled list.,TRUE,2011,Tampa Bay Rays,Juan Cruz,activated,15,FALSE,NA
+2011-08-02,Seattle Mariners placed 3B Chone Figgins on the 15-day disabled list.,TRUE,2011,Seattle Mariners,Chone Figgins,placed,15,FALSE,NA
+2011-08-03,Pittsburgh Pirates activated C Ryan Doumit from the 60-day disabled list.,TRUE,2011,Pittsburgh Pirates,Ryan Doumit,activated,60,FALSE,NA
+2011-08-04,San Diego Padres activated LHP Joe Thatcher from the 60-day disabled list.,TRUE,2011,San Diego Padres,Joe Thatcher,activated,60,FALSE,NA
+2011-08-04,San Francisco Giants activated 3B Mark DeRosa from the 60-day disabled list.,TRUE,2011,San Francisco Giants,Mark DeRosa,activated,60,FALSE,NA
+2011-08-04,San Diego Padres placed RF Chris Denorfia on the 15-day disabled list.,TRUE,2011,San Diego Padres,Chris Denorfia,placed,15,FALSE,NA
+2011-08-05,"Toronto Blue Jays placed RHP Carlos Villanueva on the 15-day disabled list retroactive to August 4, 2011.",TRUE,2011,Toronto Blue Jays,Carlos Villanueva,placed,15,TRUE,2011-08-04
+2011-08-05,Baltimore Orioles activated SS Cesar Izturis from the 60-day disabled list.,TRUE,2011,Baltimore Orioles,Cesar Izturis,activated,60,FALSE,NA
+2011-08-05,Florida Marlins placed 2B Omar Infante on the 15-day disabled list.,TRUE,2011,Florida Marlins,Omar Infante,placed,15,FALSE,NA
+2011-08-05,Florida Marlins transferred CF Scott Cousins from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Florida Marlins,Scott Cousins,transferred,60,FALSE,NA
+2011-08-05,Baltimore Orioles placed LHP Zach Britton on the 15-day disabled list.,TRUE,2011,Baltimore Orioles,Zack Britton,placed,15,FALSE,NA
+2011-08-06,Houston Astros placed RHP Enerio Del Rosario on the 15-day disabled list. strained right shoulder,TRUE,2011,Houston Astros,Enerio Del Rosario,placed,15,FALSE,NA
+2011-08-06,"Atlanta Braves placed RHP Jair Jurrjens on the 15-day disabled list retroactive to August 2, 2011.",TRUE,2011,Atlanta Braves,Jair Jurrjens,placed,15,TRUE,2011-08-02
+2011-08-06,Colorado Rockies activated LF Carlos Gonzalez from the 15-day disabled list.,TRUE,2011,Colorado Rockies,Carlos Gonzalez,activated,15,FALSE,NA
+2011-08-06,Colorado Rockies placed RHP Juan Nicasio on the 15-day disabled list.,TRUE,2011,Colorado Rockies,Juan Nicasio,placed,15,FALSE,NA
+2011-08-06,Colorado Rockies placed LF Ryan Spilborghs on the 15-day disabled list.,TRUE,2011,Colorado Rockies,Ryan Spilborghs,placed,15,FALSE,NA
+2011-08-06,"Baltimore Orioles placed RHP Jake Arrieta on the 15-day disabled list retroactive to August 1, 2011.",TRUE,2011,Baltimore Orioles,Jake Arrieta,placed,15,TRUE,2011-08-01
+2011-08-07,"Cincinnati Reds placed LF Chris Heisey on the 15-day disabled list retroactive to August 6, 2011.",TRUE,2011,Cincinnati Reds,Chris Heisey,placed,15,TRUE,2011-08-06
+2011-08-07,Tampa Bay Rays placed RHP Alex Cobb on the 15-day disabled list.,TRUE,2011,Tampa Bay Rays,Alex Cobb,placed,15,FALSE,NA
+2011-08-08,New York Mets placed 1B Daniel Murphy on the 15-day disabled list.,TRUE,2011,New York Mets,Daniel Murphy,placed,15,FALSE,NA
+2011-08-08,New York Mets placed SS Jose Reyes on the 15-day disabled list.,TRUE,2011,New York Mets,Jose Reyes,placed,15,FALSE,NA
+2011-08-08,"San Diego Padres placed 3B Chase Headley on the 15-day disabled list retroactive to August 7, 2011.",TRUE,2011,San Diego Padres,Chase Headley,placed,15,TRUE,2011-08-07
+2011-08-08,"San Diego Padres placed RHP Ernesto Frieri on the 15-day disabled list retroactive to August 6, 2011.",TRUE,2011,San Diego Padres,Ernesto Frieri,placed,15,TRUE,2011-08-06
+2011-08-08,San Diego Padres transferred 1B Brad Hawpe from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,San Diego Padres,Brad Hawpe,transferred,60,FALSE,NA
+2011-08-08,Baltimore Orioles placed SS Cesar Izturis on the 15-day disabled list.,TRUE,2011,Baltimore Orioles,Cesar Izturis,placed,15,FALSE,NA
+2011-08-08,"Seattle Mariners placed SS Brendan Ryan on the 15-day disabled list retroactive to August 4, 2011.",TRUE,2011,Seattle Mariners,Brendan Ryan,placed,15,TRUE,2011-08-04
+2011-08-09,"Cincinnati Reds placed RHP Logan Ondrusek on the 15-day disabled list retroactive to August 8, 2011.",TRUE,2011,Cincinnati Reds,Logan Ondrusek,placed,15,TRUE,2011-08-08
+2011-08-09,Minnesota Twins placed RHP Scott Baker on the 15-day disabled list.,TRUE,2011,Minnesota Twins,Scott Baker,placed,15,FALSE,NA
+2011-08-10,Los Angeles Angels transferred RHP Francisco Rodriguez from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Los Angeles Angels,Francisco Rodriguez,transferred,60,FALSE,NA
+2011-08-10,"Tampa Bay Rays placed LF Justin Ruggiano on the 15-day disabled list retroactive to August 7, 2011.",TRUE,2011,Tampa Bay Rays,Justin Ruggiano,placed,15,TRUE,2011-08-07
+2011-08-10,Colorado Rockies placed RHP Matt Lindstrom on the 15-day disabled list.,TRUE,2011,Colorado Rockies,Matt Lindstrom,placed,15,FALSE,NA
+2011-08-10,St. Louis Cardinals placed RHP Lance Lynn on the 15-day disabled list.,TRUE,2011,St. Louis Cardinals,Lance Lynn,placed,15,FALSE,NA
+2011-08-10,"Milwaukee Brewers placed LHP Chris Narveson on the 15-day disabled list retroactive to August 7, 2011.",TRUE,2011,Milwaukee Brewers,Chris Narveson,placed,15,TRUE,2011-08-07
+2011-08-10,"Florida Marlins placed SS Hanley Ramirez on the 15-day disabled list retroactive to August 3, 2011.",TRUE,2011,Florida Marlins,Hanley Ramirez,placed,15,TRUE,2011-08-03
+2011-08-11,"Los Angeles Dodgers placed SS Dee Gordon on the 15-day disabled list retroactive to August 10, 2011.",TRUE,2011,Los Angeles Dodgers,Dee Gordon,placed,15,TRUE,2011-08-10
+2011-08-11,Texas Rangers activated CF Craig Gentry from the 7-day disabled list.,TRUE,2011,Texas Rangers,Craig Gentry,activated,7,FALSE,NA
+2011-08-11,Arizona Diamondbacks transferred RHP Juan Gutierrez from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Arizona Diamondbacks,Juan Gutierrez,transferred,60,FALSE,NA
+2011-08-12,Minnesota Twins activated 2B Alexi Casilla from the 15-day disabled list.,TRUE,2011,Minnesota Twins,Alexi Casilla,activated,15,FALSE,NA
+2011-08-12,Cleveland Indians activated RF Shin-Soo Choo from the 15-day disabled list.,TRUE,2011,Cleveland Indians,Shin Soo Choo,activated,15,FALSE,NA
+2011-08-12,Minnesota Twins activated 1B Justin Morneau from the 15-day disabled list.,TRUE,2011,Minnesota Twins,Justin Morneau,activated,15,FALSE,NA
+2011-08-12,"Minnesota Twins placed LF Jason Repko on the 15-day disabled list retroactive to August 11, 2011.",TRUE,2011,Minnesota Twins,Jason Repko,placed,15,TRUE,2011-08-11
+2011-08-12,Baltimore Orioles transferred RHP Jake Arrieta from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Baltimore Orioles,Jake Arrieta,transferred,60,FALSE,NA
+2011-08-12,Colorado Rockies activated 1B Jason Giambi from the 15-day disabled list.,TRUE,2011,Colorado Rockies,Jason Giambi,activated,15,FALSE,NA
+2011-08-12,"Colorado Rockies placed RHP Huston Street on the 15-day disabled list retroactive to August 9, 2011.",TRUE,2011,Colorado Rockies,Huston Street,placed,15,TRUE,2011-08-09
+2011-08-12,Detroit Tigers placed RHP Al Alburquerque on the 7-day disabled list.,TRUE,2011,Detroit Tigers,Al Alburquerque,placed,7,FALSE,NA
+2011-08-13,"Pittsburgh Pirates placed 1B Derrek Lee on the 15-day disabled list retroactive to August 10, 2011.",TRUE,2011,Pittsburgh Pirates,Derrek Lee,placed,15,TRUE,2011-08-10
+2011-08-13,Arizona Diamondbacks placed 1B Xavier Nady on the 15-day disabled list. fractured left hand,TRUE,2011,Arizona Diamondbacks,Xavier Nady,placed,15,FALSE,NA
+2011-08-13,San Francisco Giants placed CF Andres Torres on the 15-day disabled list.,TRUE,2011,San Francisco Giants,Andres Torres,placed,15,FALSE,NA
+2011-08-13,Seattle Mariners placed 1B Justin Smoak on the 15-day disabled list.,TRUE,2011,Seattle Mariners,Justin Smoak,placed,15,FALSE,NA
+2011-08-13,Detroit Tigers placed 2B Carlos Guillen on the 15-day disabled list. sore left wrist,TRUE,2011,Detroit Tigers,Carlos Guillen,placed,15,FALSE,NA
+2011-08-14,Atlanta Braves activated RHP Scott Linebrink from the 15-day disabled list.,TRUE,2011,Atlanta Braves,Scott Linebrink,activated,15,FALSE,NA
+2011-08-14,"Atlanta Braves placed RHP Tommy Hanson on the 15-day disabled list retroactive to August 7, 2011.",TRUE,2011,Atlanta Braves,Tommy Hanson,placed,15,TRUE,2011-08-07
+2011-08-15,Toronto Blue Jays placed CF Rajai Davis on the 15-day disabled list.,TRUE,2011,Toronto Blue Jays,Rajai Davis,placed,15,FALSE,NA
+2011-08-15,Arizona Diamondbacks placed RHP Jason Marquis on the 15-day disabled list.,TRUE,2011,Arizona Diamondbacks,Jason Marquis,placed,15,FALSE,NA
+2011-08-16,"Chicago White Sox placed C A.J. Pierzynski on the 15-day disabled list retroactive to August 13, 2011.",TRUE,2011,Chicago White Sox,A.J. Pierzynski,placed,15,TRUE,2011-08-13
+2011-08-16,Toronto Blue Jays placed RHP Jon Rauch on the 15-day disabled list. appendicitis,TRUE,2011,Toronto Blue Jays,Jon Rauch,placed,15,FALSE,NA
+2011-08-16,"San Francisco Giants placed RHP Sergio Romo on the 15-day disabled list retroactive to August 10, 2011.",TRUE,2011,San Francisco Giants,Sergio Romo,placed,15,TRUE,2011-08-10
+2011-08-16,"San Francisco Giants placed RF Carlos Beltran on the 15-day disabled list retroactive to August 8, 2011.",TRUE,2011,San Francisco Giants,Carlos Beltran,placed,15,TRUE,2011-08-08
+2011-08-16,San Francisco Giants activated 3B Miguel Tejada from the 15-day disabled list.,TRUE,2011,San Francisco Giants,Miguel Tejada,activated,15,FALSE,NA
+2011-08-16,Los Angeles Angels placed RHP Garrett Richards on the 15-day disabled list.,TRUE,2011,Los Angeles Angels,Garrett Richards,placed,15,FALSE,NA
+2011-08-16,"Baltimore Orioles placed 1B Chris Davis on the 15-day disabled list retroactive to August 15, 2011.",TRUE,2011,Baltimore Orioles,Chris Davis,placed,15,TRUE,2011-08-15
+2011-08-16,"Philadelphia Phillies placed 3B Placido Polanco on the 15-day disabled list retroactive to August 7, 2011.",TRUE,2011,Philadelphia Phillies,Placido Polanco,placed,15,TRUE,2011-08-07
+2011-08-17,"Florida Marlins placed RHP Brian Sanches on the 15-day disabled list retroactive to August 10, 2011.",TRUE,2011,Florida Marlins,Brian Sanches,placed,15,TRUE,2011-08-10
+2011-08-17,Philadelphia Phillies transferred RHP Joe Blanton from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Philadelphia Phillies,Joe Blanton,transferred,60,FALSE,NA
+2011-08-17,Cincinnati Reds transferred SS Zack Cozart from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Cincinnati Reds,Zack Cozart,transferred,60,FALSE,NA
+2011-08-18,Boston Red Sox placed 3B Kevin Youkilis on the 15-day disabled list.,TRUE,2011,Boston Red Sox,Kevin Youkilis,placed,15,FALSE,NA
+2011-08-18,"Florida Marlins placed LHP Randy Choate on the 15-day disabled list retroactive to August 16, 2011.",TRUE,2011,Florida Marlins,Randy Choate,placed,15,TRUE,2011-08-16
+2011-08-18,"Minnesota Twins placed CF Denard Span on the 15-day disabled list retroactive to August 14, 2011.",TRUE,2011,Minnesota Twins,Denard Span,placed,15,TRUE,2011-08-14
+2011-08-18,"Oakland Athletics placed RHP Trystan Magnuson on the 15-day disabled list retroactive to August 16, 2011.",TRUE,2011,Oakland Athletics,Trystan Magnuson,placed,15,TRUE,2011-08-16
+2011-08-19,Chicago White Sox placed RHP Philip Humber on the 15-day disabled list.,TRUE,2011,Chicago White Sox,Philip Humber,placed,15,FALSE,NA
+2011-08-19,"Cleveland Indians placed 2B Jason Kipnis on the 15-day disabled list retroactive to August 14, 2011.",TRUE,2011,Cleveland Indians,Jason Kipnis,placed,15,TRUE,2011-08-14
+2011-08-19,"San Francisco Giants placed C Eli Whiteside on the 7-day disabled list retroactive to August 18, 2011.",TRUE,2011,San Francisco Giants,Eli Whiteside,placed,7,TRUE,2011-08-18
+2011-08-19,"New York Yankees placed RHP Freddy Garcia on the 15-day disabled list retroactive to August 9, 2011.",TRUE,2011,New York Yankees,Freddy Garcia,placed,15,TRUE,2011-08-09
+2011-08-19,"Pittsburgh Pirates placed LHP Paul Maholm on the 15-day disabled list retroactive to August 18, 2011.",TRUE,2011,Pittsburgh Pirates,Paul Maholm,placed,15,TRUE,2011-08-18
+2011-08-20,Colorado Rockies placed RHP Edgmer Escalona on the 15-day disabled list.,TRUE,2011,Colorado Rockies,Edgmer Escalona,placed,15,FALSE,NA
+2011-08-21,"San Francisco Giants placed RHP Brian Wilson on the 15-day disabled list retroactive to August 16, 2011.",TRUE,2011,San Francisco Giants,Brian Wilson,placed,15,TRUE,2011-08-16
+2011-08-21,New York Yankees activated 3B Alex Rodriguez from the 15-day disabled list.,TRUE,2011,New York Yankees,Alex Rodriguez,activated,15,FALSE,NA
+2011-08-22,Milwaukee Brewers activated LHP Chris Narveson from the 15-day disabled list.,TRUE,2011,Milwaukee Brewers,Chris Narveson,activated,15,FALSE,NA
+2011-08-22,Philadelphia Phillies placed SS Jimmy Rollins on the 15-day disabled list.,TRUE,2011,Philadelphia Phillies,Jimmy Rollins,placed,15,FALSE,NA
+2011-08-22,"Pittsburgh Pirates placed RHP Kevin Correia on the 15-day disabled list retroactive to August 20, 2011.",TRUE,2011,Pittsburgh Pirates,Kevin Correia,placed,15,TRUE,2011-08-20
+2011-08-22,Pittsburgh Pirates activated RHP Chris Leroux from the 15-day disabled list.,TRUE,2011,Pittsburgh Pirates,Chris Leroux,activated,15,FALSE,NA
+2011-08-22,Cleveland Indians placed DH Travis Hafner on the 15-day disabled list.,TRUE,2011,Cleveland Indians,Travis Hafner,placed,15,FALSE,NA
+2011-08-22,Minnesota Twins placed RHP Nick Blackburn on the 15-day disabled list.,TRUE,2011,Minnesota Twins,Nick Blackburn,placed,15,FALSE,NA
+2011-08-22,Baltimore Orioles activated LHP Zach Britton from the 15-day disabled list.,TRUE,2011,Baltimore Orioles,Zack Britton,activated,15,FALSE,NA
+2011-08-22,"Baltimore Orioles placed RHP Jason Berken on the 15-day disabled list retroactive to August 18, 2011.",TRUE,2011,Baltimore Orioles,Jason Berken,placed,15,TRUE,2011-08-18
+2011-08-22,Houston Astros activated CF Jordan Schafer from the 15-day disabled list.,TRUE,2011,Houston Astros,Jordan Schafer,activated,15,FALSE,NA
+2011-08-23,Oakland Athletics transferred RHP Trystan Magnuson from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Oakland Athletics,Trystan Magnuson,transferred,60,FALSE,NA
+2011-08-23,Arizona Diamondbacks transferred RHP Jason Marquis from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Arizona Diamondbacks,Jason Marquis,transferred,60,FALSE,NA
+2011-08-23,Colorado Rockies transferred RHP Juan Nicasio from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Colorado Rockies,Juan Nicasio,transferred,60,FALSE,NA
+2011-08-23,"Philadelphia Phillies placed LHP Cole Hamels on the 15-day disabled list retroactive to August 13, 2011.",TRUE,2011,Philadelphia Phillies,Cole Hamels,placed,15,TRUE,2011-08-13
+2011-08-23,Pittsburgh Pirates placed 1B Steve Pearce on the 15-day disabled list.,TRUE,2011,Pittsburgh Pirates,Steve Pearce,placed,15,FALSE,NA
+2011-08-23,San Francisco Giants activated RF Carlos Beltran from the 15-day disabled list.,TRUE,2011,San Francisco Giants,Carlos Beltran,activated,15,FALSE,NA
+2011-08-23,"San Francisco Giants placed LHP Jonathan Sanchez on the 15-day disabled list retroactive to August 17, 2011.",TRUE,2011,San Francisco Giants,Jonathan Sanchez,placed,15,TRUE,2011-08-17
+2011-08-24,Seattle Mariners placed RHP Dan Cortes on the 15-day disabled list.,TRUE,2011,Seattle Mariners,Dan Cortes,placed,15,FALSE,NA
+2011-08-24,New York Mets placed LHP Jon Niese on the 15-day disabled list.,TRUE,2011,New York Mets,Ty Blach,placed,15,FALSE,NA
+2011-08-24,"Pittsburgh Pirates placed LF Ryan Ludwick on the 15-day disabled list retroactive to August 23, 2011.",TRUE,2011,Pittsburgh Pirates,Ryan Ludwick,placed,15,TRUE,2011-08-23
+2011-08-24,"Houston Astros placed LHP Sergio Escalona on the 15-day disabled list retroactive to August 22, 2011.",TRUE,2011,Houston Astros,Sergio Escalona,placed,15,TRUE,2011-08-22
+2011-08-25,San Francisco Giants activated C Eli Whiteside from the 7-day disabled list.,TRUE,2011,San Francisco Giants,Eli Whiteside,activated,7,FALSE,NA
+2011-08-26,Minnesota Twins placed LHP Francisco Liriano on the 15-day disabled list.,TRUE,2011,Minnesota Twins,Francisco Liriano,placed,15,FALSE,NA
+2011-08-26,"New York Mets placed RF Scott Hairston on the 15-day disabled list retroactive to August 24, 2011.",TRUE,2011,New York Mets,Scott Hairston,placed,15,TRUE,2011-08-24
+2011-08-26,"Cleveland Indians placed CF Michael Brantley on the 15-day disabled list retroactive to August 23, 2011.",TRUE,2011,Cleveland Indians,Michael Brantley,placed,15,TRUE,2011-08-23
+2011-08-26,"Cleveland Indians placed RHP Josh Tomlin on the 15-day disabled list retroactive to August 25, 2011.",TRUE,2011,Cleveland Indians,Josh Tomlin,placed,15,TRUE,2011-08-25
+2011-08-26,San Diego Padres transferred LHP Clayton Richard from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,San Diego Padres,Clayton Richard,transferred,60,FALSE,NA
+2011-08-26,Washington Nationals placed RHP Ryan Mattheus on the 15-day disabled list.,TRUE,2011,Washington Nationals,Ryan Mattheus,placed,15,FALSE,NA
+2011-08-26,Detroit Tigers placed RHP Al Alburquerque on the 15-day disabled list.,TRUE,2011,Detroit Tigers,Al Alburquerque,placed,15,FALSE,NA
+2011-08-27,"Toronto Blue Jays placed CF Colby Rasmus on the 15-day disabled list retroactive to August 24, 2011.",TRUE,2011,Toronto Blue Jays,Colby Rasmus,placed,15,TRUE,2011-08-24
+2011-08-27,"Chicago White Sox placed RF Carlos Quentin on the 15-day disabled list retroactive to August 21, 2011.",TRUE,2011,Chicago White Sox,Carlos Quentin,placed,15,TRUE,2011-08-21
+2011-08-27,"San Francisco Giants placed RF Nate Schierholtz on the 15-day disabled list retroactive to August 22, 2011.",TRUE,2011,San Francisco Giants,Nate Schierholtz,placed,15,TRUE,2011-08-22
+2011-08-28,Cleveland Indians transferred CF Michael Brantley from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Cleveland Indians,Michael Brantley,transferred,60,FALSE,NA
+2011-08-28,San Francisco Giants activated RHP Sergio Romo from the 15-day disabled list.,TRUE,2011,San Francisco Giants,Sergio Romo,activated,15,FALSE,NA
+2011-08-29,Philadelphia Phillies activated LHP Cole Hamels from the 15-day disabled list.,TRUE,2011,Philadelphia Phillies,Cole Hamels,activated,15,FALSE,NA
+2011-08-29,New York Yankees activated RHP Freddy Garcia from the 15-day disabled list.,TRUE,2011,New York Yankees,Freddy Garcia,activated,15,FALSE,NA
+2011-08-29,Toronto Blue Jays activated LHP Brian Tallet from the 15-day disabled list.,TRUE,2011,Toronto Blue Jays,Brian Tallet,activated,15,FALSE,NA
+2011-08-30,"Texas Rangers placed RF Nelson Cruz on the 15-day disabled list retroactive to August 29, 2011. left hamstring strain",TRUE,2011,Texas Rangers,Nelson Cruz,placed,15,TRUE,2011-08-29
+2011-08-30,"Texas Rangers placed RHP Darren O'Day on the 15-day disabled list retroactive to August 25, 2011. right shoulder inflammation",TRUE,2011,Texas Rangers,Darren O'Day,placed,15,TRUE,2011-08-25
+2011-08-31,"Atlanta Braves placed LHP George Sherrill on the 15-day disabled list retroactive to August 27, 2011.",TRUE,2011,Atlanta Braves,George Sherrill,placed,15,TRUE,2011-08-27
+2011-08-31,San Diego Padres transferred RHP Dustin Moseley from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,San Diego Padres,Dustin Moseley,transferred,60,FALSE,NA
+2011-08-31,San Francisco Giants activated LF Pat Burrell from the 15-day disabled list.,TRUE,2011,San Francisco Giants,Pat Burrell,activated,15,FALSE,NA
+2011-08-31,Philadelphia Phillies transferred RHP Jose Contreras from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Philadelphia Phillies,Jose Contreras,transferred,60,FALSE,NA
+2011-08-31,Toronto Blue Jays activated RHP Carlos Villanueva from the 15-day disabled list.,TRUE,2011,Toronto Blue Jays,Carlos Villanueva,activated,15,FALSE,NA
+2011-08-31,Boston Red Sox transferred RHP Bobby Jenks from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Boston Red Sox,Bobby Jenks,transferred,60,FALSE,NA
+2011-09-01,Milwaukee Brewers activated CF Carlos Gomez from the 15-day disabled list.,TRUE,2011,Milwaukee Brewers,Carlos Gomez,activated,15,FALSE,NA
+2011-09-01,Detroit Tigers activated 2B Carlos Guillen from the 15-day disabled list.,TRUE,2011,Detroit Tigers,Carlos Guillen,activated,15,FALSE,NA
+2011-09-01,"Cleveland Indians placed RF Shin-Soo Choo on the 15-day disabled list retroactive to August 28, 2011.",TRUE,2011,Cleveland Indians,Shin Soo Choo,placed,15,TRUE,2011-08-28
+2011-09-01,Cincinnati Reds activated LF Chris Heisey from the 15-day disabled list.,TRUE,2011,Cincinnati Reds,Chris Heisey,activated,15,FALSE,NA
+2011-09-01,Toronto Blue Jays activated RHP Jon Rauch from the 15-day disabled list.,TRUE,2011,Toronto Blue Jays,Jon Rauch,activated,15,FALSE,NA
+2011-09-01,Texas Rangers activated 3B Adrian Beltre from the 15-day disabled list.,TRUE,2011,Texas Rangers,Adrian Beltre,activated,15,FALSE,NA
+2011-09-01,Texas Rangers activated C Matt Treanor from the 15-day disabled list.,TRUE,2011,Texas Rangers,Matt Treanor,activated,15,FALSE,NA
+2011-09-01,Arizona Diamondbacks activated 3B Geoff Blum from the 15-day disabled list.,TRUE,2011,Arizona Diamondbacks,Geoff Blum,activated,15,FALSE,NA
+2011-09-01,Arizona Diamondbacks activated LHP Alberto Castillo from the 15-day disabled list.,TRUE,2011,Arizona Diamondbacks,Alberto Castillo,activated,15,FALSE,NA
+2011-09-01,Los Angeles Dodgers activated SS Dee Gordon from the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Dee Gordon,activated,15,FALSE,NA
+2011-09-01,Washington Nationals activated LHP Doug Slaten from the 15-day disabled list.,TRUE,2011,Washington Nationals,Doug Slaten,activated,15,FALSE,NA
+2011-09-01,New York Mets transferred 1B Daniel Murphy from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,New York Mets,Daniel Murphy,transferred,60,FALSE,NA
+2011-09-01,Tampa Bay Rays activated LF Justin Ruggiano from the 15-day disabled list.,TRUE,2011,Tampa Bay Rays,Justin Ruggiano,activated,15,FALSE,NA
+2011-09-01,New York Yankees placed CF Justin Maxwell on the 60-day disabled list.,TRUE,2011,New York Yankees,Justin Maxwell,placed,60,FALSE,NA
+2011-09-01,Seattle Mariners activated C Chris Gimenez from the 60-day disabled list.,TRUE,2011,Seattle Mariners,Chris Gimenez,activated,60,FALSE,NA
+2011-09-01,New York Mets transferred RHP Taylor Buchholz from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,New York Mets,Taylor Buchholz,transferred,60,FALSE,NA
+2011-09-02,Chicago White Sox activated C A.J. Pierzynski from the 15-day disabled list.,TRUE,2011,Chicago White Sox,A.J. Pierzynski,activated,15,FALSE,NA
+2011-09-02,Oakland Athletics placed 1B Daric Barton on the 60-day disabled list.,TRUE,2011,Oakland Athletics,Daric Barton,placed,60,FALSE,NA
+2011-09-02,Tampa Bay Rays activated C Jose Lobaton from the 15-day disabled list.,TRUE,2011,Tampa Bay Rays,Jose Lobaton,activated,15,FALSE,NA
+2011-09-02,Boston Red Sox activated 3B Kevin Youkilis from the 15-day disabled list.,TRUE,2011,Boston Red Sox,Kevin Youkilis,activated,15,FALSE,NA
+2011-09-02,St. Louis Cardinals transferred RHP Lance Lynn from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,St. Louis Cardinals,Lance Lynn,transferred,60,FALSE,NA
+2011-09-02,Colorado Rockies activated LF Ryan Spilborghs from the 15-day disabled list.,TRUE,2011,Colorado Rockies,Ryan Spilborghs,activated,15,FALSE,NA
+2011-09-03,Chicago White Sox activated RHP Philip Humber from the 15-day disabled list.,TRUE,2011,Chicago White Sox,Philip Humber,activated,15,FALSE,NA
+2011-09-03,Pittsburgh Pirates activated 1B Derrek Lee from the 15-day disabled list.,TRUE,2011,Pittsburgh Pirates,Derrek Lee,activated,15,FALSE,NA
+2011-09-03,Washington Nationals activated C Ivan Rodriguez from the 15-day disabled list.,TRUE,2011,Washington Nationals,Ivan Rodriguez,activated,15,FALSE,NA
+2011-09-03,Washington Nationals transferred 1B Adam LaRoche from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Washington Nationals,Adam LaRoche,transferred,60,FALSE,NA
+2011-09-04,Atlanta Braves activated RHP Peter Moylan from the 60-day disabled list.,TRUE,2011,Atlanta Braves,Peter Moylan,activated,60,FALSE,NA
+2011-09-04,Atlanta Braves transferred CF Nate McLouth from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Atlanta Braves,Nate McLouth,transferred,60,FALSE,NA
+2011-09-04,Minnesota Twins transferred RHP Nick Blackburn from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Minnesota Twins,Nick Blackburn,transferred,60,FALSE,NA
+2011-09-04,Seattle Mariners activated LF Chone Figgins from the 15-day disabled list.,TRUE,2011,Seattle Mariners,Chone Figgins,activated,15,FALSE,NA
+2011-09-05,Toronto Blue Jays activated RHP Dustin McGowan from the 60-day disabled list.,TRUE,2011,Toronto Blue Jays,Dustin McGowan,activated,60,FALSE,NA
+2011-09-05,San Diego Padres activated RF Chris Denorfia from the 15-day disabled list.,TRUE,2011,San Diego Padres,Chris Denorfia,activated,15,FALSE,NA
+2011-09-05,Florida Marlins transferred LHP Randy Choate from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Florida Marlins,Randy Choate,transferred,60,FALSE,NA
+2011-09-05,Florida Marlins activated 3B Donnie Murphy from the 60-day disabled list.,TRUE,2011,Florida Marlins,Donnie Murphy,activated,60,FALSE,NA
+2011-09-05,Chicago White Sox transferred RHP Ramon Pena from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Chicago White Sox,Ramon Pena,transferred,60,FALSE,NA
+2011-09-06,Florida Marlins transferred SS Hanley Ramirez from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Florida Marlins,Hanley Ramirez,transferred,60,FALSE,NA
+2011-09-06,Washington Nationals activated RHP Stephen Strasburg from the 60-day disabled list.,TRUE,2011,Washington Nationals,Stephen Strasburg,activated,60,FALSE,NA
+2011-09-06,Baltimore Orioles activated 1B Chris Davis from the 15-day disabled list.,TRUE,2011,Baltimore Orioles,Chris Davis,activated,15,FALSE,NA
+2011-09-06,Cleveland Indians transferred RHP Carlos Carrasco from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Cleveland Indians,Carlos Carrasco,transferred,60,FALSE,NA
+2011-09-06,Cleveland Indians activated 2B Jason Kipnis from the 15-day disabled list.,TRUE,2011,Cleveland Indians,Jason Kipnis,activated,15,FALSE,NA
+2011-09-06,Pittsburgh Pirates transferred RHP Kevin Correia from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Pittsburgh Pirates,Kevin Correia,transferred,60,FALSE,NA
+2011-09-06,Pittsburgh Pirates transferred LHP Paul Maholm from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Pittsburgh Pirates,Paul Maholm,transferred,60,FALSE,NA
+2011-09-06,New York Yankees activated SS Ramiro Pena from the 15-day disabled list.,TRUE,2011,New York Yankees,Ramiro Pena,activated,15,FALSE,NA
+2011-09-06,Colorado Rockies placed 2B Jonathan Herrera on the 60-day disabled list.,TRUE,2011,Colorado Rockies,Jonathan Herrera,placed,60,FALSE,NA
+2011-09-06,Houston Astros activated LHP Sergio Escalona from the 15-day disabled list.,TRUE,2011,Houston Astros,Sergio Escalona,activated,15,FALSE,NA
+2011-09-06,Los Angeles Dodgers transferred RHP Vicente Padilla from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Los Angeles Dodgers,Vicente Padilla,transferred,60,FALSE,NA
+2011-09-06,Seattle Mariners placed CF Franklin Gutierrez on the 60-day disabled list.,TRUE,2011,Seattle Mariners,Franklin Gutierrez,placed,60,FALSE,NA
+2011-09-06,New York Mets transferred 1B Ike Davis from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,New York Mets,Ike Davis,transferred,60,FALSE,NA
+2011-09-07,Toronto Blue Jays transferred CF Rajai Davis from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Toronto Blue Jays,Rajai Davis,transferred,60,FALSE,NA
+2011-09-07,Pittsburgh Pirates activated LF Ryan Ludwick from the 15-day disabled list.,TRUE,2011,Pittsburgh Pirates,Ryan Ludwick,activated,15,FALSE,NA
+2011-09-08,Milwaukee Brewers activated 2B Rickie Weeks from the 15-day disabled list.,TRUE,2011,Milwaukee Brewers,Rickie Weeks,activated,15,FALSE,NA
+2011-09-08,Philadelphia Phillies activated SS Jimmy Rollins from the 15-day disabled list.,TRUE,2011,Philadelphia Phillies,Jimmy Rollins,activated,15,FALSE,NA
+2011-09-08,Seattle Mariners activated RHP Dan Cortes from the 15-day disabled list.,TRUE,2011,Seattle Mariners,Dan Cortes,activated,15,FALSE,NA
+2011-09-09,Detroit Tigers placed LF Brennan Boesch on the 15-day disabled list.,TRUE,2011,Detroit Tigers,Brennan Boesch,placed,15,FALSE,NA
+2011-09-09,Chicago White Sox placed RF Brent Lillibridge on the 15-day disabled list.,TRUE,2011,Chicago White Sox,Brent Lillibridge,placed,15,FALSE,NA
+2011-09-11,Houston Astros placed LHP Sergio Escalona on the 60-day disabled list.,TRUE,2011,Houston Astros,Sergio Escalona,placed,60,FALSE,NA
+2011-09-11,Colorado Rockies placed LF Ryan Spilborghs on the 60-day disabled list. plantar fasciitis in right foot,TRUE,2011,Colorado Rockies,Ryan Spilborghs,placed,60,FALSE,NA
+2011-09-12,"Toronto Blue Jays placed RHP Jon Rauch on the 15-day disabled list retroactive to September 5, 2011. right knee cartilage tear",TRUE,2011,Toronto Blue Jays,Jon Rauch,placed,15,TRUE,2011-09-05
+2011-09-13,Texas Rangers activated RHP Darren O'Day from the 15-day disabled list.,TRUE,2011,Texas Rangers,Darren O'Day,activated,15,FALSE,NA
+2011-09-13,Boston Red Sox transferred RF J.D. Drew from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Boston Red Sox,J.D. Drew,transferred,60,FALSE,NA
+2011-09-13,St. Louis Cardinals activated RHP Eduardo Sanchez from the 60-day disabled list.,TRUE,2011,St. Louis Cardinals,Eduardo Sanchez,activated,60,FALSE,NA
+2011-09-13,"New York Yankees placed C Francisco Cervelli on the 15-day disabled list retroactive to September 9, 2011.",TRUE,2011,New York Yankees,Francisco Cervelli,placed,15,TRUE,2011-09-09
+2011-09-16,Toronto Blue Jays activated CF Colby Rasmus from the 15-day disabled list.,TRUE,2011,Toronto Blue Jays,Colby Rasmus,activated,15,FALSE,NA
+2011-09-19,San Diego Padres activated 3B Chase Headley from the 15-day disabled list.,TRUE,2011,San Diego Padres,Chase Headley,activated,15,FALSE,NA
+2011-09-20,Washington Nationals activated RHP Ryan Mattheus from the 15-day disabled list.,TRUE,2011,Washington Nationals,Ryan Mattheus,activated,15,FALSE,NA
+2011-09-20,"Toronto Blue Jays placed SS Yunel Escobar on the 15-day disabled list retroactive to September 11, 2011.",TRUE,2011,Toronto Blue Jays,Yunel Escobar,placed,15,TRUE,2011-09-11
+2011-09-20,"Cleveland Indians placed RF Shin-Soo Choo on the 15-day disabled list retroactive to September 16, 2011.",TRUE,2011,Cleveland Indians,Shin Soo Choo,placed,15,TRUE,2011-09-16
+2011-09-22,Toronto Blue Jays placed 3B Brett Lawrie on the 15-day disabled list.,TRUE,2011,Toronto Blue Jays,Brett Lawrie,placed,15,FALSE,NA
+2011-09-22,"Minnesota Twins placed 1B Justin Morneau on the 15-day disabled list retroactive to September 12, 2011.",TRUE,2011,Minnesota Twins,Justin Morneau,placed,15,TRUE,2011-09-12
+2011-09-22,"Minnesota Twins placed 2B Tsuyoshi Nishioka on the 15-day disabled list retroactive to September 12, 2011.",TRUE,2011,Minnesota Twins,Tsuyoshi Nishioka,placed,15,TRUE,2011-09-12
+2011-09-23,"Minnesota Twins placed C Joe Mauer on the 15-day disabled list retroactive to September 15, 2011.",TRUE,2011,Minnesota Twins,Joe Mauer,placed,15,TRUE,2011-09-15
+2011-09-24,Cleveland Indians transferred RF Shin-Soo Choo from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Cleveland Indians,Shin Soo Choo,transferred,60,FALSE,NA
+2011-09-25,Cleveland Indians transferred RHP Josh Tomlin from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Cleveland Indians,Josh Tomlin,transferred,60,FALSE,NA
+2011-09-25,Boston Red Sox placed LF Ryan Kalish on the 60-day disabled list.,TRUE,2011,Boston Red Sox,Ryan Kalish,placed,60,FALSE,NA
+2011-09-26,Atlanta Braves activated LHP George Sherrill from the 15-day disabled list.,TRUE,2011,Atlanta Braves,George Sherrill,activated,15,FALSE,NA
+2011-09-27,Oakland Athletics placed RHP Joey Devine on the 60-day disabled list. right rhomboid strain.,TRUE,2011,Oakland Athletics,Joey Devine,placed,60,FALSE,NA
+2011-09-27,Minnesota Twins transferred 2B Alexi Casilla from the 15-day disabled list to the 60-day disabled list.,TRUE,2011,Minnesota Twins,Alexi Casilla,transferred,60,FALSE,NA
+2011-09-28,Atlanta Braves placed RHP Peter Moylan on the 60-day disabled list.,TRUE,2011,Atlanta Braves,Peter Moylan,placed,60,FALSE,NA
+2011-09-28,Boston Red Sox activated RHP Clay Buchholz from the 60-day disabled list.,TRUE,2011,Boston Red Sox,Clay Buchholz,activated,60,FALSE,NA
+2011-09-28,Boston Red Sox placed 3B Kevin Youkilis on the 60-day disabled list. sports hernia/left hip bursitis,TRUE,2011,Boston Red Sox,Kevin Youkilis,placed,60,FALSE,NA
+2011-09-29,Baltimore Orioles activated SS Cesar Izturis from the 15-day disabled list.,TRUE,2011,Baltimore Orioles,Cesar Izturis,activated,15,FALSE,NA
+2011-09-29,Chicago Cubs activated RHP Marcos Mateo from the 15-day disabled list.,TRUE,2011,Chicago Cubs,Marcos Mateo,activated,15,FALSE,NA
+2011-09-29,Toronto Blue Jays activated 3B Brett Lawrie from the 15-day disabled list.,TRUE,2011,Toronto Blue Jays,Brett Lawrie,activated,15,FALSE,NA
+2011-09-30,Chicago White Sox activated C Ramon Castro from the 15-day disabled list.,TRUE,2011,Chicago White Sox,Ramon Castro,activated,15,FALSE,NA
+2011-09-30,Los Angeles Dodgers activated RHP Jonathan Broxton from the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Jonathan Broxton,activated,15,FALSE,NA
+2011-09-30,Los Angeles Dodgers activated RHP Rubby De La Rosa from the 15-day disabled list.,TRUE,2011,Los Angeles Dodgers,Rubby De La Rosa,activated,15,FALSE,NA
+2011-09-30,New York Mets activated RF Scott Hairston from the 15-day disabled list.,TRUE,2011,New York Mets,Scott Hairston,activated,15,FALSE,NA
+2011-09-30,New York Mets activated LHP Jon Niese from the 15-day disabled list.,TRUE,2011,New York Mets,Ted Cox,activated,15,FALSE,NA
+2011-10-03,Minnesota Twins activated C Joe Mauer from the 15-day disabled list.,TRUE,2011,Minnesota Twins,Joe Mauer,activated,15,FALSE,NA
+2011-10-09,St. Louis Cardinals activated RHP Lance Lynn from the 60-day disabled list.,TRUE,2011,St. Louis Cardinals,Lance Lynn,activated,60,FALSE,NA
+2011-10-11,Arizona Diamondbacks activated 1B Xavier Nady from the 15-day disabled list.,TRUE,2011,Arizona Diamondbacks,Xavier Nady,activated,15,FALSE,NA
+2011-10-12,New York Yankees activated RHP Joba Chamberlain from the 60-day disabled list.,TRUE,2011,New York Yankees,Joba Chamberlain,activated,60,FALSE,NA
+2011-10-12,New York Yankees activated CF Justin Maxwell from the 60-day disabled list.,TRUE,2011,New York Yankees,Justin Maxwell,activated,60,FALSE,NA
+2011-10-14,Minnesota Twins activated RHP Nick Blackburn from the 60-day disabled list.,TRUE,2011,Minnesota Twins,Nick Blackburn,activated,60,FALSE,NA
+2011-10-19,Philadelphia Phillies activated RHP Jose Contreras from the 60-day disabled list.,TRUE,2011,Philadelphia Phillies,Jose Contreras,activated,60,FALSE,NA
+2011-10-21,Detroit Tigers activated RF Brennan Boesch from the 15-day disabled list.,TRUE,2011,Detroit Tigers,Brennan Boesch,activated,15,FALSE,NA
+2011-10-21,Milwaukee Brewers activated RHP Brandon Kintzler from the 15-day disabled list.,TRUE,2011,Milwaukee Brewers,Brandon Kintzler,activated,15,FALSE,NA
+2011-10-24,New York Mets activated RHP Taylor Buchholz from the 60-day disabled list.,TRUE,2011,New York Mets,Taylor Buchholz,activated,60,FALSE,NA
+2011-10-24,New York Mets activated 2B Daniel Murphy from the 60-day disabled list.,TRUE,2011,New York Mets,Daniel Murphy,activated,60,FALSE,NA
+2011-10-24,New York Mets activated LHP Johan Santana from the 60-day disabled list.,TRUE,2011,New York Mets,Johan Santana,activated,60,FALSE,NA
+2011-10-25,Milwaukee Brewers activated LHP Manny Parra from the 60-day disabled list.,TRUE,2011,Milwaukee Brewers,Manny Parra,activated,60,FALSE,NA
+2011-10-27,New York Yankees activated LHP Pedro Feliciano from the 60-day disabled list.,TRUE,2011,New York Yankees,Pedro Feliciano,activated,60,FALSE,NA
+2011-10-28,San Diego Padres activated RHP Dustin Moseley from the 60-day disabled list.,TRUE,2011,San Diego Padres,Dustin Moseley,activated,60,FALSE,NA
+2011-10-28,San Diego Padres activated LHP Clayton Richard from the 60-day disabled list.,TRUE,2011,San Diego Padres,Clayton Richard,activated,60,FALSE,NA
+2011-10-31,Seattle Mariners activated CF Franklin Gutierrez from the 60-day disabled list.,TRUE,2011,Seattle Mariners,Franklin Gutierrez,activated,60,FALSE,NA
+2011-10-31,Seattle Mariners activated C Adam Moore from the 60-day disabled list.,TRUE,2011,Seattle Mariners,Adam Moore,activated,60,FALSE,NA
+2011-10-31,Boston Red Sox activated LHP Rich Hill from the 60-day disabled list.,TRUE,2011,Boston Red Sox,Rich Hill,activated,60,FALSE,NA
+2011-10-31,Boston Red Sox activated RHP Bobby Jenks from the 60-day disabled list.,TRUE,2011,Boston Red Sox,Bobby Jenks,activated,60,FALSE,NA
+2011-10-31,Boston Red Sox activated LF Ryan Kalish from the 60-day disabled list.,TRUE,2011,Boston Red Sox,Ryan Kalish,activated,60,FALSE,NA
+2011-10-31,Boston Red Sox activated RHP Daisuke Matsuzaka from the 60-day disabled list.,TRUE,2011,Boston Red Sox,Daisuke Matsuzaka,activated,60,FALSE,NA
+2011-10-31,Colorado Rockies activated CF Charlie Blackmon from the 60-day disabled list.,TRUE,2011,Colorado Rockies,Charlie Blackmon,activated,60,FALSE,NA
+2011-10-31,Colorado Rockies activated LHP Jorge De La Rosa from the 60-day disabled list.,TRUE,2011,Colorado Rockies,Jorge De La Rosa,activated,60,FALSE,NA
+2011-10-31,Colorado Rockies activated 2B Jonathan Herrera from the 60-day disabled list.,TRUE,2011,Colorado Rockies,Jonathan Herrera,activated,60,FALSE,NA
+2011-10-31,Colorado Rockies activated RHP Juan Nicasio from the 60-day disabled list.,TRUE,2011,Colorado Rockies,Juan Nicasio,activated,60,FALSE,NA
+2011-10-31,Colorado Rockies activated LF Ryan Spilborghs from the 60-day disabled list.,TRUE,2011,Colorado Rockies,Ryan Spilborghs,activated,60,FALSE,NA
+2011-10-31,Arizona Diamondbacks activated SS Stephen Drew from the 60-day disabled list.,TRUE,2011,Arizona Diamondbacks,Stephen Drew,activated,60,FALSE,NA
+2011-10-31,Houston Astros activated C Jason Castro from the 60-day disabled list.,TRUE,2011,Houston Astros,Jason Castro,activated,60,FALSE,NA
+2011-10-31,Houston Astros activated LHP Sergio Escalona from the 60-day disabled list.,TRUE,2011,Houston Astros,Sergio Escalona,activated,60,FALSE,NA
+2011-10-31,San Francisco Giants activated C Buster Posey from the 60-day disabled list.,TRUE,2011,San Francisco Giants,Buster Posey,activated,60,FALSE,NA
+2011-10-31,San Francisco Giants activated 2B Freddy Sanchez from the 60-day disabled list.,TRUE,2011,San Francisco Giants,Freddy Sanchez,activated,60,FALSE,NA
+2011-10-31,Washington Nationals activated 1B Adam LaRoche from the 60-day disabled list.,TRUE,2011,Washington Nationals,Adam LaRoche,activated,60,FALSE,NA
+2011-11-01,New York Yankees activated LF Colin Curtis from the 60-day disabled list.,TRUE,2011,New York Yankees,Colin Curtis,activated,60,FALSE,NA
+2011-11-01,Pittsburgh Pirates activated RHP Kevin Correia from the 60-day disabled list.,TRUE,2011,Pittsburgh Pirates,Kevin Correia,activated,60,FALSE,NA
+2011-11-01,St. Louis Cardinals activated RHP Adam Wainwright from the 60-day disabled list.,TRUE,2011,St. Louis Cardinals,Adam Wainwright,activated,60,FALSE,NA
+2011-11-01,Toronto Blue Jays activated RF Rajai Davis from the 60-day disabled list.,TRUE,2011,Toronto Blue Jays,Rajai Davis,activated,60,FALSE,NA
+2011-11-02,Cleveland Indians activated LF Michael Brantley from the 60-day disabled list.,TRUE,2011,Cleveland Indians,Michael Brantley,activated,60,FALSE,NA
+2011-11-02,Cleveland Indians activated RHP Carlos Carrasco from the 60-day disabled list.,TRUE,2011,Cleveland Indians,Carlos Carrasco,activated,60,FALSE,NA
+2011-11-02,Cleveland Indians activated RHP Josh Tomlin from the 60-day disabled list.,TRUE,2011,Cleveland Indians,Josh Tomlin,activated,60,FALSE,NA
+2011-11-02,Oakland Athletics activated LHP Brett Anderson from the 60-day disabled list.,TRUE,2011,Oakland Athletics,Brett Anderson,activated,60,FALSE,NA
+2011-11-02,Oakland Athletics activated LHP Dallas Braden from the 60-day disabled list.,TRUE,2011,Oakland Athletics,Dallas Braden,activated,60,FALSE,NA
+2011-11-02,Oakland Athletics activated 1B Daric Barton from the 60-day disabled list.,TRUE,2011,Oakland Athletics,Daric Barton,activated,60,FALSE,NA
+2011-11-02,Oakland Athletics activated RHP Joey Devine from the 60-day disabled list.,TRUE,2011,Oakland Athletics,Joey Devine,activated,60,FALSE,NA
+2011-11-02,Cincinnati Reds activated SS Zack Cozart from the 60-day disabled list.,TRUE,2011,Cincinnati Reds,Zack Cozart,activated,60,FALSE,NA
+2011-11-30,Chicago Cubs placed CF David DeJesus on the 15-day disabled list.,TRUE,2011,Chicago Cubs,David DeJesus,placed,15,FALSE,NA

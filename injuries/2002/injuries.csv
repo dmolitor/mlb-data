@@ -1,0 +1,616 @@
+date,transaction,injured,year,team,player,type,length,is_retroactive,date_retroactive
+2002-03-11,"Placed RHP Steve Green on DL while recovering from ""Tommy John"" surgery",TRUE,2002,Anaheim Angels,Steve Green,placed,NA,FALSE,NA
+2002-03-12,Colorado Rockies Scott Elarton: Placed P Scott Elarton on the 60-day DL,TRUE,2002,Colorado Rockies,Scott Elarton,placed,60,FALSE,NA
+2002-03-19,Tampa Bay Devil Rays Kevin McGlinchy: Placed RHP Kevin McGlinchy on the 60-day disabled list.,TRUE,2002,Tampa Bay Devil Rays,Kevin McGlinchy,placed,60,FALSE,NA
+2002-03-20,New York Mets Placed left-handed pitcher John Franco on the 15-day disabled list with tendonitis in his left elbow.,TRUE,2002,New York Mets,John Franco,placed,15,FALSE,NA
+2002-03-22,Boston Red Sox Placed INF Calvin Pickering on the 15-day DL with a torn right quadriceps tendon,TRUE,2002,Boston Red Sox,Calvin Pickering,placed,15,FALSE,NA
+2002-03-22,placed RHP Paxton Crawford on the 15-day DL recovering from right shoulder surgery,TRUE,2002,Boston Red Sox,Paxton Crawford,placed,15,FALSE,NA
+2002-03-22,placed LHP Jeff Wallace on the 15-day DL with left elbow soreness.,TRUE,2002,Boston Red Sox,Jeff Wallace,placed,15,FALSE,NA
+2002-03-22,Seth Etherton: The Reds today placed RHP Seth Etherton on the 60-day disabled list.,TRUE,2002,Cincinnati Reds,Seth Etherton,placed,60,FALSE,NA
+2002-03-22,Houston Astros Right-handed relievers Doug Brocail and Hipolito Pichardo were placed on the 15-Day DL.,TRUE,2002,Houston Astros,Doug Brocail,placed,15,FALSE,NA
+2002-03-22,Montreal Expos Placed INF Fernando Tatis on the 15-day disabled list (recovering from left knee surgery) and RHP Troy Mattes on the 15-day disabled list (right shoulder rotator cuff tendonitis).,TRUE,2002,Montreal Expos,Fernando Tatis,placed,15,FALSE,NA
+2002-03-23,Toronto Blue Jays Placed RHP Steve Parris (right shoulder) and RHP Esteban Loaiza (right shoulder) on the 15-day DL.,TRUE,2002,Toronto Blue Jays,Steve Parris,placed,15,FALSE,NA
+2002-03-25,Placed Dennis Cook (LHP) on 15-day DL (retro to March 22) for recovery from a contusion to his left rib cage.,TRUE,2002,Anaheim Angels,Dennis Cook,placed,15,FALSE,NA
+2002-03-26,"Boston Red Sox Placed RHP John Burkett on the 15-day DL with right shoulder inflammation, retroactive to 3/21",TRUE,2002,Boston Red Sox,John Burkett,placed,15,TRUE,2002-03-21
+2002-03-26,"placed OF Michael Coleman on the 15-day DL with a strained right hamstring, retroactive to 3/25.",TRUE,2002,Boston Red Sox,Michael Coleman,placed,15,TRUE,2002-03-25
+2002-03-27,placed LHP Scott Down on the 60-day disabled list (recovering from elbow reconstruction surgery),TRUE,2002,Montreal Expos,Scott Downs,placed,60,FALSE,NA
+2002-03-27,"Philadelphia Phillies Placed LHP Randy Wolf on the 15-day DL, effective 3/25.",TRUE,2002,Philadelphia Phillies,Randy Wolf,placed,15,FALSE,NA
+2002-03-27,Placed RHP Turk Wendell on the 60-day DL.,TRUE,2002,Philadelphia Phillies,Turk Wendell,placed,60,FALSE,NA
+2002-03-27,Jeff Zimmerman: Placed RHP Jeff Zimmerman on the 15-day disabled list retroactive to March 22.,TRUE,2002,Texas Rangers,Jeff Zimmerman,placed,15,TRUE,2002-03-22
+2002-03-27,Toronto Blue Jays Placed RHP Bob File on the 15-day DL (left rib cage)...He remains in Florida and will work out at the extended spring camp.,TRUE,2002,Toronto Blue Jays,Bob File,placed,15,FALSE,NA
+2002-03-28,Cleveland Indians Jolbert Cabrera: The Indians placed INF/OF JOLBERT CABRERA on the 15-day Major League disabled list.,TRUE,2002,Cleveland Indians,Jolbert Cabrera,placed,15,FALSE,NA
+2002-03-28,Minnesota Twins Mike Duvall: Placed LHP Mike Duvall on the 60-day disabled list with a left elbow sprain.,TRUE,2002,Minnesota Twins,Mike Duvall,placed,60,FALSE,NA
+2002-03-28,Placed pitchers Kevin Walker and Adam Eaton on the 60-day DL.,TRUE,2002,San Diego Padres,Kevin Walker,placed,60,FALSE,NA
+2002-03-28,Placed pitcher Tom Davey on the 15-day DL.,TRUE,2002,San Diego Padres,Tom Davey,placed,15,FALSE,NA
+2002-03-29,Placed OF Luis Matos (left hamate surgery) and RHP Luis Rivera (right shoulder inflammation) on the 15-day disabled list.,TRUE,2002,Baltimore Orioles,Luis Matos,placed,15,FALSE,NA
+2002-03-29,Florida Marlins Placed C Charles Johnson (left thumb ligament sprain) and LHP Benito Baez (left elbow ligament sprain) on disabled list (retroactive to 3/22),TRUE,2002,Florida Marlins,Charles Johnson,placed,NA,TRUE,2002-03-22
+2002-03-29,Pittsburgh Pirates Placed RHP Kris Benson on the 15-day disabled list (recovering from reconstructive elbow surgery from 5/22/01),TRUE,2002,Pittsburgh Pirates,Kris Benson,placed,15,FALSE,NA
+2002-03-29,Placed OF Chad Hermansen on the 15-day disabled list with a strained left gluteus muscle.,TRUE,2002,Pittsburgh Pirates,Chad Hermansen,placed,15,FALSE,NA
+2002-03-29,Texas Rangers Jovanny Cedeno: Placed RHP Jovanny Cedeno on the 60-day disabled list with right shoulder problems.,TRUE,2002,Texas Rangers,Ronny Cedeno,placed,60,FALSE,NA
+2002-03-30,Atlanta Braves Placed OF Cory Aldridge on the 60-Day DL.,TRUE,2002,Atlanta Braves,Cory Aldridge,placed,60,FALSE,NA
+2002-03-30,Placed IF Nick Green on the 15-Day DL.,TRUE,2002,Atlanta Braves,Nick Green,placed,15,FALSE,NA
+2002-03-30,Placed RHP Derrick Lewis on the 15-Day DL.,TRUE,2002,Atlanta Braves,Na Lewis,placed,15,FALSE,NA
+2002-03-30,Placed OF George Lombard on the 15-Day DL.,TRUE,2002,Atlanta Braves,George Lombard,placed,15,FALSE,NA
+2002-03-30,Placed OF Dave Martinez on the 60-Day DL.,TRUE,2002,Atlanta Braves,Dave Martinez,placed,60,FALSE,NA
+2002-03-30,Placed LHP Horacio Ramirez on the 15-Day DL.,TRUE,2002,Atlanta Braves,Horacio Ramirez,placed,15,FALSE,NA
+2002-03-30,Chris Richard: Placed OF Chris Richard (left shoulder surgery) on the 15-day DL.,TRUE,2002,Baltimore Orioles,Chris Richard,placed,15,FALSE,NA
+2002-03-30,John Parrish: Placed LHP John Parrish (torn right anterior cruciate ligament) on the 60-day disabled list.,TRUE,2002,Baltimore Orioles,John Parrish,placed,60,FALSE,NA
+2002-03-30,Pat Hentgen: Placed RHP Pat Hentgen (ligament replacement surgery) on 60-day disabled list.,TRUE,2002,Baltimore Orioles,Pat Hentgen,placed,60,FALSE,NA
+2002-03-30,"In order to make room on the major league 40-man roster, the Cubs have transferred pitcher Flash Gordon to the 60-day disabled list.",TRUE,2002,Chicago Cubs,Ed Biecher,transferred,60,FALSE,NA
+2002-03-30,Cleveland Indians Alex Escobar: The Indians placed OF ALEX ESCOBAR on the 15-day Major League disabled list.,TRUE,2002,Cleveland Indians,Alex Escobar,placed,15,FALSE,NA
+2002-03-30,Jake Westbrook: The Indians placed RHP JAKE WESTBROOK on the 15-day Major League disabled list.,TRUE,2002,Cleveland Indians,Jake Westbrook,placed,15,FALSE,NA
+2002-03-30,Jaret Wright: The Indians placed RHP JARET WRIGHT on the 15-day Major League disabled list.,TRUE,2002,Cleveland Indians,Jaret Wright,placed,15,FALSE,NA
+2002-03-30,Eddie Taubensee: The Indians also placed CA EDDIE TAUBENSEE on the 15-day Major League disabled list.,TRUE,2002,Cleveland Indians,Ed Cole,placed,15,FALSE,NA
+2002-03-30,Armando Almanza: Placed LHP Armando Almanza on disabled list (left elbow triceps tendinitis),TRUE,2002,Florida Marlins,Armando Almanza,placed,NA,FALSE,NA
+2002-03-30,"Placed four players on the 15-day disabled list: IF Luis Lopez (strained right quadriceps) and RHP Chad Fox (sprained ulnar collateral ligament and strained flexor tendon near his right elbow), RHP Curtis Leskanic (recovering from off-season shoulder surgery) and RHP Paul Rigdon (right shoulder strain).",TRUE,2002,Milwaukee Brewers,Luis Lopez,placed,15,FALSE,NA
+2002-03-30,"Rigdon''s DL assignment was retroactive to Thursday, March 28.",TRUE,2002,Milwaukee Brewers,Tom Hurd,placed,NA,TRUE,2002-03-28
+2002-03-30,Placed OF Jermaine Dye and INF Mario Valdez on the 15-day disabled list.,TRUE,2002,Oakland Athletics,Jermaine Dye,placed,15,FALSE,NA
+2002-03-30,Pittsburgh Pirates Placed IF Pat Meares on the 15-day disabled list with an injured left hand,TRUE,2002,Pittsburgh Pirates,Pat Meares,placed,15,FALSE,NA
+2002-03-30,Placed RHP Ryan Vogelsong on the 60-day disabled list (recovering from reconstructive elbow surgery from 9/20/01),TRUE,2002,Pittsburgh Pirates,Ryan Vogelsong,placed,60,FALSE,NA
+2002-03-30,"San Francisco Giants Placed 2B Jeff Kent on the 15-day disabled list with a fractured left wrist, retroactive to March 21",TRUE,2002,San Francisco Giants,Jeff Kent,placed,15,TRUE,2002-03-21
+2002-03-30,"placed RHP Jason Schmidt on the 15-day disabled list with a strained right groin, retroactive to March 21.",TRUE,2002,San Francisco Giants,Jason Schmidt,placed,15,TRUE,2002-03-21
+2002-03-30,"Tampa Bay Devil Rays Russ Johnson: The Tampa Bay Devil Rays have placed INF Russ Johnson on the 15-day disabled list, retroactive to March 28, with a strained plantar fascia tendon of the right foot.",TRUE,2002,Tampa Bay Devil Rays,Russ Johnson,placed,15,TRUE,2002-03-28
+2002-03-30,"Jay Powell: Placed RHP Jay Powell on the 15-day disabled list, retroactive to March 22, with tendinitis in his right middle finger.",TRUE,2002,Texas Rangers,Jay Powell,placed,15,TRUE,2002-03-22
+2002-03-31,Marty Cordova: Placed OF Marty Cordova on the 15-day disabled list (grade 2 strain of the right quadriceps muscle).,TRUE,2002,Baltimore Orioles,Marty Cordova,placed,15,FALSE,NA
+2002-03-31,Toronto Blue Jays Placed Mike Sirotka on the 60-day DL (left shoulder).,TRUE,2002,Toronto Blue Jays,Mike Sirotka,placed,60,FALSE,NA
+2002-04-03,OF Chris Richard transferred to 60-day disabled list.,TRUE,2002,Baltimore Orioles,Chris Richard,transferred,60,FALSE,NA
+2002-04-05,"Atlanta Braves Greg Maddux: Placed RHP Greg Maddux on the 15-Day DL, retroactive to March 26, (inflamed nerves in lower back)",TRUE,2002,Atlanta Braves,Greg Maddux,placed,15,TRUE,2002-03-26
+2002-04-05,"Chicago Cubs Cubs place OF Moises Alou on 15-day disabled list, retroactive to March 31.",TRUE,2002,Chicago Cubs,Moises Alou,placed,15,TRUE,2002-03-31
+2002-04-05,"Milwaukee Brewers Ray King: Placed RHP Ray King on the 15-day disabled list, retroactive to April 4, with inflammation in his left elbow.",TRUE,2002,Milwaukee Brewers,Ray King,placed,15,TRUE,2002-04-04
+2002-04-05,"San Diego Padres Placed catcher Wiki Gonzalez on the 15-Day Disabled List, retroactive to April 4, with a fractured left hook of hamate and recalled catcher Javier Cardona from Triple-A Portland.",TRUE,2002,San Diego Padres,Wiki Gonzalez,placed,15,TRUE,2002-04-04
+2002-04-05,Toronto Blue Jays Placed RHP Chris Carpenter on the 15 day DL retroactive to April 2.,TRUE,2002,Toronto Blue Jays,Chris Carpenter,placed,15,TRUE,2002-04-02
+2002-04-06,Transferred Steve Green (RHP) to 60-day DL.,TRUE,2002,Anaheim Angels,Steve Green,transferred,60,FALSE,NA
+2002-04-06,"Minnesota Twins Brian Buchanan: Placed OF Brian Buchanan on the 15-day disabled list, retroactive to April 4, with a sore back.",TRUE,2002,Minnesota Twins,Brian Buchanan,placed,15,TRUE,2002-04-04
+2002-04-06,"Luis Rivas: Placed 2B Luis Rivas on the 15-day disabled list, retroactive to April 4, with a fractured left wrist.",TRUE,2002,Minnesota Twins,Luis Rivas,placed,15,TRUE,2002-04-04
+2002-04-06,San Francisco Giants Activated 2B Jeff Kent from the 15-day disabled list,TRUE,2002,San Francisco Giants,Jeff Kent,activated,15,FALSE,NA
+2002-04-06,placed 1B Damon Minor on the 15-day disabled list with left patella tendinitis.,TRUE,2002,San Francisco Giants,Damon Minor,placed,15,FALSE,NA
+2002-04-06,Texas Rangers Rich Rodriguez: Placed LHP Rich Rodriguez on the 15-day disabled list.,TRUE,2002,Texas Rangers,Rich Rodriguez,placed,15,FALSE,NA
+2002-04-07,Baltimore Orioles RHP Calvin Maduro activated from disabled list.,TRUE,2002,Baltimore Orioles,Calvin Maduro,activated,NA,FALSE,NA
+2002-04-07,Cincinnati placed the center fielder on the 15-day disabled list.,TRUE,2002,Cincinnati Reds,Nate Field,placed,15,FALSE,NA
+2002-04-07,Dean Palmer: Activated Dean Palmer from the 15-day disabled list,TRUE,2002,Detroit Tigers,Dean Palmer,activated,15,FALSE,NA
+2002-04-07,Ramiro Mendoza: Reinstated RHP Ramiro Mendoza from the 15-day disabled list,TRUE,2002,New York Yankees,Ramiro Mendoza,activated,15,FALSE,NA
+2002-04-08,"Boston Red Sox Placed RHP Dustin Hermanson on the 15-day DL with a right groin strain, retroactive to 4/4",TRUE,2002,Boston Red Sox,Dustin Hermanson,placed,15,TRUE,NA
+2002-04-08,Charles Johnson: Activated C Charles Johnson from 15-day disabled list.,TRUE,2002,Florida Marlins,Charles Johnson,activated,15,FALSE,NA
+2002-04-08,New York Mets Placed 1B Mo Vaughn on the 15-day disabled list with a small non-displaced fracture of the fifth metacarpal on his right hand.,TRUE,2002,New York Mets,Mo Vaughn,placed,15,FALSE,NA
+2002-04-08,Oakland Athletics Placed INF Randy Velarde on 15-day DL with a fractured left hand.,TRUE,2002,Oakland Athletics,Randy Velarde,placed,15,FALSE,NA
+2002-04-09,Atlanta Braves Placed RHP Albie Lopez on the 15-Day DL retroactive to April 8 (strained right groin).,TRUE,2002,Atlanta Braves,Albie Lopez,placed,15,TRUE,2002-04-08
+2002-04-09,Texas Rangers Rich Rodriguez: Transferred LHP Rich Rodriguez from the 15 to the 60-day disabled list.,TRUE,2002,Texas Rangers,Rich Rodriguez,transferred,60,FALSE,NA
+2002-04-11,Chicago Cubs Cubs place RHP Kyle Farnsworth on 15-day disabled list retroactive to April 10 with stress fracture in right foot.,TRUE,2002,Chicago Cubs,Kyle Farnsworth,placed,15,TRUE,2002-04-10
+2002-04-11,Kelly Stinnett: C Kelly Stinnett injured his right elbow and has been placed on the 15-day DL.,TRUE,2002,Cincinnati Reds,Kelly Stinnett,placed,15,FALSE,NA
+2002-04-11,"Milwaukee Brewers Placed RHP Jamey Wright on the 15-Day DL, retroactive to April 5, with right shoulder rotator cuff tendinitis.",TRUE,2002,Milwaukee Brewers,Jamey Wright,placed,15,TRUE,2002-04-05
+2002-04-11,Texas Rangers Juan Gonzalez: Placed OF Juan Gonzalez on the 15-day disabled list with a right hand injury.,TRUE,2002,Texas Rangers,Juan Gonzalez,placed,15,FALSE,NA
+2002-04-12,Atlanta Braves Activated RHP Greg Maddux from the 15-Day DL.,TRUE,2002,Atlanta Braves,Greg Maddux,activated,15,FALSE,NA
+2002-04-12,Marty Cordova: Activated OF Marty Cordova from 15-day disabled list.,TRUE,2002,Baltimore Orioles,Marty Cordova,activated,15,FALSE,NA
+2002-04-12,Philadelphia Phillies Activated LHP Randy Wolf from the 15-day disabled list.,TRUE,2002,Philadelphia Phillies,Randy Wolf,activated,15,FALSE,NA
+2002-04-12,Placed INF/OF Dave Hollins on the 15-day DL with lesions on his leg from a spider bite.,TRUE,2002,Philadelphia Phillies,Dave Hollins,placed,15,FALSE,NA
+2002-04-12,Seattle Mariners Edgar Martinez: DH Edgar Martinez placed on the 15-day DL with pulled left hamstring.,TRUE,2002,Seattle Mariners,Edgar Martinez,placed,15,FALSE,NA
+2002-04-13,Kansas City Royals Optioned right-handed pitcher Chad Durbin to Triple-A Omaha and activated left-handed pitcher Darrell May from the 15-day disabled list.,TRUE,2002,Kansas City Royals,Chad Durbin,activated,15,FALSE,NA
+2002-04-15,"Wade Miller: Wade Miller, RHP, was placed on the 15-day Disabled List retroactive to 4/13.",TRUE,2002,Houston Astros,Wade Miller,placed,15,TRUE,2002-04-13
+2002-04-15,Tampa Bay Devil Rays Bobby Seay: Rays LHP Bobby Seay (left shoulder tendonitis) has been transferred from the 15 to the 60-day DL.,TRUE,2002,Tampa Bay Devil Rays,Bobby Seay,transferred,60,FALSE,NA
+2002-04-15,Wilson Alvarez: The Devil Rays have placed LHP Wilson Alvarez on the 15-day DL with a strained rib cage muscle.,TRUE,2002,Tampa Bay Devil Rays,Wilson Alvarez,placed,15,FALSE,NA
+2002-04-15,Russ Johnson: The Devil Rays have reinstated infielder Russ Johnson from the 15-day DL.,TRUE,2002,Tampa Bay Devil Rays,Russ Johnson,activated,15,FALSE,NA
+2002-04-16,RHP Chris Brock placed on 15-day disabled list (inflammation of right shoulder).,TRUE,2002,Baltimore Orioles,Chris Brock,placed,15,FALSE,NA
+2002-04-16,Kansas City Royals Placed left-hander Darrell May on the 15-day DL after he reaggravated his strained left groin on Sat.,TRUE,2002,Kansas City Royals,Darrell May,placed,15,FALSE,NA
+2002-04-16,New York Mets Placed RHP Satoru Komiyama on the 15-day disabled list with a laceration on his right index finger.,TRUE,2002,New York Mets,Satoru Komiyama,placed,15,FALSE,NA
+2002-04-16,Philadelphia Phillies Activated INF Tomas Perez from the 15-day DL.,TRUE,2002,Philadelphia Phillies,Tomas Perez,activated,15,FALSE,NA
+2002-04-16,Toronto Blue Jays Activated RHP Bob File off the 15-day DL.,TRUE,2002,Toronto Blue Jays,Bob File,activated,15,FALSE,NA
+2002-04-17,Julian Tavarez: Placed RHP Julian Tavarez on the 15-day disabled list (right shoulder strain).,TRUE,2002,Florida Marlins,Julian Tavarez,placed,15,FALSE,NA
+2002-04-17,Pitcher Mark Mulder placed on the 15-day DL with a left forearm strain.,TRUE,2002,Oakland Athletics,Mark Mulder,placed,15,FALSE,NA
+2002-04-18,Anaheim Angels Activated Troy Percival (RHP) from 15-day disabled list.,TRUE,2002,Anaheim Angels,Troy Percival,activated,15,FALSE,NA
+2002-04-18,"Minnesota Twins RHP Joe Mays placed on the 15-day disabled list, retroactive to April 15, with inflammation in his right elbow.",TRUE,2002,Minnesota Twins,Joe Mays,placed,15,TRUE,2002-04-15
+2002-04-19,"Houston Astros Nelson Cruz: Nelson Cruz, RHP, was placed on the 15-day Disabled List.",TRUE,2002,Houston Astros,Nelson Cruz,placed,15,FALSE,NA
+2002-04-19,Ray King: Reinstated LHP Ray King from the 15-Day disabled list.,TRUE,2002,Milwaukee Brewers,Ray King,activated,15,FALSE,NA
+2002-04-19,Minnesota Twins Activated OF Brian Buchanan from 15-day disabled list.,TRUE,2002,Minnesota Twins,Brian Buchanan,activated,15,FALSE,NA
+2002-04-20,Boston Red Sox Returned RHP John Burkett from injury rehab assignment and reinstated him from the 15-day DL,TRUE,2002,Boston Red Sox,John Burkett,activated,15,FALSE,NA
+2002-04-20,"Los Angeles Dodgers Kevin Brown: Placed Kevin Brown (P) on the 15-day disabled list with a scar tissue tear in his right elbow, retroactive to April 14.",TRUE,2002,Los Angeles Dodgers,Kevin Brown,placed,15,TRUE,2002-04-14
+2002-04-20,San Francisco Giants Placed LHP Jason Christiansen on the 15-day disabled list (retroactive to April 18) with tendinitis in his left elbow,TRUE,2002,San Francisco Giants,Jason Christiansen,placed,15,TRUE,2002-04-18
+2002-04-20,Toronto Blue Jays Activated RHP Chris Carpenter from the 15-day DL.,TRUE,2002,Toronto Blue Jays,Chris Carpenter,activated,15,FALSE,NA
+2002-04-21,New York Mets Activated 1B Mo Vaughn from the 15-day disabled list.,TRUE,2002,New York Mets,Mo Vaughn,activated,15,FALSE,NA
+2002-04-21,"Andy Pettitte: Placed LHP Andy Pettitte on the 15-day disabled list, retroactive to April 16",TRUE,2002,New York Yankees,Andy Pettitte,placed,15,TRUE,2002-04-16
+2002-04-22,"Atlanta Braves Placed RHP Jason Marquis on the 15-Day DL, retroactive to April 15, (tendonitis in right shoulder).",TRUE,2002,Atlanta Braves,Jason Marquis,placed,15,TRUE,2002-04-15
+2002-04-22,"Detroit Tigers Julio Santana: Purchased the contract of righthander Julio Santana from Triple A Toledo, activated infielder Damian Jackson from the disabled list and placed catcher Mitch Meluskey on the 15-day disabled list retroactive to April 21 with low back pain secondary to spondylolisthesis.",TRUE,2002,Detroit Tigers,Julio Santana,activated,15,TRUE,2002-04-21
+2002-04-22,activated 1B Damon Minor from the 15-day disabled list.,TRUE,2002,San Francisco Giants,Damon Minor,activated,15,FALSE,NA
+2002-04-23,"Minnesota Twins Placed 1B/DH David Ortiz on 15-day DL, retroactive to April 19, with a swollen knee.",TRUE,2002,Minnesota Twins,David Ortiz,placed,15,TRUE,2002-04-19
+2002-04-23,Tampa Bay Devil Rays Tom Martin: The Rays today selected RHP Travis Harper from AAA Durham and placed LHP Tom Martin on the 60-day disabled list with a strain in his left rotator cuff.,TRUE,2002,Tampa Bay Devil Rays,Tom Martin,placed,60,FALSE,NA
+2002-04-23,Travis Harper: The Rays today selected RHP Travis Harper from AAA Durham and placed LHP Tom Martin on the 60-day disabled list with a strain in his left rotator cuff.,TRUE,2002,Tampa Bay Devil Rays,Travis Harper,placed,60,FALSE,NA
+2002-04-23,Texas Rangers Transferred RHP Jay Powell and RHP Jeff Zimmerman from the 15 to the 60-day disabled list.,TRUE,2002,Texas Rangers,Jay Powell,transferred,60,FALSE,NA
+2002-04-23,"Ivan Rodriguez: Placed C Ivan Rodriguez on the 15-day disabled list, retroactive to April 15, with a herniated disk in his back.",TRUE,2002,Texas Rangers,Ivan Rodriguez,placed,15,TRUE,2002-04-15
+2002-04-24,"Pittsburgh Pirates Placed IF Pokey Reese on the 15-day disabled list, retroactive to April 20, with a strained right hamstring and purchased the contract of IF Mendy Lopez from Triple-A Nashville.",TRUE,2002,Pittsburgh Pirates,Pokey Reese,placed,15,TRUE,2002-04-20
+2002-04-24,San Francisco Giants Activated RHP Jason Schmidt from the 15-day disabled list,TRUE,2002,San Francisco Giants,Jason Schmidt,activated,15,FALSE,NA
+2002-04-25,Baltimore Orioles RHP Jason Johnson placed on 15-day disabled list (chip fracture right middle finger).,TRUE,2002,Baltimore Orioles,Jason Johnson,placed,15,FALSE,NA
+2002-04-25,"Toronto Blue Jays Placed RHP Chris Carpenter on the 15-day DL (right shoulder), retroactive to April 22.",TRUE,2002,Toronto Blue Jays,Chris Carpenter,placed,15,TRUE,2002-04-22
+2002-04-26,Cincinnati Reds Lance Davis: LHP Lance Davis (left shoulder inflammation)was reinstated today from the 15-day disabled list and optioned to Double-A Chattanooga.,TRUE,2002,Cincinnati Reds,Lance Davis,activated,15,FALSE,NA
+2002-04-26,"San Diego Padres Placed right-handed pitcher Kevin Jarvis (flexor-tendon strain in right elbow, retroactive to April 18) and Ron Gant (fractured right-pinky finger, retroactive to April 24) on the 15-Day Disabled List and recalled right-handed pitcher Ben Howard from Double-A Mobile and infielder/outfielder Cesar Crespo from Triple-A Portland.",TRUE,2002,San Diego Padres,Kevin Jarvis,placed,15,TRUE,2002-04-18
+2002-04-26,Toronto Blue Jays Placed RHP Bob File on the 15 day DL (left oblique strain) retroactive to April 24.,TRUE,2002,Toronto Blue Jays,Bob File,placed,15,TRUE,2002-04-24
+2002-04-28,Atlanta Braves Activated RHP Albie Lopez from the 15-Day DL.,TRUE,2002,Atlanta Braves,Albie Lopez,activated,15,FALSE,NA
+2002-04-29,Anaheim Angels Placed Donne Wall (RHP) on 15-day disabled list with tightness in upper right arm.,TRUE,2002,Anaheim Angels,Donne Wall,placed,15,FALSE,NA
+2002-04-29,Montreal Expos Recalled INF Fernando Tatis from his injury rehab assignment with A-Brevard and reinstated him from the 15-day disabled list,TRUE,2002,Montreal Expos,Fernando Tatis,activated,15,FALSE,NA
+2002-04-29,New York Mets Activated P Satoru Komiyama from the 15-day disabled list.,TRUE,2002,New York Mets,Satoru Komiyama,activated,15,FALSE,NA
+2002-04-30,Atlanta Braves Transferred OF George Lombard to 60-Day DL.,TRUE,2002,Atlanta Braves,George Lombard,transferred,60,FALSE,NA
+2002-05-01,Florida Marlins Benito Baez: Transferred LHP Benito Baez from the 15-day to the 60-day disabled list.,TRUE,2002,Florida Marlins,Benito Baez,transferred,60,FALSE,NA
+2002-05-01,Josh Beckett: Placed RHP Josh Beckett on the 15-day DL retroactive to April 29 with a blister on the middle finger of his right hand.,TRUE,2002,Florida Marlins,Josh Beckett,placed,15,TRUE,2002-04-29
+2002-05-02,Transferred Shawn Wooten (C/INF) to 60-day disabled list.,TRUE,2002,Anaheim Angels,Shawn Wooten,transferred,60,FALSE,NA
+2002-05-02,Cleveland Indians Jolbert Cabrera: To replace Bradley on the 25-man roster the Indians today recalled INF/OF JOLBERT CABRERA from his 20-day rehab assignment at AAA Buffalo & activated him from the 15-day disabled list.,TRUE,2002,Cleveland Indians,Jolbert Cabrera,placed,15,FALSE,NA
+2002-05-02,Milton Bradley: The Cleveland Indians announced that they have placed OF MILTON BRADLEY on the 15-day disabled list with a contusion to his left eye.,TRUE,2002,Cleveland Indians,Milton Bradley,placed,15,FALSE,NA
+2002-05-02,Kansas City Royals Activated RHP Roberto Hernandez from the disabled list and placed LHP Brian Shouse on the 15-day DL.,TRUE,2002,Kansas City Royals,Roberto Hernandez,activated,15,FALSE,NA
+2002-05-02,Montreal Expos Andres Galarraga: Placed INF Andres Galarraga on the 15-day disabled list (low back strain).,TRUE,2002,Montreal Expos,Andres Galarraga,placed,15,FALSE,NA
+2002-05-02,Pittsburgh Pirates Transferred IF Pat Meares from the 15-day disabled list to the 60-day disabled list.,TRUE,2002,Pittsburgh Pirates,Pat Meares,transferred,60,FALSE,NA
+2002-05-02,transferred pitcher Rick Ankiel from the 15-day to the 60-day disabled list.,TRUE,2002,St. Louis Cardinals,Rick Ankiel,transferred,60,FALSE,NA
+2002-05-03,RHP Luis Rivera transferred to 60-day disabled list.,TRUE,2002,Baltimore Orioles,Luis Rivera,transferred,60,FALSE,NA
+2002-05-03,"T.J. Mathews: T.J. Mathews, RHP, was placed on the 15-day Disabled List because of a strained right bicep.",TRUE,2002,Houston Astros,T.J. Mathews,placed,15,FALSE,NA
+2002-05-03,"Philadelphia Phillies Placed RHP Robert Person on the 15-day DL, retroactive to April 30, with a strained right elbow.",TRUE,2002,Philadelphia Phillies,Robert Person,placed,15,TRUE,2002-04-30
+2002-05-04,"Florida Marlins OF Kevin Millar placed on the 15-day DL(left abdominal oblique strain), retroactive to April 29.",TRUE,2002,Florida Marlins,Kevin Millar,placed,15,TRUE,2002-04-29
+2002-05-04,"San Diego Padres Placed right-handed pitcher Matt DeWitt on the 15-Day Disabled List, retroactive to May 3, with a strained right shoulder and activated right-handed pitcher Kevin Jarvis from the 15-Day Disabled List.",TRUE,2002,San Diego Padres,Matt DeWitt,placed,15,TRUE,2002-05-03
+2002-05-05,Pittsburgh Pirates Placed RHP Josias Manzanillo on the 15-day disabled list with a bone chip in his right elbow and reinstated IF Pokey Reese from the 15-day disabled list.,TRUE,2002,Pittsburgh Pirates,Josias Manzanillo,placed,15,FALSE,NA
+2002-05-06,Chicago Cubs Cubs activate 3B Bill Mueller from DL.,TRUE,2002,Chicago Cubs,Bill Mueller,activated,NA,FALSE,NA
+2002-05-06,C Todd Hundley was placed on the 15-day DL with a thumb injury.,TRUE,2002,Chicago Cubs,Todd Hundley,placed,15,FALSE,NA
+2002-05-06,Justin Speier: Recalled RHP Justin Speier from his rehab assignment and reinstated him from the 15-day DL.,TRUE,2002,Colorado Rockies,Justin Speier,activated,15,FALSE,NA
+2002-05-07,Kansas City Royals Placed catcher Brent Mayne on the 15-day DL -- retroactive to April 30 -- with back spasms.,TRUE,2002,Kansas City Royals,Brent Mayne,placed,15,TRUE,2002-04-30
+2002-05-07,San Francisco Giants Placed OF Shawon Dunston on the 15-day disabled list (retroactive to May 6) with a strained left rib cage,TRUE,2002,San Francisco Giants,Shawon Dunston,placed,15,TRUE,2002-05-06
+2002-05-07,St. Louis Cardinals Bud Smith: Activated P Bud Smith from the 15-day DL.,TRUE,2002,St. Louis Cardinals,Bud Smith,activated,15,FALSE,NA
+2002-05-08,Chicago Cubs Cubs place LHP Donovan Osborne on 15-day DL.,TRUE,2002,Chicago Cubs,Donovan Osborne,placed,15,FALSE,NA
+2002-05-08,Milwaukee Brewers Nelson Figueroa: Placed RHP Nelson Figueroa on 15-Day Disabled List (sprained ankle) retroactrive to May 6,TRUE,2002,Milwaukee Brewers,Nelson Figueroa,placed,15,FALSE,NA
+2002-05-08,Sterling Hitchcock: Reinstated LHP Sterling Hitchcock from the 15-day disabled list,TRUE,2002,New York Yankees,Sterling Hitchcock,activated,15,FALSE,NA
+2002-05-08,"Seattle Mariners RHP Paul Abbott placed on the 15-day DL with an inflamed right shoulder, retroactive to May 6.",TRUE,2002,Seattle Mariners,Paul Abbott,placed,15,TRUE,2002-05-06
+2002-05-08,"Carl Everett: Placed OF Carl Everett on the 15-day disabled list, retroactive to May 5, with a strained right calf muscle.",TRUE,2002,Texas Rangers,Carl Everett,placed,15,TRUE,2002-05-05
+2002-05-08,"Toronto Blue Jays Placed C Darrin Fletcher on the 15-day DL, retroactive to May 6, with a right ankle sprain.",TRUE,2002,Toronto Blue Jays,Darrin Fletcher,placed,15,TRUE,2002-05-06
+2002-05-08,Placed Shannon Stewart on the 15-day DL retroactive to May 1 (right hamstring strain).,TRUE,2002,Toronto Blue Jays,Shannon Stewart,placed,15,TRUE,2002-05-01
+2002-05-08,Transferred RHP Steve Parris to the 60-day DL.,TRUE,2002,Toronto Blue Jays,Steve Parris,transferred,60,FALSE,NA
+2002-05-09,placed outfielder David Justice on the 15-day disabled list with a strained right groin,TRUE,2002,Oakland Athletics,David Justice,placed,15,FALSE,NA
+2002-05-09,"Seattle Mariners RHP Jeff Nelson placed on the 15-day DL with an inflamed right shoulder, retroactive to May 6.",TRUE,2002,Seattle Mariners,Jeff Nelson,placed,15,TRUE,2002-05-06
+2002-05-10,RHP Carlos Zambrano was placed on the 15-day DL with a strained right elbow.,TRUE,2002,Chicago Cubs,Carlos Zambrano,placed,15,FALSE,NA
+2002-05-10,transfered RHP Paul Rigdon to the 60-day disabled list.,TRUE,2002,Milwaukee Brewers,Paul Rigdon,transferred,60,FALSE,NA
+2002-05-10,"Minnesota Twins Placed third baseman Corey Koskie on the 15-day disabled list, retroactive to May 8, with a pulled right hamstring and selected the contract of infielder Casey Blake from Edmonton (AAA, Pacific Coast League).",TRUE,2002,Minnesota Twins,Corey Koskie,placed,15,TRUE,2002-05-08
+2002-05-10,Pittsburgh Pirates Recalled OF Chad Hermansen from injury rehab at Triple-A Nashville and reinstated him from the 15-day disabled list,TRUE,2002,Pittsburgh Pirates,Chad Hermansen,activated,15,FALSE,NA
+2002-05-10,"San Diego Padres Placed right-handed pitcher Kevin Jarvis on the 15-Day Disabled List with a strained right elbow, retroactive to May 5, and optioned right-handed pitcher Andy Shibilo to Double-A Mobile.",TRUE,2002,San Diego Padres,Kevin Jarvis,placed,15,TRUE,2002-05-05
+2002-05-11,Atlanta Braves Activated RHP Jason Marquis from the 15-Day DL.,TRUE,2002,Atlanta Braves,Jason Marquis,activated,15,FALSE,NA
+2002-05-11,Florida Marlins Julian Tavarez: Activated RHP Julian Tavarez from the 15-day disabled list.,TRUE,2002,Florida Marlins,Julian Tavarez,activated,15,FALSE,NA
+2002-05-11,Terry Mulholland: Placed Terry Mulholland (P) on the 15-day disabled list with back spasms.,TRUE,2002,Los Angeles Dodgers,Terry Mulholland,placed,15,FALSE,NA
+2002-05-12,Kansas City Royals Optioned RHP Brad Voyles to Triple-A Omaha and activated OF Mark Quinn from the disabled list.,TRUE,2002,Kansas City Royals,Brad Voyles,activated,NA,FALSE,NA
+2002-05-12,Minnesota Twins Activated DH David Ortiz from 15-day disabled list.,TRUE,2002,Minnesota Twins,David Ortiz,activated,15,FALSE,NA
+2002-05-12,Pittsburgh Pirates Reinstated RHP Kris Benson from the 15-day disabled list and optioned RHP Mike Lincoln to Triple-A Nashville.,TRUE,2002,Pittsburgh Pirates,Kris Benson,activated,15,FALSE,NA
+2002-05-12,Chan Ho Park: Activated RHP Chan Ho Park from the 15-day disabled list.,TRUE,2002,Texas Rangers,Chan Ho Park,activated,15,FALSE,NA
+2002-05-13,Chicago Cubs Cubs place SS Alex Gonzalez on 15-day disabled list (retroactive to May 10) with strained left hamstring.,TRUE,2002,Chicago Cubs,Alex Gonzalez,placed,15,TRUE,2002-05-10
+2002-05-13,"To make room on the 40-man roster, LHP Donovan Osborne was placed on the 60-day DL.",TRUE,2002,Chicago Cubs,Donovan Osborne,placed,60,FALSE,NA
+2002-05-13,Kansas City Royals Activated LHP Brian Shouse from the disabled list.,TRUE,2002,Kansas City Royals,Brian Shouse,activated,NA,FALSE,NA
+2002-05-13,New York Mets Placed RHP Kane Davis on the 15-day disabled list with a strained lower back.,TRUE,2002,New York Mets,Kane Davis,placed,15,FALSE,NA
+2002-05-14,"Placed OF Manny Ramirez on the 15-day DL with a left forefinger fracture, retroactive to May 12",TRUE,2002,Boston Red Sox,Manny Ramirez,placed,15,TRUE,2002-05-12
+2002-05-14,Florida Marlins Activated RHP Josh Beckett from the 15-day disabled list.,TRUE,2002,Florida Marlins,Josh Beckett,activated,15,FALSE,NA
+2002-05-14,Minnesota Twins Placed RHP Brad Radke on the 15-day disabled list with a pulled right groin.,TRUE,2002,Minnesota Twins,Brad Radke,placed,15,FALSE,NA
+2002-05-14,Moved RHP Joe Mays from 15-day DL to 60-day DL (elbow).,TRUE,2002,Minnesota Twins,Joe Mays,transferred,60,FALSE,NA
+2002-05-14,"St. Louis Cardinals Garrett Stephenson: Activated P Garrett Stephenson from the 15-day DL and optioned P Travis Smith to Triple-A, Memphis.",TRUE,2002,St. Louis Cardinals,Garrett Stephenson,activated,15,FALSE,NA
+2002-05-14,Toronto Blue Jays Activated RHP Esteban Loaiza from the 15-day DL.,TRUE,2002,Toronto Blue Jays,Esteban Loaiza,activated,15,FALSE,NA
+2002-05-15,"Milwaukee Brewers Nick Neugebauer: Placed RHP Nick Neugebauer on the 15-day disabled list, retroactive to May 9, with a strained right rotator cuff",TRUE,2002,Milwaukee Brewers,Nick Neugebauer,placed,15,TRUE,2002-05-09
+2002-05-15,New York Mets Ty Wigginton: Placed INF John Valentin on the 15-day disabled list with a partial thickness tear of the right rotator cuff.,TRUE,2002,New York Mets,Ty Wigginton,placed,15,FALSE,NA
+2002-05-15,"San Diego Padres Placed Bobby Jones on the 15-Day Disabled List, retroactive to May 13, with a left-oblique strain and activated right-handed pitcher Tom Davey from the 15-Day Disabled List.",TRUE,2002,San Diego Padres,Bobby Jones,placed,15,TRUE,2002-05-13
+2002-05-15,Activated catcher Wiki Gonzalez from the 15-Day Disabled List and optioned catcher Javier Cardona to Triple-A Portland.,TRUE,2002,San Diego Padres,Wiki Gonzalez,activated,15,FALSE,NA
+2002-05-15,LHP Norm Charlton placed on 60-day DL after left shoulder surgery.,TRUE,2002,Seattle Mariners,Norm Charlton,placed,60,FALSE,NA
+2002-05-15,St. Louis Cardinals Woody Williams: Activated P Woody Williams from the 15-dal DL.,TRUE,2002,St. Louis Cardinals,Woody Williams,activated,NA,FALSE,NA
+2002-05-16,Florida Marlins Placed C Ramon Castro on the 15-day disabled list (strained muscle in his right elbow).,TRUE,2002,Florida Marlins,Ramon Castro,placed,15,FALSE,NA
+2002-05-16,Jesse Orosco: Placed Jesse Orosco (P) on the 15-day disabled list with a strained left oblique muscle.,TRUE,2002,Los Angeles Dodgers,Jesse Orosco,placed,15,FALSE,NA
+2002-05-16,"Transferred left-handed pitcher Jose Nunez to the 60-Day Disabled List from the 15-Day D.L. Placed first baseman Phil Nevin on the 15-Day Disabled List, retroactive to May 12, with a left-elbow strain and purchased the contract of infielder Alex Pelaez from Triple-A Portland.",TRUE,2002,San Diego Padres,Jose Nunez,transferred,60,TRUE,2002-05-12
+2002-05-16,Toronto Blue Jays Activated OF Shannon Stewart from the 15-day DL.,TRUE,2002,Toronto Blue Jays,Shannon Stewart,activated,15,FALSE,NA
+2002-05-17,Milwaukee Brewers Placed C Raul Casanova on the 15-day disabled list with a torn ulnar collateral ligament,TRUE,2002,Milwaukee Brewers,Raul Casanova,placed,15,FALSE,NA
+2002-05-17,Tampa Bay Devil Rays Delvin James: The Rays have placed RHP Delvin James on the 15-day DL retroactive to May 9.,TRUE,2002,Tampa Bay Devil Rays,Delvin James,placed,15,TRUE,2002-05-09
+2002-05-17,"Texas Rangers Frank Catalanotto: Placed Frank Catalanotto on the 15-day disabled list, retroactive to May 11, with a strained right groin muscle and muscle spasms in his lower back.",TRUE,2002,Texas Rangers,Frank Catalanotto,placed,15,TRUE,2002-05-11
+2002-05-17,Juan Gonzalez: Activated OF Juan Gonzalez from the 15-day disabled list.,TRUE,2002,Texas Rangers,Juan Gonzalez,activated,15,FALSE,NA
+2002-05-18,Atlanta Braves Placed SS Mark DeRosa on the 15-Day DL (torn tissue in right ankle).,TRUE,2002,Atlanta Braves,Mark DeRosa,placed,15,FALSE,NA
+2002-05-18,Transferred RHP Derrick Lewis to the 60-Day DL.,TRUE,2002,Atlanta Braves,Na Lewis,transferred,60,FALSE,NA
+2002-05-18,Baltimore Orioles 1B David Segui placed on 15-day disabled list (torn cartilage in left hand).,TRUE,2002,Baltimore Orioles,David Segui,placed,15,FALSE,NA
+2002-05-18,Kansas City Royals Placed LHP Chris George on the 15-day DL because of a blister on his pitching hand.,TRUE,2002,Kansas City Royals,Chris George,placed,15,FALSE,NA
+2002-05-18,"Oakland Athletics Placed pitcher Cory Lidle on the 15-day disabled list with a strained right shoulder, retroactive to Wednesday",TRUE,2002,Oakland Athletics,Cory Lidle,placed,15,TRUE,NA
+2002-05-18,Pittsburgh Pirates Placed OF Armando Rios on the 15-day disabled list with a left knee contusion and recalled IF Abraham Nunez from Triple-A Nashville.,TRUE,2002,Pittsburgh Pirates,Armando Rios,placed,15,FALSE,NA
+2002-05-19,"Milwaukee Brewers Matt Stairs: Placed OF Matt Stairs on the 15-day disabled list, retroactive to May 16, with a strained left hamstring",TRUE,2002,Milwaukee Brewers,Matt Stairs,placed,15,TRUE,2002-05-16
+2002-05-19,activated IF Luis Lopez from the 15-day disabled list.,TRUE,2002,Milwaukee Brewers,Luis Lopez,activated,15,FALSE,NA
+2002-05-20,Activated Donne Wall (RHP) from 15-day disabled list.,TRUE,2002,Anaheim Angels,Donne Wall,activated,15,FALSE,NA
+2002-05-21,"Florida Marlins INF Alex Gonzalez placed on the 15-day disabled list (dislocated left shoulder), retroactive to May 19.",TRUE,2002,Florida Marlins,Alex Gonzalez,placed,15,TRUE,2002-05-19
+2002-05-21,"RHP Brad Penny placed on the 15-day disabled list(right bicep inflammation), retroactive to May 19.",TRUE,2002,Florida Marlins,Brad Penny,placed,15,TRUE,2002-05-19
+2002-05-21,LHP Armando Almanza recalled injury rehab from A Jupiter and activated from 15-day disabled list.,TRUE,2002,Florida Marlins,Armando Almanza,activated,15,FALSE,NA
+2002-05-21,Milwaukee Brewers Nelson Figueroa: Activated RHP Nelson Figueroa from the 15-day disabled list,TRUE,2002,Milwaukee Brewers,Nelson Figueroa,activated,15,FALSE,NA
+2002-05-21,New York Yankees Orlando Hernandez: Placed RHP Orlando Hernandez on the 15-day disabled list,TRUE,2002,New York Yankees,Orlando Hernandez,placed,15,FALSE,NA
+2002-05-21,San Diego Padres Optioned infielder Alex Pelaez to Triple-A Portland and activated outfielder Ron Gant from the 15-Day Disabled List.,TRUE,2002,San Diego Padres,Alex Pelaez,activated,15,FALSE,NA
+2002-05-21,San Francisco Giants Activated OF Shawon Dunston from the 15-day DL,TRUE,2002,San Francisco Giants,Shawon Dunston,activated,15,FALSE,NA
+2002-05-21,placed SS Rich Aurilia on the 15-day DL (retroactive to May 20) with bone chips in his right elbow.,TRUE,2002,San Francisco Giants,Rich Aurilia,placed,15,TRUE,2002-05-20
+2002-05-22,Cincinnati Reds Joey Hamilton: RHP Joey Hamilton today was reinstated from the 15-day disabled list.,TRUE,2002,Cincinnati Reds,Joey Hamilton,activated,15,FALSE,NA
+2002-05-22,"Toronto Blue Jays Recalled RHP Bob File from his rehabilitation assignment with Single-A Dunedin, activated him from the 15-day DL and optioned him to Triple-A Syracuse.",TRUE,2002,Toronto Blue Jays,Bob File,activated,15,FALSE,NA
+2002-05-23,"Cincinnati Reds Jose Acevedo: RHP Joey Hamilton today was reinstated from the 15-day disabled list...he takes the roster spot of RHP Jose Acevedo, who following last night''s game was optioned to Louisville...Hamilton had been on the DL since 5/7 with a strained left hamstring...he will start on Friday at Atlanta.",TRUE,2002,Cincinnati Reds,Jose Acevedo,activated,15,FALSE,NA
+2002-05-24,Cincinnati Reds Kelly Stinnett: The Reds today reinstated from the 15-day disabled list OF Ken Griffey Jr. and sent C Kelly Stinnett to Louisville on a rehabilitation assignment.,TRUE,2002,Cincinnati Reds,Kelly Stinnett,activated,15,FALSE,NA
+2002-05-24,Ken Griffey Jr.: The Reds today reinstated from the 15-day disabled list OF Ken Griffey Jr. and sent C Kelly Stinnett to Louisville on a rehabilitation assignment.,TRUE,2002,Cincinnati Reds,Ken Griffey Jr.,activated,15,FALSE,NA
+2002-05-24,Milwaukee Brewers Jamey Wright: Activated RHP Jamey Wright from the 15-day disabled list,TRUE,2002,Milwaukee Brewers,Jamey Wright,activated,15,FALSE,NA
+2002-05-24,Minnesota Twins Activated 3B Corey Koskie from 15-day disabled list.,TRUE,2002,Minnesota Twins,Corey Koskie,activated,15,FALSE,NA
+2002-05-25,Chicago Cubs SS Alex Gonzalez in re-instated after coming off the 15-day DL.,TRUE,2002,Chicago Cubs,Alex Gonzalez,activated,15,FALSE,NA
+2002-05-25,Cubs send RHP Ron Mahay to 15-day DL with bicep tendinitis.,TRUE,2002,Chicago Cubs,Ron Mahay,placed,15,FALSE,NA
+2002-05-25,"Scott Linebrink: The Astros placed Scott Linebrink, RHP, on the 15-day Disabled List witha strained right elbow capsule.",TRUE,2002,Houston Astros,Scott Linebrink,placed,15,FALSE,NA
+2002-05-25,Seattle Mariners DH Edgar Martinez transferred to the 60-day DL.,TRUE,2002,Seattle Mariners,Edgar Martinez,transferred,60,FALSE,NA
+2002-05-26,Kansas City Royals Activated RHP Kris Wilson from the disabled list and optioned him to Double-A Wichita.,TRUE,2002,Kansas City Royals,Kris Wilson,activated,NA,FALSE,NA
+2002-05-26,Montreal Expos Reinstated INF Andres Galarraga from the 15-day disabled list,TRUE,2002,Montreal Expos,Andres Galarraga,activated,15,FALSE,NA
+2002-05-27,Florida Marlins OF Kevin Millar activated from 15-day disabled list.,TRUE,2002,Florida Marlins,Kevin Millar,activated,15,FALSE,NA
+2002-05-27,Kevin Brown: Placed Kevin Brown (P) on the 15-day disabled list with posterior sprain of his right elbow.,TRUE,2002,Los Angeles Dodgers,Kevin Brown,placed,15,FALSE,NA
+2002-05-27,San Diego Padres Designated right-handed pitcher Tom Davey for assignment and activated first baseman Phil Nevin from the 15-Day Disabled List.,TRUE,2002,San Diego Padres,Tom Davey,activated,15,FALSE,NA
+2002-05-28,Kansas City Royals Placed RHP Blake Stein on the 15-day disabled list with a groin injury.,TRUE,2002,Kansas City Royals,Blake Stein,placed,15,FALSE,NA
+2002-05-28,Activated catcher Brent Mayne from the disabled list and optioned catcher Juan Brito to Double-A Wichita.,TRUE,2002,Kansas City Royals,Brent Mayne,activated,NA,FALSE,NA
+2002-05-29,Atlanta Braves Placed SS Marcus Giles on the 15-Day DL (severely sprained right ankle).,TRUE,2002,Atlanta Braves,Marcus Giles,placed,15,FALSE,NA
+2002-05-29,Transferred OF B.J. Surhoff to 60-Day DL.,TRUE,2002,Atlanta Braves,B.J. Surhoff,transferred,60,FALSE,NA
+2002-05-29,Chicago Cubs Cubs activate C Todd Hundley from 15-day disabled list.,TRUE,2002,Chicago Cubs,Todd Hundley,activated,15,FALSE,NA
+2002-05-29,Cubs place 2B Delino DeShields on 15-day disabled list with hip injury.,TRUE,2002,Chicago Cubs,Delino DeShields,placed,15,FALSE,NA
+2002-05-29,"Dave Mlicki: The Astros placed Dave Mlicki, RHP, on the 15-day DL with a strained intercostal muscle in his left side, retroactive to May 26.",TRUE,2002,Houston Astros,Dave Mlicki,placed,15,TRUE,2002-05-26
+2002-05-29,"Wade Miller: The Astros have activated Wade Miller, RHP, from the 15-day Disabled List.",TRUE,2002,Houston Astros,Wade Miller,activated,15,FALSE,NA
+2002-05-29,"Los Angeles Dodgers Jesse Orosco: Reinstated Jesse Orosco (P) from the disabled list, designated Dennis Springer (P) for assignment.",TRUE,2002,Los Angeles Dodgers,Jesse Orosco,activated,NA,FALSE,NA
+2002-05-30,Anaheim Angels Recalled from rehab and activated from 15-day DL Benji Gil (INF).,TRUE,2002,Anaheim Angels,Benji Gil,activated,15,FALSE,NA
+2002-05-30,Minnesota Twins Activated RHP Brad Radke from the 15-day disabled list.,TRUE,2002,Minnesota Twins,Brad Radke,activated,15,FALSE,NA
+2002-05-30,"San Diego Padres Placed third baseman Sean Burroughs (right-shoulder sprain, retroactive to May 29) and right handed pitcher Brian Tollberg (right-elbow sprain) and on the 15-Day Disabled List.",TRUE,2002,San Diego Padres,Sean Burroughs,placed,15,TRUE,2002-05-29
+2002-05-30,Activated right-handed pitcher Bobby Jones from the 15-Day Disabled List and purchased the contract of infielder Julius Matos from Triple-A Portland.,TRUE,2002,San Diego Padres,Bobby Jones,activated,15,FALSE,NA
+2002-05-31,Milwaukee Brewers Chad Fox: Activated RHP Chad Fox from the 15-day disabled list,TRUE,2002,Milwaukee Brewers,Chad Fox,activated,15,FALSE,NA
+2002-05-31,Minnesota Twins Placed RHP pitcher Brad Radke on the 15-day disabled list with a right groin strain.,TRUE,2002,Minnesota Twins,Brad Radke,placed,15,FALSE,NA
+2002-05-31,New York Mets Activated IF John Valentin from the 15-day disabled list.,TRUE,2002,New York Mets,John Valentin,activated,15,FALSE,NA
+2002-05-31,Pittsburgh Pirates Placed LHP Dave Williams on the 15-day disabled list with a torn labrum (cartilage) in his left shoulder and recalled RHP Bronson Arroyo from Triple-A Nashville.,TRUE,2002,Pittsburgh Pirates,Dave Williams,placed,15,FALSE,NA
+2002-05-31,"San Diego Padres Placed first baseman Phil Nevin on the 15-Day Disabled List, retroactive to May 30, with a non-displaced fracture of the left humorous and purchased the contact of right-handed reliever Rodney Myers from Triple-A Portland.",TRUE,2002,San Diego Padres,Phil Nevin,placed,15,TRUE,2002-05-30
+2002-05-31,St. Louis Cardinals Steve Kline: Activated pitcher Steve Kline from the 15-day DL,TRUE,2002,St. Louis Cardinals,Steve Kline,activated,15,FALSE,NA
+2002-05-31,"Tampa Bay Devil Rays Jorge Sosa: The Rays have placed RHP Jorge Sosa on the 15-day DL, retroactive to May 26, with a strained right litissmus dorsi.",TRUE,2002,Tampa Bay Devil Rays,Jorge Sosa,placed,15,TRUE,2002-05-26
+2002-05-31,Wilson Alvarez: LHP Wilson Alvarez has completed a rehab assignment and been reinstated from the disabled list.,TRUE,2002,Tampa Bay Devil Rays,Wilson Alvarez,activated,NA,FALSE,NA
+2002-06-01,"Juan Castro: Prior to Saturday''s game, IF Juan Castro was returned from a rehabilitation assignment at Louisville and was reinstated from the 15-day disabled list...he took the roster spot of OF Brady Clark, who was optioned to Louisville.",TRUE,2002,Cincinnati Reds,Juan Castro,activated,15,FALSE,NA
+2002-06-01,transferred RHP Troy Mattes from the 15-day disabled list to the 60-day disabled list.,TRUE,2002,Montreal Expos,Troy Mattes,transferred,60,FALSE,NA
+2002-06-02,Philadelphia Phillies Activated RHP Robert Person from the DL.,TRUE,2002,Philadelphia Phillies,Robert Person,activated,NA,FALSE,NA
+2002-06-02,Placed RHP Carlos Silva on the 15-day DL with a strained right knee.,TRUE,2002,Philadelphia Phillies,Carlos Silva,placed,15,FALSE,NA
+2002-06-03,"Boston Red Sox Placed RHP Rich Garces on the 15-day DL with a strained right hamstring, retroactive to June 2",TRUE,2002,Boston Red Sox,Rich Garces,placed,15,TRUE,NA
+2002-06-03,Milwaukee Brewers Matt Stairs: Reinstated OF Matt Stairs from the 15-day disabled list,TRUE,2002,Milwaukee Brewers,Matt Stairs,activated,15,FALSE,NA
+2002-06-03,"Bobby Seay: The Rays have returned LHP Bobby Seay from his rehabilitation assignment, reinstated him from the 60-day DL and optioned him to AA Orlando.",TRUE,2002,Tampa Bay Devil Rays,Bobby Seay,activated,60,FALSE,NA
+2002-06-04,Chicago Cubs Cubs activate RHP Kyle Farnsworth from the 15-day disabled list and option RHP Courtney Duncan to Triple-A Iowa.,TRUE,2002,Chicago Cubs,Kyle Farnsworth,activated,15,FALSE,NA
+2002-06-04,Milton Bradley: Milton Bradley was activated from the 15-day DL after suffering an orbital fracture and scratched iris on May 1 vs.,TRUE,2002,Cleveland Indians,Milton Bradley,activated,15,FALSE,NA
+2002-06-04,Los Angeles Dodgers Bryan Corey: Placed Brian Corey on the 15-day (retroactive to 5/29) disabled list with a sprained left ankle.,TRUE,2002,Los Angeles Dodgers,Bryan Corey,placed,15,TRUE,2002-05-29
+2002-06-04,Terry Mulholland: Reinstated Terry Mulholland (P) from the disabled list.,TRUE,2002,Los Angeles Dodgers,Terry Mulholland,activated,NA,FALSE,NA
+2002-06-04,Minnesota Twins Activated 2B Luis Rivas from 15-day disabled list.,TRUE,2002,Minnesota Twins,Luis Rivas,activated,15,FALSE,NA
+2002-06-04,San Francisco Giants Activated SS Rich Aurilia from the 15-day DL,TRUE,2002,San Francisco Giants,Rich Aurilia,activated,15,FALSE,NA
+2002-06-04,placed IF Ramon Martinez on the 15-day DL with a concussion.,TRUE,2002,San Francisco Giants,Ramon Martinez,placed,15,FALSE,NA
+2002-06-04,"Texas Rangers Rudy Seanez: Placed RHP Rudy Seanez on the 15-day disabled list, retroactive to May 30, with tendonitis in his right shoulder.",TRUE,2002,Texas Rangers,Rudy Seanez,placed,15,TRUE,2002-05-30
+2002-06-05,Colorado Rockies Benny Agbayani: Activated outfielder Benny Agbayani from the 15-day DL,TRUE,2002,Colorado Rockies,Benny Agbayani,activated,15,FALSE,NA
+2002-06-05,Florida Marlins Josh Beckett: Placed RHP Josh Beckett on the 15-day disabled list (right middle finger blister).,TRUE,2002,Florida Marlins,Josh Beckett,placed,15,FALSE,NA
+2002-06-05,Kansas City Royals Placed RHP Jason Grimsley on the 15-day disabled list with a pulled oblique muscle.,TRUE,2002,Kansas City Royals,Jason Grimsley,placed,15,FALSE,NA
+2002-06-05,Oakland Athletics Activated outfielder David Justice from the 15-day disabled list,TRUE,2002,Oakland Athletics,David Justice,activated,15,FALSE,NA
+2002-06-05,Seattle Mariners OF Chris Snelling placed on the 60-day DL with a torn ACL in left knee.,TRUE,2002,Seattle Mariners,Chris Snelling,placed,60,FALSE,NA
+2002-06-05,"St. Louis Cardinals Rick Ankiel: Activated LHP Rick Ankiel from the 60-day disabled list and optioned him to Single-A, Peoria.",TRUE,2002,St. Louis Cardinals,Rick Ankiel,activated,60,FALSE,NA
+2002-06-06,"Kansas City Royals Placed OF Chuck Knoblauch on the 15-day disabled list with pain in his lower left elbow, extending into the forearm.",TRUE,2002,Kansas City Royals,Chuck Knoblauch,placed,15,FALSE,NA
+2002-06-07,Baltimore Orioles Calvin Maduro: RHP Calvin Maduro placed on 15-day disabled list (fractured bone spur of the right olecranon and bone chips).,TRUE,2002,Baltimore Orioles,Calvin Maduro,placed,15,FALSE,NA
+2002-06-07,RHP Jason Johnson activated from DL.,TRUE,2002,Baltimore Orioles,Jason Johnson,activated,NA,FALSE,NA
+2002-06-07,Chicago Cubs Cubs activate RHP Carlos Zambrano from the 15-day DL.,TRUE,2002,Chicago Cubs,Carlos Zambrano,activated,15,FALSE,NA
+2002-06-07,Cleveland Indians Nerio Rodriguez: To take Nagy''s (15-day DL) place on the 25-man roster the Indians have purchased the contract of RHP NERIO RODRIGUEZ from AAA Buffalo.,TRUE,2002,Cleveland Indians,Nerio Rodriguez,placed,15,FALSE,NA
+2002-06-07,Charles Nagy: The Cleveland Indians today announced that they have placed RHP CHARLES NAGY on the 15-day disabled list with an aggravation of a previous right elbow injury (retroactive to June 5).,TRUE,2002,Cleveland Indians,Charles Nagy,placed,15,TRUE,2002-06-05
+2002-06-07,Texas Rangers Rusty Greer: Activated C Ivan Rodriguez from the disabled list.,TRUE,2002,Texas Rangers,Rusty Greer,activated,NA,FALSE,NA
+2002-06-07,"Placed OF Rusty Greer on the 15-day DL with a hyperextended back, retroactive to June 4.",TRUE,2002,Texas Rangers,Rusty Greer,placed,15,TRUE,2002-06-04
+2002-06-08,Florida Marlins Ramon Castro: C Ramon Castro reinstated from the 15-day disabled list.,TRUE,2002,Florida Marlins,Ramon Castro,activated,15,FALSE,NA
+2002-06-08,Placed OF Mark Quinn on the 15-day DL with a strained left hamstring and upper calf.,TRUE,2002,Kansas City Royals,Mark Quinn,placed,15,FALSE,NA
+2002-06-09,Chad Fox: Placed RHP Chad Fox on the 15-day disabled list retroactive to June 8 with a strained right rotator cuff.,TRUE,2002,Milwaukee Brewers,Chad Fox,placed,15,TRUE,2002-06-08
+2002-06-09,Paul Bako: Placed C Paul Bako on the 15-day disabled list with a dislocated pinky finger on his right hand.,TRUE,2002,Milwaukee Brewers,Paul Bako,placed,15,FALSE,NA
+2002-06-09,Minnesota Twins Placed RHP Jack Cressend on the 15-day disabled list with a strained right rotator cuff.,TRUE,2002,Minnesota Twins,Jack Cressend,placed,15,FALSE,NA
+2002-06-09,"New York Yankees Juan Rivera: Placed OF Juan Rivera on the 15-day disabled list (kneecap), retroactive to June 8",TRUE,2002,New York Yankees,Juan Rivera,placed,15,TRUE,NA
+2002-06-10,"Boston Red Sox Placed INF Rey Sanchez on the 15-day DL with a right hamstring strain, retroactive to June 4",TRUE,2002,Boston Red Sox,Rey Sanchez,placed,15,TRUE,NA
+2002-06-10,"Montreal Expos Scott Downs: Recalled LHP Scott Downs from injury rehab assignment with AAA-Ottawa, reinstated him from the 60-day DL and optioned him to Ottawa.",TRUE,2002,Montreal Expos,Scott Downs,activated,60,FALSE,NA
+2002-06-10,"Mariano Rivera: Placed RHP Mariano Rivera on the 15-day disabled list (groin), retroactive to June 9",TRUE,2002,New York Yankees,Mariano Rivera,placed,15,TRUE,NA
+2002-06-10,Jay Powell: Activated RHP Jay Powell from the 60-day disabled list.,TRUE,2002,Texas Rangers,Jay Powell,activated,60,FALSE,NA
+2002-06-11,Cincinnati Reds John Riedling: Following last night''s game the Reds placed RHP Carlos Almanzar on the 15-day disabled list with a hairline fracture of his right ring finger and recalled from Louisville RHP John Riedling.,TRUE,2002,Cincinnati Reds,John Riedling,placed,15,FALSE,NA
+2002-06-11,Carlos Almanzar: Following last night''s game the Reds placed RHP Carlos Almanzar on the 15-day disabled list with a hairline fracture of his right ring finger and recalled from Louisville RHP John Riedling.,TRUE,2002,Cincinnati Reds,Carlos Almanzar,placed,15,FALSE,NA
+2002-06-11,St. Louis Cardinals Garrett Stephenson: Activated pitcher Garrett Stephenson from the 15-day DL,TRUE,2002,St. Louis Cardinals,Garrett Stephenson,activated,15,FALSE,NA
+2002-06-12,Chicago Cubs Cubs activate 2B Delino DeShields from 15-day DL. 2B Bobby Hill optioned to Triple-A Iowa.,TRUE,2002,Chicago Cubs,Delino DeShields,activated,15,FALSE,NA
+2002-06-12,Sandy Alomar: C Sandy Alomar Jr. placed on DL with impingement in right shoulder.,TRUE,2002,Chicago White Sox,Sandy Alomar,placed,NA,FALSE,NA
+2002-06-12,Minnesota Twins Placed RHP Bob Wells on the 15-day disabled list with an inflamed right elbow.,TRUE,2002,Minnesota Twins,Bob Wells,placed,15,FALSE,NA
+2002-06-13,"Cleveland Indians Paul Shuey: The Cleveland Indians today announced that they have placed RHP PAUL SHUEY on the 15-day disabled list with a strained left groin, retroactive to June 10.",TRUE,2002,Cleveland Indians,Paul Shuey,placed,15,TRUE,2002-06-10
+2002-06-13,"Shane Reynolds: Shane Reynolds, RHP, was placed on the 15-day Disabled List after undergoing successful surgery to repair a pinched nerve in his lower back.",TRUE,2002,Houston Astros,Shane Reynolds,placed,15,FALSE,NA
+2002-06-13,Los Angeles Dodgers Bryan Corey: Reinstated Brian Corey (P) from disabled list and optioned him to AAA Las Vegas.,TRUE,2002,Los Angeles Dodgers,Bryan Corey,activated,NA,FALSE,NA
+2002-06-13,"Placed RHP Grant Roberts on the 15-day DL, retroactive to June 9, with a right rotator cuff strain.",TRUE,2002,New York Mets,Grant Roberts,placed,15,TRUE,2002-06-09
+2002-06-13,Tampa Bay Devil Rays Delvin James: The Devil Rays have reinstated RHP Delvin James from the 15-day disabled list and optioned him to Double-A Orlando.,TRUE,2002,Tampa Bay Devil Rays,Delvin James,activated,15,FALSE,NA
+2002-06-14,Kansas City Royals Place utility player Donnie Sadler on the 15-day disabled list with a strained left hamstring.,TRUE,2002,Kansas City Royals,Donnie Sadler,placed,15,FALSE,NA
+2002-06-14,Transferred RHP Blake Stein from the 15-day to the 60-day DL.,TRUE,2002,Kansas City Royals,Blake Stein,transferred,60,FALSE,NA
+2002-06-14,New York Yankees Andy Pettitte: Reinstated LHP Andy Pettitte from the 15-day disabled list,TRUE,2002,New York Yankees,Andy Pettitte,activated,15,FALSE,NA
+2002-06-14,Philadelphia Phillies Activated RHP Carlos Silva from the 15-day DL.,TRUE,2002,Philadelphia Phillies,Carlos Silva,activated,15,FALSE,NA
+2002-06-14,Seattle Mariners DH Edgar Martinez activated from the 60-day DL.,TRUE,2002,Seattle Mariners,Edgar Martinez,activated,60,FALSE,NA
+2002-06-15,"Atlanta Braves Returned LHP Horacio Ramirez from injury rehab, activated from DL and optioned to Double-A Greenville.",TRUE,2002,Atlanta Braves,Horacio Ramirez,activated,NA,FALSE,NA
+2002-06-15,Baltimore Orioles Jeff Conine: 1B/OF Jeff Conine placed on 15-day DL with strained right hamstring.,TRUE,2002,Baltimore Orioles,Jeff Conine,placed,15,FALSE,NA
+2002-06-15,Florida Marlins LHP Oswaldo Mairena placed on the 15-Day disabled list(strained abdominal muscle.,TRUE,2002,Florida Marlins,Oswaldo Mairena,placed,15,FALSE,NA
+2002-06-15,"Toronto Blue Jays Placed RHP Luke Prokopec on the 15-day DL, retroactive to June 7, with flexor tendonitis strain (right elbow).",TRUE,2002,Toronto Blue Jays,Luke Prokopec,placed,15,TRUE,2002-06-07
+2002-06-16,Cleveland Indians Ricky Gutierrez: To make room on the 25-man roster for Cabrera the Indians placed 2B RICKY GUTIERREZ on the 15-day disabled list with a strained left groin (retroactive to June 14).,TRUE,2002,Cleveland Indians,Ricky Gutierrez,placed,15,TRUE,2002-06-14
+2002-06-16,San Francisco Giants Activated IF Ramon Martinez from the 15-day disabled list,TRUE,2002,San Francisco Giants,Ramon Martinez,activated,15,FALSE,NA
+2002-06-16,St. Louis Cardinals Jim Edmonds: Activated OF Jim Edmonds from the 15-day DL.,TRUE,2002,St. Louis Cardinals,Jim Edmonds,activated,15,FALSE,NA
+2002-06-17,"Scott Linebrink: Scott Linebrink, RHP, was activated from the Disabled List.",TRUE,2002,Houston Astros,Scott Linebrink,activated,NA,FALSE,NA
+2002-06-18,Anaheim Angels Placed Julio Ramirez (OF) on 15-day disabled list (retroactive to June 16,TRUE,2002,Anaheim Angels,Julio Ramirez,placed,15,TRUE,2002-06-16
+2002-06-18,Colorado Rockies Rick White: Reinstated P Rick White from the 15-day DL.,TRUE,2002,Colorado Rockies,Rick White,activated,15,FALSE,NA
+2002-06-18,"Houston Astros Doug Brocail: Doug Brocail, RHP, was moved from the 15-day Disabled List to the 60-day Disabled List to make room for Kirk Saarloos, RHP, on the 40-man roster.",TRUE,2002,Houston Astros,Doug Brocail,transferred,60,FALSE,NA
+2002-06-18,Placed LHP Jeremy Affeldt on the 15-day disabled list because of a blister on a finger on his left hand.,TRUE,2002,Kansas City Royals,Jeremy Affeldt,placed,15,FALSE,NA
+2002-06-18,Milwaukee Brewers Geoff Jenkins: Placed OF Geoff Jenkins (dislocated right ankle) on the 15-day disabled list.,TRUE,2002,Milwaukee Brewers,Geoff Jenkins,placed,15,FALSE,NA
+2002-06-19,David Riske: The Indians announced that they have placed RHP DAVID RISKE on the 15-day disabled list with strain of the left glutinous muscle.,TRUE,2002,Buffalo Bisons,David Riske,placed,15,FALSE,NA
+2002-06-21,Boston Red Sox Reinstated LHP Jeff Wallace from the 15-day DL and optioned him to Pawtucket (AAA),TRUE,2002,Boston Red Sox,Jeff Wallace,activated,15,FALSE,NA
+2002-06-21,"recalled RHP Paxton Crawford from injury rehab assignment, reinstated him from the 15-day DL and optioned him to Pawtucket.",TRUE,2002,Boston Red Sox,Paxton Crawford,activated,15,FALSE,NA
+2002-06-21,Cleveland Indians Todd Dunwoody: To make room for Broussard on the 25-man roster the Indians have placed OF TODD DUNWOODY on the 15-day disabled list with a sprained left foot and ankle.,TRUE,2002,Cleveland Indians,Todd Dunwoody,placed,15,FALSE,NA
+2002-06-21,"San Diego Padres Placed right-handed pitcher Bobby Jones on the 15-Day Disabled List, retroactive to June 16, with a right-elbow strain and recalled right-handed pitcher Jeremy Fikac from Double-A Mobile.",TRUE,2002,San Diego Padres,Bobby Jones,placed,15,TRUE,2002-06-16
+2002-06-22,Reinstated RHP Jason Grimsley from the DL and optioned RHP Jeff Austin to Triple-A Omaha.,TRUE,2002,Kansas City Royals,Jason Grimsley,activated,NA,FALSE,NA
+2002-06-23,Atlanta Braves Activated RHP Kris Keller from the 15-Day DL and optioned to Triple-A Richmond.,TRUE,2002,Atlanta Braves,Kris Keller,activated,15,FALSE,NA
+2002-06-23,"placed INF Calvin Pickering, recovering from right quadriceps surgery, on the 60-day DL.",TRUE,2002,Boston Red Sox,Calvin Pickering,placed,60,FALSE,NA
+2002-06-23,Philadelphia Phillies Placed RHP Ricky Bottalico on the 15-day DL.,TRUE,2002,Philadelphia Phillies,Ricky Bottalico,placed,15,FALSE,NA
+2002-06-24,Placed OF Gabe Kapler on the 15-day disabled list,TRUE,2002,Texas Rangers,Gabe Kapler,placed,15,FALSE,NA
+2002-06-25,Atlanta Braves Activated RHP Derrick Lewis from the 15-Day DL and outrighted to Triple-A Richmond.,TRUE,2002,Atlanta Braves,Ted Cox,activated,15,FALSE,NA
+2002-06-25,RHP Calvin Maduro transfered from 15-day DL to 60-day DL.,TRUE,2002,Baltimore Orioles,Calvin Maduro,transferred,60,FALSE,NA
+2002-06-25,Boston Red Sox Recalled OF Manny Ramirez from injury rehab assignment and reinstated him from the 15-day DL,TRUE,2002,Boston Red Sox,Manny Ramirez,activated,15,FALSE,NA
+2002-06-25,recalled RHP Rich Garces from injury rehab assignment and reinstated him from the 15-day DL,TRUE,2002,Boston Red Sox,Rich Garces,activated,15,FALSE,NA
+2002-06-25,"Ken Griffey Jr.: The Cincinnati Reds today placed OF Ken Griffey Jr. on the 15-day disabled list, retroactive to yesterday, with a strained right hamstring.",TRUE,2002,Cincinnati Reds,Ken Griffey Jr.,placed,15,TRUE,NA
+2002-06-25,Milwaukee Brewers Paul Bako: Activated C Paul Bako from the 15-day disabled list,TRUE,2002,Milwaukee Brewers,Paul Bako,activated,15,FALSE,NA
+2002-06-25,Mariano Rivera: Reinstated RHP Mariano Rivera from the 15-day disabled list,TRUE,2002,New York Yankees,Mariano Rivera,activated,15,FALSE,NA
+2002-06-25,RHP Paul Abbott transferred to the 60-day DL.,TRUE,2002,Seattle Mariners,Paul Abbott,transferred,60,FALSE,NA
+2002-06-25,"Greg Vaughn: The Devil Rays have placed OF Greg Vaughn on the 15-day DL (right shoulder contusion), retroactive to June 23.",TRUE,2002,Tampa Bay Devil Rays,Greg Vaughn,placed,15,TRUE,2002-06-23
+2002-06-25,"Ryan Rupe: The Devil Rays have placed RHP Ryan Rupe on the 15-day DL (right patellar tendinitis), retroactive to June 20.",TRUE,2002,Tampa Bay Devil Rays,Ryan Rupe,placed,15,TRUE,2002-06-20
+2002-06-25,Jorge Sosa: The Devil Rays have returned RHP Jorge Sosa from his rehabilitation assignment and reinstated him from the 15-day DL.,TRUE,2002,Tampa Bay Devil Rays,Jorge Sosa,activated,15,FALSE,NA
+2002-06-25,Francisco Cordero: Placed RHP Francisco Cordero on the 15-day disabled list with a muscle strain in the back of his right shoulder.,TRUE,2002,Texas Rangers,Francisco Cordero,placed,15,FALSE,NA
+2002-06-26,San Diego Padres Optioned left-handed pitcher Kevin Pickford to Triple-A Mobile and activated first baseman/outfielder Mark Sweeney from the 15-Day Disabled List.,TRUE,2002,San Diego Padres,Kevin Pickford,activated,15,FALSE,NA
+2002-06-27,Atlanta Braves Placed RHP Albie Lopez on the 15-Day DL.,TRUE,2002,Atlanta Braves,Albie Lopez,placed,15,FALSE,NA
+2002-06-27,"Javy Lopez: Placed pitcher Albie Lopez on the 15-day disabled list, retroactive to Wednesday, with right shoulder tendinitis",TRUE,2002,Atlanta Braves,Javy Lopez,placed,15,TRUE,NA
+2002-06-27,"Boston Red Sox Rolando Arrojo: Placed RHP Rolando Arrojo on the 15-day DL with right shoulder infra spinatus tendinitis, retroactive to June 24",TRUE,2002,Boston Red Sox,Rolando Arrojo,placed,15,TRUE,2002-06-24
+2002-06-27,Chicago Cubs Cubs place RHP Jason Bere on 15-day DL.,TRUE,2002,Chicago Cubs,Jason Bere,placed,15,FALSE,NA
+2002-06-27,"To make room for Munro on the 40-man roster, T.J. Mathews was moved from the 15-day Disabled List to the 60-day Disabled List.",TRUE,2002,Houston Astros,T.J. Mathews,transferred,60,FALSE,NA
+2002-06-27,"New York Mets Placed RHP Mark Corey on the 15-day DL, retroactive to June 26.",TRUE,2002,New York Mets,Mark Corey,placed,15,TRUE,2002-06-26
+2002-06-27,New York Yankees Randy Keisler: Transferred LHP Randy Keisler to the 60-day disabled list,TRUE,2002,New York Yankees,Randy Keisler,transferred,60,FALSE,NA
+2002-06-27,Orlando Hernandez: Reinstated RHP Orlando Hernandez from the 15-day disabled list,TRUE,2002,New York Yankees,Orlando Hernandez,activated,15,FALSE,NA
+2002-06-27,San Diego Padres Optioned first baseman Kevin Barker to Triple-A Portland and activated right-handed pitcher Kevin Jarvis from the 15-Day Disabled List.,TRUE,2002,San Diego Padres,Kevin Barker,activated,15,FALSE,NA
+2002-06-27,Seattle Mariners RHP Jeff Nelson reinstated from the 15-day DL.,TRUE,2002,Seattle Mariners,Jeff Nelson,activated,15,FALSE,NA
+2002-06-28,Tendinitis right shoulder - retroactive to June 27) on 15-day disabled list,TRUE,2002,Anaheim Angels,Ed Gill,placed,15,TRUE,2002-06-27
+2002-06-28,Chad Kreuter: Placed Chad Kreuter (C) on the 15-day disabled list with a contusion of the lower left leg.,TRUE,2002,Los Angeles Dodgers,Chad Kreuter,placed,15,FALSE,NA
+2002-06-28,Sterling Hitchcock: Placed LHP Sterling Hitchcock on the 15-day disabled list,TRUE,2002,New York Yankees,Sterling Hitchcock,placed,15,FALSE,NA
+2002-06-30,Minnesota Twins Placed RHP Matt Kinney on 15-day disabled list with right posterior rotator cuff strain.,TRUE,2002,Minnesota Twins,Matt Kinney,placed,15,FALSE,NA
+2002-06-30,New York Mets Activated RHP Grant Roberts from 15-day DL.,TRUE,2002,New York Mets,Grant Roberts,activated,15,FALSE,NA
+2002-06-30,"Toronto Blue Jays Chris Woodward: Placed INF Chris Woodward on the 15-day DL with right groin strain, retro to June 20",TRUE,2002,Toronto Blue Jays,Chris Woodward,placed,15,FALSE,NA
+2002-07-01,Chicago White Sox Activated catcher Sandy Alomar from the 15-day DL,TRUE,2002,Chicago White Sox,Sandy Alomar,activated,15,FALSE,NA
+2002-07-01,San Diego Padres Placed right-handed pitcher Dave Lundquist on the 15-Day Disabled List (retroactive to June 29) with a right shoulder strain and recalled left-handed pitcher Kevin Pickford from Triple-A Portland.,TRUE,2002,San Diego Padres,Kevin Pickford,placed,15,TRUE,2002-06-29
+2002-07-02,"Arizona Diamondbacks Placed IF Erubiel Durazo on 15-day DL, retro to June 30, with a strained right oblique muscle.",TRUE,2002,Arizona Diamondbacks,Erubiel Durazo,placed,15,FALSE,NA
+2002-07-02,Boston Red Sox Placed INF Carlos Baerga on the 15-day DL with a strained left hamstring,TRUE,2002,Boston Red Sox,Carlos Baerga,placed,15,FALSE,NA
+2002-07-02,Chicago Cubs Cubs activate RHP Flash Gordon from the 60-day DL.,TRUE,2002,Chicago Cubs,Don Crow,activated,60,FALSE,NA
+2002-07-02,Ricky Gutierrez: The Indians today announced that they have activated INF RICKY GUTIERREZ from the 15-day disabled list.,TRUE,2002,Cleveland Indians,Ricky Gutierrez,activated,15,FALSE,NA
+2002-07-02,"Carlos Hernandez: Carlos Hernandez, LHP, has been placed on the 15-day Disabled List due to left shoulder soreness.",TRUE,2002,Houston Astros,Carlos Hernandez,placed,15,FALSE,NA
+2002-07-02,New York Mets Placed RHP Steve Trachsel on the 15-day DL.,TRUE,2002,New York Mets,Steve Trachsel,placed,15,FALSE,NA
+2002-07-03,San Francisco Giants Placed OF Marvin Benard on the 15-day DL with torn cartilage in his left knee,TRUE,2002,San Francisco Giants,Marvin Benard,placed,15,FALSE,NA
+2002-07-04,"Arizona Diamondbacks Placed RHP Todd Stottlemyre on the 15-day DL, retro to June 27 due to right elbow surgery.",TRUE,2002,Arizona Diamondbacks,Todd Stottlemyre,placed,15,FALSE,NA
+2002-07-05,San Diego Padres Placed outfielder Ray Lankford on the 15-Day Disabled List (retroactive to July 4) with a right hamstring strain and purchased the contract of outfielder Trenidad Hubbard from Triple-A Portland.,TRUE,2002,San Diego Padres,Ray Lankford,placed,15,TRUE,2002-07-04
+2002-07-06,Seattle Mariners RHP Ryan Franklin placed on the 15-day DL with viral infection.,TRUE,2002,Seattle Mariners,Ryan Franklin,placed,15,FALSE,NA
+2002-07-10,Seattle Mariners RHP Rafael Soriano placed on the 15-day DL.,TRUE,2002,Seattle Mariners,Rafael Soriano,placed,15,FALSE,NA
+2002-07-11,Recalled from rehabilitation and activated from 60-day disabled list Shawn Wooten (C/INF).,TRUE,2002,Anaheim Angels,Shawn Wooten,activated,60,FALSE,NA
+2002-07-11,Boston Red Sox Reinstated INF Rey Sanchez from the 15-day DL,TRUE,2002,Boston Red Sox,Rey Sanchez,activated,15,FALSE,NA
+2002-07-11,Texas Rangers John Rocker: Placed LHP John Rocker on the 15-day disabled list.,TRUE,2002,Texas Rangers,John Rocker,placed,15,FALSE,NA
+2002-07-11,Rich Rodriguez: Activated left-handed pitcher Rich Rodriguez from the 60-day disabled list.,TRUE,2002,Texas Rangers,Rich Rodriguez,activated,60,FALSE,NA
+2002-07-11,Toronto Blue Jays Activated IF Chris Woodward from the 15 day DL and optioned OF Pedro Swann to Triple-A Syracuse.,TRUE,2002,Toronto Blue Jays,Chris Woodward,activated,15,FALSE,NA
+2002-07-12,Arizona Diamondbacks Activated IF Matt Williams from the 60-day DL.,TRUE,2002,Arizona Diamondbacks,Matt Williams,activated,60,FALSE,NA
+2002-07-12,Matt Lawton: The Cleveland Indians announced that they have placed RF MATT LAWTON on the 15-day disabled list with a strained left calf.,TRUE,2002,Cleveland Indians,Matt Lawton,placed,15,FALSE,NA
+2002-07-12,Los Angeles Dodgers Chad Kreuter: Reinstated Chad Kreuter from the disabled list.,TRUE,2002,Los Angeles Dodgers,Chad Kreuter,activated,NA,FALSE,NA
+2002-07-12,"New York Mets Recalled RHP Mark Corey from his Major League rehabilitation assignment, activated him from the 15-day DL, and optioned to Triple-A Norfolk.",TRUE,2002,New York Mets,Mark Corey,activated,15,FALSE,NA
+2002-07-12,Pittsburgh Pirates Recalled RHP Josias Manzanillo from injury rehab assignment and reinstated him from the 15-day disabled list,TRUE,2002,Pittsburgh Pirates,Josias Manzanillo,activated,15,FALSE,NA
+2002-07-12,Recalled from rehab and activated infielder Phil Nevin from the 15-Day Disabled List.,TRUE,2002,San Diego Padres,Phil Nevin,activated,15,FALSE,NA
+2002-07-12,Placed right-handed pitcher Kevin Jarvis on the 60-Day Disabled List with a right-flexor strain and purchased the contract of right-handed pitcher Tom Davey.,TRUE,2002,San Diego Padres,Kevin Jarvis,placed,60,FALSE,NA
+2002-07-12,"Placed left-handed pitcher Eric Cyr on the 15-Day Disabled List, retroactive to July 3, with left rotator-cuff tendinitis and activated right-handed pitcher Bobby Jones from the 15-Day Disabled list.",TRUE,2002,San Diego Padres,Eric Cyr,placed,15,TRUE,2002-07-03
+2002-07-12,Ryan Rupe: The Rays have reinstated pitcher Ryan Rupe from the 15-day DL.,TRUE,2002,Tampa Bay Devil Rays,Ryan Rupe,activated,15,FALSE,NA
+2002-07-13,possible torn left labrum - retroactive to July 5) on 15-day disabled list,TRUE,2002,Anaheim Angels,Ron Cey,placed,15,TRUE,2002-07-05
+2002-07-13,New York Mets Placed RHP Grant Roberts on the 15-day DL with tendonitis in his right shoulder.,TRUE,2002,New York Mets,Grant Roberts,placed,15,FALSE,NA
+2002-07-13,Roger Clemens: Placed RHP Roger Clemens on 15-day disabled list (groin),TRUE,2002,New York Yankees,Roger Clemens,placed,15,FALSE,NA
+2002-07-13,St. Louis Cardinals J.D. Drew: Activated OF J.D. Drew from the 15-day DL.,TRUE,2002,St. Louis Cardinals,J.D. Drew,activated,15,FALSE,NA
+2002-07-14,"Houston Astros Brian L. Hunter: Brian L. Hunter, OF, has been placed on the 15-day disabled list after the 31-year-old outfielder underwent an appendectomy Sunday evening.",TRUE,2002,Houston Astros,Brian L. Hunter,placed,15,FALSE,NA
+2002-07-14,Minnesota Twins Placed LHP Jose Rodriguez on the 15-day disabled list with left elbow inflammation.,TRUE,2002,Minnesota Twins,Jose Rodriguez,placed,15,FALSE,NA
+2002-07-14,Seattle Mariners RHP Ryan Franklin activated from the 15-day DL.,TRUE,2002,Seattle Mariners,Ryan Franklin,activated,15,FALSE,NA
+2002-07-15,Infected abrasion left Achilles - retroactive to July 12) on 15-day disabled list,TRUE,2002,Anaheim Angels,Don Lee,placed,15,TRUE,2002-07-12
+2002-07-15,Atlanta Braves Placed RHP Darren Holmes on the 15-Day DL retroactive to July 7 (laceration on right thumb).,TRUE,2002,Atlanta Braves,Darren Holmes,placed,15,TRUE,2002-07-07
+2002-07-15,Activated RHP Albie Lopez from the 15-Day DL.,TRUE,2002,Atlanta Braves,Albie Lopez,activated,15,FALSE,NA
+2002-07-15,Boston Red Sox Placed LHP Alan Embree on the 15-day DL with left elbow inflammation,TRUE,2002,Boston Red Sox,Alan Embree,placed,15,FALSE,NA
+2002-07-15,recalled RHP Rolando Arrojo from his rehab assignment and reinstated him from the 15-day DL.,TRUE,2002,Boston Red Sox,Rolando Arrojo,activated,15,FALSE,NA
+2002-07-16,Atlanta Braves Activated 2B Marcus Giles from 15-Day DL and optioned to Triple-A Richmond.,TRUE,2002,Atlanta Braves,Marcus Giles,activated,15,FALSE,NA
+2002-07-16,Baltimore Orioles Mike Bordick: SS Mike Bordick placed on 15-day DL with hairline fracture of right kneecap,TRUE,2002,Baltimore Orioles,Mike Bordick,placed,15,FALSE,NA
+2002-07-16,St. Louis Cardinals Garrett Stephenson: Transferred P Garrett Stephenson from the 15-day DL to the 60-day DL.,TRUE,2002,St. Louis Cardinals,Garrett Stephenson,transferred,60,FALSE,NA
+2002-07-16,Andy Benes: Activated P Andy Benes from the 60-day DL.,TRUE,2002,St. Louis Cardinals,Andy Benes,activated,60,FALSE,NA
+2002-07-16,"Ryan Rupe: The Rays placed RHP Ryan Rupe on the 15-day DL (right patellar tendinitis), retroactive to July 15.",TRUE,2002,Tampa Bay Devil Rays,Ryan Rupe,placed,15,TRUE,2002-07-15
+2002-07-17,Atlanta Braves Activated SS Mark DeRosa from the 15-Day DL.,TRUE,2002,Atlanta Braves,Mark DeRosa,activated,15,FALSE,NA
+2002-07-17,Chicago Cubs Cubs place C Joe Girardi on 15-day DL with rib injury.,TRUE,2002,Chicago Cubs,Joe Girardi,placed,15,FALSE,NA
+2002-07-17,"Cincinnati Reds Joey Hamilton: RHP Joey Hamilton today went on the 15-day disabled list, retroactive to July 8, with a strained left hamstring.",TRUE,2002,Cincinnati Reds,Joey Hamilton,placed,15,TRUE,2002-07-08
+2002-07-17,"T.J. Mathews: T.J. Mathews, RHP, was activated from the Disabled List.",TRUE,2002,Houston Astros,T.J. Mathews,activated,NA,FALSE,NA
+2002-07-17,Tampa Bay Devil Rays Wilson Alvarez: The Rays have placed LHP Wilson Alvarez on the 15-day disabled list with left elbow tendonitis.,TRUE,2002,Tampa Bay Devil Rays,Wilson Alvarez,placed,15,FALSE,NA
+2002-07-18,Greg Norton: Activated Greg Norton from the 15-day DL.,TRUE,2002,Texas Rangers,Greg Norton,activated,15,FALSE,NA
+2002-07-18,Tampa Bay Devil Rays Luis De Los Santos: The Rays have selected RHP Luis De Los Santos from AAA Durham to replace LHP Wilson Alvarez who yesterday was placed on the 15-day disabled list with left elbow tendonitis.,TRUE,2002,Tampa Bay Devil Rays,Luis De Los Santos,placed,15,FALSE,NA
+2002-07-18,Texas Rangers Rusty Greer: Transferred Rusty Greer from the 15 to the 60-day DL.,TRUE,2002,Texas Rangers,Rusty Greer,transferred,60,FALSE,NA
+2002-07-19,Minnesota Twins Activated RHP Joe Mays from 60-day disabled list.,TRUE,2002,Minnesota Twins,Joe Mays,activated,60,FALSE,NA
+2002-07-19,"New York Mets Placed infielder/outfielder Joe McEwing on the 15-day disabled list, retroactive to July 14 with a left rib cage strain.",TRUE,2002,New York Mets,Joe McEwing,placed,15,TRUE,2002-07-14
+2002-07-20,"Arizona Diamondbacks Placed RHP Rick Helling on 15-day DL, retro to July 16, with sprained right ankle.",TRUE,2002,Arizona Diamondbacks,Rick Helling,placed,15,FALSE,NA
+2002-07-20,"Placed IF Greg Colbrunn on 15-day DL, retro to July 18, with strained right calf.",TRUE,2002,Arizona Diamondbacks,Greg Colbrunn,placed,15,FALSE,NA
+2002-07-20,Activated IF Jay Bell from 60-day DL.,TRUE,2002,Arizona Diamondbacks,Jay Bell,activated,60,FALSE,NA
+2002-07-20,Boston Red Sox Recalled RHP Dustin Hermanson from injury rehab assignment and reinstated him from the 15-day DL,TRUE,2002,Boston Red Sox,Dustin Hermanson,activated,15,FALSE,NA
+2002-07-20,Cleveland Indians Travis Fryman: The Indians announced that they have placed 3B TRAVIS FRYMAN on the 15-day disabled list with inflammation in his right shoulder retroactive to July 17.,TRUE,2002,Cleveland Indians,Travis Fryman,placed,15,TRUE,2002-07-17
+2002-07-20,Charles Nagy: The Indians announced that they have activated RHP CHARLES NAGY from the 15-day disabled list.,TRUE,2002,Cleveland Indians,Charles Nagy,activated,15,FALSE,NA
+2002-07-20,Jaret Wright: Indians announced that they have activated RHP JARET WRIGHT from the 60-day disabled list.,TRUE,2002,Cleveland Indians,Jaret Wright,activated,60,FALSE,NA
+2002-07-20,Kansas City Royals Activated OF Chuck Knoblauch from the disabled list and optioned OF Brandon Berger to Triple-A Omaha.,TRUE,2002,Kansas City Royals,Chuck Knoblauch,activated,NA,FALSE,NA
+2002-07-20,"San Diego Padres Placed catcher Wiki Gonzalez on the 15-Day Disabled List, retroactive to July 18, with a right hip flexor strain and purchased the contract of catcher Wil Nieves from Triple-A Portland.",TRUE,2002,San Diego Padres,Wiki Gonzalez,placed,15,TRUE,2002-07-18
+2002-07-21,Jeff Reboulet: Placed Jeff Reboulet (Inf) on the 15-day disabled list with a strained lower back.,TRUE,2002,Los Angeles Dodgers,Jeff Reboulet,placed,15,FALSE,NA
+2002-07-22,Ken Griffey Jr.: The Reds today reinstated from the 15-day disabled list OF Ken Griffey Jr..,TRUE,2002,Cincinnati Reds,Ken Griffey Jr.,activated,15,FALSE,NA
+2002-07-22,New York Mets Activated right-handed pitcher Steve Trachsel from the 15-day disabled list.,TRUE,2002,New York Mets,Steve Trachsel,activated,15,FALSE,NA
+2002-07-22,Philadelphia Phillies Placed RHP Robert Person on the 15-day DL with shoulder and elbow pain.,TRUE,2002,Philadelphia Phillies,Robert Person,placed,15,FALSE,NA
+2002-07-22,Toronto Blue Jays Activated RHP Luke Prokopec from the 15-day DL and optioned RHP Brian Bowles to Triple-A Syracuse.,TRUE,2002,Toronto Blue Jays,Luke Prokopec,activated,15,FALSE,NA
+2002-07-23,Bob Wickman: The Indians today announced that they have placed RHP BOB WICKMAN on the 15-day disabled list with a muscle strain in his right forearm.,TRUE,2002,Cleveland Indians,Bob Wickman,placed,15,FALSE,NA
+2002-07-23,Minnesota Twins Activated RHP Bob Wells from 15-day disabled list.,TRUE,2002,Minnesota Twins,Bob Wells,activated,15,FALSE,NA
+2002-07-24,Boston Red Sox Placed RHP Dustin Hermanson on the 15-day DL with a left elbow staph infection,TRUE,2002,Boston Red Sox,Dustin Hermanson,placed,15,FALSE,NA
+2002-07-24,Kansas City Royals OF Mark Quinn transferred from the 15-day to the 60-day disabled list and removed from the 40-man roster.,TRUE,2002,Kansas City Royals,Mark Quinn,transferred,60,FALSE,NA
+2002-07-24,"Placed first baseman Mike Sweeney on the 15-day disabled list, retroactive to July 14 with hip and back soreness.",TRUE,2002,Kansas City Royals,Mike Sweeney,placed,15,TRUE,2002-07-14
+2002-07-24,Transferred RHP Ricky Bottalico from the 15-day to the 60-day DL.,TRUE,2002,Philadelphia Phillies,Ricky Bottalico,transferred,60,FALSE,NA
+2002-07-25,"Houston Astros Dave Mlicki: Dave Mlicki, RHP, was activated from the Disabled List.",TRUE,2002,Houston Astros,Dave Mlicki,activated,NA,FALSE,NA
+2002-07-25,"Oakland Athletics Placed pitcher Ted Lilly on the 15-day disabled list, retroactive to July 21, with inflammation in his left shoulder",TRUE,2002,Oakland Athletics,Ted Lilly,placed,15,TRUE,2002-07-21
+2002-07-25,San Francisco Giants Placed OF Tsuyoshi Shinjo on the 15-day DL with a strained right hamstring,TRUE,2002,San Francisco Giants,Tsuyoshi Shinjo,placed,15,FALSE,NA
+2002-07-26,Boston Red Sox Reinstated INF Carlos Baerga from the 15-day DL,TRUE,2002,Boston Red Sox,Carlos Baerga,activated,15,FALSE,NA
+2002-07-26,"Mariano Rivera: Placed RHP Mariano Rivera on 15-day disabled list (right shoulder), retroactive to 7/21",TRUE,2002,New York Yankees,Mariano Rivera,placed,15,TRUE,2002-07-21
+2002-07-27,"Atlanta Braves Placed RHP Kevin Gyrboski on the 15-Day DL, retroactive to July 24 (sore right elbow).",TRUE,2002,Atlanta Braves,Kevin Gryboski,placed,15,TRUE,2002-07-24
+2002-07-27,Activated RHP Darren Holmes from the 15-Day DL.,TRUE,2002,Atlanta Braves,Darren Holmes,activated,15,FALSE,NA
+2002-07-27,Matt Lawton: The Cleveland Indians today announced that they have activated RF MATT LAWTON from the 15-day disabled list.,TRUE,2002,Cleveland Indians,Matt Lawton,activated,15,FALSE,NA
+2002-07-27,Kansas City Royals Reinstated RHP Blake Stein from the disabled list and optioned RHP Brad Voyles to Triple-A Omaha.,TRUE,2002,Kansas City Royals,Blake Stein,activated,NA,FALSE,NA
+2002-07-27,Minnesota Twins Placed RHP Mike Jackson on the 15-day disabled list with tendonitis in his right rotator cuff.,TRUE,2002,Minnesota Twins,Mike Jackson,placed,15,FALSE,NA
+2002-07-27,Montreal Expos Placed RHP Tony Armas Jr. on the 15-day disabled list (strained lower back),TRUE,2002,Montreal Expos,Tony Armas,placed,15,FALSE,NA
+2002-07-27,San Francisco Giants Placed RHP Jay Witasick on the 15-day DL with a contusion on his left foot,TRUE,2002,San Francisco Giants,Jay Witasick,placed,15,FALSE,NA
+2002-07-27,moved LHP Jason Christiansen to the 60-day DL.,TRUE,2002,San Francisco Giants,Jason Christiansen,transferred,60,FALSE,NA
+2002-07-27,"Texas Rangers Francisco Cordero: Activated P Francisco Cordero from the DL and optioned Reynaldo Garcia to Triple - A, Oklahoma.",TRUE,2002,Texas Rangers,Francisco Cordero,activated,NA,FALSE,NA
+2002-07-28,"Arizona Diamondbacks Placed C Damian Miller on 15-day disabled list, retro to July 24, with a strained lower back.",TRUE,2002,Arizona Diamondbacks,Damian Miller,placed,15,FALSE,NA
+2002-07-28,Activated 1B Erubiel Durazo from the 15-day DL.,TRUE,2002,Arizona Diamondbacks,Erubiel Durazo,activated,15,FALSE,NA
+2002-07-29,Boston Red Sox Alan Embree: Reinstated LHP Alan Embree from the 15-day DL.,TRUE,2002,Boston Red Sox,Alan Embree,activated,15,FALSE,NA
+2002-07-29,Chad Paronto: The Indians announced that they have placed RHP CHAD PARONTO on the 15-day disabled list with tendonitis in his right elbow.,TRUE,2002,Cleveland Indians,Chad Paronto,placed,15,FALSE,NA
+2002-07-30,Todd Dunwoody: Indians today activated OF TODD DUNWOODY from the 15-day DL and outrighted him to AAA Buffalo...He was placed on the disabled list on June 22 with a sprained left foot and ankle...He was on the last day of a 20-day rehab assignment in AAA BUffalo.,TRUE,2002,Cleveland Indians,Todd Dunwoody,activated,15,FALSE,NA
+2002-07-30,Colorado Rockies Kent Mercker: Reinstated P Kent Mercker from the 15-day DL.,TRUE,2002,Colorado Rockies,Kent Mercker,activated,15,FALSE,NA
+2002-07-30,Transfered INF Dave Hollins from the 15-day DL to the 60-day DL.,TRUE,2002,Philadelphia Phillies,Dave Hollins,transferred,60,FALSE,NA
+2002-07-31,Activated INF Joe McEwing from the 15-day disabled list and recalled LHP MIke Bacsik from Norfolk.,TRUE,2002,New York Mets,Joe McEwing,activated,15,FALSE,NA
+2002-07-31,Transferred LHP John Franco and RHP Kane Davis to 60-day DL.,TRUE,2002,New York Mets,John Franco,transferred,60,FALSE,NA
+2002-07-31,"In addition, the Mets activated INF Jorge Toca from the 15-day minor league DL, recalled him to the Major League club and also placed him on the 60-day DL.",TRUE,2002,New York Mets,Jorge Toca,activated,15,FALSE,NA
+2002-08-01,Anaheim Angels Recalled from rehabilitation and activated from 15-day disabled list Bengie Molina (C),TRUE,2002,Anaheim Angels,Bengie Molina,activated,15,FALSE,NA
+2002-08-01,Atlanta Braves Placed C Javy Lopez on the 15-Day DL (inflammation in right shoulder).,TRUE,2002,Atlanta Braves,Javy Lopez,placed,15,FALSE,NA
+2002-08-01,Chicago Cubs Cubs activate C Joe Girardi from the 15-day DL.,TRUE,2002,Chicago Cubs,Joe Girardi,activated,15,FALSE,NA
+2002-08-01,Travis Fryman: The Cleveland Indians today announced that they have activated 3B TRAVIS FRYMAN from the 15-day disabled list.,TRUE,2002,Cleveland Indians,Travis Fryman,activated,15,FALSE,NA
+2002-08-01,Kansas City Royals Optioned RHP Kris Wilson to Double-A Wichita and activated LHP Jeremy Affeldt from the disabled list.,TRUE,2002,Kansas City Royals,Kris Wilson,activated,NA,FALSE,NA
+2002-08-01,Montreal Expos Wil Cordero: Placed OF/INF Wil Cordero on the 15-day disabled list (left calf strain).,TRUE,2002,Montreal Expos,Wil Cordero,placed,15,FALSE,NA
+2002-08-01,"Pittsburgh Pirates Recalled RHP Ryan Vogelsong from his rehab assignment, reinstated him from the 60-day disabled list and optioned him to Double-A Altoona",TRUE,2002,Pittsburgh Pirates,Ryan Vogelsong,activated,60,FALSE,NA
+2002-08-01,Transferred LHP Dave Williams from the 15-day disabled list to the 60-day disabled list.,TRUE,2002,Pittsburgh Pirates,Dave Williams,transferred,60,FALSE,NA
+2002-08-01,Russ Johnson: The Rays transferred INF Russ Johnson from the restricted list to the 15-day DL.,TRUE,2002,Tampa Bay Devil Rays,Russ Johnson,transferred,15,FALSE,NA
+2002-08-02,Chicago Cubs Cubs place RHP Jon Lieber on 15-day DL with elbow tendinitis.,TRUE,2002,Chicago Cubs,Jon Lieber,placed,15,FALSE,NA
+2002-08-02,Milwaukee Brewers Placed LHP Jimmy Osting on the 15-day disabled list retroactive to July 14 with a strained left shoulder,TRUE,2002,Milwaukee Brewers,Jimmy Osting,placed,15,TRUE,2002-07-14
+2002-08-02,Pittsburgh Pirates Recalled OF Armando Rios from his rehab assignment and reinstated him from the 15-day disabled list,TRUE,2002,Pittsburgh Pirates,Armando Rios,activated,15,FALSE,NA
+2002-08-02,Seattle Mariners RHP Rafael Soriano reinstated from the 15-day DL and optioned to double-A San Antonio.,TRUE,2002,Seattle Mariners,Rafael Soriano,activated,15,FALSE,NA
+2002-08-03,Minnesota Twins Activated RHP Brad Radke from 15-day disabled list.,TRUE,2002,Minnesota Twins,Brad Radke,activated,15,FALSE,NA
+2002-08-03,San Diego Padres Reinstated left-handed pitcher Eric Cyr from the 15-Day Disabled List and optioned him to Triple-A Portland.,TRUE,2002,San Diego Padres,Eric Cyr,activated,15,FALSE,NA
+2002-08-06,Todd Ritchie: Placed RHP Todd Ritchie on the 15-day DL (retroactive to Aug. 4) with inflammation in his right shoulder.,TRUE,2002,Chicago White Sox,Todd Ritchie,placed,15,TRUE,2002-08-04
+2002-08-06,Cincinnati Reds Elmer Dessens: The Reds today returned from a rehabilitation assignment and reinstated from the 15-day disabled list RHP Joey Hamilton.,TRUE,2002,Cincinnati Reds,Elmer Dessens,activated,15,FALSE,NA
+2002-08-06,"He takes the roster spot of RHP Elmer Dessens, who today went on the 15-day DL, retroactive to 8/2, with a strained right groin.",TRUE,2002,Cincinnati Reds,Elmer Dessens,placed,15,TRUE,2002-08-02
+2002-08-06,Joey Hamilton: The Reds today returned from a rehabilitation assignment and reinstated from the 15-day disabled list RHP Joey Hamilton.,TRUE,2002,Cincinnati Reds,Joey Hamilton,activated,15,FALSE,NA
+2002-08-06,Wilson Alvarez: The Devil Rays reinstated LHP Wilson Alvarez from the 15-day DL.,TRUE,2002,Tampa Bay Devil Rays,Wilson Alvarez,activated,15,FALSE,NA
+2002-08-07,Atlanta Braves Placed LHP Mike Remlinger on 15-Day DL (strained left groin).,TRUE,2002,Atlanta Braves,Mike Remlinger,placed,15,FALSE,NA
+2002-08-07,Baltimore Orioles Activated 1B Jeff Conine from 15-day DL.,TRUE,2002,Baltimore Orioles,Jeff Conine,activated,15,FALSE,NA
+2002-08-07,Boston Red Sox Placed RHP Rolando Arrojo on the 15-day DL with a bulging disk in his lower back,TRUE,2002,Boston Red Sox,Rolando Arrojo,placed,15,FALSE,NA
+2002-08-07,Minnesota Twins Placed LHP Eric Milton on the 15-day disabled list with an injured left knee.,TRUE,2002,Minnesota Twins,Eric Milton,placed,15,FALSE,NA
+2002-08-07,Roger Clemens: Reinstated RHP Roger Clemens from the 15-day disabled list,TRUE,2002,New York Yankees,Roger Clemens,activated,15,FALSE,NA
+2002-08-08,"San Diego Padres Oliver Perez: Placed on the 15-Day Disabled List, retroactive to August 7, with a left-posterior shoulder strain.",TRUE,2002,San Diego Padres,Oliver Perez,placed,15,TRUE,2002-08-07
+2002-08-09,Baltimore Orioles Placed RHP Sidney Ponson on the 15-day DL (right shoulder tendinitis).,TRUE,2002,Baltimore Orioles,Sidney Ponson,placed,15,FALSE,NA
+2002-08-09,Activated RHP Jason Johnson from the 15-day DL.,TRUE,2002,Baltimore Orioles,Jason Johnson,activated,15,FALSE,NA
+2002-08-09,"Cincinnati Reds Brady Clark: The Reds today returned from a rehabilitation assignment and reinstated from the 15-day disabled list 1B Sean Casey (left shoulder)...he takes the roster spot of OF Brady Clark, who was optioned to Louisville.",TRUE,2002,Cincinnati Reds,Brady Clark,activated,15,FALSE,NA
+2002-08-09,"Sean Casey: The Reds today returned from a rehabilitation assignment and reinstated from the 15-day disabled list 1B Sean Casey (left shoulder)...he takes the roster spot of OF Brady Clark, who was optioned to Louisville.",TRUE,2002,Cincinnati Reds,Sean Casey,activated,15,FALSE,NA
+2002-08-09,"Seattle Mariners Luis Ugueto, IF, placed on the 15-day DL with a sprained left wrist.",TRUE,2002,Seattle Mariners,Luis Ugueto,placed,15,FALSE,NA
+2002-08-10,Atlanta Braves Placed 1B Wes Helms on 15-Day DL (sprained right thumb).,TRUE,2002,Atlanta Braves,Wes Helms,placed,15,FALSE,NA
+2002-08-10,Bob Wickman: The Cleveland Indians today announced that they have activated RHP BOB WICKMAN from the 15-day disabled list.,TRUE,2002,Cleveland Indians,Bob Wickman,activated,15,FALSE,NA
+2002-08-10,Nick Johnson: Placed 1B Nick Johnson on the 15-day disabled list (left wrist),TRUE,2002,New York Yankees,Nick Johnson,placed,15,FALSE,NA
+2002-08-11,"Toronto Blue Jays Carlos Delgado, 1B, placed on the 15-day DL, retroactive to August 9, with tightness in his lower back.",TRUE,2002,Toronto Blue Jays,Carlos Delgado,placed,15,TRUE,2002-08-09
+2002-08-13,Chicago Cubs Cubs place RHP Juan Cruz on 15-day disabled list (retroactive to Aug. 10) with right arm fatigue.,TRUE,2002,Chicago Cubs,Juan Cruz,placed,15,TRUE,2002-08-10
+2002-08-13,"Julio Lugo: Julio Lugo, INF, was placed on the 15-day Disabled List.",TRUE,2002,Houston Astros,Julio Lugo,placed,15,FALSE,NA
+2002-08-13,Kansas City Royals Activated 1B Mike Sweeney from the disabled list.,TRUE,2002,Kansas City Royals,Mike Sweeney,activated,NA,FALSE,NA
+2002-08-13,San Francisco Giants Activated OF Tsuyoshi Shinjo from the 15-day DL,TRUE,2002,San Francisco Giants,Tsuyoshi Shinjo,activated,15,FALSE,NA
+2002-08-13,placed OF Shawon Dunston on the 15-day DL (retroactive to Aug. 9) with a right hip pointer and a right thumb sprain.,TRUE,2002,San Francisco Giants,Shawon Dunston,placed,15,TRUE,2002-08-09
+2002-08-15,"Scott Sullivan: Following Thursday night''s game, RHP Scott Sullivan went on the 15-day disabled list, retroactive to August 10, with tendinitis in his right shoulder.",TRUE,2002,Cincinnati Reds,Scott Sullivan,placed,15,TRUE,2002-08-10
+2002-08-15,"Bob Wickman: The Cleveland Indians today announced that they have placed RHP BOB WICKMAN on the 15-day disabled list with a strained tendon in his right elbow, retroactive to August 11.",TRUE,2002,Cleveland Indians,Bob Wickman,placed,15,TRUE,2002-08-11
+2002-08-15,Los Angeles Dodgers Giovanni Carrara: Placed Giovanni Carrara (RHP) on the 15-day disabled list (retroactive to Aug. 11) with a strained muscle in his right forearm,TRUE,2002,Los Angeles Dodgers,Giovanni Carrara,placed,15,TRUE,2002-08-11
+2002-08-15,reinstated Kevin Brown(RHP) from the disabled list.,TRUE,2002,Los Angeles Dodgers,Kevin Brown,activated,NA,FALSE,NA
+2002-08-15,Minnesota Twins Activated RHP Mike Jackson from 15-day disabled list.,TRUE,2002,Minnesota Twins,Mike Jackson,activated,15,FALSE,NA
+2002-08-15,"San Diego Padres Placed right-handed pitcher Bobby J. Jones on the 15-Day Disabled List, retroactive to August 11, with a lower-back strain and recalled left-handed pitcher Mike Bynum from Triple-A Portland.",TRUE,2002,San Diego Padres,Mike Bynum,placed,15,TRUE,2002-08-11
+2002-08-15,"Toronto Blue Jays Placed OF Jose Cruz on the 15-day DL, retroactive to August 10, with a left ankle sprain.",TRUE,2002,Toronto Blue Jays,Jose Cruz,placed,15,TRUE,2002-08-10
+2002-08-15,"Placed RHP Chris Carpenter on the 15-day DL, retroactive to August 14, with right shoulder instability.",TRUE,2002,Toronto Blue Jays,Chris Carpenter,placed,15,TRUE,2002-08-14
+2002-08-16,Atlanta Braves Placed C Henry Blanco on the 15-day DL and activated C Javier Lopez from the DL.,TRUE,2002,Atlanta Braves,Henry Blanco,placed,15,FALSE,NA
+2002-08-16,"Luis Pineda: RHP Luis Pineda today was transferred to the 60-day disabled list to make room on the 40-man roster for LHP Shawn Estes, acquired yesterday from the New York Mets.",TRUE,2002,New York Mets,Luis Pineda,transferred,60,FALSE,NA
+2002-08-16,Montreal Expos Activated OF/INF Wil Cordero from the 15-day disabled list,TRUE,2002,Montreal Expos,Wil Cordero,activated,15,FALSE,NA
+2002-08-16,Pittsburgh Pirates Placed LHP Ron Villone on the 15-day disabled list and purchased the contract of RHP Al Reyes from Triple-A Nashville.,TRUE,2002,Pittsburgh Pirates,Ron Villone,placed,15,FALSE,NA
+2002-08-16,San Francisco Giants Activated RHP Jay Witasick from the 15-day DL,TRUE,2002,San Francisco Giants,Jay Witasick,activated,15,FALSE,NA
+2002-08-16,placed RHP Manny Aybar on the 15-day DL (retroactive to Aug. 15) with a right hip flexor.,TRUE,2002,San Francisco Giants,Manny Aybar,placed,15,TRUE,2002-08-15
+2002-08-17,Baltimore Orioles Mike Bordick: Activated SS Mike Bordick from the 15-day disabled list.,TRUE,2002,Baltimore Orioles,Mike Bordick,activated,15,FALSE,NA
+2002-08-17,"Houston Astros Carlos Hernandez: Carlos Hernandez, LHP, was activated from the Disabled List.",TRUE,2002,Houston Astros,Carlos Hernandez,activated,NA,FALSE,NA
+2002-08-17,Milwaukee Brewers Jimmy Osting: Activated LHP Jimmy Osting from the 15-day disabled list,TRUE,2002,Milwaukee Brewers,Jimmy Osting,activated,15,FALSE,NA
+2002-08-18,Montreal Expos T.J. Tucker: Placed RHP T.J. Tucker on the 15-day disabled list (lower back sprain).,TRUE,2002,Montreal Expos,T.J. Tucker,placed,15,FALSE,NA
+2002-08-18,"Mariano Rivera: Placed RHP Mariano Rivera on the 15-day disabled list (right shoulder), retroactive to 8/16",TRUE,2002,New York Yankees,Mariano Rivera,placed,15,TRUE,2002-08-16
+2002-08-18,Ryan Rupe: The Rays transferred RHP Ryan Rupe (right knee surgery) from the 15- to the 60-day Disabled List.,TRUE,2002,Tampa Bay Devil Rays,Ryan Rupe,transferred,60,FALSE,NA
+2002-08-19,Atlanta Braves Activated RHP Kevin Gryboski from the DL and placed LHP John Foster on the 15-Day DL.,TRUE,2002,Atlanta Braves,Kevin Gryboski,activated,15,FALSE,NA
+2002-08-19,"Ricky Gutierrez: The Cleveland Indians today announced that they have placed 2B RICKY GUTIERREZ on the 15-day disabled list with an upper neck strain, retroactive to August 15.",TRUE,2002,Cleveland Indians,Ricky Gutierrez,placed,15,TRUE,2002-08-15
+2002-08-19,Florida Marlins Placed RHP A.J. Burnett on the 15-day DL with a bone bruise on his right elbow.,TRUE,2002,Florida Marlins,A.J. Burnett,placed,15,FALSE,NA
+2002-08-19,Minnesota Twins Activated RHP Matt Kinney from 15-day disabled list and optioned him to Edmonton of Pacific Coast League (AAA).,TRUE,2002,Minnesota Twins,Matt Kinney,activated,15,FALSE,NA
+2002-08-19,Montreal Expos Tony Armas: Activated RHP Tony Armas Jr. from the 15-day disabled list.,TRUE,2002,Montreal Expos,Tony Armas,activated,15,FALSE,NA
+2002-08-20,"Houston Astros Brian L. Hunter: Brian Hunter, OF, was activated from the Disabled List.",TRUE,2002,Houston Astros,Brian L. Hunter,activated,NA,FALSE,NA
+2002-08-20,Texas Rangers Todd Hollandsworth: Activated OF Todd Hollandsworth off the 15-day DL.,TRUE,2002,Texas Rangers,Todd Hollandsworth,activated,15,FALSE,NA
+2002-08-22,Boston Red Sox Reinstated RHP Dustin Hermanson from the 15-day DL,TRUE,2002,Boston Red Sox,Dustin Hermanson,activated,15,FALSE,NA
+2002-08-23,Einar Diaz: The Cleveland Indians today announced that they have placed CA EINAR DIAZ on the 15-day disabled list with a strained right elbow and a contusion to his right triceps.,TRUE,2002,Cleveland Indians,Einar Diaz,placed,15,FALSE,NA
+2002-08-23,Transferred outfielder Ray Lankford to the 60-Day Disabled List.,TRUE,2002,San Diego Padres,Ray Lankford,transferred,60,FALSE,NA
+2002-08-24,Florida Marlins Placed RHP Josh Beckett on the 15-day DL with a blister to his right middle finger.,TRUE,2002,Florida Marlins,Josh Beckett,placed,15,FALSE,NA
+2002-08-24,"Richard Hidalgo: Richard Hidalgo, OF, was placed on the 15-day Disabled List with a right hip strain.",TRUE,2002,Houston Astros,Richard Hidalgo,placed,15,FALSE,NA
+2002-08-24,Los Angeles Dodgers Brian Jordan: Placed Brian Jordan (OF) on the 15-day disabled list (retroactive to Aug. 17) with a strained lower back,TRUE,2002,Los Angeles Dodgers,Brian Jordan,placed,15,TRUE,2002-08-17
+2002-08-24,Milwaukee Brewers Raul Casanova: Activated C Raul Casanova from the 15-day disabled list,TRUE,2002,Milwaukee Brewers,Raul Casanova,activated,15,FALSE,NA
+2002-08-24,New York Mets Edgardo Alfonzo: Activated INF Edgardo Alfonzo from the 15-day disabled list.,TRUE,2002,New York Mets,Edgardo Alfonzo,activated,15,FALSE,NA
+2002-08-24,San Diego Padres Activated catcher Wiki Gonzalez from the 15-Day Disabled List and optioned catcher Wil Nieves to Triple-A Portland.,TRUE,2002,San Diego Padres,Wiki Gonzalez,activated,15,FALSE,NA
+2002-08-25,Atlanta Braves Activated LHP Mike Remlinger from the 15-day DL and optioned RHP Kevin Gryboski to Triple-A Richmond.,TRUE,2002,Atlanta Braves,Mike Remlinger,activated,15,FALSE,NA
+2002-08-25,Baltimore Orioles Placed OF Gary Matthews Jr. on the 15-day disabled list with tendinitis in his right wrist.,TRUE,2002,Baltimore Orioles,Gary Matthews,placed,15,FALSE,NA
+2002-08-25,Tony Graffanino: Infielder Tony Graffanino placed on the 15-day DL with an injured right knee.,TRUE,2002,Chicago White Sox,Tony Graffanino,placed,15,FALSE,NA
+2002-08-25,Toronto Blue Jays Activated 1B Carlos Delgado from the 15-Day DL.,TRUE,2002,Toronto Blue Jays,Carlos Delgado,activated,15,FALSE,NA
+2002-08-25,"Placed RHP Luke Prokopec on the 15-Day DL, retro to August 24 with posterior impingement, right elbow.",TRUE,2002,Toronto Blue Jays,Luke Prokopec,placed,15,FALSE,NA
+2002-08-27,Atlanta Braves Activated C Henry Blanco from the DL and optioned C Steve Torrealba to Triple-A Richmond.,TRUE,2002,Atlanta Braves,Henry Blanco,activated,NA,FALSE,NA
+2002-08-27,Austin Kearns: The Reds placed OF Austin Kearns on the 15-day disabled list with a strained left hamstring.,TRUE,2002,Cincinnati Reds,Austin Kearns,placed,15,FALSE,NA
+2002-08-27,Elmer Dessens: The Reds reinstated from the 15-day disabled list RHP Elmer Dessens.,TRUE,2002,Cincinnati Reds,Elmer Dessens,activated,15,FALSE,NA
+2002-08-28,Brian Moehler: The Reds today placed RHP Brian Moehler on the 15-day disabled list with a weak right shoulder.,TRUE,2002,Cincinnati Reds,Brian Moehler,placed,15,FALSE,NA
+2002-08-28,Jason Phillips: The Cleveland Indians today announced that they have placed RHP JASON PHILLIPS on the 15-day disabled list with inflammation in his right elbow.,TRUE,2002,Cleveland Indians,Jason Phillips,placed,15,FALSE,NA
+2002-08-28,Garrett Stephenson: Activated pitcher Garrett Stephenson from the 60-day DL.,TRUE,2002,St. Louis Cardinals,Garrett Stephenson,activated,60,FALSE,NA
+2002-08-29,St. Louis Cardinals Woody Williams: Activated P Woody Williams from the 15-day DL.,TRUE,2002,St. Louis Cardinals,Woody Williams,activated,15,FALSE,NA
+2002-08-29,Texas Rangers Hideki Irabu: Transferred Hideki Irabu from the 15-day to 60-day DL.,TRUE,2002,Texas Rangers,Hideki Irabu,transferred,60,FALSE,NA
+2002-08-30,Milton Bradley: The Indians today announced that they have activated CF MILTON BRADLEY from the 15-day disabled list.,TRUE,2002,Cleveland Indians,Milton Bradley,activated,15,FALSE,NA
+2002-08-31,Chicago Cubs Cubs activate RHP Jason Bere from 15-day DL and send RHP Carlos Zambrano down to Triple-A Iowa.,TRUE,2002,Chicago Cubs,Jason Bere,activated,15,FALSE,NA
+2002-08-31,Brandon Larson: The Reds today reinstated from the 15-day disabled list IF/OF Brandon Larson.,TRUE,2002,Cincinnati Reds,Brandon Larson,activated,15,FALSE,NA
+2002-09-01,Recalled from rehab and activated Julio Ramirez (OF) and Dennis Cook (LHP) from 15-day disabled list,TRUE,2002,Anaheim Angels,Julio Ramirez,activated,15,FALSE,NA
+2002-09-01,Activated Tim Salmon (OF) from 15-day disabled list.,TRUE,2002,Anaheim Angels,Tim Salmon,activated,15,FALSE,NA
+2002-09-01,Baltimore Orioles Sidney Ponson: Activated RHP Sidney Ponson from the 15-day disabled list.,TRUE,2002,Baltimore Orioles,Sidney Ponson,activated,15,FALSE,NA
+2002-09-01,"Cincinnati Reds Jose Silva: Prior to Sunday''s game, the Reds reinstated from the 15-day disabled list RHP Jose Silva.",TRUE,2002,Cincinnati Reds,Jose Silva,activated,15,FALSE,NA
+2002-09-01,Colorado Rockies Jose Ortiz: Activated Jose Ortiz off the 15-day DL.,TRUE,2002,Colorado Rockies,Jose Ortiz,activated,15,FALSE,NA
+2002-09-01,"Los Angeles Dodgers Giovanni Carrara: Reinstated Giovanni Carrara (RHP), Brian Jordan (OF) and Jeff Reboulet (INF) from the disabled list",TRUE,2002,Los Angeles Dodgers,Giovanni Carrara,activated,NA,FALSE,NA
+2002-09-01,Philadelphia Phillies Activated INF Dave Hollins from the 60-day DL.,TRUE,2002,Philadelphia Phillies,Dave Hollins,activated,60,FALSE,NA
+2002-09-01,Pittsburgh Pirates Reinstated LHP Ron Villone from the 15-day disabled list.,TRUE,2002,Pittsburgh Pirates,Ron Villone,activated,15,FALSE,NA
+2002-09-01,San Diego Padres Activated pitcher Adam Eaton from the 60-Day Disabled List.,TRUE,2002,San Diego Padres,Adam Eaton,activated,60,FALSE,NA
+2002-09-01,Activated pitcher Kevin Walker from the 15-Day Disabled List.,TRUE,2002,San Diego Padres,Kevin Walker,activated,15,FALSE,NA
+2002-09-01,"Activated OF Shawon Dunston, OF Marvin Benard and RHP Manny Aybar from the 15-day disabled list.",TRUE,2002,San Francisco Giants,Shawon Dunston,activated,15,FALSE,NA
+2002-09-01,Tampa Bay Devil Rays Greg Vaughn: The Rays have activated OF Greg Vaughn from the 15-day disabled list.,TRUE,2002,Tampa Bay Devil Rays,Greg Vaughn,activated,15,FALSE,NA
+2002-09-02,Minnesota Twins Activated LHP Eric Milton from the 15-day DL.,TRUE,2002,Minnesota Twins,Eric Milton,activated,15,FALSE,NA
+2002-09-02,San Diego Padres Activated pitchers Bobby J. Jones and Oliver Perez from the 15-Day Disabled List.,TRUE,2002,San Diego Padres,Oliver Perez,activated,15,FALSE,NA
+2002-09-02,Texas Rangers Rudy Seanez: Activated P Rudy Seanez from the 60-day DL.,TRUE,2002,Texas Rangers,Rudy Seanez,activated,60,FALSE,NA
+2002-09-03,transferred LHP Jeff Wallace from the 15-day DL to the 60-day DL.,TRUE,2002,Boston Red Sox,Jeff Wallace,transferred,60,FALSE,NA
+2002-09-03,Cleveland Indians Roy Smith: The Indians have placed RHP JAKE WESTBROOK on the 15-day disabled list with inflammation in his right elbow (retro to Aug. 26) and have recalled RHP ROY SMITH from AAA Buffalo.,TRUE,2002,Cleveland Indians,Roy Smith,placed,15,FALSE,NA
+2002-09-03,Jake Westbrook: The Indians have placed RHP JAKE WESTBROOK on the 15-day disabled list with inflammation in his right elbow (retro to Aug. 26) and have recalled RHP ROY SMITH from AAA Buffalo.,TRUE,2002,Cleveland Indians,Jake Westbrook,placed,15,FALSE,NA
+2002-09-03,placed LHP Shane Nance on the 60-day disabled list with a torn right biceps tendon,TRUE,2002,Milwaukee Brewers,Shane Nance,placed,60,FALSE,NA
+2002-09-03,New York Yankees Nick Johnson: Reinstated 1B Nick Johnson from the 15-day disabled list,TRUE,2002,New York Yankees,Nick Johnson,activated,15,FALSE,NA
+2002-09-03,Transferred RHP Chris Carpenter and RHP Luke Prokopec to the 60-day DL.,TRUE,2002,Toronto Blue Jays,Chris Carpenter,transferred,60,FALSE,NA
+2002-09-04,OF Kenny Kelly recalled from triple-A Tacoma and placed on the 60-day DL.,TRUE,2002,Seattle Mariners,Kenny Kelly,placed,60,FALSE,NA
+2002-09-05,Transferred RHP Robert Person from the 15-day DL to the 60-day DL.,TRUE,2002,Philadelphia Phillies,Robert Person,transferred,60,FALSE,NA
+2002-09-05,Tampa Bay Devil Rays Russ Johnson: INF Russ Johnson returned from his rehab assignment and reinstated from the 15-day DL.,TRUE,2002,Tampa Bay Devil Rays,Russ Johnson,activated,15,FALSE,NA
+2002-09-06,Chicago Cubs Cubs place RHP Jason Bere on 15-day DL with groin strain.,TRUE,2002,Chicago Cubs,Jason Bere,placed,15,FALSE,NA
+2002-09-07,activated RHP T.J. Tucker from the 15-day disabled list.,TRUE,2002,Montreal Expos,T.J. Tucker,activated,15,FALSE,NA
+2002-09-09,Brandon Larson: The Reds today placed IF/OF Brandon Larson on the 15-day disabled list with a broken left hand.,TRUE,2002,Cincinnati Reds,Brandon Larson,placed,15,FALSE,NA
+2002-09-09,"Sean Casey: The Reds today placed 1B Sean Casey on the 15-day disabled list, retroactive to Sunday, with a torn muscle in his left shoulder.",TRUE,2002,Cincinnati Reds,Sean Casey,placed,15,TRUE,NA
+2002-09-09,"Houston Astros Richard Hidalgo: Richard Hidalgo, OF, was activated from the 15-day Disabled List.",TRUE,2002,Houston Astros,Richard Hidalgo,activated,15,FALSE,NA
+2002-09-10,Chicago White Sox Todd Ritchie: RHP Todd Ritchie reinstated from the 15-day DL (right shoulder inflammation).,TRUE,2002,Chicago White Sox,Todd Ritchie,activated,15,FALSE,NA
+2002-09-10,placed INF/OF Jose Macias on 60-day disabled list with left wrist sprain.,TRUE,2002,Montreal Expos,Jose Macias,placed,60,FALSE,NA
+2002-09-10,New York Mets Grant Roberts: Activated RHP Grant Roberts from the 15-day disabled list,TRUE,2002,New York Mets,Grant Roberts,activated,15,FALSE,NA
+2002-09-11,Atlanta Braves Activated 1B/3B Wes Helms from the 15-day DL.,TRUE,2002,Atlanta Braves,Wes Helms,activated,15,FALSE,NA
+2002-09-11,Florida Marlins Activated RHP Josh Beckett from the 15-Day DL.,TRUE,2002,Florida Marlins,Josh Beckett,activated,15,FALSE,NA
+2002-09-11,tranferred RHP Chad Fox from the 15-day to the 60-day DL.,TRUE,2002,Milwaukee Brewers,Chad Fox,transferred,60,FALSE,NA
+2002-09-11,San Diego Padres Activated outfielder Ray Lankford from the 60-Day Disabled List.,TRUE,2002,San Diego Padres,Ray Lankford,activated,60,FALSE,NA
+2002-09-13,Boston Red Sox Rolando Arrojo: Reinstated RHP Rolando Arrojo from the 15-day DL.,TRUE,2002,Boston Red Sox,Rolando Arrojo,activated,15,FALSE,NA
+2002-09-14,Florida Marlins A.J. Burnett: Activated RHP A.J. Burnett from the 15-Day DL.,TRUE,2002,Florida Marlins,A.J. Burnett,activated,15,FALSE,NA
+2002-09-15,"Toronto Blue Jays Jose Cruz Jr., OF, activated from the 15-day DL.",TRUE,2002,Toronto Blue Jays,Jose Cruz,activated,15,FALSE,NA
+2002-09-21,New York Yankees Mariano Rivera: Reinstated RHP Mariano Rivera from the 15-day disabled list,TRUE,2002,New York Yankees,Mariano Rivera,activated,15,FALSE,NA
+2002-09-23,Jason LaRue: The Reds today placed C Jason LaRue on the 15-day disabled list.,TRUE,2002,Cincinnati Reds,Jason LaRue,placed,15,FALSE,NA
+2002-09-29,Anaheim Angels Activated Aaron Sele (RHP) from 15-day disabled list.,TRUE,2002,Anaheim Angels,Aaron Sele,activated,15,FALSE,NA
+2002-09-30,Ryan Rupe: The Rays have activated RHP Ryan Rupe from the 60-day DL.,TRUE,2002,Tampa Bay Devil Rays,Ryan Rupe,activated,60,FALSE,NA
+2002-09-30,Kevin McGlinchy: The Rays have activated RHP Kevin McGlinchy from the 60-day DL and designated him for assignment.,TRUE,2002,Tampa Bay Devil Rays,Kevin McGlinchy,activated,60,FALSE,NA
+2002-10-01,Montreal Expos Troy Mattes: Reinstated RHP Troy Mattes from the 60-day disabled list and designated him for assignment.,TRUE,2002,Montreal Expos,Troy Mattes,activated,60,FALSE,NA
+2002-10-02,Cincinnati Reds Gabe White: The Cincinnati Reds today reinstated from the 15-day disabled list LHP Gabe White.,TRUE,2002,Cincinnati Reds,Gabe White,activated,15,FALSE,NA
+2002-10-02,Jason LaRue: The Cincinnati Reds today reinstated from the 15-day disabled list C Jason LaRue.,TRUE,2002,Cincinnati Reds,Jason LaRue,activated,15,FALSE,NA
+2002-10-02,Brandon Larson: The Cincinnati Reds today reinstated from the 15-day disabled list IF Brandon Larson.,TRUE,2002,Cincinnati Reds,Brandon Larson,activated,15,FALSE,NA
+2002-10-02,Austin Kearns: The Cincinnati Reds today reinstated from the 15-day disabled list OF Austin Kearns.,TRUE,2002,Cincinnati Reds,Austin Kearns,activated,15,FALSE,NA
+2002-10-02,Sean Casey: The Cincinnati Reds today reinstated from the 15-day disabled list 1B Sean Casey.,TRUE,2002,Cincinnati Reds,Sean Casey,activated,15,FALSE,NA
+2002-10-02,Luis Pineda: The Cincinnati Reds today reinstated from the 60-day disabled list RHP Luis Pineda.,TRUE,2002,Cincinnati Reds,Luis Pineda,activated,60,FALSE,NA
+2002-10-02,Seth Etherton: The Cincinnati Reds today reinstated from the 60-day disabled list RHP Seth Etherton.,TRUE,2002,Cincinnati Reds,Seth Etherton,activated,60,FALSE,NA
+2002-10-02,"Reinstated right-handed pitchers Kevin Jarvis and Brian Tollberg, as well as left-handed pitchers Jose Nunez and Rob Ramsay from the 60-Day Disabled List.",TRUE,2002,San Diego Padres,Kevin Jarvis,activated,60,FALSE,NA
+2002-10-03,Activated RHP Kane Davis from the 60-day disabled list.,TRUE,2002,New York Mets,Kane Davis,activated,60,FALSE,NA
+2002-10-04,Activated INF/OF Jorge Toca from the 60-day disabled list.,TRUE,2002,New York Mets,Jorge Toca,activated,60,FALSE,NA
+2002-10-10,reinstated LHP Jeff Wallace and INF Calvin Pickering from the 60-day DL.,TRUE,2002,Boston Red Sox,Jeff Wallace,activated,60,FALSE,NA
+2002-10-22,New York Mets Activated LHP John Franco off the 60-day disabled list,TRUE,2002,New York Mets,John Franco,activated,60,FALSE,NA
+2002-10-26,New York Mets Activated LHP John Franco from the 60-day disabled list.,TRUE,2002,New York Mets,John Franco,activated,60,FALSE,NA
+2002-10-29,activated INF/OF Jose Macias from the 60-day disabled list.,TRUE,2002,Montreal Expos,Jose Macias,activated,60,FALSE,NA
+2002-11-05,Activated Steve Green (RHP) from 60-day disabled list.,TRUE,2002,Anaheim Angels,Steve Green,activated,60,FALSE,NA
+2002-11-06,Cleveland Indians Alex Escobar: Indians activated OF ALEX ESCOBAR from the 60-day disabled list.,TRUE,2002,Cleveland Indians,Alex Escobar,activated,60,FALSE,NA
+2002-11-06,Ricky Gutierrez: Indians activated INF RICKY GUTIERREZ from the 60-day disabled list.,TRUE,2002,Cleveland Indians,Ricky Gutierrez,activated,60,FALSE,NA
+2002-11-06,Bob Wickman: Activated RHP BOB WICKMAN from the 60-day disabled list.,TRUE,2002,Cleveland Indians,Bob Wickman,activated,60,FALSE,NA
+2002-11-06,Jake Westbrook: Indians activated RHP JAKE WESTBROOK from the 60-day disabled list.,TRUE,2002,Cleveland Indians,Jake Westbrook,activated,60,FALSE,NA
+2002-11-06,Chad Paronto: Activated RHP CHAD PARONTO from the 60-day disabled list.,TRUE,2002,Cleveland Indians,Chad Paronto,activated,60,FALSE,NA
+2002-11-11,"Houston Astros Doug Brocail: Doug Brocail, RHP, was activated from the Disabled List and declared free agency.",TRUE,2002,Houston Astros,Doug Brocail,activated,NA,FALSE,NA
+2002-11-18,Matt Miller: Lefthanded pitcher Matt Miller reinstated from 60-day disabled list.,TRUE,2002,Detroit Tigers,Matt Miller,activated,60,FALSE,NA
+2002-11-19,"Texas Rangers Activated pitchers Jovanny Cedeno and Jeff Zimmerman, infielder Frank Catalanotto and outfielder Rusty Greer from the 60-day disabled list",TRUE,2002,Texas Rangers,Jeff Zimmerman,activated,60,FALSE,NA
+2002-11-20,Reinstated IF Pat Meares and LHP Dave Williams from the 60-day disabled list,TRUE,2002,Pittsburgh Pirates,Pat Meares,activated,60,FALSE,NA

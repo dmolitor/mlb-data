@@ -1,0 +1,926 @@
+date,transaction,injured,year,team,player,type,length,is_retroactive,date_retroactive
+2014-02-08,Los Angeles Dodgers placed LHP Scott Elbert on the 60-day disabled list.,TRUE,2014,Los Angeles Dodgers,Scott Elbert,placed,60,FALSE,NA
+2014-02-13,Washington Nationals placed RHP Erik Davis on the 60-day disabled list.,TRUE,2014,Washington Nationals,Erik Davis,placed,60,FALSE,NA
+2014-02-17,Oakland Athletics placed LHP Eric O'Flaherty on the 60-day disabled list.,TRUE,2014,Oakland Athletics,Eric O'Flaherty,placed,60,FALSE,NA
+2014-03-03,Texas Rangers placed LHP Derek Holland on the 60-day disabled list.,TRUE,2014,Texas Rangers,Derek Holland,placed,60,FALSE,NA
+2014-03-07,San Diego Padres placed LHP Cory Luebke on the 60-day disabled list.,TRUE,2014,San Diego Padres,Cory Luebke,placed,60,FALSE,NA
+2014-03-15,"Los Angeles Dodgers placed LHP Onelki Garcia on the 60-day disabled list retroactive to March 14, 2014.",TRUE,2014,Los Angeles Dodgers,Onelki Garcia,placed,60,TRUE,2014-03-14
+2014-03-19,Arizona Diamondbacks placed LHP Matt Reynolds on the 15-day disabled list.,TRUE,2014,Arizona Diamondbacks,Matt Reynolds,placed,15,FALSE,NA
+2014-03-19,Arizona Diamondbacks placed LF Cody Ross on the 15-day disabled list.,TRUE,2014,Arizona Diamondbacks,Cody Ross,placed,15,FALSE,NA
+2014-03-19,Los Angeles Dodgers placed RHP Josh Beckett on the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Josh Beckett,placed,15,FALSE,NA
+2014-03-19,Los Angeles Dodgers placed RHP Chad Billingsley on the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Chad Billingsley,placed,15,FALSE,NA
+2014-03-19,Los Angeles Dodgers placed CF Matt Kemp on the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Matt Kemp,placed,15,FALSE,NA
+2014-03-20,Oakland Athletics placed RHP Jarrod Parker on the 60-day disabled list.,TRUE,2014,Oakland Athletics,Jarrod Parker,placed,60,FALSE,NA
+2014-03-21,Washington Nationals placed RHP Ross Ohlendorf on the 15-day disabled list.,TRUE,2014,Washington Nationals,Ross Ohlendorf,placed,15,FALSE,NA
+2014-03-23,"Atlanta Braves placed RHP Gavin Floyd on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Atlanta Braves,Gavin Floyd,placed,15,TRUE,2014-03-21
+2014-03-23,"Atlanta Braves placed RHP Brandon Beachy on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Atlanta Braves,Brandon Beachy,placed,15,TRUE,2014-03-21
+2014-03-23,"Atlanta Braves placed RHP Kris Medlen on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Atlanta Braves,Kris Medlen,placed,15,TRUE,2014-03-21
+2014-03-23,"Atlanta Braves placed LHP Mike Minor on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Atlanta Braves,Mike Minor,placed,15,TRUE,2014-03-21
+2014-03-23,"Atlanta Braves placed LHP Jonny Venters on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Atlanta Braves,Jonny Venters,placed,15,TRUE,2014-03-21
+2014-03-26,Texas Rangers placed RF Engel Beltre on the 60-day disabled list.,TRUE,2014,Texas Rangers,Engel Beltre,placed,60,FALSE,NA
+2014-03-26,Atlanta Braves transferred RHP Kris Medlen from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Atlanta Braves,Kris Medlen,transferred,60,FALSE,NA
+2014-03-26,Washington Nationals transferred RHP Ross Ohlendorf from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Washington Nationals,Ross Ohlendorf,transferred,60,FALSE,NA
+2014-03-26,Toronto Blue Jays placed LHP J.A. Happ on the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,J.A. Happ,placed,15,FALSE,NA
+2014-03-27,"Boston Red Sox placed LHP Craig Breslow on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Boston Red Sox,Craig Breslow,placed,15,TRUE,2014-03-21
+2014-03-27,"Boston Red Sox placed RHP Steven Wright on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Boston Red Sox,Steven Wright,placed,15,TRUE,2014-03-21
+2014-03-27,"Philadelphia Phillies placed RHP Mike Adams on the 15-day disabled list retroactive to March 26, 2014.",TRUE,2014,Philadelphia Phillies,Mike Adams,placed,15,TRUE,2014-03-26
+2014-03-27,"Philadelphia Phillies placed 2B Freddy Galvis on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Philadelphia Phillies,Freddy Galvis,placed,15,TRUE,2014-03-21
+2014-03-27,"Philadelphia Phillies placed RHP Miguel Alfredo Gonzalez on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Philadelphia Phillies,Miguel Alfredo Gonzalez,placed,15,TRUE,2014-03-21
+2014-03-27,"Philadelphia Phillies placed LHP Cole Hamels on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Philadelphia Phillies,Cole Hamels,placed,15,TRUE,2014-03-21
+2014-03-27,"Philadelphia Phillies placed RHP Ethan Martin on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Philadelphia Phillies,Ethan Martin,placed,15,TRUE,2014-03-21
+2014-03-27,"Philadelphia Phillies placed LF Darin Ruf on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Philadelphia Phillies,Darin Ruf,placed,15,TRUE,2014-03-21
+2014-03-28,"Colorado Rockies placed LHP Boone Logan on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Colorado Rockies,Boone Logan,placed,15,TRUE,2014-03-21
+2014-03-28,"Colorado Rockies placed RHP Jhoulys Chacin on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Colorado Rockies,Jhoulys Chacin,placed,15,TRUE,2014-03-21
+2014-03-28,"Oakland Athletics placed RHP Ryan Cook on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Oakland Athletics,Ryan Cook,placed,15,TRUE,2014-03-21
+2014-03-29,"Pittsburgh Pirates placed C Chris Stewart on the 15-day disabled list retroactive to March 21, 2014. right knee surgery",TRUE,2014,Pittsburgh Pirates,Chris Stewart,placed,15,TRUE,2014-03-21
+2014-03-29,"Pittsburgh Pirates placed LHP Jeff Locke on the 15-day disabled list retroactive to March 21, 2014. right side strain",TRUE,2014,Pittsburgh Pirates,Jeff Locke,placed,15,TRUE,2014-03-21
+2014-03-29,"Seattle Mariners placed RHP Hisashi Iwakuma on the 15-day disabled list retroactive to March 21, 2014. torn extensor tendon in right middle finger",TRUE,2014,Seattle Mariners,Hisashi Iwakuma,placed,15,TRUE,2014-03-21
+2014-03-29,"Seattle Mariners placed RHP Taijuan Walker on the 15-day disabled list retroactive to March 21, 2014. right shoulder impingement",TRUE,2014,Seattle Mariners,Taijuan Walker,placed,15,TRUE,2014-03-21
+2014-03-29,"Seattle Mariners placed RHP Stephen Pryor on the 15-day disabled list retroactive to March 21, 2014. recovery of right shoulder surgery",TRUE,2014,Seattle Mariners,Stephen Pryor,placed,15,TRUE,2014-03-21
+2014-03-29,"Washington Nationals placed RHP Doug Fister on the 15-day disabled list retroactive to March 23, 2014. right lat strain",TRUE,2014,Washington Nationals,Doug Fister,placed,15,TRUE,2014-03-23
+2014-03-29,"Oakland Athletics placed CF Craig Gentry on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Oakland Athletics,Craig Gentry,placed,15,TRUE,2014-03-21
+2014-03-29,"Oakland Athletics placed RHP A.J. Griffin on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Oakland Athletics,A.J. Griffin,placed,15,TRUE,2014-03-21
+2014-03-29,"Oakland Athletics placed RHP Fernando Rodriguez on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Oakland Athletics,Fernando Rodriguez,placed,15,TRUE,2014-03-21
+2014-03-29,"San Francisco Giants placed LHP Jeremy Affeldt on the 15-day disabled list retroactive to March 23, 2014.",TRUE,2014,San Francisco Giants,Jeremy Affeldt,placed,15,TRUE,2014-03-23
+2014-03-29,"San Francisco Giants placed 2B Marco Scutaro on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,San Francisco Giants,Marco Scutaro,placed,15,TRUE,2014-03-21
+2014-03-29,"Atlanta Braves placed RHP Cory Gearrin on the 15-day disabled list retroactive to March 26, 2014.",TRUE,2014,Atlanta Braves,Cory Gearrin,placed,15,TRUE,2014-03-26
+2014-03-29,Atlanta Braves transferred RHP Brandon Beachy from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Atlanta Braves,Brandon Beachy,transferred,60,FALSE,NA
+2014-03-29,Atlanta Braves transferred LHP Jonny Venters from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Atlanta Braves,Jonny Venters,transferred,60,FALSE,NA
+2014-03-29,"San Diego Padres placed LF Carlos Quentin on the 15-day disabled list retroactive to March 25, 2014.",TRUE,2014,San Diego Padres,Carlos Quentin,placed,15,TRUE,2014-03-25
+2014-03-29,"San Diego Padres placed RHP Josh Johnson on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,San Diego Padres,Josh Johnson,placed,15,TRUE,2014-03-21
+2014-03-29,"San Diego Padres placed RHP Casey Kelly on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,San Diego Padres,Casey Kelly,placed,15,TRUE,2014-03-21
+2014-03-29,"San Diego Padres placed CF Cameron Maybin on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,San Diego Padres,Cameron Maybin,placed,15,TRUE,2014-03-21
+2014-03-29,"San Diego Padres placed RHP Joe Wieland on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,San Diego Padres,Joe Wieland,placed,15,TRUE,2014-03-21
+2014-03-29,"Los Angeles Angels placed LHP Sean Burnett on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Los Angeles Angels,Sean Burnett,placed,15,TRUE,2014-03-21
+2014-03-29,"Los Angeles Angels placed RHP Ryan Brasier on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Los Angeles Angels,Ryan Brasier,placed,15,TRUE,2014-03-21
+2014-03-29,"Los Angeles Angels placed RHP Dane De La Rosa on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Los Angeles Angels,Dane De La Rosa,placed,15,TRUE,2014-03-21
+2014-03-29,"Los Angeles Angels placed LHP Brian Moran on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Los Angeles Angels,Brian Moran,placed,15,TRUE,2014-03-21
+2014-03-29,"Arizona Diamondbacks placed LHP Patrick Corbin on the 15-day disabled list retroactive to March 19, 2014.",TRUE,2014,Arizona Diamondbacks,Patrick Corbin,placed,15,TRUE,2014-03-19
+2014-03-29,"Arizona Diamondbacks placed RHP David Hernandez on the 15-day disabled list retroactive to March 27, 2014.",TRUE,2014,Arizona Diamondbacks,David Hernandez,placed,15,TRUE,2014-03-27
+2014-03-29,Detroit Tigers placed LF Andy Dirks on the 15-day disabled list.,TRUE,2014,Detroit Tigers,Andy Dirks,placed,15,FALSE,NA
+2014-03-29,Detroit Tigers placed SS Jose Iglesias on the 60-day disabled list.,TRUE,2014,Detroit Tigers,Jose Iglesias,placed,60,FALSE,NA
+2014-03-29,Detroit Tigers placed RHP Bruce Rondon on the 60-day disabled list.,TRUE,2014,Detroit Tigers,Bruce Rondon,placed,60,FALSE,NA
+2014-03-29,"Houston Astros placed RHP Alex White on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Houston Astros,Alex White,placed,15,TRUE,2014-03-21
+2014-03-29,"St. Louis Cardinals placed LHP Jaime Garcia on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,St. Louis Cardinals,Jaime Garcia,placed,15,TRUE,2014-03-21
+2014-03-29,"St. Louis Cardinals placed RHP Jason Motte on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,St. Louis Cardinals,Jason Motte,placed,15,TRUE,2014-03-21
+2014-03-30,"Cleveland Indians placed CF Michael Bourn on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Cleveland Indians,Michael Bourn,placed,15,TRUE,2014-03-21
+2014-03-30,"Cleveland Indians placed DH Jason Giambi on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Cleveland Indians,Jason Giambi,placed,15,TRUE,2014-03-21
+2014-03-30,"Chicago White Sox placed 2B Gordon Beckham on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Chicago White Sox,Gordon Beckham,placed,15,TRUE,2014-03-21
+2014-03-30,"Chicago White Sox placed 2B Jeff Keppinger on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Chicago White Sox,Jeff Keppinger,placed,15,TRUE,2014-03-21
+2014-03-30,"Kansas City Royals placed RHP Louis Coleman on the 15-day disabled list retroactive to March 24, 2014.",TRUE,2014,Kansas City Royals,Louis Coleman,placed,15,TRUE,2014-03-24
+2014-03-30,"Kansas City Royals placed RHP Luke Hochevar on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Kansas City Royals,Luke Hochevar,placed,15,TRUE,2014-03-21
+2014-03-30,"Milwaukee Brewers placed LHP Tom Gorzelanny on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Milwaukee Brewers,Tom Gorzelanny,placed,15,TRUE,2014-03-21
+2014-03-30,Tampa Bay Rays placed RHP Jeremy Hellickson on the 15-day disabled list.,TRUE,2014,Tampa Bay Rays,Jeremy Hellickson,placed,15,FALSE,NA
+2014-03-30,Tampa Bay Rays placed RHP Juan Carlos Oviedo on the 15-day disabled list.,TRUE,2014,Tampa Bay Rays,Juan Carlos Oviedo,placed,15,FALSE,NA
+2014-03-30,Tampa Bay Rays placed 2B Tim Beckham on the 15-day disabled list.,TRUE,2014,Tampa Bay Rays,Tim Beckham,placed,15,FALSE,NA
+2014-03-30,"Cincinnati Reds placed LHP Aroldis Chapman on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Cincinnati Reds,Aroldis Chapman,placed,15,TRUE,2014-03-21
+2014-03-30,"Cincinnati Reds placed RHP Jonathan Broxton on the 15-day disabled list retroactive to March 22, 2014.",TRUE,2014,Cincinnati Reds,Jonathan Broxton,placed,15,TRUE,2014-03-22
+2014-03-30,"Cincinnati Reds placed RHP Mat Latos on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Cincinnati Reds,Mat Latos,placed,15,TRUE,2014-03-21
+2014-03-30,"Cincinnati Reds placed LHP Sean Marshall on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Cincinnati Reds,Sean Marshall,placed,15,TRUE,2014-03-21
+2014-03-30,"Cincinnati Reds placed C Devin Mesoraco on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Cincinnati Reds,Devin Mesoraco,placed,15,TRUE,2014-03-21
+2014-03-30,"Cincinnati Reds placed 2B Skip Schumaker on the 15-day disabled list retroactive to March 22, 2014.",TRUE,2014,Cincinnati Reds,Skip Schumaker,placed,15,TRUE,2014-03-22
+2014-03-30,Cincinnati Reds placed 3B Jack Hannahan on the 60-day disabled list.,TRUE,2014,Cincinnati Reds,Jack Hannahan,placed,60,FALSE,NA
+2014-03-30,"Chicago Cubs placed RHP Kyuji Fujikawa on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Chicago Cubs,Kyuji Fujikawa,placed,15,TRUE,2014-03-21
+2014-03-30,"Chicago Cubs placed RHP Jake Arrieta on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Chicago Cubs,Jake Arrieta,placed,15,TRUE,2014-03-21
+2014-03-30,"Chicago Cubs placed RHP James McDonald on the 60-day disabled list retroactive to February 13, 2014.",TRUE,2014,Chicago Cubs,James McDonald,placed,60,TRUE,2014-02-13
+2014-03-30,"Toronto Blue Jays placed RHP Casey Janssen on the 15-day disabled list retroactive to March 29, 2014.",TRUE,2014,Toronto Blue Jays,Casey Janssen,placed,15,TRUE,2014-03-29
+2014-03-30,"Texas Rangers placed RHP Yu Darvish on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Texas Rangers,Yu Darvish,placed,15,TRUE,2014-03-21
+2014-03-30,"Texas Rangers placed LHP Matt Harrison on the 15-day disabled list retroactive to March 29, 2014.",TRUE,2014,Texas Rangers,Matt Harrison,placed,15,TRUE,2014-03-29
+2014-03-30,"Texas Rangers placed 2B Jurickson Profar on the 15-day disabled list retroactive to March 23, 2014.",TRUE,2014,Texas Rangers,Jurickson Profar,placed,15,TRUE,2014-03-23
+2014-03-30,Texas Rangers placed C Geovany Soto on the 60-day disabled list.,TRUE,2014,Texas Rangers,Geovany Soto,placed,60,FALSE,NA
+2014-03-30,"Baltimore Orioles placed 3B Michael Almanzar on the 15-day disabled list retroactive to March 23, 2014.",TRUE,2014,Baltimore Orioles,Mel Almada,placed,15,TRUE,2014-03-23
+2014-03-30,"Baltimore Orioles placed 3B Manny Machado on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Baltimore Orioles,Manny Machado,placed,15,TRUE,2014-03-21
+2014-03-30,"Baltimore Orioles placed LF Francisco Peguero on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Baltimore Orioles,Francisco Peguero,placed,15,TRUE,2014-03-21
+2014-03-30,"Baltimore Orioles placed LF Nolan Reimold on the 15-day disabled list retroactive to March 26, 2014.",TRUE,2014,Baltimore Orioles,Nolan Reimold,placed,15,TRUE,2014-03-26
+2014-03-30,Baltimore Orioles placed RHP Edgmer Escalona on the 60-day disabled list.,TRUE,2014,Baltimore Orioles,Edgmer Escalona,placed,60,FALSE,NA
+2014-03-30,"Los Angeles Dodgers placed LHP Clayton Kershaw on the 15-day disabled list retroactive to March 23, 2014.",TRUE,2014,Los Angeles Dodgers,Clayton Kershaw,placed,15,TRUE,2014-03-23
+2014-03-30,"Miami Marlins placed 2B Rafael Furcal on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Miami Marlins,Rafael Furcal,placed,15,TRUE,2014-03-21
+2014-03-30,"Miami Marlins placed 3B Ed Lucas on the 15-day disabled list retroactive to March 28, 2014.",TRUE,2014,Miami Marlins,Ed Lucas,placed,15,TRUE,2014-03-28
+2014-03-30,New York Mets placed RHP Matt Harvey on the 60-day disabled list.,TRUE,2014,New York Mets,Matt Harvey,placed,60,FALSE,NA
+2014-03-30,"New York Mets placed LHP Jon Niese on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,New York Mets,Ty Blach,placed,15,TRUE,2014-03-21
+2014-03-30,"Arizona Diamondbacks placed RHP Daniel Hudson on the 15-day disabled list retroactive to March 29, 2014.",TRUE,2014,Arizona Diamondbacks,Daniel Hudson,placed,15,TRUE,2014-03-29
+2014-03-30,"St. Louis Cardinals placed 2B Mark Ellis on the 15-day disabled list retroactive to March 27, 2014.",TRUE,2014,St. Louis Cardinals,Mark Ellis,placed,15,TRUE,2014-03-27
+2014-03-30,"Houston Astros placed RHP Jesse Crain on the 15-day disabled list retroactive to March 21, 2014.",TRUE,2014,Houston Astros,Jesse Crain,placed,15,TRUE,2014-03-21
+2014-03-31,"Boston Red Sox placed RF Shane Victorino on the 15-day disabled list retroactive to March 30, 2014.",TRUE,2014,Boston Red Sox,Shane Victorino,placed,15,TRUE,2014-03-30
+2014-04-01,Toronto Blue Jays placed SS Jose Reyes on the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,Jose Reyes,placed,15,FALSE,NA
+2014-04-01,"New York Yankees placed SS Brendan Ryan on the 15-day disabled list retroactive to March 22, 2014.",TRUE,2014,New York Yankees,Brendan Ryan,placed,15,TRUE,2014-03-22
+2014-04-02,"Washington Nationals placed C Wilson Ramos on the 15-day disabled list retroactive to April 1, 2014.",TRUE,2014,Washington Nationals,Wilson Ramos,placed,15,TRUE,2014-04-01
+2014-04-02,"New York Mets placed RHP Bobby Parnell on the 15-day disabled list retroactive to April 1, 2014.",TRUE,2014,New York Mets,Bobby Parnell,placed,15,TRUE,2014-04-01
+2014-04-02,"Colorado Rockies placed RHP Tyler Chatwood on the 15-day disabled list retroactive to March 29, 2014.",TRUE,2014,Colorado Rockies,Tyler Chatwood,placed,15,TRUE,2014-03-29
+2014-04-02,"Los Angeles Dodgers placed RHP Brian Wilson on the 15-day disabled list retroactive to March 31, 2014.",TRUE,2014,Los Angeles Dodgers,Brian Wilson,placed,15,TRUE,2014-03-31
+2014-04-02,Atlanta Braves transferred RHP Cory Gearrin from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Atlanta Braves,Cory Gearrin,transferred,60,FALSE,NA
+2014-04-03,New York Mets placed CF Chris Young on the 15-day disabled list.,TRUE,2014,New York Mets,Chris Young,placed,15,FALSE,NA
+2014-04-03,"Oakland Athletics placed SS Jake Elmore on the 15-day disabled list retroactive to March 28, 2014.",TRUE,2014,Oakland Athletics,Jake Elmore,placed,15,TRUE,2014-03-28
+2014-04-04,Chicago White Sox placed RHP Nate Jones on the 15-day disabled list.,TRUE,2014,Chicago White Sox,Nate Jones,placed,15,FALSE,NA
+2014-04-04,Los Angeles Dodgers activated LF Matt Kemp from the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Matt Kemp,activated,15,FALSE,NA
+2014-04-04,Arizona Diamondbacks transferred LHP Patrick Corbin from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Arizona Diamondbacks,Patrick Corbin,transferred,60,FALSE,NA
+2014-04-05,New York Yankees placed 1B Mark Teixeira on the 15-day disabled list. right hamstring strain,TRUE,2014,New York Yankees,Mark Teixeira,placed,15,FALSE,NA
+2014-04-06,New York Mets activated LHP Jon Niese from the 15-day disabled list.,TRUE,2014,New York Mets,Ted Cox,activated,15,FALSE,NA
+2014-04-06,Washington Nationals placed LF Scott Hairston on the 15-day disabled list.,TRUE,2014,Washington Nationals,Scott Hairston,placed,15,FALSE,NA
+2014-04-06,Texas Rangers activated RHP Yu Darvish from the 15-day disabled list.,TRUE,2014,Texas Rangers,Yu Darvish,activated,15,FALSE,NA
+2014-04-06,"Boston Red Sox placed 3B Will Middlebrooks on the 15-day disabled list retroactive to April 5, 2014.",TRUE,2014,Boston Red Sox,Will Middlebrooks,placed,15,TRUE,2014-04-05
+2014-04-07,Oakland Athletics activated RHP Ryan Cook from the 15-day disabled list.,TRUE,2014,Oakland Athletics,Ryan Cook,activated,15,FALSE,NA
+2014-04-07,Minnesota Twins placed SS Jason Bartlett on the 15-day disabled list.,TRUE,2014,Minnesota Twins,Jason Bartlett,placed,15,FALSE,NA
+2014-04-07,Cincinnati Reds activated C Devin Mesoraco from the 15-day disabled list.,TRUE,2014,Cincinnati Reds,Devin Mesoraco,activated,15,FALSE,NA
+2014-04-07,"Texas Rangers placed LHP Joe Saunders on the 15-day disabled list retroactive to April 5, 2014.",TRUE,2014,Texas Rangers,Joe Saunders,placed,15,TRUE,2014-04-05
+2014-04-07,Colorado Rockies activated LHP Boone Logan from the 15-day disabled list.,TRUE,2014,Colorado Rockies,Boone Logan,activated,15,FALSE,NA
+2014-04-07,Kansas City Royals placed LHP Francisley Bueno on the 15-day disabled list.,TRUE,2014,Kansas City Royals,Francisley Bueno,placed,15,FALSE,NA
+2014-04-07,Kansas City Royals placed LHP Tim Collins on the 15-day disabled list.,TRUE,2014,Kansas City Royals,Tim Collins,placed,15,FALSE,NA
+2014-04-07,Baltimore Orioles transferred LF Nolan Reimold from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Baltimore Orioles,Nolan Reimold,transferred,60,FALSE,NA
+2014-04-08,"New York Yankees placed RHP David Robertson on the 15-day disabled list retroactive to April 7, 2014.",TRUE,2014,New York Yankees,David Robertson,placed,15,TRUE,2014-04-07
+2014-04-08,Cincinnati Reds activated RHP Jonathan Broxton from the 15-day disabled list.,TRUE,2014,Cincinnati Reds,Jonathan Broxton,activated,15,FALSE,NA
+2014-04-08,Cincinnati Reds placed RHP Trevor Bell on the 15-day disabled list. inflammation in right elbow,TRUE,2014,Cincinnati Reds,Trevor Bell,placed,15,FALSE,NA
+2014-04-08,"Los Angeles Dodgers placed C A.J. Ellis on the 15-day disabled list retroactive to April 6, 2014.",TRUE,2014,Los Angeles Dodgers,A.J. Ellis,placed,15,TRUE,2014-04-06
+2014-04-08,Tampa Bay Rays placed LHP Matt Moore on the 15-day disabled list.,TRUE,2014,Tampa Bay Rays,Matt Moore,placed,15,FALSE,NA
+2014-04-09,Boston Red Sox activated LHP Craig Breslow from the 15-day disabled list.,TRUE,2014,Boston Red Sox,Craig Breslow,activated,15,FALSE,NA
+2014-04-09,"Miami Marlins placed RHP Jacob Turner on the 15-day disabled list retroactive to April 4, 2014.",TRUE,2014,Miami Marlins,Jacob Turner,placed,15,TRUE,2014-04-04
+2014-04-09,"Minnesota Twins placed LF Oswaldo Arcia on the 15-day disabled list retroactive to April 5, 2014.",TRUE,2014,Minnesota Twins,Oswaldo Arcia,placed,15,TRUE,2014-04-05
+2014-04-09,Los Angeles Angels placed LF Josh Hamilton on the 15-day disabled list.,TRUE,2014,Los Angeles Angels,Josh Hamilton,placed,15,FALSE,NA
+2014-04-09,Los Angeles Dodgers activated RHP Josh Beckett from the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Josh Beckett,activated,15,FALSE,NA
+2014-04-09,Seattle Mariners placed LHP James Paxton on the 15-day disabled list.,TRUE,2014,Seattle Mariners,James Paxton,placed,15,FALSE,NA
+2014-04-10,Chicago White Sox placed RF Avisail Garcia on the 15-day disabled list.,TRUE,2014,Chicago White Sox,Avisail Garcia,placed,15,FALSE,NA
+2014-04-11,Los Angeles Angels activated RHP Dane De La Rosa from the 15-day disabled list.,TRUE,2014,Los Angeles Angels,Dane De La Rosa,activated,15,FALSE,NA
+2014-04-12,"Minnesota Twins placed LF Josh Willingham on the 15-day disabled list retroactive to April 7, 2014.",TRUE,2014,Minnesota Twins,Josh Willingham,placed,15,TRUE,2014-04-07
+2014-04-12,Texas Rangers transferred 2B Jurickson Profar from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Texas Rangers,Jurickson Profar,transferred,60,FALSE,NA
+2014-04-12,Washington Nationals placed CF Denard Span on the 7-day disabled list.,TRUE,2014,Washington Nationals,Denard Span,placed,7,FALSE,NA
+2014-04-12,Oakland Athletics activated CF Craig Gentry from the 15-day disabled list.,TRUE,2014,Oakland Athletics,Craig Gentry,activated,15,FALSE,NA
+2014-04-13,"Milwaukee Brewers placed RHP Brandon Kintzler on the 15-day disabled list retroactive to April 9, 2014.",TRUE,2014,Milwaukee Brewers,Brandon Kintzler,placed,15,TRUE,2014-04-09
+2014-04-13,Washington Nationals placed 3B Ryan Zimmerman on the 15-day disabled list.,TRUE,2014,Washington Nationals,Ryan Zimmerman,placed,15,FALSE,NA
+2014-04-13,Tampa Bay Rays placed RHP Alex Cobb on the 15-day disabled list.,TRUE,2014,Tampa Bay Rays,Alex Cobb,placed,15,FALSE,NA
+2014-04-13,Colorado Rockies activated RHP Tyler Chatwood from the 15-day disabled list.,TRUE,2014,Colorado Rockies,Tyler Chatwood,activated,15,FALSE,NA
+2014-04-13,Los Angeles Angels transferred LHP Brian Moran from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Los Angeles Angels,Brian Moran,transferred,60,FALSE,NA
+2014-04-13,"Texas Rangers placed 3B Adrian Beltre on the 15-day disabled list retroactive to April 9, 2014.",TRUE,2014,Texas Rangers,Adrian Beltre,placed,15,TRUE,2014-04-09
+2014-04-14,Toronto Blue Jays placed 2B Maicer Izturis on the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,Maicer Izturis,placed,15,FALSE,NA
+2014-04-14,Arizona Diamondbacks transferred RHP David Hernandez from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Arizona Diamondbacks,David Hernandez,transferred,60,FALSE,NA
+2014-04-14,"Colorado Rockies placed LHP Brett Anderson on the 15-day disabled list retroactive to April 13, 2014.",TRUE,2014,Colorado Rockies,Brett Anderson,placed,15,TRUE,2014-04-13
+2014-04-14,Toronto Blue Jays activated LHP J.A. Happ from the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,J.A. Happ,activated,15,FALSE,NA
+2014-04-15,Philadelphia Phillies activated RHP Mike Adams from the 15-day disabled list.,TRUE,2014,Philadelphia Phillies,Mike Adams,activated,15,FALSE,NA
+2014-04-15,St. Louis Cardinals activated 2B Mark Ellis from the 15-day disabled list.,TRUE,2014,St. Louis Cardinals,Mark Ellis,activated,15,FALSE,NA
+2014-04-15,New York Yankees placed C Francisco Cervelli on the 60-day disabled list.,TRUE,2014,New York Yankees,Francisco Cervelli,placed,60,FALSE,NA
+2014-04-15,Cleveland Indians activated CF Michael Bourn from the 15-day disabled list.,TRUE,2014,Cleveland Indians,Michael Bourn,activated,15,FALSE,NA
+2014-04-15,New York Mets placed CF Juan Lagares on the 15-day disabled list.,TRUE,2014,New York Mets,Juan Lagares,placed,15,FALSE,NA
+2014-04-15,Los Angeles Dodgers activated RHP Brian Wilson from the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Brian Wilson,activated,15,FALSE,NA
+2014-04-16,"Seattle Mariners placed RF Logan Morrison on the 15-day disabled list retroactive to April 15, 2014. strained right hamstring",TRUE,2014,Seattle Mariners,Logan Morrison,placed,15,TRUE,2014-04-15
+2014-04-16,Seattle Mariners placed RHP Blake Beavan on the 15-day disabled list.,TRUE,2014,Seattle Mariners,Blake Beavan,placed,15,FALSE,NA
+2014-04-16,Los Angeles Angels placed RF Kole Calhoun on the 15-day disabled list.,TRUE,2014,Los Angeles Angels,Kole Calhoun,placed,15,FALSE,NA
+2014-04-16,Los Angeles Angels transferred RHP Ryan Brasier from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Los Angeles Angels,Ryan Brasier,transferred,60,FALSE,NA
+2014-04-16,San Francisco Giants activated LHP Jeremy Affeldt from the 15-day disabled list.,TRUE,2014,San Francisco Giants,Jeremy Affeldt,activated,15,FALSE,NA
+2014-04-17,St. Louis Cardinals placed RHP Joe Kelly on the 15-day disabled list. left hamstring strain,TRUE,2014,St. Louis Cardinals,Joe Kelly,placed,15,FALSE,NA
+2014-04-17,Kansas City Royals placed CF Lorenzo Cain on the 15-day disabled list.,TRUE,2014,Kansas City Royals,Lorenzo Cain,placed,15,FALSE,NA
+2014-04-18,Texas Rangers placed RHP Tanner Scheppers on the 15-day disabled list.,TRUE,2014,Texas Rangers,Tanner Scheppers,placed,15,FALSE,NA
+2014-04-18,New York Mets activated LF Chris Young from the 15-day disabled list.,TRUE,2014,New York Mets,Chris Young,activated,15,FALSE,NA
+2014-04-18,Arizona Diamondbacks activated LF Cody Ross from the 15-day disabled list.,TRUE,2014,Arizona Diamondbacks,Cody Ross,activated,15,FALSE,NA
+2014-04-19,Toronto Blue Jays activated SS Jose Reyes from the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,Jose Reyes,activated,15,FALSE,NA
+2014-04-19,"Toronto Blue Jays placed 1B Adam Lind on the 15-day disabled list retroactive to April 16, 2014.",TRUE,2014,Toronto Blue Jays,Adam Lind,placed,15,TRUE,2014-04-16
+2014-04-19,Toronto Blue Jays transferred 2B Maicer Izturis from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Toronto Blue Jays,Maicer Izturis,transferred,60,FALSE,NA
+2014-04-19,Washington Nationals activated CF Denard Span from the 7-day disabled list.,TRUE,2014,Washington Nationals,Denard Span,activated,7,FALSE,NA
+2014-04-19,Cincinnati Reds activated LHP Sean Marshall from the 15-day disabled list.,TRUE,2014,Cincinnati Reds,Sean Marshall,activated,15,FALSE,NA
+2014-04-19,Pittsburgh Pirates activated C Chris Stewart from the 15-day disabled list.,TRUE,2014,Pittsburgh Pirates,Chris Stewart,activated,15,FALSE,NA
+2014-04-19,Chicago White Sox placed RHP Felipe Paulino on the 15-day disabled list.,TRUE,2014,Chicago White Sox,Felipe Paulino,placed,15,FALSE,NA
+2014-04-19,Texas Rangers placed RF Jim Adduci on the 15-day disabled list.,TRUE,2014,Texas Rangers,Jim Adduci,placed,15,FALSE,NA
+2014-04-20,New York Yankees activated 1B Mark Teixeira from the 15-day disabled list.,TRUE,2014,New York Yankees,Mark Teixeira,activated,15,FALSE,NA
+2014-04-20,New York Yankees placed RHP Ivan Nova on the 15-day disabled list.,TRUE,2014,New York Yankees,Ivan Nova,placed,15,FALSE,NA
+2014-04-20,"Milwaukee Brewers placed LF Logan Schafer on the 15-day disabled list retroactive to April 18, 2014.",TRUE,2014,Milwaukee Brewers,Logan Schafer,placed,15,TRUE,2014-04-18
+2014-04-21,Tampa Bay Rays activated RHP Juan Carlos Oviedo from the 15-day disabled list.,TRUE,2014,Tampa Bay Rays,Juan Carlos Oviedo,activated,15,FALSE,NA
+2014-04-21,"Detroit Tigers placed RHP Luke Putkonen on the 15-day disabled list retroactive to April 19, 2014.",TRUE,2014,Detroit Tigers,Luke Putkonen,placed,15,TRUE,2014-04-19
+2014-04-21,Detroit Tigers transferred LF Andy Dirks from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Detroit Tigers,Andy Dirks,transferred,60,FALSE,NA
+2014-04-21,Cleveland Indians activated DH Jason Giambi from the 15-day disabled list.,TRUE,2014,Cleveland Indians,Jason Giambi,activated,15,FALSE,NA
+2014-04-21,"Pittsburgh Pirates placed LHP Wandy Rodriguez on the 15-day disabled list retroactive to April 20, 2014.",TRUE,2014,Pittsburgh Pirates,Wandy Rodriguez,placed,15,TRUE,2014-04-20
+2014-04-21,"Houston Astros placed RHP Scott Feldman on the 15-day disabled list retroactive to April 18, 2014. bicep tendinitis",TRUE,2014,Houston Astros,Scott Feldman,placed,15,TRUE,2014-04-18
+2014-04-21,"Colorado Rockies placed RF Michael Cuddyer on the 15-day disabled list retroactive to April 18, 2014. left hamstring strain",TRUE,2014,Colorado Rockies,Michael Cuddyer,placed,15,TRUE,2014-04-18
+2014-04-21,Seattle Mariners activated RHP Hisashi Iwakuma from the 15-day disabled list.,TRUE,2014,Seattle Mariners,Hisashi Iwakuma,activated,15,FALSE,NA
+2014-04-22,New York Yankees activated RHP David Robertson from the 15-day disabled list.,TRUE,2014,New York Yankees,David Robertson,activated,15,FALSE,NA
+2014-04-22,"Chicago White Sox placed LHP Chris Sale on the 15-day disabled list retroactive to April 18, 2014.",TRUE,2014,Chicago White Sox,Chris Sale,placed,15,TRUE,2014-04-18
+2014-04-22,San Francisco Giants placed LHP David Huff on the 15-day disabled list.,TRUE,2014,San Francisco Giants,David Huff,placed,15,FALSE,NA
+2014-04-23,Texas Rangers placed LHP Pedro Figueroa on the 15-day disabled list.,TRUE,2014,Texas Rangers,Pedro Figueroa,placed,15,FALSE,NA
+2014-04-23,Philadelphia Phillies activated LHP Cole Hamels from the 15-day disabled list.,TRUE,2014,Philadelphia Phillies,Cole Hamels,activated,15,FALSE,NA
+2014-04-24,Chicago White Sox activated 2B Gordon Beckham from the 15-day disabled list.,TRUE,2014,Chicago White Sox,Gordon Beckham,activated,15,FALSE,NA
+2014-04-24,Chicago Cubs placed RF Justin Ruggiano on the 15-day disabled list.,TRUE,2014,Chicago Cubs,Justin Ruggiano,placed,15,FALSE,NA
+2014-04-24,"Arizona Diamondbacks placed LF Mark Trumbo on the 15-day disabled list retroactive to April 22, 2014.",TRUE,2014,Arizona Diamondbacks,Mark Trumbo,placed,15,TRUE,2014-04-22
+2014-04-24,New York Yankees transferred RHP Ivan Nova from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,New York Yankees,Ivan Nova,transferred,60,FALSE,NA
+2014-04-24,Boston Red Sox activated RF Shane Victorino from the 15-day disabled list.,TRUE,2014,Boston Red Sox,Shane Victorino,activated,15,FALSE,NA
+2014-04-25,Boston Red Sox activated 3B Will Middlebrooks from the 15-day disabled list.,TRUE,2014,Boston Red Sox,Will Middlebrooks,activated,15,FALSE,NA
+2014-04-25,San Diego Padres transferred RHP Josh Johnson from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,San Diego Padres,Josh Johnson,transferred,60,FALSE,NA
+2014-04-25,Texas Rangers activated 3B Adrian Beltre from the 15-day disabled list.,TRUE,2014,Texas Rangers,Adrian Beltre,activated,15,FALSE,NA
+2014-04-25,"Texas Rangers placed 3B Kevin Kouzmanoff on the 15-day disabled list retroactive to April 23, 2014.",TRUE,2014,Texas Rangers,Kevin Kouzmanoff,placed,15,TRUE,2014-04-23
+2014-04-25,Colorado Rockies transferred LHP Brett Anderson from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Colorado Rockies,Brett Anderson,transferred,60,FALSE,NA
+2014-04-25,"Houston Astros placed RHP Matt Albers on the 15-day disabled list retroactive to April 22, 2014.",TRUE,2014,Houston Astros,Matt Albers,placed,15,TRUE,2014-04-22
+2014-04-25,"San Diego Padres placed 3B Chase Headley on the 15-day disabled list retroactive to April 25, 2013.",TRUE,2014,San Diego Padres,Chase Headley,placed,15,TRUE,2014-04-25
+2014-04-26,"Pittsburgh Pirates placed RHP Jason Grilli on the 15-day disabled list retroactive to April 21, 2014.",TRUE,2014,Pittsburgh Pirates,Jason Grilli,placed,15,TRUE,2014-04-21
+2014-04-26,Pittsburgh Pirates placed C Russell Martin on the 15-day disabled list.,TRUE,2014,Pittsburgh Pirates,Russell Martin,placed,15,FALSE,NA
+2014-04-26,"Chicago White Sox placed 3B Conor Gillaspie on the 15-day disabled list retroactive to April 22, 2014.",TRUE,2014,Chicago White Sox,Conor Gillaspie,placed,15,TRUE,2014-04-22
+2014-04-26,Cincinnati Reds placed C Devin Mesoraco on the 15-day disabled list.,TRUE,2014,Cincinnati Reds,Devin Mesoraco,placed,15,FALSE,NA
+2014-04-26,"Chicago Cubs placed RHP Jose Veras on the 15-day disabled list retroactive to April 25, 2014.",TRUE,2014,Chicago Cubs,Jose Veras,placed,15,TRUE,2014-04-25
+2014-04-27,Detroit Tigers placed RHP Anibal Sanchez on the 15-day disabled list.,TRUE,2014,Detroit Tigers,Anibal Sanchez,placed,15,FALSE,NA
+2014-04-27,Chicago White Sox transferred RF Avisail Garcia from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Chicago White Sox,Avisail Garcia,transferred,60,FALSE,NA
+2014-04-27,"Washington Nationals placed LF Bryce Harper on the 15-day disabled list retroactive to April 26, 2014.",TRUE,2014,Washington Nationals,Bryce Harper,placed,15,TRUE,2014-04-26
+2014-04-27,San Diego Padres activated CF Cameron Maybin from the 15-day disabled list.,TRUE,2014,San Diego Padres,Cameron Maybin,activated,15,FALSE,NA
+2014-04-27,Texas Rangers activated LHP Matt Harrison from the 15-day disabled list.,TRUE,2014,Texas Rangers,Matt Harrison,activated,15,FALSE,NA
+2014-04-27,"Baltimore Orioles placed 1B Chris Davis on the 15-day disabled list retroactive to April 26, 2014.",TRUE,2014,Baltimore Orioles,Chris Davis,placed,15,TRUE,2014-04-26
+2014-04-27,"New York Yankees placed RHP Bruce Billings on the 15-day disabled list retroactive to April 26, 2014.",TRUE,2014,New York Yankees,Bruce Billings,placed,15,TRUE,2014-04-26
+2014-04-30,Los Angeles Dodgers transferred RHP Chad Billingsley from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Los Angeles Dodgers,Chad Billingsley,transferred,60,FALSE,NA
+2014-04-30,Colorado Rockies placed RHP Tyler Chatwood on the 15-day disabled list.,TRUE,2014,Colorado Rockies,Tyler Chatwood,placed,15,FALSE,NA
+2014-05-01,Baltimore Orioles activated 3B Manny Machado from the 15-day disabled list.,TRUE,2014,Baltimore Orioles,Manny Machado,activated,15,FALSE,NA
+2014-05-01,Cincinnati Reds placed LHP Tony Cingrani on the 15-day disabled list. left shoulder tendinitis,TRUE,2014,Cincinnati Reds,Tony Cingrani,placed,15,FALSE,NA
+2014-05-01,New York Mets activated CF Juan Lagares from the 15-day disabled list.,TRUE,2014,New York Mets,Juan Lagares,activated,15,FALSE,NA
+2014-05-02,Milwaukee Brewers placed RHP Jim Henderson on the 15-day disabled list.,TRUE,2014,Milwaukee Brewers,Jim Henderson,placed,15,FALSE,NA
+2014-05-02,Detroit Tigers placed RHP Joel Hanrahan on the 15-day disabled list. recovery from right elbow surgery,TRUE,2014,Detroit Tigers,Joel Hanrahan,placed,15,FALSE,NA
+2014-05-02,Houston Astros transferred RHP Jesse Crain from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Houston Astros,Jesse Crain,transferred,60,FALSE,NA
+2014-05-02,"Cleveland Indians placed 2B Jason Kipnis on the 15-day disabled list retroactive to April 30, 2014. strained right oblique",TRUE,2014,Cleveland Indians,Jason Kipnis,placed,15,TRUE,2014-04-30
+2014-05-02,Atlanta Braves activated LHP Mike Minor from the 15-day disabled list.,TRUE,2014,Atlanta Braves,Mike Minor,activated,15,FALSE,NA
+2014-05-02,Minnesota Twins placed CF Aaron Hicks on the 7-day disabled list. concussion-like symptoms,TRUE,2014,Minnesota Twins,Aaron Hicks,placed,7,FALSE,NA
+2014-05-02,"Los Angeles Dodgers placed LHP Hyun-Jin Ryu on the 15-day disabled list retroactive to April 28, 2014.",TRUE,2014,Los Angeles Dodgers,Hyun Jin Ryu,placed,15,TRUE,2014-04-28
+2014-05-02,"Kansas City Royals placed LHP Bruce Chen on the 15-day disabled list retroactive to April 25, 2014.",TRUE,2014,Kansas City Royals,Bruce Chen,placed,15,TRUE,2014-04-25
+2014-05-03,Miami Marlins activated RHP Jacob Turner from the 15-day disabled list.,TRUE,2014,Miami Marlins,Jacob Turner,activated,15,FALSE,NA
+2014-05-03,"Minnesota Twins placed RHP Mike Pelfrey on the 15-day disabled list retroactive to May 2, 2014. left groin strain",TRUE,2014,Minnesota Twins,Mike Pelfrey,placed,15,TRUE,2014-05-02
+2014-05-03,"Milwaukee Brewers placed RF Ryan Braun on the 15-day disabled list retroactive to April 27, 2014. right oblique strain",TRUE,2014,Milwaukee Brewers,Ryan Braun,placed,15,TRUE,2014-04-27
+2014-05-03,Chicago Cubs placed CF Ryan Sweeney on the 15-day disabled list.,TRUE,2014,Chicago Cubs,Ryan Sweeney,placed,15,FALSE,NA
+2014-05-03,Chicago Cubs activated RHP Jake Arrieta from the 15-day disabled list.,TRUE,2014,Chicago Cubs,Jake Arrieta,activated,15,FALSE,NA
+2014-05-03,Chicago Cubs transferred RHP Kyuji Fujikawa from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Chicago Cubs,Kyuji Fujikawa,transferred,60,FALSE,NA
+2014-05-03,Chicago White Sox placed CF Adam Eaton on the 15-day disabled list.,TRUE,2014,Chicago White Sox,Adam Eaton,placed,15,FALSE,NA
+2014-05-03,Chicago White Sox transferred RHP Nate Jones from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Chicago White Sox,Nate Jones,transferred,60,FALSE,NA
+2014-05-03,Cincinnati Reds activated CF Skip Schumaker from the 15-day disabled list.,TRUE,2014,Cincinnati Reds,Skip Schumaker,activated,15,FALSE,NA
+2014-05-03,"Pittsburgh Pirates placed RHP Stolmy Pimentel on the 15-day disabled list retroactive to May 2, 2014.",TRUE,2014,Pittsburgh Pirates,Stolmy Pimentel,placed,15,TRUE,2014-05-02
+2014-05-03,Los Angeles Angels placed 3B David Freese on the 15-day disabled list.,TRUE,2014,Los Angeles Angels,David Freese,placed,15,FALSE,NA
+2014-05-03,Toronto Blue Jays placed RHP Brandon Morrow on the 60-day disabled list.,TRUE,2014,Toronto Blue Jays,Brandon Morrow,placed,60,FALSE,NA
+2014-05-04,Atlanta Braves activated RHP Gavin Floyd from the 15-day disabled list.,TRUE,2014,Atlanta Braves,Gavin Floyd,activated,15,FALSE,NA
+2014-05-04,Colorado Rockies activated RHP Jhoulys Chacin from the 15-day disabled list.,TRUE,2014,Colorado Rockies,Jhoulys Chacin,activated,15,FALSE,NA
+2014-05-04,"Colorado Rockies placed C Wilin Rosario on the 15-day disabled list retroactive to May 3, 2014.",TRUE,2014,Colorado Rockies,Wilin Rosario,placed,15,TRUE,2014-05-03
+2014-05-04,Oakland Athletics transferred RHP A.J. Griffin from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Oakland Athletics,A.J. Griffin,transferred,60,FALSE,NA
+2014-05-04,"San Francisco Giants placed RHP Matt Cain on the 15-day disabled list retroactive to April 24, 2014.",TRUE,2014,San Francisco Giants,Matt Cain,placed,15,TRUE,2014-04-24
+2014-05-05,Washington Nationals activated LF Scott Hairston from the 15-day disabled list.,TRUE,2014,Washington Nationals,Scott Hairston,activated,15,FALSE,NA
+2014-05-05,"Cleveland Indians placed DH Jason Giambi on the 15-day disabled list retroactive to May 4, 2014.",TRUE,2014,Cleveland Indians,Jason Giambi,placed,15,TRUE,2014-05-04
+2014-05-05,Colorado Rockies transferred RHP Tyler Chatwood from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Colorado Rockies,Tyler Chatwood,transferred,60,FALSE,NA
+2014-05-05,Kansas City Royals activated CF Lorenzo Cain from the 15-day disabled list.,TRUE,2014,Kansas City Royals,Lorenzo Cain,activated,15,FALSE,NA
+2014-05-06,"Arizona Diamondbacks placed RHP J.J. Putz on the 15-day disabled list retroactive to May 4, 2014.",TRUE,2014,Arizona Diamondbacks,J.J. Putz,placed,15,TRUE,2014-05-04
+2014-05-06,New York Yankees placed RHP Michael Pineda on the 15-day disabled list.,TRUE,2014,New York Yankees,Michael Pineda,placed,15,FALSE,NA
+2014-05-06,New York Yankees activated SS Brendan Ryan from the 15-day disabled list.,TRUE,2014,New York Yankees,Brendan Ryan,activated,15,FALSE,NA
+2014-05-06,"Cincinnati Reds placed RF Jay Bruce on the 15-day disabled list retroactive to May 5, 2014.",TRUE,2014,Cincinnati Reds,Jay Bruce,placed,15,TRUE,2014-05-05
+2014-05-06,Los Angeles Dodgers activated LHP Clayton Kershaw from the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Clayton Kershaw,activated,15,FALSE,NA
+2014-05-07,Washington Nationals activated C Wilson Ramos from the 15-day disabled list.,TRUE,2014,Washington Nationals,Wilson Ramos,activated,15,FALSE,NA
+2014-05-07,Chicago White Sox activated 3B Conor Gillaspie from the 15-day disabled list.,TRUE,2014,Chicago White Sox,Conor Gillaspie,activated,15,FALSE,NA
+2014-05-07,Texas Rangers transferred LHP Pedro Figueroa from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Texas Rangers,Pedro Figueroa,transferred,60,FALSE,NA
+2014-05-07,Chicago Cubs placed RHP Pedro Strop on the 15-day disabled list.,TRUE,2014,Chicago Cubs,Pedro Strop,placed,15,FALSE,NA
+2014-05-08,Minnesota Twins placed CF Sam Fuld on the 7-day disabled list.,TRUE,2014,Minnesota Twins,Sam Fuld,placed,7,FALSE,NA
+2014-05-08,Toronto Blue Jays activated 1B Adam Lind from the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,Adam Lind,activated,15,FALSE,NA
+2014-05-08,Texas Rangers placed 2B Donnie Murphy on the 15-day disabled list.,TRUE,2014,Texas Rangers,Donnie Murphy,placed,15,FALSE,NA
+2014-05-09,Houston Astros activated RHP Scott Feldman from the 15-day disabled list.,TRUE,2014,Houston Astros,Scott Feldman,activated,15,FALSE,NA
+2014-05-09,"Houston Astros placed RHP Jose Cisnero on the 15-day disabled list retroactive to May 7, 2014.",TRUE,2014,Houston Astros,Jose Cisnero,placed,15,TRUE,2014-05-07
+2014-05-09,Minnesota Twins activated CF Aaron Hicks from the 7-day disabled list.,TRUE,2014,Minnesota Twins,Aaron Hicks,activated,7,FALSE,NA
+2014-05-09,"Oakland Athletics placed RHP Ryan Cook on the 15-day disabled list retroactive to May 8, 2014.",TRUE,2014,Oakland Athletics,Ryan Cook,placed,15,TRUE,2014-05-08
+2014-05-09,Washington Nationals activated RHP Doug Fister from the 15-day disabled list.,TRUE,2014,Washington Nationals,Doug Fister,activated,15,FALSE,NA
+2014-05-10,San Francisco Giants activated RHP Matt Cain from the 15-day disabled list.,TRUE,2014,San Francisco Giants,Matt Cain,activated,15,FALSE,NA
+2014-05-10,Cincinnati Reds activated LHP Aroldis Chapman from the 15-day disabled list.,TRUE,2014,Cincinnati Reds,Aroldis Chapman,activated,15,FALSE,NA
+2014-05-10,San Francisco Giants placed 1B Brandon Belt on the 15-day disabled list.,TRUE,2014,San Francisco Giants,Brandon Belt,placed,15,FALSE,NA
+2014-05-10,"Atlanta Braves placed RHP Jordan Walden on the 15-day disabled list retroactive to May 5, 2014.",TRUE,2014,Atlanta Braves,Jordan Walden,placed,15,TRUE,2014-05-05
+2014-05-10,San Diego Padres activated 3B Chase Headley from the 15-day disabled list.,TRUE,2014,San Diego Padres,Chase Headley,activated,15,FALSE,NA
+2014-05-10,San Francisco Giants transferred 2B Marco Scutaro from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,San Francisco Giants,Marco Scutaro,transferred,60,FALSE,NA
+2014-05-11,Toronto Blue Jays activated RHP Casey Janssen from the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,Casey Janssen,activated,15,FALSE,NA
+2014-05-11,Baltimore Orioles activated 1B Chris Davis from the 15-day disabled list.,TRUE,2014,Baltimore Orioles,Chris Davis,activated,15,FALSE,NA
+2014-05-11,Baltimore Orioles placed C Matt Wieters on the 15-day disabled list.,TRUE,2014,Baltimore Orioles,Matt Wieters,placed,15,FALSE,NA
+2014-05-11,New York Yankees placed LHP CC Sabathia on the 15-day disabled list.,TRUE,2014,New York Yankees,CC Sabathia,placed,15,FALSE,NA
+2014-05-11,"Washington Nationals placed 1B Adam LaRoche on the 15-day disabled list retroactive to May 10, 2014.",TRUE,2014,Washington Nationals,Adam LaRoche,placed,15,TRUE,2014-05-10
+2014-05-12,"Miami Marlins placed RHP Jose Fernandez on the 15-day disabled list retroactive to May 10, 2014.",TRUE,2014,Miami Marlins,Jose Fernandez,placed,15,TRUE,2014-05-10
+2014-05-12,San Francisco Giants activated LHP David Huff from the 15-day disabled list.,TRUE,2014,San Francisco Giants,David Huff,activated,15,FALSE,NA
+2014-05-12,"Toronto Blue Jays placed RHP Sergio Santos on the 15-day disabled list retroactive to May 11, 2014.",TRUE,2014,Toronto Blue Jays,Sergio Santos,placed,15,TRUE,2014-05-11
+2014-05-13,"New York Mets placed RHP Gonzalez Germen on the 15-day disabled list retroactive to May 6, 2014.",TRUE,2014,New York Mets,Gonzalez Germen,placed,15,TRUE,2014-05-06
+2014-05-13,St. Louis Cardinals placed LHP Tyler Lyons on the 15-day disabled list. left shoulder strain,TRUE,2014,St. Louis Cardinals,Tyler Lyons,placed,15,FALSE,NA
+2014-05-13,"Kansas City Royals placed 2B Omar Infante on the 15-day disabled list retroactive to May 7, 2014.",TRUE,2014,Kansas City Royals,Omar Infante,placed,15,TRUE,2014-05-07
+2014-05-13,"Milwaukee Brewers placed 3B Aramis Ramirez on the 15-day disabled list retroactive to May 11, 2014.",TRUE,2014,Milwaukee Brewers,Aramis Ramirez,placed,15,TRUE,2014-05-11
+2014-05-13,Milwaukee Brewers activated LF Ryan Braun from the 15-day disabled list.,TRUE,2014,Milwaukee Brewers,Ryan Braun,activated,15,FALSE,NA
+2014-05-13,"New York Yankees placed RHP Shawn Kelley on the 15-day disabled list retroactive to May 7, 2014.",TRUE,2014,New York Yankees,Shawn Kelley,placed,15,TRUE,2014-05-07
+2014-05-13,San Diego Padres activated LF Carlos Quentin from the 15-day disabled list.,TRUE,2014,San Diego Padres,Carlos Quentin,activated,15,FALSE,NA
+2014-05-14,"Houston Astros placed RHP Anthony Bass on the 15-day disabled list retroactive to May 11, 2014.",TRUE,2014,Houston Astros,Anthony Bass,placed,15,TRUE,2014-05-11
+2014-05-14,Chicago White Sox activated 2B Jeff Keppinger from the 15-day disabled list.,TRUE,2014,Chicago White Sox,Jeff Keppinger,activated,15,FALSE,NA
+2014-05-14,"New York Mets placed RHP Dillon Gee on the 15-day disabled list retroactive to May 11, 2014.",TRUE,2014,New York Mets,Dillon Gee,placed,15,TRUE,2014-05-11
+2014-05-14,"Texas Rangers placed LHP Martin Perez on the 15-day disabled list retroactive to May 11, 2014.",TRUE,2014,Texas Rangers,Martin Perez,placed,15,TRUE,2014-05-11
+2014-05-14,Texas Rangers placed LHP Matt Harrison on the 15-day disabled list.,TRUE,2014,Texas Rangers,Matt Harrison,placed,15,FALSE,NA
+2014-05-14,Chicago Cubs activated RHP Jose Veras from the 15-day disabled list.,TRUE,2014,Chicago Cubs,Jose Veras,activated,15,FALSE,NA
+2014-05-14,Los Angeles Dodgers activated C A.J. Ellis from the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,A.J. Ellis,activated,15,FALSE,NA
+2014-05-14,New York Mets transferred RHP Bobby Parnell from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,New York Mets,Bobby Parnell,transferred,60,FALSE,NA
+2014-05-15,Cincinnati Reds transferred RHP Mat Latos from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Cincinnati Reds,Mat Latos,transferred,60,FALSE,NA
+2014-05-15,Pittsburgh Pirates activated LHP Wandy Rodriguez from the 15-day disabled list.,TRUE,2014,Pittsburgh Pirates,Wandy Rodriguez,activated,15,FALSE,NA
+2014-05-15,Cleveland Indians placed CF Nyjer Morgan on the 15-day disabled list.,TRUE,2014,Cleveland Indians,Nyjer Morgan,placed,15,FALSE,NA
+2014-05-15,"Toronto Blue Jays placed CF Colby Rasmus on the 15-day disabled list retroactive to May 13, 2014.",TRUE,2014,Toronto Blue Jays,Colby Rasmus,placed,15,TRUE,2014-05-13
+2014-05-15,"New York Yankees placed RF Carlos Beltran on the 15-day disabled list retroactive to May 13, 2014.",TRUE,2014,New York Yankees,Carlos Beltran,placed,15,TRUE,2014-05-13
+2014-05-15,New York Yankees activated RHP Bruce Billings from the 15-day disabled list.,TRUE,2014,New York Yankees,Bruce Billings,activated,15,FALSE,NA
+2014-05-15,"New York Mets placed C Travis d'Arnaud on the 7-day disabled list retroactive to May 14, 2014. concussion list",TRUE,2014,New York Mets,Travis d'Arnaud,placed,7,TRUE,2014-05-14
+2014-05-15,Tampa Bay Rays placed 2B Ben Zobrist on the 15-day disabled list.,TRUE,2014,Tampa Bay Rays,Ben Zobrist,placed,15,FALSE,NA
+2014-05-16,Washington Nationals placed CF Eury Perez on the 60-day disabled list.,TRUE,2014,Washington Nationals,Eury Perez,placed,60,FALSE,NA
+2014-05-17,"San Diego Padres placed RHP Andrew Cashner on the 15-day disabled list retroactive to May 15, 2014.",TRUE,2014,San Diego Padres,Andrew Cashner,placed,15,TRUE,2014-05-15
+2014-05-17,Boston Red Sox placed 3B Will Middlebrooks on the 15-day disabled list.,TRUE,2014,Boston Red Sox,Will Middlebrooks,placed,15,FALSE,NA
+2014-05-18,Chicago White Sox placed 1B Jose Abreu on the 15-day disabled list. posterior tibia tendonitis in his left ankle,TRUE,2014,Chicago White Sox,Jose Abreu,placed,15,FALSE,NA
+2014-05-18,Chicago White Sox activated CF Adam Eaton from the 15-day disabled list.,TRUE,2014,Chicago White Sox,Adam Eaton,activated,15,FALSE,NA
+2014-05-18,Washington Nationals placed LHP Gio Gonzalez on the 15-day disabled list.,TRUE,2014,Washington Nationals,Gio Gonzalez,placed,15,FALSE,NA
+2014-05-18,St. Louis Cardinals activated LHP Jaime Garcia from the 15-day disabled list.,TRUE,2014,St. Louis Cardinals,Jaime Garcia,activated,15,FALSE,NA
+2014-05-18,Colorado Rockies activated C Wilin Rosario from the 15-day disabled list.,TRUE,2014,Colorado Rockies,Wilin Rosario,activated,15,FALSE,NA
+2014-05-18,Detroit Tigers activated RHP Anibal Sanchez from the 15-day disabled list.,TRUE,2014,Detroit Tigers,Anibal Sanchez,activated,15,FALSE,NA
+2014-05-20,"Seattle Mariners placed DH Corey Hart on the 15-day disabled list retroactive to May 19, 2014.",TRUE,2014,Seattle Mariners,Corey Hart,placed,15,TRUE,2014-05-19
+2014-05-20,Chicago White Sox placed RHP Matt Lindstrom on the 15-day disabled list.,TRUE,2014,Chicago White Sox,Matt Lindstrom,placed,15,FALSE,NA
+2014-05-20,St. Louis Cardinals activated RHP Jason Motte from the 15-day disabled list.,TRUE,2014,St. Louis Cardinals,Jason Motte,activated,15,FALSE,NA
+2014-05-20,Texas Rangers transferred LHP Martin Perez from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Texas Rangers,Martin Perez,transferred,60,FALSE,NA
+2014-05-20,Colorado Rockies activated RF Michael Cuddyer from the 15-day disabled list.,TRUE,2014,Colorado Rockies,Michael Cuddyer,activated,15,FALSE,NA
+2014-05-20,Los Angeles Angels activated 3B David Freese from the 15-day disabled list.,TRUE,2014,Los Angeles Angels,David Freese,activated,15,FALSE,NA
+2014-05-21,"Philadelphia Phillies placed LHP Cliff Lee on the 15-day disabled list retroactive to May 19, 2014.",TRUE,2014,Philadelphia Phillies,Cliff Lee,placed,15,TRUE,2014-05-19
+2014-05-21,Boston Red Sox placed LHP Felix Doubront on the 15-day disabled list.,TRUE,2014,Boston Red Sox,Felix Doubront,placed,15,FALSE,NA
+2014-05-21,"Cincinnati Reds placed 1B Joey Votto on the 15-day disabled list retroactive to May 16, 2014.",TRUE,2014,Cincinnati Reds,Joey Votto,placed,15,TRUE,2014-05-16
+2014-05-21,Cincinnati Reds activated RF Jay Bruce from the 15-day disabled list.,TRUE,2014,Cincinnati Reds,Jay Bruce,activated,15,FALSE,NA
+2014-05-21,Los Angeles Dodgers placed 3B Juan Uribe on the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Juan Uribe,placed,15,FALSE,NA
+2014-05-21,Los Angeles Dodgers activated LHP Hyun-Jin Ryu from the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Hyun Jin Ryu,activated,15,FALSE,NA
+2014-05-21,Los Angeles Angels activated RF Kole Calhoun from the 15-day disabled list.,TRUE,2014,Los Angeles Angels,Kole Calhoun,activated,15,FALSE,NA
+2014-05-21,Los Angeles Dodgers placed RHP Chris Withrow on the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Chris Withrow,placed,15,FALSE,NA
+2014-05-22,Tampa Bay Rays activated RHP Alex Cobb from the 15-day disabled list.,TRUE,2014,Tampa Bay Rays,Alex Cobb,activated,15,FALSE,NA
+2014-05-22,Chicago White Sox activated LHP Chris Sale from the 15-day disabled list.,TRUE,2014,Chicago White Sox,Chris Sale,activated,15,FALSE,NA
+2014-05-22,Miami Marlins transferred 2B Rafael Furcal from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Miami Marlins,Rafael Furcal,transferred,60,FALSE,NA
+2014-05-22,San Francisco Giants placed RHP Santiago Casilla on the 15-day disabled list.,TRUE,2014,San Francisco Giants,Santiago Casilla,placed,15,FALSE,NA
+2014-05-22,Cleveland Indians transferred CF Nyjer Morgan from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Cleveland Indians,Nyjer Morgan,transferred,60,FALSE,NA
+2014-05-22,Cleveland Indians placed RHP Zach McAllister on the 15-day disabled list.,TRUE,2014,Cleveland Indians,Zach McAllister,placed,15,FALSE,NA
+2014-05-22,"Baltimore Orioles placed RHP Tommy Hunter on the 15-day disabled list retroactive to May 21, 2014.",TRUE,2014,Baltimore Orioles,Tommy Hunter,placed,15,TRUE,2014-05-21
+2014-05-22,Pittsburgh Pirates activated C Russell Martin from the 15-day disabled list.,TRUE,2014,Pittsburgh Pirates,Russell Martin,activated,15,FALSE,NA
+2014-05-22,"San Diego Padres placed LHP Robbie Erlin on the 15-day disabled list retroactive to May 18, 2014.",TRUE,2014,San Diego Padres,Robbie Erlin,placed,15,TRUE,2014-05-18
+2014-05-22,Minnesota Twins placed CF Sam Fuld on the 15-day disabled list.,TRUE,2014,Minnesota Twins,Sam Fuld,placed,15,FALSE,NA
+2014-05-23,Texas Rangers activated 2B Donnie Murphy from the 15-day disabled list.,TRUE,2014,Texas Rangers,Donnie Murphy,activated,15,FALSE,NA
+2014-05-23,"Texas Rangers placed 1B Prince Fielder on the 15-day disabled list retroactive to May 17, 2014. herniated C5-C6 disc in neck",TRUE,2014,Texas Rangers,Prince Fielder,placed,15,TRUE,2014-05-17
+2014-05-23,Pittsburgh Pirates activated RHP Jason Grilli from the 15-day disabled list.,TRUE,2014,Pittsburgh Pirates,Jason Grilli,activated,15,FALSE,NA
+2014-05-23,Los Angeles Angels activated LHP Sean Burnett from the 15-day disabled list.,TRUE,2014,Los Angeles Angels,Sean Burnett,activated,15,FALSE,NA
+2014-05-24,Colorado Rockies placed 3B Nolan Arenado on the 15-day disabled list.,TRUE,2014,Colorado Rockies,Nolan Arenado,placed,15,FALSE,NA
+2014-05-24,Miami Marlins placed LHP Brad Hand on the 15-day disabled list.,TRUE,2014,Miami Marlins,Brad Hand,placed,15,FALSE,NA
+2014-05-24,"Philadelphia Phillies placed RHP Luis Garcia on the 15-day disabled list retroactive to May 22, 2014.",TRUE,2014,Philadelphia Phillies,Luis Garcia,placed,15,TRUE,2014-05-22
+2014-05-24,Boston Red Sox placed RF Shane Victorino on the 15-day disabled list.,TRUE,2014,Boston Red Sox,Shane Victorino,placed,15,FALSE,NA
+2014-05-24,St. Louis Cardinals placed LHP Kevin Siegrist on the 15-day disabled list.,TRUE,2014,St. Louis Cardinals,Kevin Siegrist,placed,15,FALSE,NA
+2014-05-25,Washington Nationals activated 1B Adam LaRoche from the 15-day disabled list.,TRUE,2014,Washington Nationals,Adam LaRoche,activated,15,FALSE,NA
+2014-05-25,"Boston Red Sox placed 1B Mike Napoli on the 15-day disabled list retroactive to May 24, 2014. left fourth finger sprain",TRUE,2014,Boston Red Sox,Mike Napoli,placed,15,TRUE,2014-05-24
+2014-05-25,"Philadelphia Phillies placed 3B Cody Asche on the 15-day disabled list retroactive to May 23, 2014.",TRUE,2014,Philadelphia Phillies,Cody Asche,placed,15,TRUE,2014-05-23
+2014-05-26,Minnesota Twins activated LF Josh Willingham from the 15-day disabled list.,TRUE,2014,Minnesota Twins,Josh Willingham,activated,15,FALSE,NA
+2014-05-26,"New York Mets placed LF Eric Young Jr. on the 15-day disabled list retroactive to May 25, 2014.",TRUE,2014,New York Mets,Eric Young Jr.,placed,15,TRUE,2014-05-25
+2014-05-26,Chicago Cubs activated RF Justin Ruggiano from the 15-day disabled list.,TRUE,2014,Chicago Cubs,Justin Ruggiano,activated,15,FALSE,NA
+2014-05-26,"Los Angeles Dodgers placed C A.J. Ellis on the 15-day disabled list retroactive to May 25, 2014.",TRUE,2014,Los Angeles Dodgers,A.J. Ellis,placed,15,TRUE,2014-05-25
+2014-05-26,Kansas City Royals activated 2B Omar Infante from the 15-day disabled list.,TRUE,2014,Kansas City Royals,Omar Infante,activated,15,FALSE,NA
+2014-05-26,Tampa Bay Rays placed LF Brandon Guyer on the 15-day disabled list.,TRUE,2014,Tampa Bay Rays,Brandon Guyer,placed,15,FALSE,NA
+2014-05-27,"Miami Marlins placed RHP Carter Capps on the 15-day disabled list retroactive to May 26, 2014. right elbow sprain",TRUE,2014,Miami Marlins,Carter Capps,placed,15,TRUE,2014-05-26
+2014-05-27,Cleveland Indians placed 1B Nick Swisher on the 15-day disabled list. left knee hyperextension,TRUE,2014,Cleveland Indians,Nick Swisher,placed,15,FALSE,NA
+2014-05-27,"Cleveland Indians placed 3B Carlos Santana on the 7-day disabled list retroactive to May 26, 2014.",TRUE,2014,Cleveland Indians,Carlos Santana,placed,7,TRUE,2014-05-26
+2014-05-27,Tampa Bay Rays transferred LHP Matt Moore from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Tampa Bay Rays,Matt Moore,transferred,60,FALSE,NA
+2014-05-28,"Tampa Bay Rays placed C Ryan Hanigan on the 15-day disabled list retroactive to May 27, 2014.",TRUE,2014,Tampa Bay Rays,Ryan Hanigan,placed,15,TRUE,2014-05-27
+2014-05-28,Texas Rangers activated LHP Joe Saunders from the 15-day disabled list.,TRUE,2014,Texas Rangers,Joe Saunders,activated,15,FALSE,NA
+2014-05-28,Cleveland Indians activated 2B Jason Kipnis from the 15-day disabled list.,TRUE,2014,Cleveland Indians,Jason Kipnis,activated,15,FALSE,NA
+2014-05-28,Los Angeles Dodgers placed LF Carl Crawford on the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Carl Crawford,placed,15,FALSE,NA
+2014-05-28,"Boston Red Sox placed RHP Clay Buchholz on the 15-day disabled list retroactive to May 27, 2014.",TRUE,2014,Boston Red Sox,Clay Buchholz,placed,15,TRUE,2014-05-27
+2014-05-29,Los Angeles Angels placed LHP Sean Burnett on the 15-day disabled list.,TRUE,2014,Los Angeles Angels,Sean Burnett,placed,15,FALSE,NA
+2014-05-30,Chicago Cubs activated RHP Pedro Strop from the 15-day disabled list.,TRUE,2014,Chicago Cubs,Pedro Strop,activated,15,FALSE,NA
+2014-05-30,Boston Red Sox placed C Ryan Lavarnway on the 15-day disabled list.,TRUE,2014,Boston Red Sox,Ryan Lavarnway,placed,15,FALSE,NA
+2014-05-30,Tampa Bay Rays activated 2B Ben Zobrist from the 15-day disabled list.,TRUE,2014,Tampa Bay Rays,Ben Zobrist,activated,15,FALSE,NA
+2014-05-30,Seattle Mariners transferred RHP Blake Beavan from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Seattle Mariners,Blake Beavan,transferred,60,FALSE,NA
+2014-05-31,"San Francisco Giants placed RHP Matt Cain on the 15-day disabled list retroactive to May 22, 2014.",TRUE,2014,San Francisco Giants,Matt Cain,placed,15,TRUE,2014-05-22
+2014-05-31,"St. Louis Cardinals placed 1B Matt Adams on the 15-day disabled list retroactive to May 29, 2013.",TRUE,2014,St. Louis Cardinals,Matt Adams,placed,15,TRUE,2014-05-29
+2014-06-01,Miami Marlins placed C Jarrod Saltalamacchia on the 7-day disabled list.,TRUE,2014,Miami Marlins,Jarrod Saltalamacchia,placed,7,FALSE,NA
+2014-06-01,Kansas City Royals placed 3B Danny Valencia on the 15-day disabled list.,TRUE,2014,Kansas City Royals,Danny Valencia,placed,15,FALSE,NA
+2014-06-01,Philadelphia Phillies placed RHP Jeff Manship on the 15-day disabled list.,TRUE,2014,Philadelphia Phillies,Jeff Manship,placed,15,FALSE,NA
+2014-06-01,"Tampa Bay Rays placed RF Wil Myers on the 15-day disabled list retroactive to May 31, 2014.",TRUE,2014,Tampa Bay Rays,Wil Myers,placed,15,TRUE,2014-05-31
+2014-06-01,Kansas City Royals activated LHP Francisley Bueno from the 15-day disabled list.,TRUE,2014,Kansas City Royals,Francisley Bueno,activated,15,FALSE,NA
+2014-06-01,Arizona Diamondbacks transferred LHP Matt Reynolds from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Arizona Diamondbacks,Matt Reynolds,transferred,60,FALSE,NA
+2014-06-01,Arizona Diamondbacks placed CF A.J. Pollock on the 15-day disabled list.,TRUE,2014,Arizona Diamondbacks,A.J. Pollock,placed,15,FALSE,NA
+2014-06-01,Miami Marlins transferred RHP Jose Fernandez from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Miami Marlins,Jose Fernandez,transferred,60,FALSE,NA
+2014-06-02,Chicago White Sox activated 1B Jose Abreu from the 15-day disabled list.,TRUE,2014,Chicago White Sox,Jose Abreu,activated,15,FALSE,NA
+2014-06-02,Kansas City Royals transferred RHP Luke Hochevar from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Kansas City Royals,Luke Hochevar,transferred,60,FALSE,NA
+2014-06-02,"Boston Red Sox placed 1B Mike Carp on the 15-day disabled list retroactive to June 1, 2014.",TRUE,2014,Boston Red Sox,Mike Carp,placed,15,TRUE,2014-06-01
+2014-06-02,Baltimore Orioles placed LHP Johan Santana on the 15-day disabled list.,TRUE,2014,Baltimore Orioles,Johan Santana,placed,15,FALSE,NA
+2014-06-03,"Oakland Athletics placed RF Josh Reddick on the 15-day disabled list retroactive to June 1, 2014.",TRUE,2014,Oakland Athletics,Josh Reddick,placed,15,TRUE,2014-06-01
+2014-06-03,"Arizona Diamondbacks placed SS Cliff Pennington on the 15-day disabled list retroactive to June 2, 2014.",TRUE,2014,Arizona Diamondbacks,Cliff Pennington,placed,15,TRUE,2014-06-02
+2014-06-03,Washington Nationals activated 3B Ryan Zimmerman from the 15-day disabled list.,TRUE,2014,Washington Nationals,Ryan Zimmerman,activated,15,FALSE,NA
+2014-06-03,New York Yankees transferred RHP Michael Pineda from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,New York Yankees,Michael Pineda,transferred,60,FALSE,NA
+2014-06-03,"Chicago Cubs placed C Welington Castillo on the 15-day disabled list retroactive to June 2, 2014.",TRUE,2014,Chicago Cubs,Welington Castillo,placed,15,TRUE,2014-06-02
+2014-06-03,Los Angeles Angels activated LF Josh Hamilton from the 15-day disabled list.,TRUE,2014,Los Angeles Angels,Josh Hamilton,activated,15,FALSE,NA
+2014-06-03,Los Angeles Angels transferred LHP Sean Burnett from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Los Angeles Angels,Sean Burnett,transferred,60,FALSE,NA
+2014-06-04,Milwaukee Brewers activated 3B Aramis Ramirez from the 15-day disabled list.,TRUE,2014,Milwaukee Brewers,Aramis Ramirez,activated,15,FALSE,NA
+2014-06-04,Miami Marlins transferred RHP Carter Capps from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Miami Marlins,Carter Capps,transferred,60,FALSE,NA
+2014-06-04,Texas Rangers placed RHP Alexi Ogando on the 15-day disabled list.,TRUE,2014,Texas Rangers,Alexi Ogando,placed,15,FALSE,NA
+2014-06-04,Colorado Rockies placed LF Carlos Gonzalez on the 15-day disabled list.,TRUE,2014,Colorado Rockies,Carlos Gonzalez,placed,15,FALSE,NA
+2014-06-05,New York Yankees activated RF Carlos Beltran from the 15-day disabled list.,TRUE,2014,New York Yankees,Carlos Beltran,activated,15,FALSE,NA
+2014-06-05,Boston Red Sox transferred 1B Ryan Lavarnway from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Boston Red Sox,Ryan Lavarnway,transferred,60,FALSE,NA
+2014-06-05,Texas Rangers activated RHP Tanner Scheppers from the 15-day disabled list.,TRUE,2014,Texas Rangers,Tanner Scheppers,activated,15,FALSE,NA
+2014-06-05,Colorado Rockies placed RHP Jordan Lyles on the 15-day disabled list.,TRUE,2014,Colorado Rockies,Jordan Lyles,placed,15,FALSE,NA
+2014-06-05,Colorado Rockies placed LHP Boone Logan on the 15-day disabled list.,TRUE,2014,Colorado Rockies,Boone Logan,placed,15,FALSE,NA
+2014-06-06,Cleveland Indians activated 1B Carlos Santana from the 7-day disabled list.,TRUE,2014,Cleveland Indians,Carlos Santana,activated,7,FALSE,NA
+2014-06-06,"San Diego Padres placed 2B Jedd Gyorko on the 15-day disabled list retroactive to June 4, 2014.",TRUE,2014,San Diego Padres,Jedd Gyorko,placed,15,TRUE,2014-06-04
+2014-06-06,Los Angeles Dodgers transferred RHP Chris Withrow from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Los Angeles Dodgers,Chris Withrow,transferred,60,FALSE,NA
+2014-06-06,"Baltimore Orioles placed RHP Miguel Gonzalez on the 15-day disabled list retroactive to May 31, 2014.",TRUE,2014,Baltimore Orioles,Miguel Gonzalez,placed,15,TRUE,2014-05-31
+2014-06-06,Baltimore Orioles transferred 3B Michael Almanzar from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Baltimore Orioles,Mel Almada,transferred,60,FALSE,NA
+2014-06-07,San Diego Padres activated RHP Andrew Cashner from the 15-day disabled list.,TRUE,2014,San Diego Padres,Andrew Cashner,activated,15,FALSE,NA
+2014-06-08,"Milwaukee Brewers placed RHP Tyler Thornburg on the 15-day disabled list retroactive to June 7, 2014.",TRUE,2014,Milwaukee Brewers,Tyler Thornburg,placed,15,TRUE,2014-06-07
+2014-06-08,"Philadelphia Phillies placed RHP Mike Adams on the 15-day disabled list retroactive to June 7, 2014.",TRUE,2014,Philadelphia Phillies,Mike Adams,placed,15,TRUE,2014-06-07
+2014-06-08,"Pittsburgh Pirates placed RHP Gerrit Cole on the 15-day disabled list retroactive to June 4, 2014.",TRUE,2014,Pittsburgh Pirates,Gerrit Cole,placed,15,TRUE,2014-06-04
+2014-06-08,Baltimore Orioles activated RHP Tommy Hunter from the 15-day disabled list.,TRUE,2014,Baltimore Orioles,Tommy Hunter,activated,15,FALSE,NA
+2014-06-08,Boston Red Sox activated 1B Mike Napoli from the 15-day disabled list.,TRUE,2014,Boston Red Sox,Mike Napoli,activated,15,FALSE,NA
+2014-06-09,Seattle Mariners transferred LHP James Paxton from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Seattle Mariners,James Paxton,transferred,60,FALSE,NA
+2014-06-09,"Colorado Rockies placed RF Michael Cuddyer on the 15-day disabled list retroactive to June 6, 2014.",TRUE,2014,Colorado Rockies,Michael Cuddyer,placed,15,TRUE,2014-06-06
+2014-06-09,"Colorado Rockies placed RHP Eddie Butler on the 15-day disabled list retroactive to June 7, 2014. right rotator cuff inflammation",TRUE,2014,Colorado Rockies,Eddie Butler,placed,15,TRUE,2014-06-07
+2014-06-09,Baltimore Orioles transferred LHP Johan Santana from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Baltimore Orioles,Johan Santana,transferred,60,FALSE,NA
+2014-06-09,Arizona Diamondbacks placed 3B Eric Chavez on the 15-day disabled list.,TRUE,2014,Arizona Diamondbacks,Eric Chavez,placed,15,FALSE,NA
+2014-06-09,Arizona Diamondbacks activated RHP J.J. Putz from the 15-day disabled list.,TRUE,2014,Arizona Diamondbacks,J.J. Putz,activated,15,FALSE,NA
+2014-06-09,Pittsburgh Pirates placed 2B Neil Walker on the 15-day disabled list. appendectomy,TRUE,2014,Pittsburgh Pirates,Neil Walker,placed,15,FALSE,NA
+2014-06-09,Atlanta Braves activated RHP Jordan Walden from the 15-day disabled list.,TRUE,2014,Atlanta Braves,Jordan Walden,activated,15,FALSE,NA
+2014-06-10,Cincinnati Reds activated 1B Joey Votto from the 15-day disabled list.,TRUE,2014,Cincinnati Reds,Joey Votto,activated,15,FALSE,NA
+2014-06-10,"Texas Rangers placed 1B Mitch Moreland on the 15-day disabled list retroactive to June 8, 2014.",TRUE,2014,Texas Rangers,Mitch Moreland,placed,15,TRUE,2014-06-08
+2014-06-10,Texas Rangers transferred LHP Matt Harrison from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Texas Rangers,Matt Harrison,transferred,60,FALSE,NA
+2014-06-10,"Los Angeles Angels placed LHP Tyler Skaggs on the 15-day disabled list retroactive to June 6, 2014.",TRUE,2014,Los Angeles Angels,Tyler Skaggs,placed,15,TRUE,2014-06-06
+2014-06-11,Pittsburgh Pirates placed LHP Francisco Liriano on the 15-day disabled list.,TRUE,2014,Pittsburgh Pirates,Francisco Liriano,placed,15,FALSE,NA
+2014-06-11,Pittsburgh Pirates activated RHP Stolmy Pimentel from the 15-day disabled list.,TRUE,2014,Pittsburgh Pirates,Stolmy Pimentel,activated,15,FALSE,NA
+2014-06-11,Tampa Bay Rays activated C Ryan Hanigan from the 15-day disabled list.,TRUE,2014,Tampa Bay Rays,Ryan Hanigan,activated,15,FALSE,NA
+2014-06-11,Seattle Mariners activated 1B Logan Morrison from the 15-day disabled list.,TRUE,2014,Seattle Mariners,Logan Morrison,activated,15,FALSE,NA
+2014-06-11,New York Yankees activated RHP Shawn Kelley from the 15-day disabled list.,TRUE,2014,New York Yankees,Shawn Kelley,activated,15,FALSE,NA
+2014-06-11,Washington Nationals placed C Wilson Ramos on the 15-day disabled list.,TRUE,2014,Washington Nationals,Wilson Ramos,placed,15,FALSE,NA
+2014-06-12,"Seattle Mariners placed RF Michael Saunders on the 15-day disabled list retroactive to June 11, 2014.",TRUE,2014,Seattle Mariners,Michael Saunders,placed,15,TRUE,2014-06-11
+2014-06-12,Cleveland Indians activated 1B Nick Swisher from the 15-day disabled list.,TRUE,2014,Cleveland Indians,Nick Swisher,activated,15,FALSE,NA
+2014-06-12,Cleveland Indians placed DH Jason Giambi on the 15-day disabled list.,TRUE,2014,Cleveland Indians,Jason Giambi,placed,15,FALSE,NA
+2014-06-13,Minnesota Twins activated CF Sam Fuld from the 15-day disabled list.,TRUE,2014,Minnesota Twins,Sam Fuld,activated,15,FALSE,NA
+2014-06-13,Miami Marlins activated 2B Rafael Furcal from the 60-day disabled list.,TRUE,2014,Miami Marlins,Rafael Furcal,activated,60,FALSE,NA
+2014-06-13,St. Louis Cardinals activated 1B Matt Adams from the 15-day disabled list.,TRUE,2014,St. Louis Cardinals,Matt Adams,activated,15,FALSE,NA
+2014-06-13,Chicago Cubs activated CF Ryan Sweeney from the 15-day disabled list.,TRUE,2014,Chicago Cubs,Ryan Sweeney,activated,15,FALSE,NA
+2014-06-13,Chicago Cubs placed CF Emilio Bonifacio on the 15-day disabled list.,TRUE,2014,Chicago Cubs,Emilio Bonifacio,placed,15,FALSE,NA
+2014-06-13,Arizona Diamondbacks placed CF Ender Inciarte on the 7-day disabled list.,TRUE,2014,Arizona Diamondbacks,Ender Inciarte,placed,7,FALSE,NA
+2014-06-14,Milwaukee Brewers activated LHP Tom Gorzelanny from the 15-day disabled list.,TRUE,2014,Milwaukee Brewers,Tom Gorzelanny,activated,15,FALSE,NA
+2014-06-14,San Diego Padres placed LHP Troy Patton on the 15-day disabled list.,TRUE,2014,San Diego Padres,Troy Patton,placed,15,FALSE,NA
+2014-06-14,Toronto Blue Jays activated RHP Sergio Santos from the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,Sergio Santos,activated,15,FALSE,NA
+2014-06-14,Cincinnati Reds activated RHP Mat Latos from the 60-day disabled list.,TRUE,2014,Cincinnati Reds,Mat Latos,activated,60,FALSE,NA
+2014-06-14,"Cincinnati Reds placed LHP Sean Marshall on the 15-day disabled list retroactive to June 11, 2014.",TRUE,2014,Cincinnati Reds,Sean Marshall,placed,15,TRUE,2014-06-11
+2014-06-14,Los Angeles Dodgers placed 3B Chone Figgins on the 15-day disabled list. left quad strain,TRUE,2014,Los Angeles Dodgers,Chone Figgins,placed,15,FALSE,NA
+2014-06-15,Minnesota Twins placed 3B Trevor Plouffe on the 15-day disabled list.,TRUE,2014,Minnesota Twins,Trevor Plouffe,placed,15,FALSE,NA
+2014-06-15,"San Diego Padres placed RHP Nick Vincent on the 15-day disabled list retroactive to June 12, 2014.",TRUE,2014,San Diego Padres,Nick Vincent,placed,15,TRUE,2014-06-12
+2014-06-15,Houston Astros placed RHP Josh Fields on the 15-day disabled list.,TRUE,2014,Houston Astros,Josh Fields,placed,15,FALSE,NA
+2014-06-15,Los Angeles Angels placed RHP Fernando Salas on the 15-day disabled list. right shoulder inflamation,TRUE,2014,Los Angeles Angels,Fernando Salas,placed,15,FALSE,NA
+2014-06-16,San Francisco Giants activated RHP Santiago Casilla from the 15-day disabled list.,TRUE,2014,San Francisco Giants,Santiago Casilla,activated,15,FALSE,NA
+2014-06-16,"Miami Marlins placed LF Christian Yelich on the 15-day disabled list retroactive to June 14, 2014.",TRUE,2014,Miami Marlins,Christian Yelich,placed,15,TRUE,2014-06-14
+2014-06-16,Miami Marlins placed C Jarrod Saltalamacchia on the 15-day disabled list.,TRUE,2014,Miami Marlins,Jarrod Saltalamacchia,placed,15,FALSE,NA
+2014-06-16,New York Mets activated LF Eric Young Jr. from the 15-day disabled list.,TRUE,2014,New York Mets,Eric Young Jr.,activated,15,FALSE,NA
+2014-06-16,Arizona Diamondbacks placed RHP Bronson Arroyo on the 15-day disabled list.,TRUE,2014,Arizona Diamondbacks,Bronson Arroyo,placed,15,FALSE,NA
+2014-06-17,Atlanta Braves placed RHP David Carpenter on the 15-day disabled list.,TRUE,2014,Atlanta Braves,David Carpenter,placed,15,FALSE,NA
+2014-06-17,New York Yankees activated C Francisco Cervelli from the 60-day disabled list.,TRUE,2014,New York Yankees,Francisco Cervelli,activated,60,FALSE,NA
+2014-06-18,Washington Nationals activated LHP Gio Gonzalez from the 15-day disabled list.,TRUE,2014,Washington Nationals,Gio Gonzalez,activated,15,FALSE,NA
+2014-06-18,Toronto Blue Jays activated CF Colby Rasmus from the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,Colby Rasmus,activated,15,FALSE,NA
+2014-06-19,Miami Marlins activated C Jarrod Saltalamacchia from the 15-day disabled list.,TRUE,2014,Miami Marlins,Jarrod Saltalamacchia,activated,15,FALSE,NA
+2014-06-19,Toronto Blue Jays placed LHP Brett Cecil on the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,Brett Cecil,placed,15,FALSE,NA
+2014-06-19,Arizona Diamondbacks transferred RHP Daniel Hudson from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Arizona Diamondbacks,Daniel Hudson,transferred,60,FALSE,NA
+2014-06-19,"San Diego Padres placed 1B Yonder Alonso on the 15-day disabled list retroactive to June 17, 2014.",TRUE,2014,San Diego Padres,Yonder Alonso,placed,15,TRUE,2014-06-17
+2014-06-19,"Minnesota Twins placed LF Eduardo Nunez on the 15-day disabled list retroactive to June 15, 2014.",TRUE,2014,Minnesota Twins,Eduardo Nunez,placed,15,TRUE,2014-06-15
+2014-06-19,Minnesota Twins transferred RHP Mike Pelfrey from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Minnesota Twins,Mike Pelfrey,transferred,60,FALSE,NA
+2014-06-19,Tampa Bay Rays placed LF David DeJesus on the 15-day disabled list. fractured left hand,TRUE,2014,Tampa Bay Rays,David DeJesus,placed,15,FALSE,NA
+2014-06-19,Tampa Bay Rays activated LF Brandon Guyer from the 15-day disabled list.,TRUE,2014,Tampa Bay Rays,Brandon Guyer,activated,15,FALSE,NA
+2014-06-19,Atlanta Braves placed RHP Pedro Beato on the 15-day disabled list.,TRUE,2014,Atlanta Braves,Pedro Beato,placed,15,FALSE,NA
+2014-06-20,Texas Rangers transferred 1B Prince Fielder from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Texas Rangers,Prince Fielder,transferred,60,FALSE,NA
+2014-06-20,Cincinnati Reds transferred RHP Trevor Bell from the 15-day disabled list to the 60-day disabled list. inflammation in right elbow,TRUE,2014,Cincinnati Reds,Trevor Bell,transferred,60,FALSE,NA
+2014-06-20,Cincinnati Reds transferred LHP Sean Marshall from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Cincinnati Reds,Sean Marshall,transferred,60,FALSE,NA
+2014-06-20,Atlanta Braves placed RHP Gavin Floyd on the 15-day disabled list.,TRUE,2014,Atlanta Braves,Gavin Floyd,placed,15,FALSE,NA
+2014-06-20,Philadelphia Phillies placed 3B Reid Brignac on the 15-day disabled list.,TRUE,2014,Philadelphia Phillies,Reid Brignac,placed,15,FALSE,NA
+2014-06-20,Arizona Diamondbacks activated LF Ender Inciarte from the 7-day disabled list.,TRUE,2014,Arizona Diamondbacks,Ender Inciarte,activated,7,FALSE,NA
+2014-06-20,Boston Red Sox activated LHP Felix Doubront from the 15-day disabled list.,TRUE,2014,Boston Red Sox,Felix Doubront,activated,15,FALSE,NA
+2014-06-21,Houston Astros transferred RHP Jose Cisnero from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Houston Astros,Jose Cisnero,transferred,60,FALSE,NA
+2014-06-21,Kansas City Royals placed RF Nori Aoki on the 15-day disabled list.,TRUE,2014,Kansas City Royals,Nori Aoki,placed,15,FALSE,NA
+2014-06-21,Kansas City Royals transferred LHP Bruce Chen from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Kansas City Royals,Bruce Chen,transferred,60,FALSE,NA
+2014-06-21,Colorado Rockies transferred RF Michael Cuddyer from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Colorado Rockies,Michael Cuddyer,transferred,60,FALSE,NA
+2014-06-21,St. Louis Cardinals placed 2B Kolten Wong on the 15-day disabled list.,TRUE,2014,St. Louis Cardinals,Kolten Wong,placed,15,FALSE,NA
+2014-06-22,"Detroit Tigers placed LHP Ian Krol on the 15-day disabled list retroactive to June 21, 2014.",TRUE,2014,Detroit Tigers,Ian Krol,placed,15,TRUE,2014-06-21
+2014-06-22,Miami Marlins placed 2B Rafael Furcal on the 15-day disabled list.,TRUE,2014,Miami Marlins,Rafael Furcal,placed,15,FALSE,NA
+2014-06-22,Detroit Tigers transferred RHP Luke Putkonen from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Detroit Tigers,Luke Putkonen,transferred,60,FALSE,NA
+2014-06-22,Kansas City Royals activated 3B Danny Valencia from the 15-day disabled list.,TRUE,2014,Kansas City Royals,Danny Valencia,activated,15,FALSE,NA
+2014-06-22,Chicago Cubs activated C Welington Castillo from the 15-day disabled list.,TRUE,2014,Chicago Cubs,Welington Castillo,activated,15,FALSE,NA
+2014-06-22,"St. Louis Cardinals placed RHP Michael Wacha on the 15-day disabled list retroactive to June 18, 2014.",TRUE,2014,St. Louis Cardinals,Michael Wacha,placed,15,TRUE,2014-06-18
+2014-06-22,"St. Louis Cardinals placed LHP Jaime Garcia on the 15-day disabled list retroactive to June 21, 2014.",TRUE,2014,St. Louis Cardinals,Jaime Garcia,placed,15,TRUE,2014-06-21
+2014-06-23,Toronto Blue Jays placed 3B Brett Lawrie on the 15-day disabled list. right index finger fracture,TRUE,2014,Toronto Blue Jays,Brett Lawrie,placed,15,FALSE,NA
+2014-06-23,"San Diego Padres placed RHP Andrew Cashner on the 15-day disabled list retroactive to June 21, 2014.",TRUE,2014,San Diego Padres,Andrew Cashner,placed,15,TRUE,2014-06-21
+2014-06-23,San Diego Padres transferred RHP Casey Kelly from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,San Diego Padres,Casey Kelly,transferred,60,FALSE,NA
+2014-06-23,"San Francisco Giants placed 2B Ehire Adrianza on the 15-day disabled list retroactive to June 22, 2014.",TRUE,2014,San Francisco Giants,Ehire Adrianza,placed,15,TRUE,2014-06-22
+2014-06-23,Tampa Bay Rays placed LF Jerry Sands on the 15-day disabled list.,TRUE,2014,Tampa Bay Rays,Jerry Sands,placed,15,FALSE,NA
+2014-06-24,Oakland Athletics activated RF Josh Reddick from the 15-day disabled list.,TRUE,2014,Oakland Athletics,Josh Reddick,activated,15,FALSE,NA
+2014-06-24,"Oakland Athletics placed 1B Kyle Blanks on the 15-day disabled list retroactive to June 23, 2014. strained left calf",TRUE,2014,Oakland Athletics,Kyle Blanks,placed,15,TRUE,2014-06-23
+2014-06-24,Pittsburgh Pirates activated 2B Neil Walker from the 15-day disabled list.,TRUE,2014,Pittsburgh Pirates,Neil Walker,activated,15,FALSE,NA
+2014-06-24,"Philadelphia Phillies placed C Wil Nieves on the 15-day disabled list retroactive to June 19, 2014.",TRUE,2014,Philadelphia Phillies,Wil Nieves,placed,15,TRUE,2014-06-19
+2014-06-24,"New York Mets placed C Taylor Teagarden on the 15-day disabled list retroactive to June 22, 2014.",TRUE,2014,New York Mets,Taylor Teagarden,placed,15,TRUE,2014-06-22
+2014-06-24,Kansas City Royals activated LHP Bruce Chen from the 60-day disabled list.,TRUE,2014,Kansas City Royals,Bruce Chen,activated,60,FALSE,NA
+2014-06-25,St. Louis Cardinals transferred RHP Joe Kelly from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,St. Louis Cardinals,Joe Kelly,transferred,60,FALSE,NA
+2014-06-25,Colorado Rockies placed RHP Christian Bergman on the 60-day disabled list.,TRUE,2014,Colorado Rockies,Christian Bergman,placed,60,FALSE,NA
+2014-06-25,"Miami Marlins placed SS Adeiny Hechavarria on the 15-day disabled list retroactive to June 21, 2014. right triceps strain",TRUE,2014,Miami Marlins,Adeiny Hechavarria,placed,15,TRUE,2014-06-21
+2014-06-25,"San Francisco Giants placed CF Angel Pagan on the 15-day disabled list retroactive to June 15, 2014.",TRUE,2014,San Francisco Giants,Angel Pagan,placed,15,TRUE,2014-06-15
+2014-06-25,Boston Red Sox activated RHP Clay Buchholz from the 15-day disabled list.,TRUE,2014,Boston Red Sox,Clay Buchholz,activated,15,FALSE,NA
+2014-06-25,Arizona Diamondbacks placed 1B Jordan Pacheco on the 15-day disabled list.,TRUE,2014,Arizona Diamondbacks,Jordan Pacheco,placed,15,FALSE,NA
+2014-06-26,San Diego Padres transferred LHP Robbie Erlin from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,San Diego Padres,Robbie Erlin,transferred,60,FALSE,NA
+2014-06-26,Los Angeles Dodgers activated 3B Juan Uribe from the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Juan Uribe,activated,15,FALSE,NA
+2014-06-27,"Baltimore Orioles placed RHP Bud Norris on the 15-day disabled list retroactive to June 22, 2014. right groin strain",TRUE,2014,Baltimore Orioles,Bud Norris,placed,15,TRUE,2014-06-22
+2014-06-27,Minnesota Twins placed SS Danny Santana on the 15-day disabled list.,TRUE,2014,Minnesota Twins,Danny Santana,placed,15,FALSE,NA
+2014-06-27,Seattle Mariners activated RF Michael Saunders from the 15-day disabled list.,TRUE,2014,Seattle Mariners,Michael Saunders,activated,15,FALSE,NA
+2014-06-27,Philadelphia Phillies placed C Carlos Ruiz on the 7-day disabled list.,TRUE,2014,Philadelphia Phillies,Carlos Ruiz,placed,7,FALSE,NA
+2014-06-28,Pittsburgh Pirates activated RHP Gerrit Cole from the 15-day disabled list.,TRUE,2014,Pittsburgh Pirates,Gerrit Cole,activated,15,FALSE,NA
+2014-06-29,Miami Marlins activated LF Christian Yelich from the 15-day disabled list.,TRUE,2014,Miami Marlins,Christian Yelich,activated,15,FALSE,NA
+2014-06-29,Oakland Athletics placed RF Josh Reddick on the 15-day disabled list.,TRUE,2014,Oakland Athletics,Josh Reddick,placed,15,FALSE,NA
+2014-06-29,"Arizona Diamondbacks placed SS Chris Owings on the 15-day disabled list retroactive to June 26, 2014.",TRUE,2014,Arizona Diamondbacks,Chris Owings,placed,15,TRUE,2014-06-26
+2014-06-29,Arizona Diamondbacks transferred 3B Eric Chavez from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Arizona Diamondbacks,Eric Chavez,transferred,60,FALSE,NA
+2014-06-29,Los Angeles Dodgers placed 3B Justin Turner on the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Justin Turner,placed,15,FALSE,NA
+2014-06-30,Washington Nationals activated RF Bryce Harper from the 15-day disabled list.,TRUE,2014,Washington Nationals,Bryce Harper,activated,15,FALSE,NA
+2014-06-30,Baltimore Orioles activated 3B Michael Almanzar from the 60-day disabled list.,TRUE,2014,Baltimore Orioles,Mel Almada,activated,60,FALSE,NA
+2014-06-30,Minnesota Twins activated 3B Eduardo Nunez from the 15-day disabled list.,TRUE,2014,Minnesota Twins,Eduardo Nunez,activated,15,FALSE,NA
+2014-06-30,Minnesota Twins activated 3B Trevor Plouffe from the 15-day disabled list.,TRUE,2014,Minnesota Twins,Trevor Plouffe,activated,15,FALSE,NA
+2014-06-30,"Colorado Rockies placed RHP Jhoulys Chacin on the 15-day disabled list retroactive to June 29, 2014.",TRUE,2014,Colorado Rockies,Jhoulys Chacin,placed,15,TRUE,2014-06-29
+2014-07-01,"Tampa Bay Rays placed SS Yunel Escobar on the 15-day disabled list retroactive to June 25, 2014.",TRUE,2014,Tampa Bay Rays,Yunel Escobar,placed,15,TRUE,2014-06-25
+2014-07-01,"Houston Astros placed CF Dexter Fowler on the 15-day disabled list retroactive to June 27, 2014.",TRUE,2014,Houston Astros,Dexter Fowler,placed,15,TRUE,2014-06-27
+2014-07-01,"Atlanta Braves placed C Evan Gattis on the 15-day disabled list retroactive to June 29, 2014.",TRUE,2014,Atlanta Braves,Evan Gattis,placed,15,TRUE,2014-06-29
+2014-07-01,New York Yankees transferred LHP CC Sabathia from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,New York Yankees,CC Sabathia,transferred,60,FALSE,NA
+2014-07-01,"Miami Marlins placed RHP A.J. Ramos on the 15-day disabled list retroactive to June 27, 2014.",TRUE,2014,Miami Marlins,Aj Ramos,placed,15,TRUE,2014-06-27
+2014-07-02,Minnesota Twins placed 1B Joe Mauer on the 15-day disabled list.,TRUE,2014,Minnesota Twins,Joe Mauer,placed,15,FALSE,NA
+2014-07-02,Atlanta Braves activated RHP David Carpenter from the 15-day disabled list.,TRUE,2014,Atlanta Braves,David Carpenter,activated,15,FALSE,NA
+2014-07-02,Philadelphia Phillies transferred RHP Mike Adams from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Philadelphia Phillies,Mike Adams,transferred,60,FALSE,NA
+2014-07-02,"San Diego Padres placed SS Everth Cabrera on the 15-day disabled list retroactive to July 1, 2014.",TRUE,2014,San Diego Padres,Everth Cabrera,placed,15,TRUE,2014-07-01
+2014-07-02,San Diego Padres transferred LHP Troy Patton from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,San Diego Padres,Troy Patton,transferred,60,FALSE,NA
+2014-07-02,Los Angeles Angels activated LHP Tyler Skaggs from the 15-day disabled list.,TRUE,2014,Los Angeles Angels,Tyler Skaggs,activated,15,FALSE,NA
+2014-07-03,Miami Marlins activated LHP Brad Hand from the 15-day disabled list.,TRUE,2014,Miami Marlins,Brad Hand,activated,15,FALSE,NA
+2014-07-03,Oakland Athletics activated LHP Eric O'Flaherty from the 60-day disabled list.,TRUE,2014,Oakland Athletics,Eric O'Flaherty,activated,60,FALSE,NA
+2014-07-03,Colorado Rockies activated 3B Nolan Arenado from the 15-day disabled list.,TRUE,2014,Colorado Rockies,Nolan Arenado,activated,15,FALSE,NA
+2014-07-04,San Francisco Giants activated 1B Brandon Belt from the 15-day disabled list.,TRUE,2014,San Francisco Giants,Brandon Belt,activated,15,FALSE,NA
+2014-07-04,Seattle Mariners activated DH Corey Hart from the 15-day disabled list.,TRUE,2014,Seattle Mariners,Corey Hart,activated,15,FALSE,NA
+2014-07-04,Colorado Rockies transferred RHP Jhoulys Chacin from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Colorado Rockies,Jhoulys Chacin,transferred,60,FALSE,NA
+2014-07-04,Toronto Blue Jays activated LHP Brett Cecil from the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,Brett Cecil,activated,15,FALSE,NA
+2014-07-04,Houston Astros activated RHP Josh Fields from the 15-day disabled list.,TRUE,2014,Houston Astros,Josh Fields,activated,15,FALSE,NA
+2014-07-06,Miami Marlins activated SS Adeiny Hechavarria from the 15-day disabled list.,TRUE,2014,Miami Marlins,Adeiny Hechavarria,activated,15,FALSE,NA
+2014-07-06,Cleveland Indians placed CF Michael Bourn on the 15-day disabled list.,TRUE,2014,Cleveland Indians,Michael Bourn,placed,15,FALSE,NA
+2014-07-06,"Pittsburgh Pirates placed SS Clint Barmes on the 15-day disabled list retroactive to June 30, 2014.",TRUE,2014,Pittsburgh Pirates,Clint Barmes,placed,15,TRUE,2014-06-30
+2014-07-06,"New York Mets placed LHP Jon Niese on the 15-day disabled list retroactive to July 5, 2014.",TRUE,2014,New York Mets,Ty Blach,placed,15,TRUE,2014-07-05
+2014-07-06,"Los Angeles Dodgers placed SS Erisbel Arruebarrena on the 15-day disabled list retroactive to July 5, 2014.",TRUE,2014,Los Angeles Dodgers,Erisbel Arruebarrena,placed,15,TRUE,2014-07-05
+2014-07-06,Colorado Rockies placed RHP Nick Masset on the 15-day disabled list.,TRUE,2014,Colorado Rockies,Nick Masset,placed,15,FALSE,NA
+2014-07-06,Detroit Tigers placed LHP Pat McCoy on the 15-day disabled list.,TRUE,2014,Detroit Tigers,Pat McCoy,placed,15,FALSE,NA
+2014-07-07,"Toronto Blue Jays placed 1B Edwin Encarnacion on the 15-day disabled list retroactive to July 6, 2014.",TRUE,2014,Toronto Blue Jays,Edwin Encarnacion,placed,15,TRUE,2014-07-06
+2014-07-07,Boston Red Sox activated 1B Mike Carp from the 15-day disabled list.,TRUE,2014,Boston Red Sox,Mike Carp,activated,15,FALSE,NA
+2014-07-08,"Cincinnati Reds placed 1B Joey Votto on the 15-day disabled list retroactive to July 6, 2014.",TRUE,2014,Cincinnati Reds,Joey Votto,placed,15,TRUE,2014-07-06
+2014-07-08,Houston Astros placed LF Alex Presley on the 15-day disabled list.,TRUE,2014,Houston Astros,Alex Presley,placed,15,FALSE,NA
+2014-07-08,Cleveland Indians placed RHP Justin Masterson on the 15-day disabled list.,TRUE,2014,Cleveland Indians,Justin Masterson,placed,15,FALSE,NA
+2014-07-08,"Los Angeles Dodgers placed RHP Josh Beckett on the 15-day disabled list retroactive to July 7, 2014.",TRUE,2014,Los Angeles Dodgers,Josh Beckett,placed,15,TRUE,2014-07-07
+2014-07-08,"Texas Rangers placed RHP Nick Martinez on the 15-day disabled list retroactive to July 2, 2014.",TRUE,2014,Texas Rangers,Nick Martinez,placed,15,TRUE,2014-07-02
+2014-07-08,"Minnesota Twins placed RHP Ricky Nolasco on the 15-day disabled list retroactive to July 7, 2014.",TRUE,2014,Minnesota Twins,Ricky Nolasco,placed,15,TRUE,2014-07-07
+2014-07-09,"Toronto Blue Jays placed RF Cole Gillespie on the 15-day disabled list retroactive to July 7, 2014.",TRUE,2014,Toronto Blue Jays,Cole Gillespie,placed,15,TRUE,2014-07-07
+2014-07-09,Philadelphia Phillies activated RHP Jeff Manship from the 15-day disabled list.,TRUE,2014,Philadelphia Phillies,Jeff Manship,activated,15,FALSE,NA
+2014-07-09,New York Mets activated RHP Dillon Gee from the 15-day disabled list.,TRUE,2014,New York Mets,Dillon Gee,activated,15,FALSE,NA
+2014-07-09,"Pittsburgh Pirates placed RHP Gerrit Cole on the 15-day disabled list retroactive to July 5, 2014.",TRUE,2014,Pittsburgh Pirates,Gerrit Cole,placed,15,TRUE,2014-07-05
+2014-07-09,New York Yankees placed RHP Masahiro Tanaka on the 15-day disabled list.,TRUE,2014,New York Yankees,Masahiro Tanaka,placed,15,FALSE,NA
+2014-07-10,San Francisco Giants activated 2B Ehire Adrianza from the 15-day disabled list.,TRUE,2014,San Francisco Giants,Ehire Adrianza,activated,15,FALSE,NA
+2014-07-10,St. Louis Cardinals placed C Yadier Molina on the 15-day disabled list.,TRUE,2014,St. Louis Cardinals,Yadier Molina,placed,15,FALSE,NA
+2014-07-10,"New York Yankees placed RF Carlos Beltran on the 7-day disabled list retroactive to July 9, 2014.",TRUE,2014,New York Yankees,Carlos Beltran,placed,7,TRUE,2014-07-09
+2014-07-10,"Kansas City Royals placed LHP Jason Vargas on the 15-day disabled list retroactive to July 9, 2014.",TRUE,2014,Kansas City Royals,Jason Vargas,placed,15,TRUE,2014-07-09
+2014-07-10,Los Angeles Angels placed LHP C.J. Wilson on the 15-day disabled list.,TRUE,2014,Los Angeles Angels,C.J. Wilson,placed,15,FALSE,NA
+2014-07-10,Los Angeles Dodgers activated LF Carl Crawford from the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Carl Crawford,activated,15,FALSE,NA
+2014-07-11,Philadelphia Phillies transferred LHP Cliff Lee from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Philadelphia Phillies,Cliff Lee,transferred,60,FALSE,NA
+2014-07-11,"Milwaukee Brewers placed LHP Wei-Chung Wang on the 15-day disabled list retroactive to July 9, 2014.",TRUE,2014,Milwaukee Brewers,Wei Chung Wang,placed,15,TRUE,2014-07-09
+2014-07-11,"Toronto Blue Jays placed 1B Adam Lind on the 15-day disabled list retroactive to July 8, 2014.",TRUE,2014,Toronto Blue Jays,Adam Lind,placed,15,TRUE,2014-07-08
+2014-07-11,Colorado Rockies activated RF Carlos Gonzalez from the 15-day disabled list.,TRUE,2014,Colorado Rockies,Carlos Gonzalez,activated,15,FALSE,NA
+2014-07-11,St. Louis Cardinals activated RHP Joe Kelly from the 60-day disabled list.,TRUE,2014,St. Louis Cardinals,Joe Kelly,activated,60,FALSE,NA
+2014-07-11,St. Louis Cardinals transferred LHP Jaime Garcia from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,St. Louis Cardinals,Jaime Garcia,transferred,60,FALSE,NA
+2014-07-11,"Cincinnati Reds placed 2B Brandon Phillips on the 15-day disabled list retroactive to July 10, 2014.",TRUE,2014,Cincinnati Reds,Brandon Phillips,placed,15,TRUE,2014-07-10
+2014-07-11,Tampa Bay Rays activated SS Yunel Escobar from the 15-day disabled list.,TRUE,2014,Tampa Bay Rays,Yunel Escobar,activated,15,FALSE,NA
+2014-07-11,Kansas City Royals activated RF Nori Aoki from the 15-day disabled list.,TRUE,2014,Kansas City Royals,Nori Aoki,activated,15,FALSE,NA
+2014-07-11,Seattle Mariners placed RF Michael Saunders on the 15-day disabled list.,TRUE,2014,Seattle Mariners,Michael Saunders,placed,15,FALSE,NA
+2014-07-11,Arizona Diamondbacks activated RF Mark Trumbo from the 15-day disabled list.,TRUE,2014,Arizona Diamondbacks,Mark Trumbo,activated,15,FALSE,NA
+2014-07-11,Philadelphia Phillies placed C Carlos Ruiz on the 15-day disabled list.,TRUE,2014,Philadelphia Phillies,Carlos Ruiz,placed,15,FALSE,NA
+2014-07-11,Cincinnati Reds placed LF Skip Schumaker on the 7-day disabled list.,TRUE,2014,Cincinnati Reds,Skip Schumaker,placed,7,FALSE,NA
+2014-07-11,San Francisco Giants activated 2B Marco Scutaro from the 60-day disabled list.,TRUE,2014,San Francisco Giants,Marco Scutaro,activated,60,FALSE,NA
+2014-07-12,"Houston Astros placed RHP Collin McHugh on the 15-day disabled list retroactive to July 7, 2014.",TRUE,2014,Houston Astros,Collin McHugh,placed,15,TRUE,2014-07-07
+2014-07-12,Toronto Blue Jays placed RF Nolan Reimold on the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,Nolan Reimold,placed,15,FALSE,NA
+2014-07-12,Oakland Athletics placed 1B Alberto Callaspo on the 15-day disabled list.,TRUE,2014,Oakland Athletics,Alberto Callaspo,placed,15,FALSE,NA
+2014-07-12,Cleveland Indians transferred DH Jason Giambi from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Cleveland Indians,Jason Giambi,transferred,60,FALSE,NA
+2014-07-13,Pittsburgh Pirates activated LHP Francisco Liriano from the 15-day disabled list.,TRUE,2014,Pittsburgh Pirates,Francisco Liriano,activated,15,FALSE,NA
+2014-07-13,Los Angeles Angels placed RF Collin Cowgill on the 15-day disabled list.,TRUE,2014,Los Angeles Angels,Collin Cowgill,placed,15,FALSE,NA
+2014-07-13,Colorado Rockies activated LHP Brett Anderson from the 60-day disabled list.,TRUE,2014,Colorado Rockies,Brett Anderson,activated,60,FALSE,NA
+2014-07-13,Colorado Rockies transferred RHP Jordan Lyles from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Colorado Rockies,Jordan Lyles,transferred,60,FALSE,NA
+2014-07-13,"Baltimore Orioles placed RHP Ubaldo Jimenez on the 15-day disabled list retroactive to July 8, 2014.",TRUE,2014,Baltimore Orioles,Ubaldo Jimenez,placed,15,TRUE,2014-07-08
+2014-07-17,"Tampa Bay Rays placed C Ryan Hanigan on the 15-day disabled list retroactive to July 9, 2014.",TRUE,2014,Tampa Bay Rays,Ryan Hanigan,placed,15,TRUE,2014-07-09
+2014-07-17,Texas Rangers activated C Geovany Soto from the 60-day disabled list.,TRUE,2014,Texas Rangers,Geovany Soto,activated,60,FALSE,NA
+2014-07-18,Miami Marlins activated RHP A.J. Ramos from the 15-day disabled list.,TRUE,2014,Miami Marlins,Aj Ramos,activated,15,FALSE,NA
+2014-07-18,"Miami Marlins placed RHP Kevin Gregg on the 15-day disabled list retroactive to July 14, 2014.",TRUE,2014,Miami Marlins,Kevin Gregg,placed,15,TRUE,2014-07-14
+2014-07-18,New York Yankees activated RF Carlos Beltran from the 7-day disabled list.,TRUE,2014,New York Yankees,Carlos Beltran,activated,7,FALSE,NA
+2014-07-18,Tampa Bay Rays transferred RF Wil Myers from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Tampa Bay Rays,Wil Myers,transferred,60,FALSE,NA
+2014-07-18,Los Angeles Dodgers activated 3B Justin Turner from the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Justin Turner,activated,15,FALSE,NA
+2014-07-18,"Milwaukee Brewers placed SS Jeff Bianchi on the 15-day disabled list retroactive to July 13, 2014.",TRUE,2014,Milwaukee Brewers,Jeff Bianchi,placed,15,TRUE,2014-07-13
+2014-07-19,Detroit Tigers transferred RHP Joel Hanrahan from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Detroit Tigers,Joel Hanrahan,transferred,60,FALSE,NA
+2014-07-20,Chicago White Sox transferred RHP Felipe Paulino from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Chicago White Sox,Felipe Paulino,transferred,60,FALSE,NA
+2014-07-20,Cincinnati Reds activated LF Skip Schumaker from the 7-day disabled list.,TRUE,2014,Cincinnati Reds,Skip Schumaker,activated,7,FALSE,NA
+2014-07-21,Milwaukee Brewers transferred RHP Jim Henderson from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Milwaukee Brewers,Jim Henderson,transferred,60,FALSE,NA
+2014-07-21,"San Francisco Giants placed RHP Matt Cain on the 15-day disabled list retroactive to July 11, 2014.",TRUE,2014,San Francisco Giants,Matt Cain,placed,15,TRUE,2014-07-11
+2014-07-21,"San Francisco Giants placed 1B Brandon Belt on the 7-day disabled list retroactive to July 20, 2014.",TRUE,2014,San Francisco Giants,Brandon Belt,placed,7,TRUE,2014-07-20
+2014-07-21,Philadelphia Phillies activated LHP Cliff Lee from the 60-day disabled list.,TRUE,2014,Philadelphia Phillies,Cliff Lee,activated,60,FALSE,NA
+2014-07-21,Philadelphia Phillies activated 3B Reid Brignac from the 15-day disabled list.,TRUE,2014,Philadelphia Phillies,Reid Brignac,activated,15,FALSE,NA
+2014-07-21,Philadelphia Phillies activated C Wil Nieves from the 15-day disabled list.,TRUE,2014,Philadelphia Phillies,Wil Nieves,activated,15,FALSE,NA
+2014-07-21,Texas Rangers activated RF Jim Adduci from the 15-day disabled list.,TRUE,2014,Texas Rangers,Jim Adduci,activated,15,FALSE,NA
+2014-07-21,"Colorado Rockies placed 1B Justin Morneau on the 15-day disabled list retroactive to July 14, 2014. neck strain",TRUE,2014,Colorado Rockies,Justin Morneau,placed,15,TRUE,2014-07-14
+2014-07-21,Atlanta Braves activated C Evan Gattis from the 15-day disabled list.,TRUE,2014,Atlanta Braves,Evan Gattis,activated,15,FALSE,NA
+2014-07-21,"Colorado Rockies placed LHP Boone Logan on the 15-day disabled list retroactive to July 12, 2014.",TRUE,2014,Colorado Rockies,Boone Logan,placed,15,TRUE,2014-07-12
+2014-07-21,Colorado Rockies activated RHP Nick Masset from the 15-day disabled list.,TRUE,2014,Colorado Rockies,Nick Masset,activated,15,FALSE,NA
+2014-07-22,"Cincinnati Reds placed RHP Logan Ondrusek on the 15-day disabled list retroactive to July 13, 2013.",TRUE,2014,Cincinnati Reds,Logan Ondrusek,placed,15,TRUE,2014-07-13
+2014-07-22,Chicago Cubs activated CF Emilio Bonifacio from the 15-day disabled list.,TRUE,2014,Chicago Cubs,Emilio Bonifacio,activated,15,FALSE,NA
+2014-07-22,Texas Rangers placed C Geovany Soto on the 15-day disabled list.,TRUE,2014,Texas Rangers,Geovany Soto,placed,15,FALSE,NA
+2014-07-22,"Colorado Rockies placed SS Troy Tulowitzki on the 15-day disabled list retroactive to July 20, 2014.",TRUE,2014,Colorado Rockies,Troy Tulowitzki,placed,15,TRUE,2014-07-20
+2014-07-22,"Philadelphia Phillies placed LF John Mayberry Jr. on the 15-day disabled list retroactive to July 21, 2014.",TRUE,2014,Philadelphia Phillies,John Mayberry Jr.,placed,15,TRUE,2014-07-21
+2014-07-22,"Tampa Bay Rays placed RHP Joel Peralta on the 15-day disabled list retroactive to July 13, 2014.",TRUE,2014,Tampa Bay Rays,Joel Peralta,placed,15,TRUE,2014-07-13
+2014-07-23,New York Yankees placed 3B Kelly Johnson on the 15-day disabled list.,TRUE,2014,New York Yankees,Kelly Johnson,placed,15,FALSE,NA
+2014-07-23,Philadelphia Phillies activated C Carlos Ruiz from the 15-day disabled list.,TRUE,2014,Philadelphia Phillies,Carlos Ruiz,activated,15,FALSE,NA
+2014-07-23,"Houston Astros placed RF George Springer on the 15-day disabled list retroactive to July 20, 2014.",TRUE,2014,Houston Astros,George Springer,placed,15,TRUE,2014-07-20
+2014-07-23,"Los Angeles Angels placed LF Grant Green on the 15-day disabled list retroactive to July 21, 2014.",TRUE,2014,Los Angeles Angels,Grant Green,placed,15,TRUE,2014-07-21
+2014-07-23,"Pittsburgh Pirates placed LF Starling Marte on the 7-day disabled list retroactive to July 22, 2014.",TRUE,2014,Pittsburgh Pirates,Starling Marte,placed,7,TRUE,2014-07-22
+2014-07-23,Pittsburgh Pirates placed LF Starling Marte on the 7-day disabled list.,TRUE,2014,Pittsburgh Pirates,Starling Marte,placed,7,FALSE,NA
+2014-07-24,Texas Rangers transferred 1B Mitch Moreland from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Texas Rangers,Mitch Moreland,transferred,60,FALSE,NA
+2014-07-24,Chicago White Sox placed RHP Zach Putnam on the 15-day disabled list.,TRUE,2014,Chicago White Sox,Zach Putnam,placed,15,FALSE,NA
+2014-07-24,Seattle Mariners placed SS Willie Bloomquist on the 15-day disabled list. right knee contusion,TRUE,2014,Seattle Mariners,Willie Bloomquist,placed,15,FALSE,NA
+2014-07-25,Washington Nationals placed LHP Matt Purke on the 60-day disabled list.,TRUE,2014,Washington Nationals,Matt Purke,placed,60,FALSE,NA
+2014-07-25,Houston Astros transferred RHP Matt Albers from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Houston Astros,Matt Albers,transferred,60,FALSE,NA
+2014-07-25,"Texas Rangers placed LF Jake Smolinski on the 15-day disabled list retroactive to July 22, 2014.",TRUE,2014,Texas Rangers,Jake Smolinski,placed,15,TRUE,2014-07-22
+2014-07-25,San Francisco Giants placed 2B Marco Scutaro on the 15-day disabled list.,TRUE,2014,San Francisco Giants,Marco Scutaro,placed,15,FALSE,NA
+2014-07-25,San Francisco Giants placed 2B Ehire Adrianza on the 15-day disabled list.,TRUE,2014,San Francisco Giants,Ehire Adrianza,placed,15,FALSE,NA
+2014-07-26,"New York Mets placed RHP Daisuke Matsuzaka on the 15-day disabled list retroactive to July 25, 2014.",TRUE,2014,New York Mets,Daisuke Matsuzaka,placed,15,TRUE,2014-07-25
+2014-07-26,San Francisco Giants placed C Hector Sanchez on the 7-day disabled list.,TRUE,2014,San Francisco Giants,Hector Sanchez,placed,7,FALSE,NA
+2014-07-26,San Diego Padres activated 1B Yonder Alonso from the 15-day disabled list.,TRUE,2014,San Diego Padres,Yonder Alonso,activated,15,FALSE,NA
+2014-07-27,"Houston Astros placed RHP Josh Zeid on the 15-day disabled list retroactive to July 25, 2014.",TRUE,2014,Houston Astros,Josh Zeid,placed,15,TRUE,2014-07-25
+2014-07-27,Houston Astros activated RHP Collin McHugh from the 15-day disabled list.,TRUE,2014,Houston Astros,Collin McHugh,activated,15,FALSE,NA
+2014-07-27,Cincinnati Reds activated 1B Jack Hannahan from the 60-day disabled list.,TRUE,2014,Cincinnati Reds,Jack Hannahan,activated,60,FALSE,NA
+2014-07-27,Toronto Blue Jays activated RF Nolan Reimold from the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,Nolan Reimold,activated,15,FALSE,NA
+2014-07-27,Oakland Athletics activated 1B Alberto Callaspo from the 15-day disabled list.,TRUE,2014,Oakland Athletics,Alberto Callaspo,activated,15,FALSE,NA
+2014-07-28,"San Diego Padres placed LF Carlos Quentin on the 15-day disabled list retroactive to July 27, 2014.",TRUE,2014,San Diego Padres,Carlos Quentin,placed,15,TRUE,2014-07-27
+2014-07-28,Oakland Athletics placed CF Craig Gentry on the 15-day disabled list.,TRUE,2014,Oakland Athletics,Craig Gentry,placed,15,FALSE,NA
+2014-07-28,Tampa Bay Rays activated RHP Joel Peralta from the 15-day disabled list.,TRUE,2014,Tampa Bay Rays,Joel Peralta,activated,15,FALSE,NA
+2014-07-29,"Atlanta Braves placed RHP Shae Simmons on the 15-day disabled list retroactive to July 27, 2014.",TRUE,2014,Atlanta Braves,Shae Simmons,placed,15,TRUE,2014-07-27
+2014-07-29,San Diego Padres activated SS Everth Cabrera from the 15-day disabled list.,TRUE,2014,San Diego Padres,Everth Cabrera,activated,15,FALSE,NA
+2014-07-29,Colorado Rockies activated 1B Justin Morneau from the 15-day disabled list.,TRUE,2014,Colorado Rockies,Justin Morneau,activated,15,FALSE,NA
+2014-07-29,"Chicago Cubs placed RHP Neil Ramirez on the 15-day disabled list retroactive to July 26, 2014.",TRUE,2014,Chicago Cubs,Neil Ramirez,placed,15,TRUE,2014-07-26
+2014-07-30,St. Louis Cardinals transferred RHP Michael Wacha from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,St. Louis Cardinals,Michael Wacha,transferred,60,FALSE,NA
+2014-07-31,Milwaukee Brewers transferred RHP Tyler Thornburg from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Milwaukee Brewers,Tyler Thornburg,transferred,60,FALSE,NA
+2014-07-31,Toronto Blue Jays placed 1B Dan Johnson on the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,Dan Johnson,placed,15,FALSE,NA
+2014-07-31,Atlanta Braves transferred RHP Gavin Floyd from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Atlanta Braves,Gavin Floyd,transferred,60,FALSE,NA
+2014-08-01,Philadelphia Phillies placed LHP Cliff Lee on the 15-day disabled list.,TRUE,2014,Philadelphia Phillies,Cliff Lee,placed,15,FALSE,NA
+2014-08-01,"Miami Marlins placed RHP Henderson Alvarez on the 15-day disabled list retroactive to July 30, 2013.",TRUE,2014,Miami Marlins,Henderson Alvarez,placed,15,TRUE,2014-07-30
+2014-08-01,"Boston Red Sox placed RF Shane Victorino on the 15-day disabled list retroactive to July 31, 2014.",TRUE,2014,Boston Red Sox,Shane Victorino,placed,15,TRUE,2014-07-31
+2014-08-01,"Chicago Cubs placed LHP Felix Doubront on the 15-day disabled list retroactive to July 31, 2014.",TRUE,2014,Chicago Cubs,Felix Doubront,placed,15,TRUE,2014-07-31
+2014-08-01,Los Angeles Angels placed LHP Tyler Skaggs on the 15-day disabled list.,TRUE,2014,Los Angeles Angels,Tyler Skaggs,placed,15,FALSE,NA
+2014-08-01,Kansas City Royals placed 1B Eric Hosmer on the 15-day disabled list.,TRUE,2014,Kansas City Royals,Eric Hosmer,placed,15,FALSE,NA
+2014-08-02,Kansas City Royals activated LHP Jason Vargas from the 15-day disabled list.,TRUE,2014,Kansas City Royals,Jason Vargas,activated,15,FALSE,NA
+2014-08-02,Seattle Mariners placed DH Corey Hart on the 15-day disabled list.,TRUE,2014,Seattle Mariners,Corey Hart,placed,15,FALSE,NA
+2014-08-02,Boston Red Sox placed C David Ross on the 15-day disabled list. right plantar fasciitis,TRUE,2014,Boston Red Sox,David Ross,placed,15,FALSE,NA
+2014-08-02,Arizona Diamondbacks placed 1B Paul Goldschmidt on the 15-day disabled list.,TRUE,2014,Arizona Diamondbacks,Paul Goldschmidt,placed,15,FALSE,NA
+2014-08-02,San Francisco Giants activated 1B Brandon Belt from the 7-day disabled list.,TRUE,2014,San Francisco Giants,Brandon Belt,activated,7,FALSE,NA
+2014-08-02,Los Angeles Angels activated LHP C.J. Wilson from the 15-day disabled list.,TRUE,2014,Los Angeles Angels,C.J. Wilson,activated,15,FALSE,NA
+2014-08-02,Los Angeles Dodgers placed LHP Paul Maholm on the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Paul Maholm,placed,15,FALSE,NA
+2014-08-03,"Houston Astros placed 1B Jesus Guzman on the 15-day disabled list retroactive to August 2, 2014.",TRUE,2014,Houston Astros,Jesus Guzman,placed,15,TRUE,2014-08-02
+2014-08-03,Los Angeles Angels placed LHP Joe Thatcher on the 15-day disabled list.,TRUE,2014,Los Angeles Angels,Joe Thatcher,placed,15,FALSE,NA
+2014-08-03,Oakland Athletics placed 2B Nick Punto on the 15-day disabled list.,TRUE,2014,Oakland Athletics,Nick Punto,placed,15,FALSE,NA
+2014-08-03,Texas Rangers transferred RHP Alexi Ogando from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Texas Rangers,Alexi Ogando,transferred,60,FALSE,NA
+2014-08-04,"Washington Nationals placed LF Nate McLouth on the 15-day disabled list retroactive to August 2, 2014.",TRUE,2014,Washington Nationals,Nate McLouth,placed,15,TRUE,2014-08-02
+2014-08-04,New York Yankees placed RHP David Phelps on the 15-day disabled list. right elbow inflammation,TRUE,2014,New York Yankees,David Phelps,placed,15,FALSE,NA
+2014-08-04,"Los Angeles Angels placed RHP Mike Morin on the 15-day disabled list retroactive to August 1, 2014.",TRUE,2014,Los Angeles Angels,Mike Morin,placed,15,TRUE,2014-08-01
+2014-08-04,Los Angeles Angels activated LF Collin Cowgill from the 15-day disabled list.,TRUE,2014,Los Angeles Angels,Collin Cowgill,activated,15,FALSE,NA
+2014-08-04,Los Angeles Dodgers placed RHP Chris Perez on the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Chris Perez,placed,15,FALSE,NA
+2014-08-04,Los Angeles Dodgers transferred LHP Paul Maholm from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Los Angeles Dodgers,Paul Maholm,transferred,60,FALSE,NA
+2014-08-05,Toronto Blue Jays activated 3B Brett Lawrie from the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,Brett Lawrie,activated,15,FALSE,NA
+2014-08-05,"Milwaukee Brewers placed RHP Matt Garza on the 15-day disabled list retroactive to August 4, 2014.",TRUE,2014,Milwaukee Brewers,Matt Garza,placed,15,TRUE,2014-08-04
+2014-08-05,Pittsburgh Pirates activated LF Starling Marte from the 7-day disabled list.,TRUE,2014,Pittsburgh Pirates,Starling Marte,activated,7,FALSE,NA
+2014-08-05,"Los Angeles Dodgers placed LHP Paco Rodriguez on the 15-day disabled list retroactive to August 4, 2014.",TRUE,2014,Los Angeles Dodgers,Paco Rodriguez,placed,15,TRUE,2014-08-04
+2014-08-05,Washington Nationals placed RHP Taylor Jordan on the 60-day disabled list.,TRUE,2014,Washington Nationals,Taylor Jordan,placed,60,FALSE,NA
+2014-08-05,"Boston Red Sox placed RF Allen Craig on the 15-day disabled list retroactive to August 2, 2014.",TRUE,2014,Boston Red Sox,Allen Craig,placed,15,TRUE,2014-08-02
+2014-08-06,Chicago Cubs activated RHP Kyuji Fujikawa from the 60-day disabled list.,TRUE,2014,Chicago Cubs,Kyuji Fujikawa,activated,60,FALSE,NA
+2014-08-06,Arizona Diamondbacks activated SS Cliff Pennington from the 15-day disabled list.,TRUE,2014,Arizona Diamondbacks,Cliff Pennington,activated,15,FALSE,NA
+2014-08-06,Colorado Rockies activated RHP Jordan Lyles from the 60-day disabled list.,TRUE,2014,Colorado Rockies,Jordan Lyles,activated,60,FALSE,NA
+2014-08-06,Colorado Rockies placed LHP Brett Anderson on the 15-day disabled list.,TRUE,2014,Colorado Rockies,Brett Anderson,placed,15,FALSE,NA
+2014-08-07,"Toronto Blue Jays placed 3B Brett Lawrie on the 15-day disabled list retroactive to August 6, 2014.",TRUE,2014,Toronto Blue Jays,Brett Lawrie,placed,15,TRUE,2014-08-06
+2014-08-07,San Francisco Giants activated CF Angel Pagan from the 15-day disabled list.,TRUE,2014,San Francisco Giants,Angel Pagan,activated,15,FALSE,NA
+2014-08-07,Boston Red Sox activated 3B Kelly Johnson from the 15-day disabled list.,TRUE,2014,Boston Red Sox,Kelly Johnson,activated,15,FALSE,NA
+2014-08-08,"St. Louis Cardinals placed RHP Jason Motte on the 15-day disabled list retroactive to August 1, 2014.",TRUE,2014,St. Louis Cardinals,Jason Motte,placed,15,TRUE,2014-08-01
+2014-08-08,Chicago White Sox activated RHP Zach Putnam from the 15-day disabled list.,TRUE,2014,Chicago White Sox,Zach Putnam,activated,15,FALSE,NA
+2014-08-08,Texas Rangers activated C Geovany Soto from the 15-day disabled list.,TRUE,2014,Texas Rangers,Geovany Soto,activated,15,FALSE,NA
+2014-08-08,Miami Marlins placed LHP Dan Jennings on the 7-day disabled list.,TRUE,2014,Miami Marlins,Dan Jennings,placed,7,FALSE,NA
+2014-08-08,"Los Angeles Dodgers placed RHP Josh Beckett on the 15-day disabled list retroactive to August 4, 2014.",TRUE,2014,Los Angeles Dodgers,Josh Beckett,placed,15,TRUE,2014-08-04
+2014-08-08,"San Francisco Giants placed 1B Brandon Belt on the 7-day disabled list retroactive to August 7, 2014.",TRUE,2014,San Francisco Giants,Brandon Belt,placed,7,TRUE,2014-08-07
+2014-08-09,New York Yankees placed C Brian McCann on the 7-day disabled list.,TRUE,2014,New York Yankees,Brian McCann,placed,7,FALSE,NA
+2014-08-09,Baltimore Orioles activated RHP Ubaldo Jimenez from the 15-day disabled list.,TRUE,2014,Baltimore Orioles,Ubaldo Jimenez,activated,15,FALSE,NA
+2014-08-10,Cleveland Indians placed RF David Murphy on the 15-day disabled list.,TRUE,2014,Cleveland Indians,David Murphy,placed,15,FALSE,NA
+2014-08-10,Cleveland Indians placed 1B Nick Swisher on the 15-day disabled list.,TRUE,2014,Cleveland Indians,Nick Swisher,placed,15,FALSE,NA
+2014-08-10,"Los Angeles Dodgers placed SS Hanley Ramirez on the 15-day disabled list retroactive to August 9, 2014.",TRUE,2014,Los Angeles Dodgers,Hanley Ramirez,placed,15,TRUE,2014-08-09
+2014-08-10,Chicago Cubs activated RHP Neil Ramirez from the 15-day disabled list.,TRUE,2014,Chicago Cubs,Neil Ramirez,activated,15,FALSE,NA
+2014-08-10,"Chicago Cubs placed RHP Brian Schlitter on the 15-day disabled list retroactive to August 9, 2014.",TRUE,2014,Chicago Cubs,Brian Schlitter,placed,15,TRUE,2014-08-09
+2014-08-10,"Colorado Rockies placed LF Carlos Gonzalez on the 15-day disabled list retroactive to August 9, 2014.",TRUE,2014,Colorado Rockies,Carlos Gonzalez,placed,15,TRUE,2014-08-09
+2014-08-10,Los Angeles Angels transferred LHP Tyler Skaggs from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Los Angeles Angels,Tyler Skaggs,transferred,60,FALSE,NA
+2014-08-10,Washington Nationals placed RF Steven Souza Jr. on the 15-day disabled list.,TRUE,2014,Washington Nationals,Steven Souza Jr.,placed,15,FALSE,NA
+2014-08-10,San Francisco Giants placed C Hector Sanchez on the 15-day disabled list.,TRUE,2014,San Francisco Giants,Hector Sanchez,placed,15,FALSE,NA
+2014-08-10,"Detroit Tigers placed RHP Anibal Sanchez on the 15-day disabled list retroactive to August 9, 2014.",TRUE,2014,Detroit Tigers,Anibal Sanchez,placed,15,TRUE,2014-08-09
+2014-08-11,"Pittsburgh Pirates placed CF Andrew McCutchen on the 15-day disabled list retroactive to August 4, 2014.",TRUE,2014,Pittsburgh Pirates,Andrew McCutchen,placed,15,TRUE,2014-08-04
+2014-08-11,Minnesota Twins activated 1B Joe Mauer from the 15-day disabled list.,TRUE,2014,Minnesota Twins,Joe Mauer,activated,15,FALSE,NA
+2014-08-11,"New York Mets placed RHP Jacob deGrom on the 15-day disabled list retroactive to August 8, 2014.",TRUE,2014,New York Mets,Jacob deGrom,placed,15,TRUE,2014-08-08
+2014-08-11,"Detroit Tigers placed RHP Joakim Soria on the 15-day disabled list retroactive to August 10, 2014.",TRUE,2014,Detroit Tigers,Joakim Soria,placed,15,TRUE,2014-08-10
+2014-08-12,Chicago White Sox activated RHP Matt Lindstrom from the 15-day disabled list.,TRUE,2014,Chicago White Sox,Matt Lindstrom,activated,15,FALSE,NA
+2014-08-12,"San Diego Padres placed SS Everth Cabrera on the 15-day disabled list retroactive to August 10, 2014. left hamstring strain",TRUE,2014,San Diego Padres,Everth Cabrera,placed,15,TRUE,2014-08-10
+2014-08-12,"Kansas City Royals placed LHP Scott Downs on the 15-day disabled list retroactive to August 3, 2014.",TRUE,2014,Kansas City Royals,Scott Downs,placed,15,TRUE,2014-08-03
+2014-08-13,Houston Astros activated CF Dexter Fowler from the 15-day disabled list.,TRUE,2014,Houston Astros,Dexter Fowler,activated,15,FALSE,NA
+2014-08-13,Baltimore Orioles transferred C Matt Wieters from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Baltimore Orioles,Matt Wieters,transferred,60,FALSE,NA
+2014-08-13,"Baltimore Orioles placed 3B Manny Machado on the 15-day disabled list retroactive to August 12, 2014. right knee sprain",TRUE,2014,Baltimore Orioles,Manny Machado,placed,15,TRUE,2014-08-12
+2014-08-13,New York Yankees activated RHP Michael Pineda from the 60-day disabled list.,TRUE,2014,New York Yankees,Michael Pineda,activated,60,FALSE,NA
+2014-08-13,"Texas Rangers placed RHP Yu Darvish on the 15-day disabled list retroactive to August 10, 2014.",TRUE,2014,Texas Rangers,Yu Darvish,placed,15,TRUE,2014-08-10
+2014-08-14,"San Diego Padres placed 1B Yonder Alonso on the 15-day disabled list retroactive to August 13, 2014.",TRUE,2014,San Diego Padres,Yonder Alonso,placed,15,TRUE,2014-08-13
+2014-08-15,Toronto Blue Jays activated DH Edwin Encarnacion from the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,Edwin Encarnacion,activated,15,FALSE,NA
+2014-08-15,"Oakland Athletics placed SS Jed Lowrie on the 15-day disabled list retroactive to August 14, 2014.",TRUE,2014,Oakland Athletics,Jed Lowrie,placed,15,TRUE,2014-08-14
+2014-08-15,"Pittsburgh Pirates placed RHP Stolmy Pimentel on the 15-day disabled list retroactive to August 14, 2014.",TRUE,2014,Pittsburgh Pirates,Stolmy Pimentel,placed,15,TRUE,2014-08-14
+2014-08-15,Minnesota Twins activated RHP Ricky Nolasco from the 15-day disabled list.,TRUE,2014,Minnesota Twins,Ricky Nolasco,activated,15,FALSE,NA
+2014-08-15,"Los Angeles Dodgers placed LHP Hyun-Jin Ryu on the 15-day disabled list retroactive to August 14, 2014.",TRUE,2014,Los Angeles Dodgers,Hyun Jin Ryu,placed,15,TRUE,2014-08-14
+2014-08-16,Miami Marlins activated RHP Henderson Alvarez from the 15-day disabled list.,TRUE,2014,Miami Marlins,Henderson Alvarez,activated,15,FALSE,NA
+2014-08-16,Chicago White Sox placed RF Moises Sierra on the 15-day disabled list.,TRUE,2014,Chicago White Sox,Moises Sierra,placed,15,FALSE,NA
+2014-08-16,Chicago White Sox activated DH Avisail Garcia from the 60-day disabled list.,TRUE,2014,Chicago White Sox,Avisail Garcia,activated,60,FALSE,NA
+2014-08-16,Cincinnati Reds transferred 1B Joey Votto from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Cincinnati Reds,Joey Votto,transferred,60,FALSE,NA
+2014-08-16,"Cincinnati Reds placed RHP Homer Bailey on the 15-day disabled list retroactive to August 8, 2014.",TRUE,2014,Cincinnati Reds,Homer Bailey,placed,15,TRUE,2014-08-08
+2014-08-16,Colorado Rockies activated RF Michael Cuddyer from the 60-day disabled list.,TRUE,2014,Colorado Rockies,Michael Cuddyer,activated,60,FALSE,NA
+2014-08-16,"Colorado Rockies placed RHP Tommy Kahnle on the 15-day disabled list retroactive to August 13, 2014.",TRUE,2014,Colorado Rockies,Tommy Kahnle,placed,15,TRUE,2014-08-13
+2014-08-16,Los Angeles Angels activated RHP Mike Morin from the 15-day disabled list.,TRUE,2014,Los Angeles Angels,Mike Morin,activated,15,FALSE,NA
+2014-08-17,"Pittsburgh Pirates placed RHP Charlie Morton on the 15-day disabled list retroactive to August 16, 2014. right hip inflammation",TRUE,2014,Pittsburgh Pirates,Charlie Morton,placed,15,TRUE,2014-08-16
+2014-08-17,New York Yankees activated C Brian McCann from the 7-day disabled list.,TRUE,2014,New York Yankees,Brian McCann,activated,7,FALSE,NA
+2014-08-18,Cincinnati Reds activated 2B Brandon Phillips from the 15-day disabled list.,TRUE,2014,Cincinnati Reds,Brandon Phillips,activated,15,FALSE,NA
+2014-08-18,Cincinnati Reds activated RHP Logan Ondrusek from the 15-day disabled list.,TRUE,2014,Cincinnati Reds,Logan Ondrusek,activated,15,FALSE,NA
+2014-08-19,Pittsburgh Pirates activated CF Andrew McCutchen from the 15-day disabled list.,TRUE,2014,Pittsburgh Pirates,Andrew McCutchen,activated,15,FALSE,NA
+2014-08-19,"Houston Astros placed LHP Darin Downs on the 15-day disabled list retroactive to August 15, 2014.",TRUE,2014,Houston Astros,Darin Downs,placed,15,TRUE,2014-08-15
+2014-08-19,"St. Louis Cardinals placed 2B Mark Ellis on the 15-day disabled list retroactive to August 15, 2014.",TRUE,2014,St. Louis Cardinals,Mark Ellis,placed,15,TRUE,2014-08-15
+2014-08-19,"Cleveland Indians placed RF Ryan Raburn on the 15-day disabled list retroactive to August 18, 2014.",TRUE,2014,Cleveland Indians,Ryan Raburn,placed,15,TRUE,2014-08-18
+2014-08-19,Colorado Rockies transferred SS Troy Tulowitzki from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Colorado Rockies,Troy Tulowitzki,transferred,60,FALSE,NA
+2014-08-20,Tampa Bay Rays activated RF Wil Myers from the 60-day disabled list.,TRUE,2014,Tampa Bay Rays,Wil Myers,activated,60,FALSE,NA
+2014-08-20,Tampa Bay Rays transferred LF Jerry Sands from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Tampa Bay Rays,Jerry Sands,transferred,60,FALSE,NA
+2014-08-20,Boston Red Sox activated C David Ross from the 15-day disabled list.,TRUE,2014,Boston Red Sox,David Ross,activated,15,FALSE,NA
+2014-08-21,Chicago Cubs placed RHP Edwin Jackson on the 15-day disabled list.,TRUE,2014,Chicago Cubs,Edwin Jackson,placed,15,FALSE,NA
+2014-08-21,Los Angeles Angels placed RHP Garrett Richards on the 60-day disabled list.,TRUE,2014,Los Angeles Angels,Garrett Richards,placed,60,FALSE,NA
+2014-08-22,Miami Marlins placed LHP Dan Jennings on the 15-day disabled list.,TRUE,2014,Miami Marlins,Dan Jennings,placed,15,FALSE,NA
+2014-08-23,Washington Nationals transferred LF Nate McLouth from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Washington Nationals,Nate McLouth,transferred,60,FALSE,NA
+2014-08-23,New York Mets activated RHP Jacob deGrom from the 15-day disabled list.,TRUE,2014,New York Mets,Jacob deGrom,activated,15,FALSE,NA
+2014-08-23,"Cleveland Indians placed C Yan Gomes on the 7-day disabled list retroactive to August 22, 2014. concussion symptoms",TRUE,2014,Cleveland Indians,Yan Gomes,placed,7,TRUE,2014-08-22
+2014-08-24,Los Angeles Dodgers activated SS Hanley Ramirez from the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Hanley Ramirez,activated,15,FALSE,NA
+2014-08-24,Colorado Rockies placed RF Michael Cuddyer on the 15-day disabled list.,TRUE,2014,Colorado Rockies,Michael Cuddyer,placed,15,FALSE,NA
+2014-08-24,Colorado Rockies transferred LF Carlos Gonzalez from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Colorado Rockies,Carlos Gonzalez,transferred,60,FALSE,NA
+2014-08-24,Oakland Athletics transferred 1B Kyle Blanks from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Oakland Athletics,Kyle Blanks,transferred,60,FALSE,NA
+2014-08-24,"Boston Red Sox placed SS Xander Bogaerts on the 7-day disabled list retroactive to August 23, 2014. concussion",TRUE,2014,Boston Red Sox,Xander Bogaerts,placed,7,TRUE,2014-08-23
+2014-08-24,Oakland Athletics placed LHP Sean Doolittle on the 15-day disabled list. strained right intercostal,TRUE,2014,Oakland Athletics,Sean Doolittle,placed,15,FALSE,NA
+2014-08-25,"Oakland Athletics placed C John Jaso on the 7-day disabled list retroactive to August 24, 2014.",TRUE,2014,Oakland Athletics,John Jaso,placed,7,TRUE,2014-08-24
+2014-08-25,Pittsburgh Pirates activated SS Clint Barmes from the 15-day disabled list.,TRUE,2014,Pittsburgh Pirates,Clint Barmes,activated,15,FALSE,NA
+2014-08-25,"Texas Rangers placed LF Shin-Soo Choo on the 15-day disabled list retroactive to August 24, 2014.",TRUE,2014,Texas Rangers,Shin Soo Choo,placed,15,TRUE,2014-08-24
+2014-08-26,St. Louis Cardinals placed CF Shane Robinson on the 15-day disabled list.,TRUE,2014,St. Louis Cardinals,Shane Robinson,placed,15,FALSE,NA
+2014-08-27,"Chicago Cubs placed RF Justin Ruggiano on the 15-day disabled list retroactive to August 23, 2014.",TRUE,2014,Chicago Cubs,Justin Ruggiano,placed,15,TRUE,2014-08-23
+2014-08-27,"Colorado Rockies placed LHP Boone Logan on the 15-day disabled list retroactive to August 25, 2014.",TRUE,2014,Colorado Rockies,Boone Logan,placed,15,TRUE,2014-08-25
+2014-08-27,"Colorado Rockies placed C Wilin Rosario on the 15-day disabled list retroactive to August 23, 2014.",TRUE,2014,Colorado Rockies,Wilin Rosario,placed,15,TRUE,2014-08-23
+2014-08-28,Kansas City Royals activated LHP Scott Downs from the 15-day disabled list.,TRUE,2014,Kansas City Royals,Scott Downs,activated,15,FALSE,NA
+2014-08-28,Kansas City Royals placed RHP Michael Mariot on the 60-day disabled list.,TRUE,2014,Kansas City Royals,Michael Mariot,placed,60,FALSE,NA
+2014-08-28,New York Mets activated RHP Daisuke Matsuzaka from the 15-day disabled list.,TRUE,2014,New York Mets,Daisuke Matsuzaka,activated,15,FALSE,NA
+2014-08-28,"New York Mets placed RHP Vic Black on the 15-day disabled list retroactive to August 24, 2014.",TRUE,2014,New York Mets,Vic Black,placed,15,TRUE,2014-08-24
+2014-08-29,"New York Mets placed 2B Daniel Murphy on the 15-day disabled list retroactive to August 25, 2014.",TRUE,2014,New York Mets,Daniel Murphy,placed,15,TRUE,2014-08-25
+2014-08-29,Cleveland Indians activated C Yan Gomes from the 7-day disabled list.,TRUE,2014,Cleveland Indians,Yan Gomes,activated,7,FALSE,NA
+2014-08-29,Texas Rangers placed RF Jim Adduci on the 7-day disabled list.,TRUE,2014,Texas Rangers,Jim Adduci,placed,7,FALSE,NA
+2014-08-29,St. Louis Cardinals activated C Yadier Molina from the 15-day disabled list.,TRUE,2014,St. Louis Cardinals,Yadier Molina,activated,15,FALSE,NA
+2014-08-30,Chicago Cubs activated LHP Felix Doubront from the 15-day disabled list.,TRUE,2014,Chicago Cubs,Felix Doubront,activated,15,FALSE,NA
+2014-08-30,Houston Astros transferred RHP Josh Zeid from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Houston Astros,Josh Zeid,transferred,60,FALSE,NA
+2014-08-30,Texas Rangers activated LHP Derek Holland from the 60-day disabled list.,TRUE,2014,Texas Rangers,Derek Holland,activated,60,FALSE,NA
+2014-08-30,Boston Red Sox activated SS Xander Bogaerts from the 7-day disabled list.,TRUE,2014,Boston Red Sox,Xander Bogaerts,activated,7,FALSE,NA
+2014-08-30,Texas Rangers transferred RHP Tanner Scheppers from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Texas Rangers,Tanner Scheppers,transferred,60,FALSE,NA
+2014-08-31,Chicago White Sox activated RF Moises Sierra from the 15-day disabled list.,TRUE,2014,Chicago White Sox,Moises Sierra,activated,15,FALSE,NA
+2014-08-31,Los Angeles Angels activated LF Grant Green from the 15-day disabled list.,TRUE,2014,Los Angeles Angels,Grant Green,activated,15,FALSE,NA
+2014-08-31,San Francisco Giants transferred C Hector Sanchez from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,San Francisco Giants,Hector Sanchez,transferred,60,FALSE,NA
+2014-09-01,San Francisco Giants transferred 2B Ehire Adrianza from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,San Francisco Giants,Ehire Adrianza,transferred,60,FALSE,NA
+2014-09-01,Milwaukee Brewers activated RHP Matt Garza from the 15-day disabled list.,TRUE,2014,Milwaukee Brewers,Matt Garza,activated,15,FALSE,NA
+2014-09-01,Milwaukee Brewers activated LHP Wei-Chung Wang from the 15-day disabled list.,TRUE,2014,Milwaukee Brewers,Wei Chung Wang,activated,15,FALSE,NA
+2014-09-01,Milwaukee Brewers transferred SS Jeff Bianchi from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Milwaukee Brewers,Jeff Bianchi,transferred,60,FALSE,NA
+2014-09-01,Miami Marlins activated LHP Dan Jennings from the 15-day disabled list.,TRUE,2014,Miami Marlins,Dan Jennings,activated,15,FALSE,NA
+2014-09-01,Miami Marlins transferred RHP Kevin Gregg from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Miami Marlins,Kevin Gregg,transferred,60,FALSE,NA
+2014-09-01,Tampa Bay Rays activated LF David DeJesus from the 15-day disabled list.,TRUE,2014,Tampa Bay Rays,David DeJesus,activated,15,FALSE,NA
+2014-09-01,Arizona Diamondbacks activated RHP Daniel Hudson from the 60-day disabled list.,TRUE,2014,Arizona Diamondbacks,Daniel Hudson,activated,60,FALSE,NA
+2014-09-01,Cleveland Indians activated DH Jason Giambi from the 60-day disabled list.,TRUE,2014,Cleveland Indians,Jason Giambi,activated,60,FALSE,NA
+2014-09-01,Seattle Mariners transferred SS Willie Bloomquist from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Seattle Mariners,Willie Bloomquist,transferred,60,FALSE,NA
+2014-09-01,Kansas City Royals activated 1B Eric Hosmer from the 15-day disabled list.,TRUE,2014,Kansas City Royals,Eric Hosmer,activated,15,FALSE,NA
+2014-09-01,Colorado Rockies transferred LHP Boone Logan from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Colorado Rockies,Boone Logan,transferred,60,FALSE,NA
+2014-09-01,San Diego Padres transferred 1B Yonder Alonso from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,San Diego Padres,Yonder Alonso,transferred,60,FALSE,NA
+2014-09-01,San Diego Padres transferred LF Carlos Quentin from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,San Diego Padres,Carlos Quentin,transferred,60,FALSE,NA
+2014-09-01,Detroit Tigers placed RHP Drew VerHagen on the 60-day disabled list.,TRUE,2014,Detroit Tigers,Drew VerHagen,placed,60,FALSE,NA
+2014-09-01,Washington Nationals activated RF Steven Souza Jr. from the 15-day disabled list.,TRUE,2014,Washington Nationals,Steven Souza Jr.,activated,15,FALSE,NA
+2014-09-01,Cincinnati Reds transferred RHP Homer Bailey from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Cincinnati Reds,Homer Bailey,transferred,60,FALSE,NA
+2014-09-01,Los Angeles Dodgers activated RHP Chris Perez from the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Chris Perez,activated,15,FALSE,NA
+2014-09-02,Philadelphia Phillies activated RHP Mike Adams from the 60-day disabled list.,TRUE,2014,Philadelphia Phillies,Mike Adams,activated,60,FALSE,NA
+2014-09-02,San Francisco Giants transferred RHP Matt Cain from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,San Francisco Giants,Matt Cain,transferred,60,FALSE,NA
+2014-09-02,Toronto Blue Jays activated RHP Brandon Morrow from the 60-day disabled list.,TRUE,2014,Toronto Blue Jays,Brandon Morrow,activated,60,FALSE,NA
+2014-09-02,Toronto Blue Jays activated 1B Dan Johnson from the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,Dan Johnson,activated,15,FALSE,NA
+2014-09-02,Toronto Blue Jays transferred 3B Brett Lawrie from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Toronto Blue Jays,Brett Lawrie,transferred,60,FALSE,NA
+2014-09-02,Chicago Cubs transferred RF Justin Ruggiano from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Chicago Cubs,Justin Ruggiano,transferred,60,FALSE,NA
+2014-09-02,Baltimore Orioles transferred 3B Manny Machado from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Baltimore Orioles,Manny Machado,transferred,60,FALSE,NA
+2014-09-02,New York Yankees transferred RHP Masahiro Tanaka from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,New York Yankees,Masahiro Tanaka,transferred,60,FALSE,NA
+2014-09-02,Cleveland Indians activated LF Ryan Raburn from the 15-day disabled list.,TRUE,2014,Cleveland Indians,Ryan Raburn,activated,15,FALSE,NA
+2014-09-02,San Diego Padres placed SS Ryan Jackson on the 60-day disabled list.,TRUE,2014,San Diego Padres,Ryan Jackson,placed,60,FALSE,NA
+2014-09-02,Arizona Diamondbacks activated CF Chris Owings from the 15-day disabled list.,TRUE,2014,Arizona Diamondbacks,Chris Owings,activated,15,FALSE,NA
+2014-09-02,Arizona Diamondbacks activated CF A.J. Pollock from the 15-day disabled list.,TRUE,2014,Arizona Diamondbacks,A.J. Pollock,activated,15,FALSE,NA
+2014-09-02,Houston Astros activated LF Alex Presley from the 15-day disabled list.,TRUE,2014,Houston Astros,Alex Presley,activated,15,FALSE,NA
+2014-09-03,Chicago Cubs transferred CF Ryan Sweeney from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Chicago Cubs,Ryan Sweeney,transferred,60,FALSE,NA
+2014-09-04,St. Louis Cardinals activated RHP Michael Wacha from the 60-day disabled list.,TRUE,2014,St. Louis Cardinals,Michael Wacha,activated,60,FALSE,NA
+2014-09-04,St. Louis Cardinals transferred CF Shane Robinson from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,St. Louis Cardinals,Shane Robinson,transferred,60,FALSE,NA
+2014-09-04,Texas Rangers transferred LF Shin-Soo Choo from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Texas Rangers,Shin Soo Choo,transferred,60,FALSE,NA
+2014-09-05,Philadelphia Phillies placed LHP Mario Hollands on the 60-day disabled list.,TRUE,2014,Philadelphia Phillies,Mario Hollands,placed,60,FALSE,NA
+2014-09-05,Cleveland Indians activated LF David Murphy from the 15-day disabled list.,TRUE,2014,Cleveland Indians,David Murphy,activated,15,FALSE,NA
+2014-09-05,Toronto Blue Jays placed RHP Chad Jenkins on the 15-day disabled list.,TRUE,2014,Toronto Blue Jays,Chad Jenkins,placed,15,FALSE,NA
+2014-09-06,Los Angeles Dodgers transferred RHP Josh Beckett from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Los Angeles Dodgers,Josh Beckett,transferred,60,FALSE,NA
+2014-09-07,Texas Rangers transferred RHP Yu Darvish from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Texas Rangers,Yu Darvish,transferred,60,FALSE,NA
+2014-09-08,Boston Red Sox transferred RF Shane Victorino from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Boston Red Sox,Shane Victorino,transferred,60,FALSE,NA
+2014-09-08,Oakland Athletics placed C John Jaso on the 15-day disabled list.,TRUE,2014,Oakland Athletics,John Jaso,placed,15,FALSE,NA
+2014-09-08,"Toronto Blue Jays placed LF Melky Cabrera on the 15-day disabled list retroactive to September 6, 2014.",TRUE,2014,Toronto Blue Jays,Melky Cabrera,placed,15,TRUE,2014-09-06
+2014-09-08,New York Mets activated RHP Vic Black from the 15-day disabled list.,TRUE,2014,New York Mets,Vic Black,activated,15,FALSE,NA
+2014-09-09,Oakland Athletics activated 2B Nick Punto from the 15-day disabled list.,TRUE,2014,Oakland Athletics,Nick Punto,activated,15,FALSE,NA
+2014-09-09,New York Mets activated 2B Daniel Murphy from the 15-day disabled list.,TRUE,2014,New York Mets,Daniel Murphy,activated,15,FALSE,NA
+2014-09-10,Detroit Tigers activated RHP Joakim Soria from the 15-day disabled list.,TRUE,2014,Detroit Tigers,Joakim Soria,activated,15,FALSE,NA
+2014-09-12,New York Yankees activated RHP David Phelps from the 15-day disabled list.,TRUE,2014,New York Yankees,David Phelps,activated,15,FALSE,NA
+2014-09-12,Oakland Athletics activated LHP Sean Doolittle from the 15-day disabled list.,TRUE,2014,Oakland Athletics,Sean Doolittle,activated,15,FALSE,NA
+2014-09-12,Los Angeles Angels activated LHP Joe Thatcher from the 15-day disabled list.,TRUE,2014,Los Angeles Angels,Joe Thatcher,activated,15,FALSE,NA
+2014-09-13,Los Angeles Dodgers activated LHP Paco Rodriguez from the 15-day disabled list.,TRUE,2014,Los Angeles Dodgers,Paco Rodriguez,activated,15,FALSE,NA
+2014-09-15,Arizona Diamondbacks transferred RHP Bronson Arroyo from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Arizona Diamondbacks,Bronson Arroyo,transferred,60,FALSE,NA
+2014-09-16,New York Yankees placed 3B Martin Prado on the 60-day disabled list.,TRUE,2014,New York Yankees,Martin Prado,placed,60,FALSE,NA
+2014-09-16,Pittsburgh Pirates activated RHP Charlie Morton from the 15-day disabled list.,TRUE,2014,Pittsburgh Pirates,Charlie Morton,activated,15,FALSE,NA
+2014-09-16,Los Angeles Dodgers placed RHP Stephen Fife on the 60-day disabled list.,TRUE,2014,Los Angeles Dodgers,Stephen Fife,placed,60,FALSE,NA
+2014-09-17,"Kansas City Royals placed SS Christian Colon on the 15-day disabled list retroactive to September 7, 2014. broken right middle finger",TRUE,2014,Kansas City Royals,Christian Colon,placed,15,TRUE,2014-09-07
+2014-09-19,Chicago Cubs activated RHP Edwin Jackson from the 15-day disabled list.,TRUE,2014,Chicago Cubs,Edwin Jackson,activated,15,FALSE,NA
+2014-09-20,Washington Nationals activated 1B Ryan Zimmerman from the 15-day disabled list.,TRUE,2014,Washington Nationals,Ryan Zimmerman,activated,15,FALSE,NA
+2014-09-21,New York Yankees activated RHP Masahiro Tanaka from the 60-day disabled list.,TRUE,2014,New York Yankees,Masahiro Tanaka,activated,60,FALSE,NA
+2014-09-24,Pittsburgh Pirates placed RHP Charlie Morton on the 60-day disabled list. sports hernia,TRUE,2014,Pittsburgh Pirates,Charlie Morton,placed,60,FALSE,NA
+2014-09-27,Colorado Rockies placed C Jackson Williams on the 60-day disabled list.,TRUE,2014,Colorado Rockies,Jackson Williams,placed,60,FALSE,NA
+2014-09-28,Kansas City Royals activated SS Christian Colon from the 15-day disabled list.,TRUE,2014,Kansas City Royals,Christian Colon,activated,15,FALSE,NA
+2014-09-28,Toronto Blue Jays transferred LF Melky Cabrera from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Toronto Blue Jays,Melky Cabrera,transferred,60,FALSE,NA
+2014-09-28,Toronto Blue Jays transferred RHP Chad Jenkins from the 15-day disabled list to the 60-day disabled list.,TRUE,2014,Toronto Blue Jays,Chad Jenkins,transferred,60,FALSE,NA
+2014-09-28,Arizona Diamondbacks activated 1B Paul Goldschmidt from the 15-day disabled list.,TRUE,2014,Arizona Diamondbacks,Paul Goldschmidt,activated,15,FALSE,NA
+2014-09-29,Houston Astros activated RF George Springer from the 15-day disabled list.,TRUE,2014,Houston Astros,George Springer,activated,15,FALSE,NA
+2014-09-29,Oakland Athletics activated C John Jaso from the 15-day disabled list.,TRUE,2014,Oakland Athletics,John Jaso,activated,15,FALSE,NA
+2014-09-30,Atlanta Braves activated RHP Shae Simmons from the 15-day disabled list.,TRUE,2014,Atlanta Braves,Shae Simmons,activated,15,FALSE,NA
+2014-10-02,Milwaukee Brewers activated SS Jeff Bianchi from the 60-day disabled list.,TRUE,2014,Milwaukee Brewers,Jeff Bianchi,activated,60,FALSE,NA
+2014-10-24,Philadelphia Phillies activated LHP Mario Hollands from the 60-day disabled list.,TRUE,2014,Philadelphia Phillies,Mario Hollands,activated,60,FALSE,NA
+2014-10-25,Pittsburgh Pirates activated RHP Charlie Morton from the 60-day disabled list.,TRUE,2014,Pittsburgh Pirates,Charlie Morton,activated,60,FALSE,NA
+2014-10-30,Miami Marlins activated RHP Jose Fernandez from the 60-day disabled list.,TRUE,2014,Miami Marlins,Jose Fernandez,activated,60,FALSE,NA
+2014-10-30,Baltimore Orioles activated LHP Johan Santana from the 60-day disabled list.,TRUE,2014,Baltimore Orioles,Johan Santana,activated,60,FALSE,NA
+2014-10-30,Detroit Tigers activated RHP Joel Hanrahan from the 60-day disabled list.,TRUE,2014,Detroit Tigers,Joel Hanrahan,activated,60,FALSE,NA
+2014-10-30,Houston Astros activated RHP Matt Albers from the 60-day disabled list.,TRUE,2014,Houston Astros,Matt Albers,activated,60,FALSE,NA
+2014-10-30,Houston Astros activated RHP Jesse Crain from the 60-day disabled list.,TRUE,2014,Houston Astros,Jesse Crain,activated,60,FALSE,NA
+2014-10-30,Kansas City Royals activated RHP Luke Hochevar from the 60-day disabled list.,TRUE,2014,Kansas City Royals,Luke Hochevar,activated,60,FALSE,NA
+2014-10-30,Minnesota Twins activated RHP Mike Pelfrey from the 60-day disabled list.,TRUE,2014,Minnesota Twins,Mike Pelfrey,activated,60,FALSE,NA
+2014-10-30,Oakland Athletics activated 1B Kyle Blanks from the 60-day disabled list.,TRUE,2014,Oakland Athletics,Kyle Blanks,activated,60,FALSE,NA
+2014-10-30,Oakland Athletics activated RHP A.J. Griffin from the 60-day disabled list.,TRUE,2014,Oakland Athletics,A.J. Griffin,activated,60,FALSE,NA
+2014-10-30,Oakland Athletics activated RHP Jarrod Parker from the 60-day disabled list.,TRUE,2014,Oakland Athletics,Jarrod Parker,activated,60,FALSE,NA
+2014-10-30,Toronto Blue Jays activated LF Melky Cabrera from the 60-day disabled list.,TRUE,2014,Toronto Blue Jays,Melky Cabrera,activated,60,FALSE,NA
+2014-10-30,Arizona Diamondbacks activated RHP Bronson Arroyo from the 60-day disabled list.,TRUE,2014,Arizona Diamondbacks,Bronson Arroyo,activated,60,FALSE,NA
+2014-10-30,Arizona Diamondbacks activated LHP Patrick Corbin from the 60-day disabled list.,TRUE,2014,Arizona Diamondbacks,Patrick Corbin,activated,60,FALSE,NA
+2014-10-30,Arizona Diamondbacks activated RHP David Hernandez from the 60-day disabled list.,TRUE,2014,Arizona Diamondbacks,David Hernandez,activated,60,FALSE,NA
+2014-10-30,Atlanta Braves activated RHP Gavin Floyd from the 60-day disabled list.,TRUE,2014,Atlanta Braves,Gavin Floyd,activated,60,FALSE,NA
+2014-10-30,Cincinnati Reds activated RHP Homer Bailey from the 60-day disabled list.,TRUE,2014,Cincinnati Reds,Homer Bailey,activated,60,FALSE,NA
+2014-10-30,Cincinnati Reds activated LHP Sean Marshall from the 60-day disabled list.,TRUE,2014,Cincinnati Reds,Sean Marshall,activated,60,FALSE,NA
+2014-10-30,Cincinnati Reds activated 1B Joey Votto from the 60-day disabled list.,TRUE,2014,Cincinnati Reds,Joey Votto,activated,60,FALSE,NA
+2014-10-30,Los Angeles Dodgers activated RHP Josh Beckett from the 60-day disabled list.,TRUE,2014,Los Angeles Dodgers,Josh Beckett,activated,60,FALSE,NA
+2014-10-30,Los Angeles Dodgers activated LHP Paul Maholm from the 60-day disabled list.,TRUE,2014,Los Angeles Dodgers,Paul Maholm,activated,60,FALSE,NA
+2014-10-30,Miami Marlins activated RHP Kevin Gregg from the 60-day disabled list.,TRUE,2014,Miami Marlins,Kevin Gregg,activated,60,FALSE,NA
+2014-10-31,Boston Red Sox activated RF Shane Victorino from the 60-day disabled list.,TRUE,2014,Boston Red Sox,Shane Victorino,activated,60,FALSE,NA
+2014-10-31,Detroit Tigers activated SS Jose Iglesias from the 60-day disabled list.,TRUE,2014,Detroit Tigers,Jose Iglesias,activated,60,FALSE,NA
+2014-10-31,Detroit Tigers activated RHP Luke Putkonen from the 60-day disabled list.,TRUE,2014,Detroit Tigers,Luke Putkonen,activated,60,FALSE,NA
+2014-10-31,Detroit Tigers activated RHP Bruce Rondon from the 60-day disabled list.,TRUE,2014,Detroit Tigers,Bruce Rondon,activated,60,FALSE,NA
+2014-10-31,Detroit Tigers activated RHP Drew VerHagen from the 60-day disabled list.,TRUE,2014,Detroit Tigers,Drew VerHagen,activated,60,FALSE,NA
+2014-10-31,New York Yankees activated RF Slade Heathcott from the 60-day disabled list.,TRUE,2014,New York Yankees,Slade Heathcott,activated,60,FALSE,NA
+2014-10-31,New York Yankees activated RHP Ivan Nova from the 60-day disabled list.,TRUE,2014,New York Yankees,Ivan Nova,activated,60,FALSE,NA
+2014-10-31,New York Yankees activated 3B Martin Prado from the 60-day disabled list.,TRUE,2014,New York Yankees,Martin Prado,activated,60,FALSE,NA
+2014-10-31,New York Yankees activated LHP CC Sabathia from the 60-day disabled list.,TRUE,2014,New York Yankees,CC Sabathia,activated,60,FALSE,NA
+2014-10-31,Seattle Mariners activated SS Willie Bloomquist from the 60-day disabled list.,TRUE,2014,Seattle Mariners,Willie Bloomquist,activated,60,FALSE,NA
+2014-10-31,Atlanta Braves activated RHP Brandon Beachy from the 60-day disabled list.,TRUE,2014,Atlanta Braves,Brandon Beachy,activated,60,FALSE,NA
+2014-10-31,Atlanta Braves activated RHP Cory Gearrin from the 60-day disabled list.,TRUE,2014,Atlanta Braves,Cory Gearrin,activated,60,FALSE,NA
+2014-10-31,Atlanta Braves activated RHP Kris Medlen from the 60-day disabled list.,TRUE,2014,Atlanta Braves,Kris Medlen,activated,60,FALSE,NA
+2014-10-31,Atlanta Braves activated LHP Jonny Venters from the 60-day disabled list.,TRUE,2014,Atlanta Braves,Jonny Venters,activated,60,FALSE,NA
+2014-10-31,New York Mets activated RHP Matt Harvey from the 60-day disabled list.,TRUE,2014,New York Mets,Matt Harvey,activated,60,FALSE,NA
+2014-10-31,New York Mets activated RHP Bobby Parnell from the 60-day disabled list.,TRUE,2014,New York Mets,Bobby Parnell,activated,60,FALSE,NA
+2014-10-31,San Diego Padres activated RHP Josh Johnson from the 60-day disabled list.,TRUE,2014,San Diego Padres,Josh Johnson,activated,60,FALSE,NA
+2014-10-31,St. Louis Cardinals activated LHP Jaime Garcia from the 60-day disabled list.,TRUE,2014,St. Louis Cardinals,Jaime Garcia,activated,60,FALSE,NA
+2014-10-31,St. Louis Cardinals activated CF Shane Robinson from the 60-day disabled list.,TRUE,2014,St. Louis Cardinals,Shane Robinson,activated,60,FALSE,NA
+2014-10-31,Washington Nationals activated RHP Erik Davis from the 60-day disabled list.,TRUE,2014,Washington Nationals,Erik Davis,activated,60,FALSE,NA
+2014-10-31,Washington Nationals activated LF Nate McLouth from the 60-day disabled list.,TRUE,2014,Washington Nationals,Nate McLouth,activated,60,FALSE,NA
+2014-11-01,Toronto Blue Jays activated LF Andy Dirks from the 60-day disabled list.,TRUE,2014,Toronto Blue Jays,Andy Dirks,activated,60,FALSE,NA
+2014-11-01,Toronto Blue Jays activated 2B Maicer Izturis from the 60-day disabled list.,TRUE,2014,Toronto Blue Jays,Maicer Izturis,activated,60,FALSE,NA
+2014-11-01,Toronto Blue Jays activated 3B Brett Lawrie from the 60-day disabled list.,TRUE,2014,Toronto Blue Jays,Brett Lawrie,activated,60,FALSE,NA
+2014-11-01,Washington Nationals activated LHP Matt Purke from the 60-day disabled list.,TRUE,2014,Washington Nationals,Matt Purke,activated,60,FALSE,NA
+2014-11-03,Tampa Bay Rays activated LHP Matt Moore from the 60-day disabled list.,TRUE,2014,Tampa Bay Rays,Matt Moore,activated,60,FALSE,NA
+2014-11-03,Colorado Rockies activated RHP Jhoulys Chacin from the 60-day disabled list.,TRUE,2014,Colorado Rockies,Jhoulys Chacin,activated,60,FALSE,NA
+2014-11-03,Colorado Rockies activated RHP Tyler Chatwood from the 60-day disabled list.,TRUE,2014,Colorado Rockies,Tyler Chatwood,activated,60,FALSE,NA
+2014-11-03,Colorado Rockies activated RF Carlos Gonzalez from the 60-day disabled list.,TRUE,2014,Colorado Rockies,Carlos Gonzalez,activated,60,FALSE,NA
+2014-11-03,Colorado Rockies activated LHP Boone Logan from the 60-day disabled list.,TRUE,2014,Colorado Rockies,Boone Logan,activated,60,FALSE,NA
+2014-11-03,Colorado Rockies activated SS Troy Tulowitzki from the 60-day disabled list.,TRUE,2014,Colorado Rockies,Troy Tulowitzki,activated,60,FALSE,NA
+2014-11-03,Chicago White Sox activated RHP Nate Jones from the 60-day disabled list.,TRUE,2014,Chicago White Sox,Nate Jones,activated,60,FALSE,NA
+2014-11-03,Texas Rangers activated RF Shin-Soo Choo from the 60-day disabled list.,TRUE,2014,Texas Rangers,Shin Soo Choo,activated,60,FALSE,NA
+2014-11-03,Texas Rangers activated RHP Yu Darvish from the 60-day disabled list.,TRUE,2014,Texas Rangers,Yu Darvish,activated,60,FALSE,NA
+2014-11-03,Texas Rangers activated DH Prince Fielder from the 60-day disabled list.,TRUE,2014,Texas Rangers,Prince Fielder,activated,60,FALSE,NA
+2014-11-03,Texas Rangers activated LHP Matt Harrison from the 60-day disabled list.,TRUE,2014,Texas Rangers,Matt Harrison,activated,60,FALSE,NA
+2014-11-03,Texas Rangers activated 1B Mitch Moreland from the 60-day disabled list.,TRUE,2014,Texas Rangers,Mitch Moreland,activated,60,FALSE,NA
+2014-11-03,Texas Rangers activated RHP Alexi Ogando from the 60-day disabled list.,TRUE,2014,Texas Rangers,Alexi Ogando,activated,60,FALSE,NA
+2014-11-03,Texas Rangers activated LHP Martin Perez from the 60-day disabled list.,TRUE,2014,Texas Rangers,Martin Perez,activated,60,FALSE,NA
+2014-11-03,Texas Rangers activated 2B Jurickson Profar from the 60-day disabled list.,TRUE,2014,Texas Rangers,Jurickson Profar,activated,60,FALSE,NA
+2014-11-03,Texas Rangers activated RHP Tanner Scheppers from the 60-day disabled list.,TRUE,2014,Texas Rangers,Tanner Scheppers,activated,60,FALSE,NA
+2014-11-03,Houston Astros activated RHP Josh Zeid from the 60-day disabled list.,TRUE,2014,Houston Astros,Josh Zeid,activated,60,FALSE,NA
+2014-11-03,Baltimore Orioles activated 3B Manny Machado from the 60-day disabled list.,TRUE,2014,Baltimore Orioles,Manny Machado,activated,60,FALSE,NA
+2014-11-03,Baltimore Orioles activated C Matt Wieters from the 60-day disabled list.,TRUE,2014,Baltimore Orioles,Matt Wieters,activated,60,FALSE,NA
+2014-11-03,San Diego Padres activated 1B Yonder Alonso from the 60-day disabled list.,TRUE,2014,San Diego Padres,Yonder Alonso,activated,60,FALSE,NA
+2014-11-03,San Diego Padres activated LHP Cory Luebke from the 60-day disabled list.,TRUE,2014,San Diego Padres,Cory Luebke,activated,60,FALSE,NA
+2014-11-03,San Diego Padres activated LF Carlos Quentin from the 60-day disabled list.,TRUE,2014,San Diego Padres,Carlos Quentin,activated,60,FALSE,NA
+2014-11-03,Los Angeles Angels activated LHP Tyler Skaggs from the 60-day disabled list.,TRUE,2014,Los Angeles Angels,Tyler Skaggs,activated,60,FALSE,NA
+2014-11-03,Los Angeles Angels activated C Jackson Williams from the 60-day disabled list.,TRUE,2014,Los Angeles Angels,Jackson Williams,activated,60,FALSE,NA
+2014-11-03,Los Angeles Angels activated RHP Garrett Richards from the 60-day disabled list.,TRUE,2014,Los Angeles Angels,Garrett Richards,activated,60,FALSE,NA
+2014-11-03,Chicago Cubs activated RF Justin Ruggiano from the 60-day disabled list.,TRUE,2014,Chicago Cubs,Justin Ruggiano,activated,60,FALSE,NA
+2014-11-03,Chicago Cubs activated CF Ryan Sweeney from the 60-day disabled list.,TRUE,2014,Chicago Cubs,Ryan Sweeney,activated,60,FALSE,NA
+2014-11-03,Los Angeles Dodgers activated LHP Onelki Garcia from the 60-day disabled list.,TRUE,2014,Los Angeles Dodgers,Onelki Garcia,activated,60,FALSE,NA
+2014-11-03,Los Angeles Dodgers activated RHP Chris Withrow from the 60-day disabled list.,TRUE,2014,Los Angeles Dodgers,Chris Withrow,activated,60,FALSE,NA
+2014-11-03,Milwaukee Brewers activated RHP Jim Henderson from the 60-day disabled list.,TRUE,2014,Milwaukee Brewers,Jim Henderson,activated,60,FALSE,NA
+2014-11-03,San Francisco Giants activated RHP Matt Cain from the 60-day disabled list.,TRUE,2014,San Francisco Giants,Matt Cain,activated,60,FALSE,NA
