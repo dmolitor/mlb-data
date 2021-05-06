@@ -242,6 +242,7 @@ date,transaction
 2019-01-21,Detroit Tigers signed free agent 2B Gordon Beckham to a minor league contract and invited him to spring training.
 2019-01-21,New York Yankees signed free agent RHP Danny Farquhar to a minor league contract and invited him to spring training.
 2019-01-21,OF Blake Gailen assigned to Los Angeles Dodgers.
+2019-01-21,Seattle Mariners traded OF Josh Stowers to New York Yankees for 2B Shed Long Jr..
 2019-01-22,Miami Marlins invited non-roster RHP Robert Dugger to spring training.
 2019-01-22,Miami Marlins invited non-roster RHP Tommy Eveld to spring training.
 2019-01-22,Miami Marlins invited non-roster RHP Zac Gallen to spring training.
@@ -3233,6 +3234,7 @@ date,transaction
 2019-03-28,Milwaukee Brewers signed free agent RHP Justin Topa to a minor league contract.
 2019-03-28,Los Angeles Angels signed free agent 1B Devin Davis to a minor league contract.
 2019-03-28,"Pittsburgh Pirates placed RHP Dovydas Neverauskas on the 10-day injured list retroactive to March 25, 2019. Left oblique strain."
+2019-03-28,New York Mets selected the contract of 1B Pete Alonso.
 2019-03-29,Cleveland Indians signed free agent LF Cameron Maybin.
 2019-03-29,LF Cameron Maybin assigned to Columbus Clippers from Cleveland Indians.
 2019-03-29,Seattle Mariners optioned C David Freitas to Tacoma Rainiers.
@@ -3486,6 +3488,7 @@ date,transaction
 2019-04-09,Los Angeles Angels signed free agent RHP Parker Bridwell to a minor league contract.
 2019-04-09,Milwaukee Brewers signed free agent LF Wes Rogers to a minor league contract.
 2019-04-09,New York Yankees signed free agent RHP Maiker Feliz to a minor league contract.
+2019-04-09,Cleveland Indians recalled RHP Nick Wittgren.
 2019-04-10,New York Yankees optioned RHP Jonathan Loaisiga to Scranton/Wilkes-Barre RailRiders.
 2019-04-10,New York Yankees recalled Joe Harvey from Scranton/Wilkes-Barre RailRiders.
 2019-04-10,Baltimore Orioles recalled Josh Rogers from Norfolk Tides.
@@ -3702,6 +3705,12 @@ date,transaction
 2019-04-17,St. Louis Cardinals signed free agent RHP Wilmer Ortega to a minor league contract.
 2019-04-17,Los Angeles Dodgers signed free agent LHP Chris Nunn to a minor league contract.
 2019-04-17,RHP Jen-Ho Tseng assigned to Texas Rangers.
+2019-04-17,Oakland Athletics recalled RHP Chris Bassitt.
+2019-04-17,Boston Red Sox activated SS Xander Bogaerts.
+2019-04-17,Boston Red Sox activated 3B Rafael Devers.
+2019-04-17,Boston Red Sox activated C Christian Vazquez.
+2019-04-17,Boston Red Sox activated RHP Matt Barnes.
+2019-04-17,Baltimore Orioles activated C Pedro Severino.
 2019-04-18,Chicago White Sox optioned RF Daniel Palka to Charlotte Knights.
 2019-04-18,Chicago White Sox placed RHP Lucas Giolito on the 10-day injured list. Strained left hamstring.
 2019-04-18,Chicago White Sox recalled Ryan Cordell from Charlotte Knights.
@@ -4038,6 +4047,8 @@ date,transaction
 2019-04-26,Philadelphia Phillies signed free agent RHP Jonathan Petit to a minor league contract.
 2019-04-26,New York Yankees signed free agent RHP Luis Velasquez to a minor league contract.
 2019-04-26,Arizona Diamondbacks signed free agent OF Esteban Aquino to a minor league contract.
+2019-04-26,Toronto Blue Jays selected the contract of 3B Vladimir Guerrero Jr..
+2019-04-26,Toronto Blue Jays selected the contract of 1B Vladimir Guerrero Jr..
 2019-04-27,Milwaukee Brewers signed free agent LHP Gio Gonzalez.
 2019-04-27,Philadelphia Phillies activated SS Jean Segura from the 10-day injured list.
 2019-04-27,Philadelphia Phillies optioned RF Dylan Cozens to Lehigh Valley IronPigs.
@@ -4589,6 +4600,7 @@ date,transaction
 2019-05-12,RHP Kevin Gausman roster status changed by Atlanta Braves.
 2019-05-12,Pittsburgh Pirates sent LHP Tyler Lyons outright to Indianapolis Indians.
 2019-05-12,Tampa Bay Rays signed RHP Neraldo Catalina.
+2019-05-12,New York Yankees recalled RHP Chad Green.
 2019-05-13,Arizona Diamondbacks optioned RHP Jon Duplantier to Reno Aces.
 2019-05-13,Oakland Athletics designated DH Kendrys Morales for assignment.
 2019-05-13,Oakland Athletics activated OF Mark Canha from the 10-day injured list.
@@ -4628,6 +4640,8 @@ date,transaction
 2019-05-13,Philadelphia Phillies placed RHP Edubray Ramos on the 10-day injured list. Shoulder siffness
 2019-05-13,Seattle Mariners sent LHP Wade LeBlanc on a rehab assignment to Tacoma Rainiers.
 2019-05-13,Philadelphia Phillies signed free agent RHP Norman Anciani to a minor league contract.
+2019-05-13,Minnesota Twins recalled RHP Tyler Duffey.
+2019-05-13,Oakland Athletics activated LF Mark Canha from the 10-day injured list.
 2019-05-14,Cleveland Indians placed RF Tyler Naquin on the 10-day injured list. Left calf strain.
 2019-05-14,Cleveland Indians recalled Oscar Mercado from Columbus Clippers.
 2019-05-14,Seattle Mariners sent 3B Kyle Seager on a rehab assignment to Tacoma Rainiers.
@@ -4897,6 +4911,7 @@ date,transaction
 2019-05-21,"Arizona Diamondbacks placed 2B Wilmer Flores on the 10-day injured list retroactive to May 20, 2019. Right foot contusion."
 2019-05-21,Houston Astros signed free agent RHP Luis Vega to a minor league contract.
 2019-05-21,Chicago Cubs signed free agent RHP Luis Valenzuela to a minor league contract.
+2019-05-21,San Francisco Giants recalled SS Donovan Solano.
 2019-05-22,Chicago White Sox optioned RHP Jose Ruiz to Charlotte Knights.
 2019-05-22,Cleveland Indians recalled Eric Haase from Columbus Clippers.
 2019-05-22,Cleveland Indians designated OF Carlos Gonzalez for assignment.
@@ -5021,6 +5036,8 @@ date,transaction
 2019-05-24,Texas Rangers signed free agent RHP Jose Viola to a minor league contract.
 2019-05-24,RHP Seth Blair assigned to San Diego Padres.
 2019-05-24,"Arizona Diamondbacks placed LF David Peralta on the 10-day injured list retroactive to May 22, 2019. right AC joint inflammation"
+2019-05-24,Toronto Blue Jays selected the contract of 2B Cavan Biggio.
+2019-05-24,Toronto Blue Jays selected the contract of 3B Cavan Biggio.
 2019-05-25,Chicago Cubs optioned RF Mark Zagunis to Iowa Cubs.
 2019-05-25,Chicago White Sox optioned RHP Thyago Vieira to Charlotte Knights.
 2019-05-25,Chicago Cubs recalled Dillon Maples from Iowa Cubs.
@@ -5076,6 +5093,8 @@ date,transaction
 2019-05-25,Los Angeles Angels activated RHP Luis Garcia from the 10-day injured list.
 2019-05-25,Pittsburgh Pirates sent RHP Keone Kela on a rehab assignment to Indianapolis Indians.
 2019-05-25,Arizona Diamondbacks signed free agent RHP Jose Cuas to a minor league contract.
+2019-05-25,San Francisco Giants selected the contract of LF Mike Yastrzemski.
+2019-05-25,San Francisco Giants selected the contract of RF Mike Yastrzemski.
 2019-05-26,New York Yankees optioned RHP Chance Adams to Scranton/Wilkes-Barre RailRiders.
 2019-05-26,"New York Yankees placed RHP Jake Barrett on the 10-day injured list retroactive to May 23, 2019. Right elbow inflammation."
 2019-05-26,New York Yankees recalled Joe Harvey from Scranton/Wilkes-Barre RailRiders.
@@ -5390,6 +5409,7 @@ date,transaction
 2019-06-03,Philadelphia Phillies activated RF Jay Bruce.
 2019-06-03,Seattle Mariners signed free agent RHP Ricardo Volquez to a minor league contract.
 2019-06-03,Milwaukee Brewers signed free agent SS Trever Morrison to a minor league contract.
+2019-06-03,Baltimore Orioles recalled C Chance Sisco.
 2019-06-04,Kansas City Royals recalled Kelvin Gutierrez from Omaha Storm Chasers.
 2019-06-04,New York Mets activated LF Jeff McNeil from the 10-day injured list.
 2019-06-04,"Detroit Tigers placed 3B Jeimer Candelario on the 10-day injured list retroactive to June 2, 2019. Left shoulder inflammation."
@@ -5604,6 +5624,8 @@ date,transaction
 2019-06-08,RHP Hayden Wesneski assigned to New York Yankees.
 2019-06-08,New York Yankees signed LHP Edgar Barclay.
 2019-06-08,New York Mets signed free agent C Alejandro Leon to a minor league contract.
+2019-06-08,St. Louis Cardinals selected the contract of SS Tommy Edman.
+2019-06-08,St. Louis Cardinals selected the contract of 2B Tommy Edman.
 2019-06-09,Texas Rangers optioned LHP Joe Palumbo to Nashville Sounds.
 2019-06-09,Detroit Tigers optioned RHP Zac Reininger to Toledo Mud Hens.
 2019-06-09,New York Yankees recalled Stephen Tarpley from Scranton/Wilkes-Barre RailRiders.
@@ -6910,6 +6932,7 @@ date,transaction
 2019-06-22,Baltimore Orioles signed C Christopher Burgess.
 2019-06-22,Chicago Cubs signed RHP Shane Combs.
 2019-06-22,Texas Rangers signed RHP Anthony Hoopii-Tuionetoa.
+2019-06-22,San Diego Padres recalled RHP Chris Paddack.
 2019-06-23,Washington Nationals released RHP Trevor Rosenthal.
 2019-06-23,Tampa Bay Rays sent LHP Anthony Banda on a rehab assignment to Charlotte Stone Crabs.
 2019-06-23,Cleveland Indians optioned LHP Josh D. Smith to Columbus Clippers.
@@ -7005,6 +7028,8 @@ date,transaction
 2019-06-23,New York Yankees signed 3B Chad Bell.
 2019-06-23,Washington Nationals recalled Kyle McGowin from Fresno Grizzlies.
 2019-06-23,Washington Nationals optioned RHP Joe Ross to Fresno Grizzlies.
+2019-06-23,Colorado Rockies recalled 2B Garrett Hampson.
+2019-06-23,Colorado Rockies recalled CF Garrett Hampson.
 2019-06-24,Houston Astros signed LHP Whit Drennan.
 2019-06-24,1B Parker Phillips assigned to Minnesota Twins.
 2019-06-24,CF Bryson Gandy assigned to Minnesota Twins.
@@ -7144,6 +7169,7 @@ date,transaction
 2019-06-26,Los Angeles Dodgers placed C Will Smith on the 10-day injured list.
 2019-06-26,Chicago Cubs signed free agent RHP Elian Almanzar to a minor league contract.
 2019-06-26,Milwaukee Brewers signed RHP Jefferson Figueroa.
+2019-06-26,Baltimore Orioles recalled LHP Paul Fry.
 2019-06-27,Baltimore Orioles optioned RHP Matt Wotherspoon to Norfolk Tides.
 2019-06-27,Atlanta Braves recalled Bryse Wilson from Gwinnett Stripers.
 2019-06-27,Atlanta Braves optioned RHP Kyle Wright to Gwinnett Stripers.
@@ -7188,6 +7214,7 @@ date,transaction
 2019-06-27,Cincinnati Reds signed RHP Alexander Johnson.
 2019-06-27,Los Angeles Angels signed RHP Davis Daniel.
 2019-06-27,Chicago Cubs signed RHP Johzan Oquendo.
+2019-06-27,Arizona Diamondbacks selected the contract of LHP Alex Young.
 2019-06-28,Tampa Bay Rays sent LHP Anthony Banda on a rehab assignment to GCL Rays.
 2019-06-28,Tampa Bay Rays sent C Anthony Bemboom on a rehab assignment to GCL Rays.
 2019-06-28,Baltimore Orioles activated LHP John Means from the 10-day injured list.
@@ -8368,6 +8395,7 @@ date,transaction
 2019-07-12,Colorado Rockies signed free agent RHP Victor Juarez to a minor league contract.
 2019-07-12,Colorado Rockies signed free agent C Oswal Rada to a minor league contract.
 2019-07-12,Los Angeles Dodgers signed RHP Braidyn Fink.
+2019-07-12,Los Angeles Dodgers activated LF AJ Pollock from the 60-day injured list.
 2019-07-13,New York Yankees optioned 2B Breyvic Valera to Scranton/Wilkes-Barre RailRiders.
 2019-07-13,New York Yankees activated 1B Luke Voit from the 10-day injured list.
 2019-07-13,Baltimore Orioles recalled David Hess from Norfolk Tides.
@@ -8476,6 +8504,7 @@ date,transaction
 2019-07-15,Detroit Tigers signed free agent RHP Erick Rodriguez to a minor league contract.
 2019-07-15,Kansas City Royals signed free agent LHP Viktor Vecerka to a minor league contract.
 2019-07-15,Los Angeles Dodgers signed RHP Mike Mokma.
+2019-07-15,Kansas City Royals recalled RHP Scott Barlow.
 2019-07-16,San Francisco Giants optioned RHP Ray Black to Sacramento River Cats.
 2019-07-16,Colorado Rockies optioned RHP Jesus Tinoco to Albuquerque Isotopes.
 2019-07-16,Colorado Rockies optioned RHP Chi Chi Gonzalez to Albuquerque Isotopes.
@@ -8624,6 +8653,7 @@ date,transaction
 2019-07-18,Los Angeles Dodgers signed free agent C Jorge Puerta to a minor league contract.
 2019-07-18,New York Mets signed free agent SS Duvan Arroyo to a minor league contract.
 2019-07-18,New York Mets signed free agent OF Roberto Sanchez to a minor league contract.
+2019-07-18,Cincinnati Reds recalled RHP Lucas Sims.
 2019-07-19,Chicago White Sox optioned RF Charlie Tilson to Charlotte Knights.
 2019-07-19,New York Yankees optioned LHP Nestor Cortes Jr. to Scranton/Wilkes-Barre RailRiders.
 2019-07-19,Atlanta Braves optioned RHP Touki Toussaint to Gwinnett Stripers.
@@ -8707,6 +8737,7 @@ date,transaction
 2019-07-20,Cincinnati Reds signed free agent RHP Tyler Gibson to a minor league contract.
 2019-07-20,San Francisco Giants signed free agent RHP Larry De Jesus to a minor league contract.
 2019-07-20,Cincinnati Reds activated LHP Amir Garrett from the 10-day injured list.
+2019-07-20,Detroit Tigers recalled LHP Gregory Soto.
 2019-07-21,Detroit Tigers optioned RHP Zac Reininger to Toledo Mud Hens.
 2019-07-21,St. Louis Cardinals recalled LHP Tyler Webb from Memphis Redbirds.
 2019-07-21,Detroit Tigers recalled Tyler Alexander from Toledo Mud Hens.
@@ -8751,6 +8782,7 @@ date,transaction
 2019-07-21,Los Angeles Angels sent RHP JC Ramirez on a rehab assignment to Inland Empire 66ers.
 2019-07-21,Detroit Tigers signed free agent RHP Edwin Jackson to a minor league contract.
 2019-07-21,Miami Marlins signed free agent RHP Wander De La Rosa to a minor league contract.
+2019-07-21,St. Louis Cardinals recalled LHP Tyler Webb.
 2019-07-22,New York Yankees recalled Jonathan Holder from Scranton/Wilkes-Barre RailRiders.
 2019-07-22,New York Yankees optioned LHP Stephen Tarpley to Scranton/Wilkes-Barre RailRiders.
 2019-07-22,Tampa Bay Rays sent 3B Daniel Robertson on a rehab assignment to Charlotte Stone Crabs.
@@ -8892,6 +8924,7 @@ date,transaction
 2019-07-24,Pittsburgh Pirates signed free agent RHP Juan Santos to a minor league contract.
 2019-07-24,Pittsburgh Pirates signed free agent RHP Lewys Guzman to a minor league contract.
 2019-07-24,Pittsburgh Pirates signed free agent LHP Jose Vasquez to a minor league contract.
+2019-07-24,Detroit Tigers recalled RHP Jose Cisnero.
 2019-07-25,Baltimore Orioles optioned 3B Rio Ruiz to Norfolk Tides.
 2019-07-25,Minnesota Twins traded C Brian Navarreto to New York Yankees.
 2019-07-25,Detroit Tigers optioned LHP Daniel Stumpf to Toledo Mud Hens.
@@ -8978,6 +9011,7 @@ date,transaction
 2019-07-26,"Baltimore Orioles placed LHP John Means on the 10-day injured list retroactive to July 25, 2019. Left bicep strain."
 2019-07-26,Los Angeles Angels signed free agent RHP Erinson Escoboza to a minor league contract.
 2019-07-26,Pittsburgh Pirates signed free agent SS Pedro Figuereo to a minor league contract.
+2019-07-26,Chicago Cubs recalled CF Ian Happ.
 2019-07-27,Washington Nationals optioned RHP Kyle Barraclough to Harrisburg Senators.
 2019-07-27,Washington Nationals recalled Adrian Sanchez from Harrisburg Senators.
 2019-07-27,Atlanta Braves placed RF Nick Markakis on the 10-day injured list. Fractured left wrist.
@@ -9148,6 +9182,8 @@ date,transaction
 2019-07-30,Texas Rangers traded RHP Chris Martin to Atlanta Braves for LHP Kolby Allard.
 2019-07-30,Texas Rangers optioned LHP Kolby Allard to Nashville Sounds.
 2019-07-30,Houston Astros placed LHP Reymin Guduan on the restricted list.
+2019-07-30,Detroit Tigers recalled LF Victor Reyes.
+2019-07-30,Detroit Tigers recalled RF Victor Reyes.
 2019-07-31,New York Yankees recalled RHP Jonathan Holder from Scranton/Wilkes-Barre RailRiders.
 2019-07-31,New York Yankees placed 1B Luke Voit on the 10-day injured list. Sports hernia.
 2019-07-31,"New York Yankees placed RHP David Hale on the 10-day injured list retroactive to July 28, 2019. Lumbar spine strain."
@@ -9395,6 +9431,7 @@ date,transaction
 2019-08-02,Philadelphia Phillies signed free agent RHP Javier Fuenmayor to a minor league contract.
 2019-08-02,Philadelphia Phillies signed free agent C Jorge Mendez to a minor league contract.
 2019-08-02,Philadelphia Phillies signed free agent RHP Jaylen Eichler to a minor league contract.
+2019-08-02,Pittsburgh Pirates activated 3B Erik Gonzalez from the 60-day injured list.
 2019-08-03,Brian Johnson roster status changed by Boston Red Sox.
 2019-08-03,Chicago Cubs activated LHP Cole Hamels from the 10-day injured list.
 2019-08-03,Chicago Cubs designated RHP Brad Brach for assignment.
@@ -9452,6 +9489,7 @@ date,transaction
 2019-08-03,RHP Keone Kela roster status changed by Pittsburgh Pirates.
 2019-08-03,Minnesota Twins placed RHP Michael Pineda on the 10-day injured list. Right triceps strain.
 2019-08-03,Colorado Rockies signed free agent RHP Ismael Luciano to a minor league contract.
+2019-08-03,Minnesota Twins recalled CF Jake Cave.
 2019-08-04,New York Yankees optioned RHP Chance Adams to Scranton/Wilkes-Barre RailRiders.
 2019-08-04,St. Louis Cardinals recalled RHP Ryan Helsley from Memphis Redbirds.
 2019-08-04,St. Louis Cardinals activated 3B Matt Carpenter from the 10-day injured list.
@@ -9500,6 +9538,7 @@ date,transaction
 2019-08-04,Chicago White Sox sent LHP Manny Banuelos on a rehab assignment to AZL White Sox.
 2019-08-04,San Francisco Giants sent RHP Johnny Cueto on a rehab assignment to AZL Giants Black.
 2019-08-04,Philadelphia Phillies signed free agent OF Jose Leanez to a minor league contract.
+2019-08-04,St. Louis Cardinals activated 2B Matt Carpenter from the 10-day injured list.
 2019-08-05,Baltimore Orioles optioned RHP Dillon Tate to Norfolk Tides.
 2019-08-05,Miami Marlins placed LF Cesar Puello on the 10-day injured list. Left hip flexor strain.
 2019-08-05,New York Mets placed 2B Robinson Cano on the 10-day injured list. Left hamstring strain.
@@ -9959,6 +9998,7 @@ date,transaction
 2019-08-14,RHP David Hernandez assigned to New York Yankees.
 2019-08-14,Milwaukee Brewers signed free agent IF Carlos Moreno to a minor league contract.
 2019-08-14,Pittsburgh Pirates signed free agent RHP Francis Olantilo to a minor league contract.
+2019-08-14,Colorado Rockies recalled RHP Yency Almonte.
 2019-08-15,Tampa Bay Rays sent 2B Joey Wendle on a rehab assignment to GCL Rays.
 2019-08-15,Seattle Mariners selected the contract of Taylor Guilbeau from Tacoma Rainiers.
 2019-08-15,"Seattle Mariners placed RHP Brandon Brennan on the 10-day injured list retroactive to August 14, 2019. Right shoulder inflammation."
@@ -10004,6 +10044,7 @@ date,transaction
 2019-08-15,Detroit Tigers signed free agent RHP Abraham Landaeta to a minor league contract.
 2019-08-15,New York Yankees signed free agent RHP Juan Espana to a minor league contract.
 2019-08-15,New York Yankees signed free agent C Oscar Silverio to a minor league contract.
+2019-08-15,Cleveland Indians recalled RHP Phil Maton.
 2019-08-16,New York Yankees recalled Ryan Dull from Scranton/Wilkes-Barre RailRiders.
 2019-08-16,Detroit Tigers sent 3B Jeimer Candelario on a rehab assignment to Toledo Mud Hens.
 2019-08-16,Cleveland Indians sent RHP Dan Otero on a rehab assignment to Columbus Clippers.
@@ -10108,6 +10149,7 @@ date,transaction
 2019-08-17,Chicago Cubs sent 2B Daniel Descalso on a rehab assignment to Iowa Cubs.
 2019-08-17,Milwaukee Brewers signed free agent RHP Yujanyer Herrera to a minor league contract.
 2019-08-17,Seattle Mariners signed free agent RHP Steven Sanchez to a minor league contract.
+2019-08-17,San Francisco Giants recalled RHP Logan Webb.
 2019-08-18,Toronto Blue Jays sent RHP Clay Buchholz on a rehab assignment to Dunedin Blue Jays.
 2019-08-18,New York Yankees activated LHP CC Sabathia from the 10-day injured list.
 2019-08-18,Los Angeles Dodgers recalled RHP Tony Gonsolin from Oklahoma City Dodgers.
@@ -10248,6 +10290,9 @@ date,transaction
 2019-08-20,Texas Rangers sent LHP Jeffrey Springs on a rehab assignment to AZL Rangers.
 2019-08-20,Seattle Mariners sent RF Mitch Haniger on a rehab assignment to Tacoma Rainiers.
 2019-08-20,Cleveland Indians signed free agent RHP Diego Navarro to a minor league contract.
+2019-08-20,Texas Rangers selected the contract of OF Nick Solak.
+2019-08-20,Texas Rangers selected the contract of 2B Nick Solak.
+2019-08-20,Los Angeles Dodgers activated CF Chris Taylor from the 10-day injured list.
 2019-08-21,Texas Rangers optioned RHP Ian Gibaut to Nashville Sounds.
 2019-08-21,RHP Phillips Valdez assigned to Nashville Sounds from Texas Rangers.
 2019-08-21,Tampa Bay Rays selected the contract of Aaron Slegers from Durham Bulls.
@@ -10359,6 +10404,7 @@ date,transaction
 2019-08-23,Pittsburgh Pirates activated RHP Kyle Crick.
 2019-08-23,Texas Rangers signed free agent LHP Bryan Magdaleno to a minor league contract.
 2019-08-23,Arizona Diamondbacks signed free agent 3B Ronny Polanco to a minor league contract.
+2019-08-23,Seattle Mariners recalled LHP Justus Sheffield.
 2019-08-24,Baltimore Orioles optioned LHP Ty Blach to Norfolk Tides.
 2019-08-24,Washington Nationals sent RHP Austin Voth on a rehab assignment to Harrisburg Senators.
 2019-08-24,Detroit Tigers signed free agent RHP Matt Wotherspoon to a minor league contract.
@@ -10412,6 +10458,7 @@ date,transaction
 2019-08-24,Toronto Blue Jays signed free agent CF Victor Arias to a minor league contract.
 2019-08-24,Los Angeles Angels signed free agent C Jorge Chirinos to a minor league contract.
 2019-08-24,New York Yankees signed free agent RHP Ernesto Borges to a minor league contract.
+2019-08-24,Arizona Diamondbacks recalled LF Tim Locastro.
 2019-08-25,Chicago White Sox optioned RHP Jose Ruiz to Charlotte Knights.
 2019-08-25,LHP John Means roster status changed by Baltimore Orioles.
 2019-08-25,Baltimore Orioles recalled Tayler Scott from Norfolk Tides.
@@ -10447,6 +10494,8 @@ date,transaction
 2019-08-25,Kansas City Royals sent LHP Danny Duffy on a rehab assignment to Northwest Arkansas Naturals.
 2019-08-25,Texas Rangers sent RHP Shane Carle outright to Nashville Sounds.
 2019-08-25,New York Yankees signed free agent RHP Ricardo Alfaro to a minor league contract.
+2019-08-25,Colorado Rockies recalled RHP Antonio Senzatela.
+2019-08-25,Tampa Bay Rays activated 3B Joey Wendle from the 10-day injured list.
 2019-08-26,St. Louis Cardinals sent OF Tyler O'Neill on a rehab assignment to Springfield Cardinals.
 2019-08-26,Cleveland Indians sent OF Bradley Zimmer on a rehab assignment to Columbus Clippers.
 2019-08-26,Cleveland Indians sent RHP Jefry Rodriguez on a rehab assignment to Columbus Clippers.
@@ -10520,6 +10569,9 @@ date,transaction
 2019-08-27,Keynan Middleton roster status changed by Los Angeles Angels.
 2019-08-27,Los Angeles Dodgers signed free agent SS Javier Armas to a minor league contract.
 2019-08-27,Colorado Rockies activated RHP Chad Bettis from the 10-day injured list.
+2019-08-27,Texas Rangers recalled 3B Isiah Kiner-Falefa.
+2019-08-27,San Francisco Giants selected the contract of RHP Tyler Rogers.
+2019-08-27,Texas Rangers recalled SS Isiah Kiner-Falefa.
 2019-08-28,San Diego Padres claimed LF Nick Martini off waivers from Oakland Athletics.
 2019-08-28,Chicago White Sox sent RHP Carson Fulmer on a rehab assignment to Charlotte Knights.
 2019-08-28,Tampa Bay Rays optioned 3B Michael Brosseau to Durham Bulls.
@@ -10798,6 +10850,12 @@ date,transaction
 2019-09-01,New York Mets signed free agent 2B Ruben Tejada to a minor league contract.
 2019-09-01,New York Yankees traded RHP J.P. Feyereisen to Milwaukee Brewers for cash and SS Brenny Escanio.
 2019-09-01,Los Angeles Angels signed free agent C Jose Briceno to a minor league contract.
+2019-09-01,Oakland Athletics selected the contract of C Sean Murphy.
+2019-09-01,Detroit Tigers selected the contract of RHP Bryan Garcia.
+2019-09-01,Baltimore Orioles recalled LHP Tanner Scott.
+2019-09-01,Arizona Diamondbacks recalled RHP Stefan Crichton.
+2019-09-01,Cincinnati Reds recalled RHP Tyler Mahle.
+2019-09-01,Chicago Cubs recalled RHP Alec Mills.
 2019-09-02,Tampa Bay Rays recalled LHP Anthony Banda from Durham Bulls.
 2019-09-02,Baltimore Orioles designated RHP Tom Eshelman for assignment.
 2019-09-02,Tampa Bay Rays selected the contract of RHP Cole Sulser from Durham Bulls.
@@ -10831,6 +10889,7 @@ date,transaction
 2019-09-02,Kansas City Royals signed free agent RHP Miguel Hernandez to a minor league contract.
 2019-09-02,New York Yankees signed free agent RHP Sebastian Perrone to a minor league contract.
 2019-09-02,New York Yankees signed free agent RHP Franklin Corniel to a minor league contract.
+2019-09-02,Cleveland Indians activated CF Jordan Luplow from the 10-day injured list.
 2019-09-03,Minnesota Twins recalled RHP Ryne Harper from Rochester Red Wings.
 2019-09-03,Minnesota Twins recalled RHP Trevor Hildenberger from Rochester Red Wings.
 2019-09-03,Minnesota Twins recalled RHP Fernando Romero from Rochester Red Wings.
@@ -10914,6 +10973,7 @@ date,transaction
 2019-09-03,Cleveland Indians signed free agent C Nelson Aranguren to a minor league contract.
 2019-09-03,Cleveland Indians signed free agent SS Oscar Cedeno to a minor league contract.
 2019-09-03,New York Yankees signed free agent C Jose Heredia to a minor league contract.
+2019-09-03,Detroit Tigers recalled LHP Tyler Alexander.
 2019-09-04,Washington Nationals selected the contract of RHP Aaron Barrett from Harrisburg Senators.
 2019-09-04,Washington Nationals transferred RHP Austen Williams from the 10-day injured list to the 60-day injured list.
 2019-09-04,Atlanta Braves optioned RHP Bryse Wilson to Gwinnett Stripers.
@@ -10960,6 +11020,8 @@ date,transaction
 2019-09-05,San Diego Padres sent RHP Jacob Nix on a rehab assignment to Amarillo Sod Poodles.
 2019-09-05,Boston Red Sox signed free agent RHP Barbaro Pinero to a minor league contract.
 2019-09-05,Miami Marlins signed free agent LHP Juan Caba to a minor league contract.
+2019-09-05,Chicago Cubs recalled 3B David Bote.
+2019-09-05,Chicago Cubs recalled 2B David Bote.
 2019-09-06,New York Yankees sent RHP Dellin Betances on a rehab assignment to Trenton Thunder.
 2019-09-06,New York Yankees sent 2B Thairo Estrada on a rehab assignment to Trenton Thunder.
 2019-09-06,New York Yankees sent RHP Luis Severino on a rehab assignment to Trenton Thunder.
@@ -11035,6 +11097,8 @@ date,transaction
 2019-09-09,Chicago Cubs recalled James Norwood from Iowa Cubs.
 2019-09-09,Chicago Cubs selected the contract of SS Nico Hoerner from Tennessee Smokies.
 2019-09-09,Chicago Cubs designated LHP Randy Rosario for assignment.
+2019-09-09,Chicago Cubs selected the contract of Nico Hoerner from Tennessee Smokies.
+2019-09-09,Oakland Athletics selected the contract of LHP Jesus Luzardo.
 2019-09-10,New York Yankees sent LHP Stephen Tarpley on a rehab assignment to Trenton Thunder.
 2019-09-10,Oakland Athletics claimed C Beau Taylor off waivers from Toronto Blue Jays.
 2019-09-10,Oakland Athletics designated C Chris Herrmann for assignment.
@@ -11059,6 +11123,7 @@ date,transaction
 2019-09-10,Cincinnati Reds signed free agent RHP Gregory Garcia to a minor league contract.
 2019-09-10,Cincinnati Reds signed free agent RHP Dualvert Gutierrez to a minor league contract.
 2019-09-10,Chicago White Sox signed free agent LHP Daniel Gonzalez to a minor league contract.
+2019-09-10,Seattle Mariners selected the contract of RHP Justin Dunn.
 2019-09-11,Chicago Cubs sent RHP Kendall Graveman on a rehab assignment to South Bend Cubs.
 2019-09-11,Seattle Mariners sent SS Ryan Court outright to Tacoma Rainiers.
 2019-09-11,New York Yankees activated LHP CC Sabathia from the 10-day injured list.
@@ -11068,6 +11133,7 @@ date,transaction
 2019-09-11,Tampa Bay Rays signed free agent OF Santiago Millan to a minor league contract.
 2019-09-11,Chicago White Sox signed free agent OF Carlos Gomez to a minor league contract.
 2019-09-11,Chicago White Sox signed free agent SS Layant Tapia to a minor league contract.
+2019-09-11,Milwaukee Brewers activated 1B Keston Hiura from the 10-day injured list.
 2019-09-12,New York Yankees activated LHP Stephen Tarpley from the 10-day injured list.
 2019-09-12,Los Angeles Dodgers designated RHP Jaime Schultz for assignment.
 2019-09-12,Los Angeles Dodgers activated LHP Rich Hill from the 60-day injured list.
@@ -11349,6 +11415,7 @@ date,transaction
 2019-09-30,Kansas City Royals recalled RF Jorge Bonifacio from Omaha Storm Chasers.
 2019-09-30,Pittsburgh Pirates signed free agent SS Kelvin Diaz to a minor league contract.
 2019-09-30,Chicago Cubs reassigned RHP Duane Underwood Jr. to the minor leagues.
+2019-09-30,Michael Chavis roster status changed by Boston Red Sox.
 2019-10-01,Baltimore Orioles claimed RHP Cole Sulser off waivers from Tampa Bay Rays.
 2019-10-01,Washington Nationals reassigned RHP Aaron Barrett to the minor leagues.
 2019-10-01,Washington Nationals reassigned RHP James Bourque to the minor leagues.
@@ -11368,6 +11435,7 @@ date,transaction
 2019-10-01,Los Angeles Dodgers placed RHP Yadier Alvarez on the restricted list.
 2019-10-01,Arizona Diamondbacks signed free agent C Yohan Gonzalez to a minor league contract.
 2019-10-01,Chicago White Sox signed free agent C Ricardo Aguilar to a minor league contract.
+2019-10-01,Baltimore Orioles claimed Cole Sulser off waivers from Tampa Bay Rays.
 2019-10-02,Tampa Bay Rays reassigned LHP Anthony Banda to the minor leagues.
 2019-10-02,Tampa Bay Rays reassigned LHP Jalen Beeks to the minor leagues.
 2019-10-02,Tampa Bay Rays reassigned RHP Yonny Chirinos to the minor leagues.
@@ -11386,6 +11454,8 @@ date,transaction
 2019-10-02,Cleveland Indians signed free agent RHP Bienvenido Polanco to a minor league contract.
 2019-10-02,Cleveland Indians signed free agent RHP Elian Quezada to a minor league contract.
 2019-10-02,Washington Nationals signed free agent RHP Yaniel Arias to a minor league contract.
+2019-10-02,Milwaukee Brewers activated RF Christian Yelich.
+2019-10-02,Milwaukee Brewers activated RHP Adrian Houser.
 2019-10-03,St. Louis Cardinals reassigned RHP John Gant to the minor leagues.
 2019-10-03,St. Louis Cardinals reassigned RHP Mike Mayers to the minor leagues.
 2019-10-03,St. Louis Cardinals reassigned RHP Junior Fernandez to the minor leagues.
@@ -11437,6 +11507,8 @@ date,transaction
 2019-10-03,Chicago White Sox sent RF Charlie Tilson outright to Charlotte Knights.
 2019-10-03,Washington Nationals reassigned C Raudy Read to the minor leagues.
 2019-10-03,Cleveland Indians signed free agent RHP Jose Contreras to a minor league contract.
+2019-10-03,Oakland Athletics activated RF Stephen Piscotty.
+2019-10-03,Oakland Athletics activated RHP Lou Trivino.
 2019-10-04,Atlanta Braves reassigned RHP Chris Martin to the minor leagues.
 2019-10-04,Houston Astros reassigned RHP Rogelio Armenteros to the minor leagues.
 2019-10-04,Houston Astros reassigned RHP Dean Deetz to the minor leagues.
@@ -11608,6 +11680,7 @@ date,transaction
 2019-10-20,New York Yankees activated LHP Stephen Tarpley.
 2019-10-20,New York Yankees activated 1B Luke Voit.
 2019-10-20,New York Yankees activated SS Tyler Wade.
+2019-10-20,Tyler Wade roster status changed by New York Yankees.
 2019-10-21,C Spencer Kieboom roster status changed by Washington Nationals.
 2019-10-21,Washington Nationals sent C Spencer Kieboom outright to Fresno Grizzlies.
 2019-10-21,2B Chris Owings elected free agency.
@@ -12046,6 +12119,8 @@ date,transaction
 2019-11-04,San Diego Padres sent RHP Carl Edwards Jr. outright to El Paso Chihuahuas.
 2019-11-04,Los Angeles Dodgers signed free agent LHP Luis Valdez to a minor league contract.
 2019-11-04,2B Derek Dietrich roster status changed by Cincinnati Reds.
+2019-11-04,Texas Rangers activated RF Joey Gallo from the 60-day injured list.
+2019-11-04,New York Mets activated 2B Jeff McNeil from the 60-day injured list.
 2019-11-05,San Francisco Giants designated CF Mike Gerber for assignment.
 2019-11-05,San Francisco Giants designated RHP Ricardo Pinto for assignment.
 2019-11-05,San Francisco Giants claimed RHP Rico Garcia off waivers from Colorado Rockies.
@@ -12324,6 +12399,7 @@ date,transaction
 2019-11-25,Philadelphia Phillies signed free agent LHP Ronny Ramirez to a minor league contract.
 2019-11-25,Philadelphia Phillies signed free agent CF Albert Rodriguez to a minor league contract.
 2019-11-25,Washington Nationals signed free agent OF Hunter Jones to a minor league contract.
+2019-11-25,Seattle Mariners selected the contract of 1B Evan White.
 2019-11-26,Minnesota Twins signed free agent LHP Blaine Hardy to a minor league contract and invited him to spring training.
 2019-11-26,Minnesota Twins signed free agent C Juan Graterol to a minor league contract and invited him to spring training.
 2019-11-26,Minnesota Twins signed free agent RHP Ryan Garton to a minor league contract and invited him to spring training.
@@ -12449,6 +12525,7 @@ date,transaction
 2019-12-02,RHP Wes Parsons elected free agency.
 2019-12-02,RHP Yimi Garcia elected free agency.
 2019-12-02,Los Angeles Dodgers signed free agent LHP Reymin Guduan to a minor league contract and invited him to spring training.
+2019-12-02,Miami Marlins claimed 1B Jesus Aguilar off waivers from .
 2019-12-03,Oakland Athletics signed free agent LHP Jake Diekman.
 2019-12-03,Oakland Athletics signed free agent RHP Jordan Weems to a minor league contract and invited him to spring training.
 2019-12-03,Oakland Athletics signed free agent RF Dillon Thomas to a minor league contract and invited him to spring training.
@@ -12468,6 +12545,7 @@ date,transaction
 2019-12-04,Colorado Rockies signed free agent RHP Wes Parsons to a minor league contract and invited him to spring training.
 2019-12-04,Philadelphia Phillies signed free agent OF Gabriel Tirado to a minor league contract.
 2019-12-04,New York Mets signed free agent LHP Luis Camilo to a minor league contract.
+2019-12-04,traded to Los Angeles Angels for .
 2019-12-05,Houston Astros traded CF Jake Marisnick to New York Mets for LHP Blake Taylor and OF Kenedy Corona.
 2019-12-05,Cincinnati Reds signed free agent 2B Mike Moustakas.
 2019-12-05,Baltimore Orioles signed free agent 2B Dilson Herrera to a minor league contract.
@@ -12478,6 +12556,7 @@ date,transaction
 2019-12-05,Texas Rangers signed free agent LF Rob Refsnyder to a minor league contract and invited him to spring training.
 2019-12-05,Texas Rangers signed free agent C Nick Ciuffo to a minor league contract and invited him to spring training.
 2019-12-05,2B Dilson Herrera roster status changed by Baltimore Orioles.
+2019-12-05,traded to Milwaukee Brewers for .
 2019-12-06,Cleveland Indians signed free agent C Beau Taylor to a minor league contract and invited him to spring training.
 2019-12-06,Texas Rangers signed free agent RHP Kyle Gibson.
 2019-12-06,Oakland Athletics invited non-roster RHP Tanner Anderson to spring training.
@@ -12503,6 +12582,7 @@ date,transaction
 2019-12-06,Cincinnati Reds signed free agent RHP Dylan Rheault to a minor league contract.
 2019-12-06,Los Angeles Angels signed free agent SS Luis Aviles Jr. to a minor league contract.
 2019-12-06,Los Angeles Angels signed free agent 1B Joey Curletta to a minor league contract.
+2019-12-06,traded to San Diego Padres for .
 2019-12-07,Milwaukee Brewers signed free agent CF Keon Broxton to a minor league contract and invited him to spring training.
 2019-12-07,New York Mets signed free agent 2B Lewis Castillo to a minor league contract.
 2019-12-07,New York Mets signed free agent SS Jesus Suarez to a minor league contract.
@@ -12524,6 +12604,7 @@ date,transaction
 2019-12-09,Chicago Cubs signed free agent RHP Gleiber Morales to a minor league contract.
 2019-12-09,Chicago White Sox signed free agent CF Alvaro Aguero to a minor league contract.
 2019-12-09,Oakland Athletics signed free agent OF Luis Freitez to a minor league contract.
+2019-12-09,Colorado Rockies claimed RHP Tyler Kinley off waivers from .
 2019-12-10,Milwaukee Brewers signed free agent LHP Chris Lee to a minor league contract.
 2019-12-10,Washington Nationals signed free agent C Yan Gomes.
 2019-12-10,Washington Nationals signed free agent 2B Howie Kendrick.
@@ -12613,6 +12694,7 @@ date,transaction
 2019-12-16,Pittsburgh Pirates signed free agent RHP Reyson Santos to a minor league contract.
 2019-12-16,Minnesota Twins signed free agent RHP Yon Landaeta to a minor league contract.
 2019-12-16,Texas Rangers signed free agent C Israel Lopez to a minor league contract.
+2019-12-16,Tampa Bay Rays signed free agent 1B Yoshi Tsutsugo.
 2019-12-17,St. Louis Cardinals signed free agent LHP Kwang Hyun Kim.
 2019-12-17,Milwaukee Brewers signed free agent RF Avisail Garcia.
 2019-12-17,Kansas City Royals signed free agent 3B Humberto Arteaga to a minor league contract and invited him to spring training.

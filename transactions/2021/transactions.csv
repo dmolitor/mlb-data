@@ -32,6 +32,7 @@ date,transaction
 2021-01-05,2B Marco Hernandez roster status changed by Chicago White Sox.
 2021-01-05,traded to New York Yankees for .
 2021-01-05,San Francisco Giants signed free agent 2B Arismendy Alcantara to a minor league contract and invited him to spring training.
+2021-01-05,Chicago White Sox signed free agent C Joe DeCarlo to a minor league contract.
 2021-01-06,Detroit Tigers sent C Eric Haase outright to Toledo Mud Hens.
 2021-01-06,San Diego Padres traded LF Greg Allen to New York Yankees for James Reeves.
 2021-01-06,New York Yankees signed free agent OF Socrates Brito to a minor league contract and invited him to spring training.
@@ -40,12 +41,16 @@ date,transaction
 2021-01-06,New York Yankees signed free agent LHP Tyler Lyons to a minor league contract and invited him to spring training.
 2021-01-06,Los Angeles Dodgers signed free agent SS Elliot Soto to a minor league contract and invited him to spring training.
 2021-01-06,traded to San Diego Padres for .
+2021-01-06,Washington Nationals signed free agent LHP Alberto Baldonado to a minor league contract.
 2021-01-07,Detroit Tigers signed free agent LHP Miguel Del Pozo to a minor league contract.
 2021-01-07,Milwaukee Brewers signed free agent OF Pablo Reyes to a minor league contract and invited him to spring training.
 2021-01-07,"Cleveland Indians traded SS Francisco Lindor and RHP Carlos Carrasco to New York Mets for SS Andres Gimenez, SS Amed Rosario, RHP Josh Wolf and OF Isaiah Greene."
 2021-01-07,Houston Astros signed free agent RHP Ryne Stanek.
 2021-01-07,Los Angeles Dodgers signed free agent SS Nicholas Shumpert to a minor league contract.
 2021-01-07,Cincinnati Reds signed free agent RHP Peter Bayer to a minor league contract.
+2021-01-07,"Cleveland Indians traded Francisco Lindor and RHP Carlos Carrasco to New York Mets for SS Andres Gimenez, Amed Rosario, RHP Josh Wolf and OF Isaiah Greene."
+2021-01-07,traded to New York Mets for .
+2021-01-07,traded to Cleveland Indians for .
 2021-01-08,Seattle Mariners signed free agent LHP Roenis Elias to a minor league contract.
 2021-01-08,Seattle Mariners signed free agent 3B Jantzen Witte to a minor league contract.
 2021-01-08,Seattle Mariners signed free agent RHP Paul Sewald to a minor league contract.
@@ -53,9 +58,11 @@ date,transaction
 2021-01-08,RHP Sam Coonrod roster status changed by San Francisco Giants.
 2021-01-08,Los Angeles Dodgers signed free agent LHP Mike Kickham to a minor league contract and invited him to spring training.
 2021-01-08,Chicago White Sox signed free agent RHP Peter Tago to a minor league contract.
+2021-01-08,New York Mets claimed Stephen Tarpley off waivers from Miami Marlins.
 2021-01-09,San Francisco Giants traded RHP Sam Coonrod to Philadelphia Phillies for RHP Carson Ragsdale.
 2021-01-09,Washington Nationals signed free agent LF Kyle Schwarber.
 2021-01-09,Los Angeles Dodgers signed free agent 1B Rangel Ravelo to a minor league contract and invited him to spring training.
+2021-01-09,traded to Philadelphia Phillies for .
 2021-01-10,Seattle Mariners signed free agent SS David Masters to a minor league contract.
 2021-01-12,Toronto Blue Jays signed free agent RHP A.J. Cole to a minor league contract and invited him to spring training.
 2021-01-12,Pittsburgh Pirates claimed LF Troy Stokes Jr. off waivers from Detroit Tigers.
@@ -455,6 +462,12 @@ date,transaction
 2021-01-15,Colorado Rockies signed free agent RHP Bryan Perez to a minor league contract.
 2021-01-15,Colorado Rockies signed free agent RHP Jordy Vargas to a minor league contract.
 2021-01-15,Colorado Rockies signed free agent SS Gabriel Terrero to a minor league contract.
+2021-01-15,Pittsburgh Pirates signed free agent RHP Jonathan Salazar to a minor league contract.
+2021-01-15,Pittsburgh Pirates signed free agent OF Gustavo Armas to a minor league contract.
+2021-01-15,Colorado Rockies signed free agent SS Andy Perez to a minor league contract.
+2021-01-15,Boston Red Sox signed free agent RHP Angel Lopez to a minor league contract.
+2021-01-15,Pittsburgh Pirates signed free agent RHP Andres Silvera to a minor league contract.
+2021-01-15,Pittsburgh Pirates signed free agent RHP Greiber Mendez to a minor league contract.
 2021-01-16,Detroit Tigers signed free agent 1B Yariel Gonzalez to a minor league contract.
 2021-01-16,Detroit Tigers signed free agent 1B Aderlin Rodriguez to a minor league contract and invited him to spring training.
 2021-01-16,Detroit Tigers signed free agent RHP Andrew Moore to a minor league contract.
@@ -462,6 +475,7 @@ date,transaction
 2021-01-16,Texas Rangers signed free agent RHP Alberto Mota to a minor league contract.
 2021-01-16,Texas Rangers signed free agent OF Francisco Laya to a minor league contract.
 2021-01-16,Boston Red Sox signed free agent 2B Jack Lopez to a minor league contract.
+2021-01-17,Cincinnati Reds signed free agent RHP Juan Martinez to a minor league contract.
 2021-01-18,Philadelphia Phillies signed free agent RHP Archie Bradley.
 2021-01-18,Philadelphia Phillies designated RF Kyle Garlick for assignment.
 2021-01-18,Boston Red Sox traded SS C.J. Chatham to Philadelphia Phillies for Player To Be Named Later.
@@ -484,6 +498,7 @@ date,transaction
 2021-01-18,Arizona Diamondbacks signed free agent LHP Ryan Buchter to a minor league contract and invited him to spring training.
 2021-01-18,San Diego Padres signed free agent SS Pedro Florimon to a minor league contract and invited him to spring training.
 2021-01-18,Cincinnati Reds signed free agent C Rocky Gale to a minor league contract and invited him to spring training.
+2021-01-18,San Diego Padres signed free agent LHP Javier Chacon to a minor league contract.
 2021-01-19,"Pittsburgh Pirates Traded RHP Joe Musgrove to San Diego Padres; New York Mets Traded C Endy Rodriguez to Pittsburgh Pirates; San Diego Padres Traded LHP Joey Lucchesi to New York Mets and San Diego Padres Traded RHP David Bednar, CF Hudson Head, RHP Drake Fellows and LHP Omar Cruz to Pittsburgh Pirates."
 2021-01-19,Texas Rangers signed free agent RHP Hunter Wood to a minor league contract and invited him to spring training.
 2021-01-19,Detroit Tigers signed free agent RHP Erasmo Ramirez to a minor league contract and invited him to spring training.
@@ -495,11 +510,25 @@ date,transaction
 2021-01-19,Miami Marlins signed free agent SS Luis Marte to a minor league contract and invited him to spring training.
 2021-01-19,Philadelphia Phillies signed free agent RHP Mike Adams to a minor league contract.
 2021-01-19,Seattle Mariners signed free agent CF Eddie Paparella to a minor league contract.
+2021-01-19,"Pittsburgh Pirates Traded Joe Musgrove to San Diego Padres; New York Mets Traded C Endy Rodriguez to Pittsburgh Pirates; San Diego Padres Traded LHP Joey Lucchesi to New York Mets and San Diego Padres Traded David Bednar, CF Hudson Head, RHP Drake Fellows and LHP Omar Cruz to Pittsburgh Pirates."
+2021-01-19,Cincinnati Reds signed free agent RHP Brian Marcano to a minor league contract.
+2021-01-19,St. Louis Cardinals signed free agent OF Miguel Vargas to a minor league contract.
+2021-01-19,Houston Astros signed free agent OF Anderson Sanchez to a minor league contract.
+2021-01-19,St. Louis Cardinals signed free agent C Alejandro Loaiza to a minor league contract.
+2021-01-19,traded to San Diego Padres for .
+2021-01-19,traded to Pittsburgh Pirates for .
+2021-01-19,traded to New York Mets for .
 2021-01-20,Kansas City Royals signed free agent RHP Wade Davis to a minor league contract and invited him to spring training.
 2021-01-20,Toronto Blue Jays signed free agent RHP Kirby Yates.
 2021-01-20,Philadelphia Phillies signed free agent RHP Bryan Mitchell to a minor league contract and invited him to spring training.
 2021-01-20,San Francisco Giants signed free agent LHP Luis Gonzalez to a minor league contract and invited him to spring training.
 2021-01-20,Colorado Rockies signed free agent SS Chris Owings to a minor league contract and invited him to spring training.
+2021-01-20,Kansas City Royals signed free agent C Osman Bravo to a minor league contract.
+2021-01-20,San Diego Padres signed free agent RHP Evan Sweeting to a minor league contract.
+2021-01-20,Colorado Rockies signed free agent LHP Welinton Herrera to a minor league contract.
+2021-01-20,Colorado Rockies signed free agent RHP Darien Morejon to a minor league contract.
+2021-01-20,Detroit Tigers signed free agent OF Randy Perea to a minor league contract.
+2021-01-20,Los Angeles Dodgers signed free agent C Hamlet Marte to a minor league contract.
 2021-01-21,Toronto Blue Jays designated RHP Anthony Castro for assignment.
 2021-01-21,Toronto Blue Jays signed free agent RHP Tyler Chatwood.
 2021-01-21,New York Yankees signed free agent SS Hans Montero to a minor league contract.
@@ -515,6 +544,12 @@ date,transaction
 2021-01-22,Boston Red Sox signed free agent RHP Matt Carasiti to a minor league contract and invited him to spring training.
 2021-01-22,Seattle Mariners signed free agent 2B Starlin Aguilar to a minor league contract.
 2021-01-22,Seattle Mariners signed free agent OF Victor Labrada to a minor league contract.
+2021-01-22,Detroit Tigers signed free agent RHP Jose Martinez to a minor league contract.
+2021-01-22,Arizona Diamondbacks signed free agent RHP Ricardo Yan to a minor league contract.
+2021-01-22,Detroit Tigers signed free agent LHP Jesus Rodriguez to a minor league contract.
+2021-01-22,Seattle Mariners signed free agent OF Juan Cruz to a minor league contract.
+2021-01-22,San Diego Padres signed free agent RHP Jonney Rosario to a minor league contract.
+2021-01-22,Arizona Diamondbacks signed free agent SS Ezequiel Surun to a minor league contract.
 2021-01-23,Kansas City Royals signed free agent SS Daniel Vasquez to a minor league contract.
 2021-01-23,Houston Astros traded LHP Cionel Perez to Cincinnati Reds for C Luke Berryhill.
 2021-01-23,Washington Nationals signed free agent 1B Ryan Zimmerman.
@@ -531,8 +566,11 @@ date,transaction
 2021-01-23,Kansas City Royals signed free agent RHP Ismael Michel to a minor league contract.
 2021-01-23,Kansas City Royals signed free agent RHP Weskendry Espinoza to a minor league contract.
 2021-01-23,Atlanta Braves signed free agent 3B Pablo Sandoval to a minor league contract and invited him to spring training.
+2021-01-23,traded to Cincinnati Reds for .
 2021-01-24,"Pittsburgh Pirates traded RHP Jameson Taillon to New York Yankees for RHP Roansy Contreras, SS Maikol Escotto, LF Canaan Smith-Njigba and RHP Miguel Yajure."
 2021-01-24,Pittsburgh Pirates designated LF Troy Stokes Jr. for assignment.
+2021-01-24,"Pittsburgh Pirates traded Jameson Taillon to New York Yankees for RHP Roansy Contreras, SS Maikol Escotto, LF Canaan Smith-Njigba and RHP Miguel Yajure."
+2021-01-24,traded to New York Yankees for .
 2021-01-25,Oakland Athletics invited non-roster C Tyler Soderstrom to spring training.
 2021-01-25,Oakland Athletics invited non-roster SS Nick Allen to spring training.
 2021-01-25,Oakland Athletics invited non-roster OF Buddy Reed to spring training.
@@ -546,10 +584,17 @@ date,transaction
 2021-01-25,SS C.J. Hinojosa roster status changed by Houston Astros.
 2021-01-25,traded to Boston Red Sox for .
 2021-01-25,Detroit Tigers signed free agent LHP Derek Holland to a minor league contract and invited him to spring training.
+2021-01-25,New York Yankees traded RHP Adam Ottavino and Frank German to Boston Red Sox for Player To Be Named Later.
+2021-01-25,Chicago Cubs signed free agent OF Wilmer Bolivar to a minor league contract.
+2021-01-25,Detroit Tigers signed free agent RHP Carlos Marcano to a minor league contract.
+2021-01-25,Houston Astros signed free agent OF Norel Gonzalez to a minor league contract.
 2021-01-26,Washington Nationals signed free agent LHP Brad Hand.
 2021-01-26,Baltimore Orioles signed free agent SS Freddy Galvis.
 2021-01-26,Baltimore Orioles designated 1B Chris Shaw for assignment.
 2021-01-26,Atlanta Braves signed free agent 3B Ehire Adrianza to a minor league contract and invited him to spring training.
+2021-01-26,Chicago Cubs signed free agent RHP Cristian Rojas to a minor league contract.
+2021-01-26,Chicago Cubs signed free agent RHP Luis Reyes to a minor league contract.
+2021-01-26,Baltimore Orioles signed free agent OF Jonaiker Sandoval to a minor league contract.
 2021-01-27,Washington Nationals signed free agent LHP Jon Lester.
 2021-01-27,New York Yankees signed free agent 2B DJ LeMahieu.
 2021-01-27,New York Yankees signed free agent RHP Corey Kluber.
@@ -559,6 +604,10 @@ date,transaction
 2021-01-27,Miami Marlins signed free agent RHP Anthony Bass.
 2021-01-27,Miami Marlins designated RHP Jordan Yamamoto for assignment.
 2021-01-27,Cincinnati Reds signed free agent RHP Karsen Lindell to a minor league contract.
+2021-01-27,"New York Mets traded Steven Matz to Toronto Blue Jays for RHP Josh Winckowski, RHP Sean Reid-Foley and RHP Yennsy Diaz."
+2021-01-27,traded to Toronto Blue Jays for .
+2021-01-27,New York Yankees signed free agent 1B DJ LeMahieu.
+2021-01-27,Washington Nationals signed free agent OF Alec Keller to a minor league contract.
 2021-01-28,Seattle Mariners invited non-roster RHP Gerson Bautista to spring training.
 2021-01-28,Seattle Mariners invited non-roster RHP Nick Duron to spring training.
 2021-01-28,Seattle Mariners invited non-roster LHP Roenis Elias to spring training.
@@ -588,6 +637,7 @@ date,transaction
 2021-01-28,Seattle Mariners invited non-roster RF Dillon Thomas to spring training.
 2021-01-28,Washington Nationals signed free agent C Blake Swihart to a minor league contract.
 2021-01-28,Miami Marlins signed free agent RHP Yaqui Rivera to a minor league contract.
+2021-01-28,Chicago Cubs signed free agent Kohl Stewart.
 2021-01-29,Philadelphia Phillies signed free agent RHP Ivan Nova to a minor league contract and invited him to spring training.
 2021-01-29,St. Louis Cardinals signed free agent RHP Adam Wainwright.
 2021-01-29,Arizona Diamondbacks claimed RHP Humberto Castellanos off waivers from Houston Astros.
@@ -598,10 +648,20 @@ date,transaction
 2021-01-29,Philadelphia Phillies signed free agent C J.T. Realmuto.
 2021-01-29,Philadelphia Phillies designated RHP Ian Hamilton for assignment.
 2021-01-29,Kansas City Royals signed free agent OF Sebastian Ramirez to a minor league contract.
+2021-01-29,Arizona Diamondbacks claimed Humberto Castellanos off waivers from Houston Astros.
+2021-01-29,Arizona Diamondbacks signed free agent LHP Jandel Sanchez to a minor league contract.
+2021-01-29,Chicago Cubs signed free agent RHP Alfredo Zarraga to a minor league contract.
+2021-01-29,Arizona Diamondbacks signed free agent OF Eskoly De Jesus to a minor league contract.
+2021-01-29,Arizona Diamondbacks signed free agent RHP Jesus Suarez to a minor league contract.
+2021-01-29,Miami Marlins signed free agent RHP Jesus Zabaleta to a minor league contract.
+2021-01-29,Arizona Diamondbacks signed free agent C Adrian De Leon to a minor league contract.
+2021-01-29,Los Angeles Dodgers signed free agent LHP Ryley Widell to a minor league contract.
 2021-01-30,Toronto Blue Jays signed free agent SS Marcus Semien.
 2021-01-30,Philadelphia Phillies traded LHP Cole Irvin to Oakland Athletics for cash.
 2021-01-30,Cincinnati Reds traded cash to Philadelphia Phillies for SS Kyle Holder.
 2021-01-30,New York Mets signed free agent LHP Aaron Loup.
+2021-01-30,Baltimore Orioles signed free agent LHP Omar Hernandez to a minor league contract.
+2021-01-30,Toronto Blue Jays signed free agent 2B Marcus Semien.
 2021-01-31,Minnesota Twins signed free agent SS Andrelton Simmons.
 2021-02-01,2B Dustin Pedroia retired.
 2021-02-01,Miami Marlins traded RHP Jordan Yamamoto to New York Mets for SS Federico Polanco.
@@ -620,6 +680,12 @@ date,transaction
 2021-02-01,Houston Astros signed free agent RF Steven Souza Jr. to a minor league contract and invited him to spring training.
 2021-02-01,"Colorado Rockies traded 3B Nolan Arenado and cash to St. Louis Cardinals for LHP Austin Gomber, 3B Elehuris Montero, RHP Tony Locey, SS Mateo Gil and RHP Jake Sommers."
 2021-02-01,Seattle Mariners signed free agent RHP Jaime Schultz to a minor league contract.
+2021-02-01,"Colorado Rockies traded 3B Nolan Arenado and cash to St. Louis Cardinals for Austin Gomber, 3B Elehuris Montero, RHP Tony Locey, SS Mateo Gil and RHP Jake Sommers."
+2021-02-01,Kansas City Royals signed free agent RHP Eslahiber Mendez to a minor league contract.
+2021-02-01,Los Angeles Dodgers signed free agent SS Derlin Figueroa to a minor league contract.
+2021-02-01,Arizona Diamondbacks signed free agent RHP Yan Mago to a minor league contract.
+2021-02-01,traded to Colorado Rockies for .
+2021-02-01,traded to St. Louis Cardinals for .
 2021-02-02,Oakland Athletics signed free agent C Carlos Perez to a minor league contract and invited him to spring training.
 2021-02-02,Oakland Athletics signed free agent RHP Deolis Guerra to a minor league contract and invited him to spring training.
 2021-02-02,Boston Red Sox signed free agent 2B Enrique Hernandez.
@@ -685,6 +751,14 @@ date,transaction
 2021-02-02,RHP Hunter Strickland roster status changed by Tampa Bay Rays.
 2021-02-02,Minnesota Twins signed free agent OF Keon Broxton to a minor league contract and invited him to spring training.
 2021-02-02,traded to Baltimore Orioles for .
+2021-02-02,Baltimore Orioles traded RHP Alex Cobb and cash to Los Angeles Angels for Jahmai Jones.
+2021-02-02,Texas Rangers signed free agent C Josue Romero to a minor league contract.
+2021-02-02,Atlanta Braves signed free agent LHP Ruben Gil to a minor league contract.
+2021-02-02,Atlanta Braves signed free agent RHP Jeremy De Los Santos to a minor league contract.
+2021-02-02,Atlanta Braves signed free agent OF Yorlis Lendor to a minor league contract.
+2021-02-02,Arizona Diamondbacks signed free agent RHP Joe Jones to a minor league contract.
+2021-02-02,traded to Los Angeles Angels for .
+2021-02-02,Boston Red Sox signed free agent CF Enrique Hernandez.
 2021-02-03,Cincinnati Reds signed free agent OF Nicky Delmonico to a minor league contract and invited him to spring training.
 2021-02-03,Philadelphia Phillies signed free agent LHP Matt Moore.
 2021-02-03,Washington Nationals signed free agent C Alex Avila.
@@ -785,6 +859,19 @@ date,transaction
 2021-02-05,New York Yankees signed free agent RHP Kyle Barraclough to a minor league contract and invited him to spring training.
 2021-02-05,Chicago Cubs claimed SS Sergio Alcantara off waivers from .
 2021-02-05,Arizona Diamondbacks signed free agent SS Jose Fernandez to a minor league contract.
+2021-02-05,San Diego Padres signed free agent RHP Elvis Saba to a minor league contract.
+2021-02-05,Arizona Diamondbacks signed free agent RHP Yilber Diaz to a minor league contract.
+2021-02-05,San Diego Padres signed free agent RHP Miguel Mendez to a minor league contract.
+2021-02-05,Arizona Diamondbacks signed free agent C Jonathan Nava to a minor league contract.
+2021-02-05,Arizona Diamondbacks signed free agent RHP Jose Aguirre to a minor league contract.
+2021-02-05,San Diego Padres signed free agent RHP Luis Acosta to a minor league contract.
+2021-02-05,Arizona Diamondbacks signed free agent C Kenny Castillo to a minor league contract.
+2021-02-05,Arizona Diamondbacks signed free agent RHP Nixon Parra to a minor league contract.
+2021-02-05,Arizona Diamondbacks signed free agent LHP Deyer Zapata to a minor league contract.
+2021-02-05,Arizona Diamondbacks signed free agent 2B Fernando Alvarado to a minor league contract.
+2021-02-05,Arizona Diamondbacks signed free agent SS Anderson Colmenarez to a minor league contract.
+2021-02-05,Arizona Diamondbacks signed free agent RHP Felix Nunez to a minor league contract.
+2021-02-05,Detroit Tigers signed free agent 1B Jonathan Schoop.
 2021-02-06,"Oakland Athletics traded LF Khris Davis, C Jonah Heim and RHP Dane Acker to Texas Rangers for SS Elvis Andrus, Aramis Garcia and cash."
 2021-02-06,Arizona Diamondbacks signed free agent RHP Joakim Soria.
 2021-02-06,Arizona Diamondbacks designated LHP Taylor Guilbeau for assignment.
@@ -794,6 +881,7 @@ date,transaction
 2021-02-06,traded to Oakland Athletics for .
 2021-02-06,Colorado Rockies signed free agent RHP Dugan Darnell to a minor league contract.
 2021-02-06,Washington Nationals invited non-roster SS Jordy Mercer to spring training.
+2021-02-06,New York Yankees signed free agent OF Fidel Montero to a minor league contract.
 2021-02-07,Pittsburgh Pirates signed free agent LHP Chasen Shreve to a minor league contract and invited him to spring training.
 2021-02-08,Cincinnati Reds signed free agent LHP Sean Doolittle.
 2021-02-08,Philadelphia Phillies signed free agent RHP Chase Anderson.
@@ -803,6 +891,8 @@ date,transaction
 2021-02-08,Detroit Tigers signed free agent RHP Brad Markey to a minor league contract.
 2021-02-08,Detroit Tigers signed free agent RHP Pedro Payano to a minor league contract.
 2021-02-08,Kansas City Royals signed free agent SS Yosmi Fernandez to a minor league contract.
+2021-02-08,Kansas City Royals signed free agent RHP Edwin Rodriguez to a minor league contract.
+2021-02-08,traded to Los Angeles Angels for .
 2021-02-09,Seattle Mariners signed free agent RHP JT Chargois to a minor league contract and invited him to spring training.
 2021-02-09,Tampa Bay Rays signed free agent RHP Chris Archer.
 2021-02-09,Seattle Mariners signed free agent RHP Taylor Guerrieri to a minor league contract and invited him to spring training.
@@ -810,6 +900,9 @@ date,transaction
 2021-02-09,St. Louis Cardinals signed free agent C Yadier Molina.
 2021-02-09,Atlanta Braves signed free agent RHP Nate Jones to a minor league contract and invited him to spring training.
 2021-02-09,Arizona Diamondbacks signed free agent LHP Matt Gage to a minor league contract.
+2021-02-09,Kansas City Royals signed free agent IF Yeison Vargas to a minor league contract.
+2021-02-09,Toronto Blue Jays recalled CF Jonathan Davis.
+2021-02-09,Toronto Blue Jays selected the contract of C Alejandro Kirk.
 2021-02-10,Philadelphia Phillies signed free agent SS Didi Gregorius.
 2021-02-10,Detroit Tigers signed free agent 2B Greg Garcia to a minor league contract and invited him to spring training.
 2021-02-10,Detroit Tigers signed free agent 1B Renato Nunez to a minor league contract and invited him to spring training.
@@ -832,6 +925,13 @@ date,transaction
 2021-02-10,Chicago White Sox signed free agent RHP Alejandro Mateo to a minor league contract.
 2021-02-10,Cincinnati Reds claimed Max Schrock off waivers from .
 2021-02-10,traded to Boston Red Sox for .
+2021-02-10,Toronto Blue Jays signed free agent RHP Gabriel Ochoa to a minor league contract.
+2021-02-10,Toronto Blue Jays signed free agent RHP Eliander Alcalde to a minor league contract.
+2021-02-10,Toronto Blue Jays signed free agent RHP Yondrei Rojas to a minor league contract.
+2021-02-10,Toronto Blue Jays signed free agent RHP Keiner Leon to a minor league contract.
+2021-02-10,Minnesota Twins signed free agent RHP Orlando Rubio to a minor league contract.
+2021-02-10,Toronto Blue Jays signed free agent RHP Neiyerbe Obeso to a minor league contract.
+2021-02-10,traded to Kansas City Royals for .
 2021-02-11,Chicago White Sox invited non-roster RHP Ryan Burr to spring training.
 2021-02-11,Chicago White Sox invited non-roster RHP Danny Dopico to spring training.
 2021-02-11,Chicago White Sox signed free agent RHP Alex McRae to a minor league contract and invited him to spring training.
@@ -927,6 +1027,7 @@ date,transaction
 2021-02-11,Atlanta Braves signed free agent C Hendrik Clementina to a minor league contract.
 2021-02-11,Detroit Tigers signed free agent 1B Drew Ward to a minor league contract.
 2021-02-11,Los Angeles Angels signed free agent OF Jon Jay to a minor league contract and invited him to spring training.
+2021-02-11,New York Mets signed free agent 3B Jonathan Villar.
 2021-02-12,Los Angeles Dodgers traded Adam Kolarek and RF Cody Thomas to Oakland Athletics for 3B Sheldon Neuse and RHP Gus Varland.
 2021-02-12,Texas Rangers signed free agent C John Hicks to a minor league contract and invited him to spring training.
 2021-02-12,Texas Rangers signed free agent LHP Hyeon-Jong Yang to a minor league contract and invited him to spring training.
@@ -1099,6 +1200,7 @@ date,transaction
 2021-02-12,RF Travis Jankowski roster status changed by Philadelphia Phillies.
 2021-02-12,RHP Jacob Nix roster status changed by San Diego Padres.
 2021-02-12,LHP MacKenzie Gore roster status changed by San Diego Padres.
+2021-02-12,Chicago Cubs signed free agent RHP Scarlyn Lebron to a minor league contract.
 2021-02-13,Texas Rangers invited non-roster RF Adolis Garcia to spring training.
 2021-02-13,Los Angeles Angels sent LHP Dillon Peters outright to Salt Lake Bees.
 2021-02-13,New York Mets invited non-roster RHP Tylor Megill to spring training.
@@ -1260,6 +1362,7 @@ date,transaction
 2021-02-16,Miami Marlins signed free agent LHP Shawn Morimando to a minor league contract and invited him to spring training.
 2021-02-16,Chicago White Sox signed free agent RHP Angel Acevedo to a minor league contract.
 2021-02-16,San Diego Padres signed free agent OF John Andreoli to a minor league contract.
+2021-02-16,San Diego Padres signed free agent RHP Riley Yeatman to a minor league contract.
 2021-02-17,New York Yankees invited non-roster 3B Armando Alvarez to spring training.
 2021-02-17,New York Yankees invited non-roster LF Trey Amburgey to spring training.
 2021-02-17,New York Yankees invited non-roster C Josh Breaux to spring training.
@@ -1345,6 +1448,11 @@ date,transaction
 2021-02-17,Tampa Bay Rays signed free agent LHP Rich Hill.
 2021-02-17,Detroit Tigers signed free agent RHP Cale Coshow to a minor league contract.
 2021-02-17,Los Angeles Dodgers signed free agent 1B Matt Davidson to a minor league contract and invited him to spring training.
+2021-02-17,Kansas City Royals signed free agent LHP Eduardo Mares to a minor league contract.
+2021-02-17,Tampa Bay Rays activated LHP Jeffrey Springs.
+2021-02-17,Miami Marlins signed free agent RF Adam Duvall.
+2021-02-17,Philadelphia Phillies signed free agent LF Brad Miller.
+2021-02-17,Washington Nationals signed free agent OF Ramon Flores to a minor league contract.
 2021-02-18,Chicago Cubs signed free agent RHP Brandon Workman.
 2021-02-18,San Diego Padres placed RHP Mike Clevinger on the 60-day injured list. Recovery from Tommy John surgery.
 2021-02-18,Seattle Mariners signed free agent LHP James Paxton.
@@ -1375,6 +1483,7 @@ date,transaction
 2021-02-19,Los Angeles Dodgers placed LHP Caleb Ferguson on the 60-day injured list. Tommy John surgery.
 2021-02-19,Detroit Tigers signed free agent RHP Wily Peralta to a minor league contract and invited him to spring training.
 2021-02-19,Detroit Tigers signed free agent RHP Ben Taylor to a minor league contract.
+2021-02-19,Philadelphia Phillies signed free agent IF Arquedion Muller to a minor league contract.
 2021-02-20,Pittsburgh Pirates signed free agent 3B Todd Frazier to a minor league contract and invited him to spring training.
 2021-02-20,Pittsburgh Pirates invited non-roster OF Hunter Owen to spring training.
 2021-02-20,Texas Rangers invited non-roster RHP Jimmy Herget to spring training.
@@ -1449,6 +1558,7 @@ date,transaction
 2021-02-22,Minnesota Twins signed free agent SS Andrew Romine to a minor league contract and invited him to spring training.
 2021-02-22,Boston Red Sox claimed RHP Joel Payamps off waivers from .
 2021-02-22,RHP Ben Heller roster status changed by Arizona Diamondbacks.
+2021-02-22,New York Yankees signed free agent LF Brett Gardner.
 2021-02-23,New York Yankees signed free agent LHP Justin Wilson.
 2021-02-23,New York Yankees designated LF Greg Allen for assignment.
 2021-02-23,Oakland Athletics signed free agent 1B Mitch Moreland.
@@ -1463,6 +1573,7 @@ date,transaction
 2021-02-23,Chicago Cubs signed free agent RHP Jose Moreno to a minor league contract.
 2021-02-23,Toronto Blue Jays signed free agent RHP James Dykstra to a minor league contract.
 2021-02-23,Washington Nationals signed free agent RHP Justin Miller to a minor league contract.
+2021-02-23,Chicago Cubs signed free agent RHP Runelvis Toribio to a minor league contract.
 2021-02-24,Atlanta Braves claimed CF Guillermo Heredia off waivers from New York Mets.
 2021-02-24,Cleveland Indians designated RHP Jordan Humphreys for assignment.
 2021-02-24,Kansas City Royals invited non-roster SS Nick Loftin to spring training.
@@ -1478,6 +1589,9 @@ date,transaction
 2021-02-24,Oakland Athletics traded CF Dustin Fowler to Pittsburgh Pirates for cash.
 2021-02-24,Pittsburgh Pirates placed LHP Austin Davis on the 60-day injured list. Left elbow sprain.
 2021-02-24,New York Mets signed free agent C Caleb Joseph to a minor league contract and invited him to spring training.
+2021-02-24,Atlanta Braves claimed Guillermo Heredia off waivers from New York Mets.
+2021-02-24,Cleveland Indians claimed Harold Ramirez off waivers from Miami Marlins.
+2021-02-24,Boston Red Sox signed free agent 1B Marwin Gonzalez.
 2021-02-25,Los Angeles Angels designated 2B Robel Garcia for assignment.
 2021-02-25,Toronto Blue Jays signed free agent LHP Tommy Milone to a minor league contract and invited him to spring training.
 2021-02-25,Atlanta Braves traded 2B Jack Mayfield to Los Angeles Angels for cash.
@@ -1486,6 +1600,7 @@ date,transaction
 2021-02-25,Atlanta Braves signed free agent 2B Ryan Goins to a minor league contract.
 2021-02-25,Chicago White Sox signed free agent CF Mikie Mahtook to a minor league contract.
 2021-02-25,Los Angeles Angels signed free agent RHP Jesse Chavez to a minor league contract and invited him to spring training.
+2021-02-25,Washington Nationals signed free agent OF Jhoan Contreras to a minor league contract.
 2021-02-26,Arizona Diamondbacks signed free agent RHP Tyler Clippard.
 2021-02-26,Arizona Diamondbacks activated RHP Luis Frias from the 10-day injured list.
 2021-02-26,Arizona Diamondbacks designated LHP Travis Bergen for assignment.
@@ -1512,6 +1627,9 @@ date,transaction
 2021-02-26,Detroit Tigers signed free agent RHP Ricardo Pinto to a minor league contract.
 2021-02-26,San Francisco Giants signed free agent LHP Scott Kazmir to a minor league contract and invited him to spring training.
 2021-02-26,Texas Rangers signed free agent RHP Tyson Ross to a minor league contract.
+2021-02-26,Los Angeles Angels signed free agent RHP Keythel Key to a minor league contract.
+2021-02-26,Los Angeles Angels signed free agent RHP Edinson Valdespina to a minor league contract.
+2021-02-26,Los Angeles Angels signed free agent C Edgar Quero to a minor league contract.
 2021-02-27,Chicago Cubs traded RHP Zach Bryant to Boston Red Sox.
 2021-02-27,Houston Astros placed RHP Justin Verlander on the 60-day injured list. Tommy John surgery.
 2021-02-27,Houston Astros claimed 2B Robel Garcia off waivers from Los Angeles Angels.
@@ -1520,6 +1638,7 @@ date,transaction
 2021-02-27,Detroit Tigers signed free agent RHP Drew Hutchison to a minor league contract.
 2021-02-27,Chicago Cubs signed free agent RHP Pedro Strop to a minor league contract.
 2021-02-27,New York Yankees signed free agent RHP Michael Gomez to a minor league contract.
+2021-02-27,Chicago Cubs signed free agent OF Raino Coran to a minor league contract.
 2021-02-28,3B Jonathan India assigned to Cincinnati Reds.
 2021-02-28,RHP Matt Pidich assigned to Cincinnati Reds.
 2021-02-28,C Chris Okey assigned to Cincinnati Reds.
@@ -1561,6 +1680,7 @@ date,transaction
 2021-02-28,Toronto Blue Jays placed RHP Patrick Murphy on the 60-day injured list. Sprained right A/C joint.
 2021-02-28,Arizona Diamondbacks traded LHP Travis Bergen to Toronto Blue Jays for cash.
 2021-02-28,Atlanta Braves invited non-roster LHP Philip Pfeifer to spring training.
+2021-02-28,Kyle Ryan roster status changed by Chicago Cubs.
 2021-03-01,Cincinnati Reds invited non-roster 2B Dee Strange-Gordon to spring training.
 2021-03-01,Chicago Cubs invited non-roster LF Cameron Maybin to spring training.
 2021-03-01,C Cooper Johnson assigned to Detroit Tigers.
@@ -1587,6 +1707,9 @@ date,transaction
 2021-03-01,Boston Red Sox sent RHP Marcus Walden outright to Worcester Red Sox.
 2021-03-01,Boston Red Sox invited non-roster RHP Marcus Walden to spring training.
 2021-03-01,Chicago Cubs signed free agent RHP Ryan Meisinger to a minor league contract.
+2021-03-01,Atlanta Braves signed free agent RHP Miguel Hernandez to a minor league contract.
+2021-03-01,Atlanta Braves signed free agent OF Jair Casanova to a minor league contract.
+2021-03-01,San Diego Padres signed free agent RHP Victor Lizarraga to a minor league contract.
 2021-03-02,C Drew Millas assigned to Oakland Athletics.
 2021-03-02,C Collin Theroux assigned to Oakland Athletics.
 2021-03-02,RHP Hunter Greene assigned to Cincinnati Reds.
@@ -1624,6 +1747,10 @@ date,transaction
 2021-03-05,Los Angeles Angels sent RHP Gerardo Reyes outright to Salt Lake Bees.
 2021-03-05,Chicago Cubs signed free agent 2B Eric Sogard to a minor league contract and invited him to spring training.
 2021-03-05,Chicago Cubs signed free agent 2B Eric Sogard to a minor league contract.
+2021-03-05,Milwaukee Brewers signed free agent RHP Phili Silverio to a minor league contract.
+2021-03-05,Los Angeles Dodgers signed free agent RHP Dilan Figueredo to a minor league contract.
+2021-03-05,Minnesota Twins signed free agent LHP Juan Rojas to a minor league contract.
+2021-03-05,Kansas City Royals signed free agent RF Jarrod Dyson.
 2021-03-06,C Jonny Homza assigned to San Diego Padres.
 2021-03-06,RHP Will Carter assigned to Chicago White Sox.
 2021-03-06,San Francisco Giants signed free agent LHP Jose Alvarez.
@@ -1632,6 +1759,8 @@ date,transaction
 2021-03-06,San Diego Padres claimed Jordan Humphreys off waivers from San Francisco Giants.
 2021-03-06,Toronto Blue Jays claimed Joel Payamps off waivers from Boston Red Sox.
 2021-03-06,Toronto Blue Jays designated Jacob Waguespack for assignment.
+2021-03-06,Los Angeles Dodgers signed free agent RHP Kinn Omosako to a minor league contract.
+2021-03-06,Minnesota Twins signed free agent C Roy Morales to a minor league contract.
 2021-03-07,Boston Red Sox activated C Kevin Plawecki from the 10-day injured list.
 2021-03-07,Boston Red Sox signed free agent OF Danny Santana to a minor league contract and invited him to spring training.
 2021-03-07,RHP Paul Blackburn assigned to Oakland Athletics.
@@ -1644,13 +1773,18 @@ date,transaction
 2021-03-07,2B Christian Lopes assigned to Arizona Diamondbacks.
 2021-03-07,3B Drew Ellis roster status changed by Arizona Diamondbacks.
 2021-03-07,C Dominic Miroglio roster status changed by Arizona Diamondbacks.
+2021-03-07,traded to Pittsburgh Pirates for .
 2021-03-08,Milwaukee Brewers signed free agent CF Jackie Bradley Jr..
 2021-03-08,Milwaukee Brewers placed 2B Tim Lopes on the 60-day injured list. Right oblique strain.
 2021-03-08,Houston Astros signed free agent RHP Jake Odorizzi.
 2021-03-08,Houston Astros placed RHP Pedro Baez on the 10-day injured list.
+2021-03-08,Houston Astros signed free agent Jake Odorizzi.
 2021-03-09,New York Mets optioned RHP Franklyn Kilome to Syracuse Mets.
 2021-03-09,New York Mets optioned LHP Thomas Szapucki to Syracuse Mets.
 2021-03-09,New York Mets optioned RHP Sean Reid-Foley to Syracuse Mets.
+2021-03-09,Boston Red Sox signed free agent RHP Jogly Garcia to a minor league contract.
+2021-03-09,Los Angeles Angels signed free agent RHP Yendy Gomez to a minor league contract.
+2021-03-09,New York Mets signed free agent OF Sebastian Elizalde to a minor league contract.
 2021-03-10,3B Ryan Kreidler assigned to Detroit Tigers.
 2021-03-10,RHP Drew Hutchison assigned to Detroit Tigers.
 2021-03-10,Seattle Mariners invited non-roster RHP Robert Dugger to spring training.
@@ -1675,6 +1809,8 @@ date,transaction
 2021-03-10,LHP Zach King roster status changed by Miami Marlins.
 2021-03-10,RHP Tommy Eveld roster status changed by Miami Marlins.
 2021-03-10,LHP Jake Eder roster status changed by Miami Marlins.
+2021-03-10,New York Mets signed free agent RHP Luis Alvarez to a minor league contract.
+2021-03-10,Minnesota Twins signed free agent RHP Cristian Jimenez to a minor league contract.
 2021-03-11,SS Demetrius Sims assigned to Miami Marlins.
 2021-03-11,C Austin Bernard assigned to Colorado Rockies.
 2021-03-11,Kansas City Royals optioned RHP Scott Blewett to Omaha Storm Chasers.
@@ -1747,6 +1883,7 @@ date,transaction
 2021-03-12,Los Angeles Angels invited non-roster RHP Zac Kristofak to spring training.
 2021-03-12,Los Angeles Angels invited non-roster RHP Austin Warren to spring training.
 2021-03-12,RHP Gray Fenter returned to Baltimore Orioles.
+2021-03-12,Los Angeles Angels signed free agent RHP Kieran Lovegrove to a minor league contract.
 2021-03-13,Baltimore Orioles optioned RHP Mike Baumann to Norfolk Tides.
 2021-03-13,Baltimore Orioles optioned LHP Zac Lowther to Norfolk Tides.
 2021-03-13,Baltimore Orioles optioned LHP Alexander Wells to Norfolk Tides.
@@ -1775,6 +1912,7 @@ date,transaction
 2021-03-13,Boston Red Sox optioned C Ronaldo Hernandez to Red Sox Alternate Training Site.
 2021-03-13,Boston Red Sox optioned RHP Connor Seabold to Red Sox Alternate Training Site.
 2021-03-13,LHP Eric Skoglund roster status changed by Kansas City Royals.
+2021-03-13,Kansas City Royals optioned LHP Angel Zerpa to Omaha Storm Chasers.
 2021-03-14,St. Louis Cardinals optioned Junior Fernandez to Memphis Redbirds.
 2021-03-14,St. Louis Cardinals optioned Johan Quezada to Memphis Redbirds.
 2021-03-14,Atlanta Braves released LHP Philip Pfeifer.
@@ -1909,16 +2047,27 @@ date,transaction
 2021-03-16,San Diego Padres optioned RHP Mason Thompson to El Paso Chihuahuas.
 2021-03-16,Chicago White Sox signed free agent CF Billy Hamilton to a minor league contract and invited him to spring training.
 2021-03-16,RHP Joe Ryan roster status changed by Tampa Bay Rays.
+2021-03-16,Tampa Bay Rays signed free agent LHP Jeromy Sosa to a minor league contract.
+2021-03-16,Tampa Bay Rays signed free agent RHP Juan Rodriguez to a minor league contract.
+2021-03-16,Milwaukee Brewers selected the contract of 3B Travis Shaw.
+2021-03-16,Los Angeles Angels selected the contract of RHP Junior Guerra.
+2021-03-16,Minnesota Twins signed free agent C Roberto Pena to a minor league contract.
 2021-03-17,RHP Jace Vines assigned to Kansas City Royals.
 2021-03-17,Boston Red Sox optioned RHP Tanner Houck to Red Sox Alternate Training Site.
 2021-03-17,Toronto Blue Jays optioned 2B Otto Lopez to Buffalo Bisons.
 2021-03-17,Miami Marlins optioned RHP Jordan Holloway to Pensacola Blue Wahoos.
+2021-03-17,Houston Astros signed free agent RHP Cesar Rojas to a minor league contract.
+2021-03-17,Minnesota Twins signed free agent RHP Roger Duran to a minor league contract.
+2021-03-17,New York Mets signed free agent RHP Krisspy Valdez to a minor league contract.
+2021-03-17,New York Mets signed free agent LHP Felipe De La Cruz to a minor league contract.
 2021-03-18,San Francisco Giants claimed RHP Ashton Goudeau off waivers from Baltimore Orioles.
 2021-03-18,San Francisco Giants placed RHP Dedniel Nunez on the 60-day injured list. Right elbow sprain.
 2021-03-18,San Francisco Giants optioned RHP Ashton Goudeau to Sacramento River Cats.
 2021-03-18,Tampa Bay Rays released RHP Andrew Kittredge.
 2021-03-18,Detroit Tigers signed free agent RHP Mark Leiter Jr. to a minor league contract.
 2021-03-18,Seattle Mariners signed free agent RHP Darin Gillies to a minor league contract.
+2021-03-18,Toronto Blue Jays signed free agent RHP Pedro Munoz to a minor league contract.
+2021-03-18,Houston Astros signed free agent RHP Johnny Meszaros to a minor league contract.
 2021-03-19,Chicago Cubs optioned LHP Kyle Ryan to Iowa Cubs.
 2021-03-19,Minnesota Twins optioned Shaun Anderson to Twins Alternate Training Site.
 2021-03-19,Minnesota Twins optioned Devin Smeltzer to Twins Alternate Training Site.
@@ -1945,6 +2094,9 @@ date,transaction
 2021-03-19,Los Angeles Angels signed free agent RHP Jean Cosme to a minor league contract.
 2021-03-19,Milwaukee Brewers signed free agent RHP Zack Godley to a minor league contract.
 2021-03-19,Milwaukee Brewers optioned C Luke Maile to Nashville Sounds.
+2021-03-19,Minnesota Twins optioned RHP Shaun Anderson to Twins Alternate Training Site.
+2021-03-19,Minnesota Twins optioned LHP Devin Smeltzer to Twins Alternate Training Site.
+2021-03-19,Tampa Bay Rays signed free agent OF German Tapia to a minor league contract.
 2021-03-20,Arizona Diamondbacks optioned RHP Riley Smith to Reno Aces.
 2021-03-20,New York Mets optioned RHP Yennsy Diaz to Syracuse Mets.
 2021-03-20,New York Mets optioned C Patrick Mazeika to Syracuse Mets.
@@ -1967,6 +2119,7 @@ date,transaction
 2021-03-20,St. Louis Cardinals optioned Seth Elledge to Memphis Redbirds.
 2021-03-20,St. Louis Cardinals optioned C Ivan Herrera to Springfield Cardinals.
 2021-03-20,Chicago Cubs invited non-roster RHP Pedro Strop to spring training.
+2021-03-20,Colorado Rockies selected the contract of 1B C.J. Cron.
 2021-03-21,Cincinnati Reds optioned C Deivy Grullon to Louisville Bats.
 2021-03-21,Pittsburgh Pirates signed free agent RHP Steven Wright to a minor league contract and invited him to spring training.
 2021-03-21,1B Luis Castro assigned to Milwaukee Brewers.
@@ -1983,6 +2136,7 @@ date,transaction
 2021-03-21,Los Angeles Angels optioned CF Jo Adell to Salt Lake Bees.
 2021-03-21,Los Angeles Angels optioned RHP Kyle Keller to Salt Lake Bees.
 2021-03-21,Los Angeles Angels optioned 1B Matt Thaiss to Salt Lake Bees.
+2021-03-21,Milwaukee Brewers signed free agent RHP Jose Chavez to a minor league contract.
 2021-03-22,CF Corbin Carroll assigned to Arizona Diamondbacks.
 2021-03-22,Colorado Rockies optioned LHP Phillip Diehl to Albuquerque Isotopes.
 2021-03-22,Colorado Rockies optioned RHP Antonio Santos to Albuquerque Isotopes.
@@ -2003,6 +2157,8 @@ date,transaction
 2021-03-22,Washington Nationals signed free agent LHP Kyle Lobstein to a minor league contract.
 2021-03-22,Baltimore Orioles signed free agent LHP Ty Blach to a minor league contract.
 2021-03-22,Los Angeles Angels signed free agent LHP Kolton Ingram to a minor league contract.
+2021-03-22,Texas Rangers sent RHP Joe Gatto outright to Round Rock Express.
+2021-03-22,Philadelphia Phillies optioned RHP Ramon Rosso to Phillies Alternate Training Site.
 2021-03-23,Pittsburgh Pirates optioned CF Jared Oliva to Pirates Alternate Training Site.
 2021-03-23,Pittsburgh Pirates optioned Edgar Santana to Pirates Alternate Training Site.
 2021-03-23,Seattle Mariners optioned RHP Yohan Ramirez to Mariners Alternate Training Site.
@@ -2011,6 +2167,9 @@ date,transaction
 2021-03-23,Baltimore Orioles signed free agent C Ramon Rodriguez to a minor league contract.
 2021-03-23,Cincinnati Reds signed free agent RHP Sam Hellinger to a minor league contract.
 2021-03-23,Chicago Cubs placed RHP Tyson Miller on the 10-day injured list.
+2021-03-23,Pittsburgh Pirates optioned RHP Edgar Santana to Pirates Alternate Training Site.
+2021-03-23,Kansas City Royals signed free agent OF Junior Marin to a minor league contract.
+2021-03-23,Miami Marlins signed free agent C David Martinez to a minor league contract.
 2021-03-24,Minnesota Twins optioned RF Alex Kirilloff to Twins Alternate Training Site.
 2021-03-24,Philadelphia Phillies optioned LHP Ranger Suarez to Phillies Alternate Training Site.
 2021-03-24,Philadelphia Phillies optioned CF Mickey Moniak to Phillies Alternate Training Site.
@@ -2023,6 +2182,9 @@ date,transaction
 2021-03-24,Arizona Diamondbacks optioned C Daulton Varsho to Reno Aces.
 2021-03-24,3B Jonathan Ornelas assigned to Texas Rangers.
 2021-03-24,Detroit Tigers selected the contract of Julio Teheran from Toledo Mud Hens.
+2021-03-24,Detroit Tigers selected the contract of RHP Julio Teheran from Toledo Mud Hens.
+2021-03-24,Pittsburgh Pirates signed free agent RHP Alessandro Ercolani to a minor league contract.
+2021-03-24,New York Mets signed free agent RHP Luis Rodriguez to a minor league contract.
 2021-03-25,San Francisco Giants optioned LHP Sam Selman to Sacramento River Cats.
 2021-03-25,San Francisco Giants optioned 3B Jason Vosler to Sacramento River Cats.
 2021-03-25,Texas Rangers optioned LHP Kolby Allard to Rangers Alternate Training Site.
@@ -2059,6 +2221,11 @@ date,transaction
 2021-03-25,Seattle Mariners released LHP Roenis Elias.
 2021-03-25,Philadelphia Phillies placed CF Simon Muzziotti on the restricted list.
 2021-03-25,Los Angeles Dodgers signed free agent RHP Yefry Ramirez to a minor league contract.
+2021-03-25,Baltimore Orioles selected the contract of RHP Matt Harvey from Norfolk Tides.
+2021-03-25,San Francisco Giants reassigned LHP Sam Selman to the minor leagues.
+2021-03-25,Chicago White Sox signed free agent OF Godwin Bennett to a minor league contract.
+2021-03-25,Los Angeles Dodgers selected the contract of RHP Jimmy Nelson.
+2021-03-25,Baltimore Orioles selected the contract of RHP Matt Harvey.
 2021-03-26,Tampa Bay Rays placed RHP Nick Anderson on the 60-day injured list. Right elbow sprain.
 2021-03-26,Tampa Bay Rays selected the contract of RHP Andrew Kittredge from Durham Bulls.
 2021-03-26,Cleveland Indians optioned LHP Kyle Nelson to Columbus Clippers.
@@ -2089,6 +2256,9 @@ date,transaction
 2021-03-26,Baltimore Orioles optioned SS Richie Martin to Orioles Alternate Training Site.
 2021-03-26,Baltimore Orioles optioned LHP Keegan Akin to Orioles Alternate Training Site.
 2021-03-26,Los Angeles Angels signed free agent RHP AJ Ramos to a minor league contract.
+2021-03-26,Oakland Athletics signed free agent RHP Deolis Guerra to a minor league contract.
+2021-03-26,Tampa Bay Rays selected the contract of RHP Andrew Kittredge.
+2021-03-26,Atlanta Braves selected the contract of RHP Nate Jones.
 2021-03-27,Chicago Cubs optioned LHP Brad Wieck to Iowa Cubs.
 2021-03-27,Oakland Athletics signed free agent RHP Deolis Guerra to a minor league contract.
 2021-03-27,Chicago Cubs optioned SS Nico Hoerner to Iowa Cubs.
@@ -2137,6 +2307,13 @@ date,transaction
 2021-03-27,Texas Rangers released RHP Nick Vincent.
 2021-03-27,Milwaukee Brewers signed free agent RHP Jordan Zimmermann to a minor league contract.
 2021-03-27,Detroit Tigers optioned CF Daz Cameron to Toledo Mud Hens.
+2021-03-27,Washington Nationals selected the contract of 2B Hernan Perez.
+2021-03-27,Colorado Rockies selected the contract of RHP Chi Chi Gonzalez.
+2021-03-27,Cleveland Indians selected the contract of OF Ben Gamel.
+2021-03-27,Cleveland Indians selected the contract of LHP Oliver Perez.
+2021-03-27,traded to Baltimore Orioles for .
+2021-03-27,New York Yankees selected the contract of OF Jay Bruce.
+2021-03-27,Cleveland Indians selected the contract of Ben Gamel.
 2021-03-28,Detroit Tigers optioned RHP Joe Jimenez to Toledo Mud Hens.
 2021-03-28,Texas Rangers optioned SS Anderson Tejeda to Round Rock Express.
 2021-03-28,Atlanta Braves released 3B Jake Lamb.
@@ -2178,6 +2355,12 @@ date,transaction
 2021-03-28,Miami Marlins optioned RHP Nick Neidert to Jacksonville Jumbo Shrimp.
 2021-03-28,Colorado Rockies signed free agent 1B Matt Adams to a minor league contract.
 2021-03-28,New York Yankees signed free agent C Robinson Chirinos to a minor league contract.
+2021-03-28,Washington Nationals selected the contract of LHP Luis Avilan.
+2021-03-28,Kansas City Royals selected the contract of RHP Wade Davis.
+2021-03-28,Atlanta Braves selected the contract of 3B Pablo Sandoval.
+2021-03-28,Chicago Cubs selected the contract of 2B Eric Sogard.
+2021-03-28,Chicago Cubs selected the contract of LHP Rex Brothers.
+2021-03-28,Atlanta Braves selected the contract of 1B Pablo Sandoval.
 2021-03-29,Cincinnati Reds selected the contract of RHP Cam Bedrosian from Louisville Bats.
 2021-03-29,Cincinnati Reds placed RHP Brandon Bailey on the 60-day injured list. Recovering from Tommy John surgery.
 2021-03-29,Cincinnati Reds selected the contract of RF Tyler Naquin from Louisville Bats.
@@ -2212,6 +2395,15 @@ date,transaction
 2021-03-29,Atlanta Braves signed free agent C Jeff Mathis to a minor league contract.
 2021-03-29,Washington Nationals signed free agent OF Yasmany Tomas to a minor league contract.
 2021-03-29,New York Yankees signed free agent 2B Derek Dietrich to a minor league contract.
+2021-03-29,Milwaukee Brewers signed free agent RHP Samuel Dario to a minor league contract.
+2021-03-29,New York Mets signed free agent RHP Jorge De Leon to a minor league contract.
+2021-03-29,Philadelphia Phillies selected the contract of LF Matt Joyce.
+2021-03-29,Philadelphia Phillies selected the contract of RHP Brandon Kintzler.
+2021-03-29,Kansas City Royals selected the contract of 2B Hanser Alberto.
+2021-03-29,Cincinnati Reds selected the contract of RF Tyler Naquin.
+2021-03-29,Cincinnati Reds selected the contract of RHP Cam Bedrosian.
+2021-03-29,Kansas City Royals selected the contract of 3B Hanser Alberto.
+2021-03-29,Cincinnati Reds selected the contract of CF Tyler Naquin.
 2021-03-30,Minnesota Twins optioned OF Brent Rooker to Twins Alternate Training Site.
 2021-03-30,Minnesota Twins placed RHP Edwar Colina on the 10-day injured list. Right elbow inflammation.
 2021-03-30,Chicago White Sox signed free agent 3B Jake Lamb.
@@ -2242,6 +2434,9 @@ date,transaction
 2021-03-30,New York Mets signed free agent RHP Tommy Hunter to a minor league contract.
 2021-03-30,Los Angeles Dodgers optioned RHP Mitch White to Dodgers Alternate Training Site.
 2021-03-30,Los Angeles Angels signed free agent RHP Noe Ramirez to a minor league contract.
+2021-03-30,Atlanta Braves signed free agent RHP Jose Chavez to a minor league contract.
+2021-03-30,Texas Rangers selected the contract of RHP Ian Kennedy.
+2021-03-30,Boston Red Sox activated LF Franchy Cordero from the 10-day injured list.
 2021-03-31,Kansas City Royals recalled 2B Nicky Lopez from Royals Alternate Training Site.
 2021-03-31,"Kansas City Royals placed SS Adalberto Mondesi on the 10-day injured list retroactive to March 30, 2021. Right oblique strain."
 2021-03-31,Chicago Cubs signed free agent C Tony Wolters.
@@ -2271,6 +2466,13 @@ date,transaction
 2021-03-31,Toronto Blue Jays reassigned LHP Travis Bergen to the minor leagues.
 2021-03-31,Atlanta Braves signed free agent 2B Yolmer Sanchez to a minor league contract.
 2021-03-31,Atlanta Braves signed free agent RHP Carl Edwards Jr. to a minor league contract.
+2021-03-31,Seattle Mariners selected the contract of RHP Drew Steckenrider.
+2021-03-31,Philadelphia Phillies selected the contract of 2B Ronald Torreyes.
+2021-03-31,Kansas City Royals recalled 2B Nicky Lopez.
+2021-03-31,New York Yankees selected the contract of LHP Lucas Luetge.
+2021-03-31,Los Angeles Angels selected the contract of 3B Jose Rojas.
+2021-03-31,Kansas City Royals recalled SS Nicky Lopez.
+2021-03-31,Seattle Mariners signed free agent OF Stephen Wrenn to a minor league contract.
 2021-04-01,Philadelphia Phillies selected the contract of 2B Ronald Torreyes from Lehigh Valley IronPigs.
 2021-04-01,Detroit Tigers designated LF Christin Stewart for assignment.
 2021-04-01,Detroit Tigers selected the contract of LHP Derek Holland from Toledo Mud Hens.
@@ -2381,3 +2583,1388 @@ date,transaction
 2021-04-01,Chicago White Sox selected the contract of 1B Andrew Vaughn from Winston-Salem Dash.
 2021-04-01,Chicago White Sox designated LHP Bernardo Flores Jr. for assignment.
 2021-04-01,St. Louis Cardinals claimed LHP Bernardo Flores Jr. off waivers from Chicago White Sox.
+2021-04-01,"Milwaukee Brewers placed RF Derek Fisher on the 10-day injured list retroactive to March 29, 2021. Left hamstring strain."
+2021-04-01,Toronto Blue Jays recalled Joel Payamps from Buffalo Bisons.
+2021-04-01,Boston Red Sox recalled Tanner Houck from Red Sox Alternate Training Site.
+2021-04-01,San Diego Padres selected the contract of Nabil Crismatt from El Paso Chihuahuas.
+2021-04-01,Miami Marlins signed free agent OF Steven Adderley to a minor league contract.
+2021-04-01,Los Angeles Dodgers placed RHP Brusdar Graterol on the 10-day injured list.
+2021-04-01,Seattle Mariners signed free agent LHP Roenis Elias to a minor league contract.
+2021-04-01,Seattle Mariners signed free agent RHP Matt Magill to a minor league contract.
+2021-04-01,Minnesota Twins signed free agent C Nick Garland to a minor league contract.
+2021-04-01,Toronto Blue Jays selected the contract of 2B Joe Panik.
+2021-04-01,Toronto Blue Jays selected the contract of LHP Tim Mayza.
+2021-04-01,Texas Rangers selected the contract of 2B Charlie Culberson.
+2021-04-01,Texas Rangers recalled LHP Kolby Allard.
+2021-04-01,Pittsburgh Pirates selected the contract of RHP Clay Holmes.
+2021-04-01,Oakland Athletics selected the contract of SS Jed Lowrie.
+2021-04-01,Kansas City Royals selected the contract of CF Kyle Isbel.
+2021-04-01,Kansas City Royals selected the contract of LHP Jake Brentz.
+2021-04-01,Detroit Tigers selected the contract of LHP Derek Holland.
+2021-04-01,Chicago White Sox selected the contract of 1B Andrew Vaughn.
+2021-04-01,Arizona Diamondbacks recalled RHP Riley Smith.
+2021-04-01,Cincinnati Reds selected the contract of 3B Jonathan India.
+2021-04-01,Kansas City Royals selected the contract of Kyle Isbel.
+2021-04-01,Arizona Diamondbacks recalled Riley Smith.
+2021-04-01,Oakland Athletics selected the contract of 2B Jed Lowrie.
+2021-04-01,Chicago White Sox selected the contract of LF Andrew Vaughn.
+2021-04-01,Cincinnati Reds selected the contract of 2B Jonathan India.
+2021-04-01,Toronto Blue Jays selected the contract of 3B Joe Panik.
+2021-04-01,Texas Rangers selected the contract of 3B Charlie Culberson.
+2021-04-02,Minnesota Twins selected the contract of C Kole McKinnon from High Point Rockers.
+2021-04-02,Boston Red Sox sent RHP John Schreiber outright to Red Sox Alternate Training Site.
+2021-04-02,Atlanta Braves signed free agent LHP Jesse Biddle to a minor league contract.
+2021-04-02,Chicago White Sox signed free agent OF Zack Granite to a minor league contract.
+2021-04-02,Chicago White Sox signed free agent RHP Keyvius Sampson to a minor league contract.
+2021-04-02,Los Angeles Angels signed free agent 1B Jake Gatewood to a minor league contract.
+2021-04-02,Philadelphia Phillies signed free agent SS C.J. Chatham to a minor league contract.
+2021-04-03,Atlanta Braves recalled Johan Camargo from Braves Alternate Training Site.
+2021-04-03,Atlanta Braves placed 3B Ehire Adrianza on the 10-day injured list.
+2021-04-03,Tampa Bay Rays placed LHP Ryan Sherriff on the restricted list.
+2021-04-03,Cincinnati Reds sent RHP Edgar Garcia outright to Reds Alternate Training Site.
+2021-04-03,Cincinnati Reds claimed C Beau Taylor off waivers from Cleveland Indians.
+2021-04-03,Cincinnati Reds designated C Deivy Grullon for assignment.
+2021-04-03,Tampa Bay Rays selected the contract of C Joseph Odom from Rays Alternate Training Site.
+2021-04-03,Minnesota Twins recalled OF Brent Rooker from Twins Alternate Training Site.
+2021-04-03,"Arizona Diamondbacks placed SS Nick Ahmed on the 10-day injured list retroactive to March 31, 2021. Right knee inflammation."
+2021-04-03,"Minnesota Twins placed 3B Josh Donaldson on the 10-day injured list retroactive to April 2, 2021. Right hamstring strain."
+2021-04-03,Arizona Diamondbacks recalled SS Geraldo Perdomo from Diamondbacks Alternate Training Site.
+2021-04-03,Atlanta Braves sent RF Phillip Ervin outright to Braves Alternate Training Site.
+2021-04-03,Boston Red Sox signed free agent RHP Hector Rondon to a minor league contract.
+2021-04-03,Cleveland Indians signed free agent C Gianpaul Gonzalez to a minor league contract.
+2021-04-03,Los Angeles Angels signed free agent 2B Preston Palmeiro to a minor league contract.
+2021-04-04,New York Yankees activated LHP Aroldis Chapman.
+2021-04-04,Toronto Blue Jays selected the contract of LHP Tommy Milone from Blue Jays Alternate Training Site.
+2021-04-04,Pittsburgh Pirates activated RHP Kyle Crick from the 10-day injured list.
+2021-04-04,Pittsburgh Pirates optioned RHP Wil Crowe to Pirates Alternate Training Site.
+2021-04-04,Toronto Blue Jays transferred RHP Kirby Yates from the 10-day injured list to the 60-day injured list. Right elbow surgery.
+2021-04-04,Toronto Blue Jays optioned RHP Joel Payamps to Blue Jays Alternate Training Site.
+2021-04-04,Baltimore Orioles placed RHP Shawn Armstrong on the 10-day injured list.
+2021-04-04,Pittsburgh Pirates placed 3B Ke'Bryan Hayes on the 10-day injured list.
+2021-04-04,Pittsburgh Pirates selected the contract of 2B Wilmer Difo from Pirates Alternate Training Site.
+2021-04-04,"Los Angeles Dodgers placed RHP Tony Gonsolin on the 10-day injured list retroactive to April 1, 2021. Right shoulder inflammation."
+2021-04-04,Los Angeles Dodgers recalled RHP Dennis Santana from Dodgers Alternate Training Site.
+2021-04-04,Toronto Blue Jays sent C Reese McGuire outright to Blue Jays Alternate Training Site.
+2021-04-04,Pittsburgh Pirates released RHP Tyler Bashlor.
+2021-04-04,Toronto Blue Jays sent 2B Breyvic Valera outright to Blue Jays Alternate Training Site.
+2021-04-04,Milwaukee Brewers signed free agent RHP R.J. Alvarez to a minor league contract.
+2021-04-04,Toronto Blue Jays selected the contract of LHP Tommy Milone.
+2021-04-04,Pittsburgh Pirates selected the contract of 2B Wilmer Difo.
+2021-04-04,Los Angeles Dodgers recalled RHP Dennis Santana.
+2021-04-04,Pittsburgh Pirates selected the contract of CF Wilmer Difo.
+2021-04-05,Los Angeles Angels traded RHP Kyle Keller to Pittsburgh Pirates for cash.
+2021-04-05,Pittsburgh Pirates optioned RHP Kyle Keller to Pirates Alternate Training Site.
+2021-04-05,San Diego Padres traded RHP Dauris Valdez to Chicago Cubs for RHP James Norwood.
+2021-04-05,Tampa Bay Rays recalled RHP Chris Mazza from Rays Alternate Training Site.
+2021-04-05,Baltimore Orioles recalled CF Ryan McKenna from Orioles Alternate Training Site.
+2021-04-05,Oakland Athletics recalled LHP A.J. Puk from Athletics Alternate Training Site.
+2021-04-05,San Francisco Giants claimed RF Skye Bolt off waivers from Oakland Athletics.
+2021-04-05,"Tampa Bay Rays placed RHP Chaz Roe on the 10-day injured list retroactive to April 4, 2021. Right shoulder strain."
+2021-04-05,Miami Marlins recalled RHP Nick Neidert from Marlins Alternate Training Site.
+2021-04-05,Miami Marlins recalled Jordan Holloway from Marlins Alternate Training Site.
+2021-04-05,Miami Marlins placed RHP Elieser Hernandez on the 10-day injured list. Right biceps inflammation.
+2021-04-05,Miami Marlins placed 1B Garrett Cooper on the 10-day injured list.
+2021-04-05,San Diego Padres optioned RHP James Norwood to Padres Alternate Training Site.
+2021-04-05,San Diego Padres transferred RHP Javy Guerra from the 10-day injured list to the 60-day injured list. Right elbow sprain.
+2021-04-05,Baltimore Orioles activated RHP Shawn Armstrong from the 10-day injured list.
+2021-04-05,Baltimore Orioles placed RF Austin Hays on the 10-day injured list. Right hamstring strain.
+2021-04-05,Baltimore Orioles optioned RHP Cole Sulser to Orioles Alternate Training Site.
+2021-04-05,Oakland Athletics placed 2B Chad Pinder on the 10-day injured list. Sprained left knee.
+2021-04-05,Colorado Rockies sent RHP Jairo Diaz outright to Rockies Alternate Training Site.
+2021-04-05,Atlanta Braves placed 3B Ehire Adrianza on the restricted list.
+2021-04-05,Pittsburgh Pirates designated RHP Edgar Santana for assignment.
+2021-04-05,Tampa Bay Rays recalled RHP Chris Mazza.
+2021-04-05,Miami Marlins recalled RHP Nick Neidert.
+2021-04-05,Baltimore Orioles recalled CF Ryan McKenna.
+2021-04-05,Baltimore Orioles recalled Ryan McKenna.
+2021-04-05,Tampa Bay Rays recalled Chris Mazza.
+2021-04-05,Minnesota Twins signed free agent C Frank Nigro to a minor league contract.
+2021-04-05,Oakland Athletics placed RF Chad Pinder on the 10-day injured list. Sprained left knee.
+2021-04-06,Washington Nationals placed C Alex Avila on the 10-day injured list.
+2021-04-06,Washington Nationals placed 1B Josh Bell on the 10-day injured list.
+2021-04-06,"Washington Nationals placed RHP Will Harris on the 10-day injured list retroactive to March 29, 2021. Right hand inflammation"
+2021-04-06,Washington Nationals placed C Yan Gomes on the 10-day injured list.
+2021-04-06,Washington Nationals placed LHP Patrick Corbin on the 10-day injured list.
+2021-04-06,Washington Nationals placed LHP Brad Hand on the 10-day injured list.
+2021-04-06,Washington Nationals placed 2B Josh Harrison on the 10-day injured list.
+2021-04-06,Washington Nationals recalled Luis Garcia from Nationals Alternate Training Site.
+2021-04-06,Washington Nationals recalled LHP Sam Clay from Nationals Alternate Training Site.
+2021-04-06,Washington Nationals placed LHP Jon Lester on the 10-day injured list.
+2021-04-06,Washington Nationals placed SS Jordy Mercer on the 10-day injured list.
+2021-04-06,Washington Nationals placed LF Kyle Schwarber on the 10-day injured list.
+2021-04-06,Washington Nationals recalled C Tres Barrera from Nationals Alternate Training Site.
+2021-04-06,Washington Nationals recalled Ryne Harper from Nationals Alternate Training Site.
+2021-04-06,Washington Nationals recalled Yadiel Hernandez from Nationals Alternate Training Site.
+2021-04-06,Washington Nationals recalled 3B Carter Kieboom from Nationals Alternate Training Site.
+2021-04-06,Washington Nationals recalled Kyle McGowin from Nationals Alternate Training Site.
+2021-04-06,Washington Nationals selected the contract of CF Cody Wilson from Nationals Alternate Training Site.
+2021-04-06,Washington Nationals signed free agent C Jonathan Lucroy to a minor league contract.
+2021-04-06,Washington Nationals selected the contract of C Jonathan Lucroy from Rochester Red Wings.
+2021-04-06,New York Yankees traded C Antonio Cabello and OF Josh Stowers to Texas Rangers for cash and 2B Rougned Odor.
+2021-04-06,"Arizona Diamondbacks placed RHP Joakim Soria on the 10-day injured list retroactive to April 5, 2021. Strained left calf."
+2021-04-06,San Diego Padres placed SS Fernando Tatis Jr. on the 10-day injured list. Left shoulder inflamation.
+2021-04-06,Detroit Tigers sent LF Christin Stewart outright to Tigers Alternate Training Site.
+2021-04-06,Milwaukee Brewers traded SS Orlando Arcia to Atlanta Braves for RHP Chad Sobotka and RHP Patrick Weigel.
+2021-04-06,Milwaukee Brewers optioned RHP Chad Sobotka to Brewers Alternate Training Site.
+2021-04-06,Milwaukee Brewers optioned RHP Patrick Weigel to Brewers Alternate Training Site.
+2021-04-06,Tampa Bay Rays claimed C Deivy Grullon off waivers from Cincinnati Reds.
+2021-04-06,Tampa Bay Rays placed CF Kevin Kiermaier on the 10-day injured list. Left quadriceps strain.
+2021-04-06,Tampa Bay Rays recalled 3B Kevin Padlo from Rays Alternate Training Site.
+2021-04-06,Tampa Bay Rays transferred RHP Chaz Roe from the 10-day injured list to the 60-day injured list. Right shoulder strain.
+2021-04-06,Milwaukee Brewers selected the contract of RHP Brad Boxberger from Brewers Alternate Training Site.
+2021-04-06,Milwaukee Brewers transferred RHP Justin Topa from the 10-day injured list to the 60-day injured list. Flexor strain.
+2021-04-06,Oakland Athletics recalled OF Seth Brown from Athletics Alternate Training Site.
+2021-04-06,Oakland Athletics recalled RHP Jordan Weems from Athletics Alternate Training Site.
+2021-04-06,"Oakland Athletics placed RHP Burch Smith on the 10-day injured list retroactive to April 4, 2021. Strained right groin."
+2021-04-06,Oakland Athletics placed LHP Reymin Guduan on the 10-day injured list. Sprained left thumb.
+2021-04-06,Arizona Diamondbacks recalled Matt Peacock from Diamondbacks Alternate Training Site.
+2021-04-06,Miami Marlins optioned RHP Jordan Holloway to Marlins Alternate Training Site.
+2021-04-06,Miami Marlins activated 1B Garrett Cooper from the 10-day injured list.
+2021-04-06,New York Yankees optioned RHP Michael King to Yankees Alternate Training Site.
+2021-04-06,New York Yankees designated 2B Thairo Estrada for assignment.
+2021-04-06,San Diego Padres recalled OF Brian O'Grady from Padres Alternate Training Site.
+2021-04-06,Kansas City Royals sent RHP Scott Blewett outright to Royals Alternate Training Site.
+2021-04-06,Kansas City Royals sent C Meibrys Viloria outright to Northwest Arkansas Naturals.
+2021-04-06,Tampa Bay Rays optioned C Deivy Grullon to Rays Alternate Training Site.
+2021-04-06,Boston Red Sox signed free agent LHP Tyler Olson to a minor league contract.
+2021-04-06,Los Angeles Angels signed free agent 2B Kyle Kasser to a minor league contract.
+2021-04-06,New York Yankees signed free agent LHP Mike Montgomery to a minor league contract.
+2021-04-06,Washington Nationals recalled LHP Sam Clay.
+2021-04-06,Oakland Athletics recalled OF Seth Brown.
+2021-04-06,Oakland Athletics recalled RHP Jordan Weems.
+2021-04-06,Milwaukee Brewers selected the contract of RHP Brad Boxberger.
+2021-04-06,Oakland Athletics recalled Jordan Weems.
+2021-04-06,Oakland Athletics recalled RF Seth Brown.
+2021-04-06,Miami Marlins activated RF Garrett Cooper from the 10-day injured list.
+2021-04-06,Los Angeles Dodgers placed CF Cody Bellinger on the 10-day injured list. Left calf contusion.
+2021-04-06,traded to Atlanta Braves for .
+2021-04-06,Minnesota Twins signed free agent SS Peter Mooney to a minor league contract.
+2021-04-07,Washington Nationals recalled LHP Ben Braymer from Nationals Alternate Training Site.
+2021-04-07,Boston Red Sox optioned Tanner Houck to Red Sox Alternate Training Site.
+2021-04-07,Minnesota Twins placed OF Brent Rooker on the 10-day injured list. Cervical strain.
+2021-04-07,Atlanta Braves recalled Jacob Webb from Braves Alternate Training Site.
+2021-04-07,Minnesota Twins transferred RHP Edwar Colina from the 10-day injured list to the 60-day injured list. Right elbow inflammation.
+2021-04-07,Chicago White Sox recalled SS Danny Mendick from White Sox Alternate Training Site.
+2021-04-07,Minnesota Twins selected the contract of Brandon Waddell from Twins Alternate Training Site.
+2021-04-07,"Chicago White Sox placed SS Tim Anderson on the 10-day injured list retroactive to April 5, 2021. Left hamstring strain."
+2021-04-07,Seattle Mariners placed CF Jake Fraley on the 10-day injured list. Left hamstring strain.
+2021-04-07,Seattle Mariners placed LHP James Paxton on the 10-day injured list. Left forearm strain.
+2021-04-07,Seattle Mariners recalled RHP Ljay Newsome from Mariners Alternate Training Site.
+2021-04-07,Seattle Mariners recalled CF Braden Bishop from Mariners Alternate Training Site.
+2021-04-07,Arizona Diamondbacks selected the contract of RHP Anthony Swarzak from Diamondbacks Alternate Training Site.
+2021-04-07,Texas Rangers sent LHP Brett Martin on a rehab assignment to Rangers Alternate Training Site.
+2021-04-07,Arizona Diamondbacks placed RHP Chris Devenski on the restricted list.
+2021-04-07,Los Angeles Angels signed free agent C Matt Jones to a minor league contract.
+2021-04-07,Seattle Mariners recalled CF Braden Bishop.
+2021-04-07,Seattle Mariners recalled RHP Ljay Newsome.
+2021-04-07,Chicago White Sox recalled SS Danny Mendick.
+2021-04-07,Arizona Diamondbacks selected the contract of RHP Anthony Swarzak.
+2021-04-07,Chicago White Sox recalled Danny Mendick.
+2021-04-07,Seattle Mariners recalled Braden Bishop.
+2021-04-07,Seattle Mariners placed LF Jake Fraley on the 10-day injured list. Left hamstring strain.
+2021-04-08,Atlanta Braves optioned RHP Jacob Webb to Braves Alternate Training Site.
+2021-04-08,Washington Nationals optioned LHP Ben Braymer to Nationals Alternate Training Site.
+2021-04-08,New York Mets selected the contract of RHP Trevor Hildenberger from Mets Alternate Training Site.
+2021-04-08,New York Mets placed RHP Dellin Betances on the 10-day injured list. Right shoulder impingement.
+2021-04-08,Boston Red Sox activated LHP Eduardo Rodriguez from the 10-day injured list.
+2021-04-08,Chicago White Sox transferred LHP Jace Fry from the 10-day injured list to the 60-day injured list. Recovery from microdiscectomy.
+2021-04-08,Chicago White Sox placed CF Billy Hamilton on the 10-day injured list. Left hamstring strain.
+2021-04-08,Chicago White Sox selected the contract of OF Nick Williams from White Sox Alternate Training Site.
+2021-04-08,Arizona Diamondbacks recalled Andrew Young from Diamondbacks Alternate Training Site.
+2021-04-08,Arizona Diamondbacks placed 2B Ketel Marte on the 10-day injured list. Right hamstring strain.
+2021-04-08,"Oakland Athletics placed LHP A.J. Puk on the 10-day injured list retroactive to April 7, 2021. Left biceps strain."
+2021-04-08,Oakland Athletics transferred RHP Trevor Rosenthal from the 10-day injured list to the 60-day injured list. Right shoulder inflammation.
+2021-04-08,Oakland Athletics selected the contract of RHP Deolis Guerra from Athletics Alternate Training Site.
+2021-04-08,New York Yankees placed 2B Rougned Odor on the 10-day injured list.
+2021-04-08,Oakland Athletics selected the contract of RHP Deolis Guerra.
+2021-04-08,New York Mets selected the contract of RHP Trevor Hildenberger.
+2021-04-08,Chicago White Sox selected the contract of OF Nick Williams.
+2021-04-08,New York Mets selected the contract of Trevor Hildenberger.
+2021-04-08,Arizona Diamondbacks placed CF Ketel Marte on the 10-day injured list. Right hamstring strain.
+2021-04-09,Pittsburgh Pirates traded RHP Edgar Santana to Atlanta Braves for cash.
+2021-04-09,Atlanta Braves optioned RHP Edgar Santana to Braves Alternate Training Site.
+2021-04-09,Tampa Bay Rays designated C Joseph Odom for assignment.
+2021-04-09,"Tampa Bay Rays placed RHP Pete Fairbanks on the 10-day injured list retroactive to April 7, 2021. Right rotator cuff strain."
+2021-04-09,Washington Nationals activated C Alex Avila from the 10-day injured list.
+2021-04-09,Washington Nationals activated LHP Brad Hand from the 10-day injured list.
+2021-04-09,New York Yankees activated LHP Justin Wilson from the 10-day injured list.
+2021-04-09,Tampa Bay Rays selected the contract of RHP Hunter Strickland from Rays Alternate Training Site.
+2021-04-09,Tampa Bay Rays activated RF Brett Phillips from the 10-day injured list.
+2021-04-09,Washington Nationals activated C Yan Gomes from the 10-day injured list.
+2021-04-09,Washington Nationals activated SS Jordy Mercer from the 10-day injured list.
+2021-04-09,Washington Nationals optioned 3B Carter Kieboom to Nationals Alternate Training Site.
+2021-04-09,New York Yankees placed 3B Gio Urshela on the 10-day injured list.
+2021-04-09,New York Yankees recalled Mike Ford from Yankees Alternate Training Site.
+2021-04-09,Washington Nationals optioned C Tres Barrera to Nationals Alternate Training Site.
+2021-04-09,Washington Nationals optioned RHP Ryne Harper to Nationals Alternate Training Site.
+2021-04-09,CF Cody Wilson returned to Nationals Alternate Training Site from Washington Nationals.
+2021-04-09,"Los Angeles Dodgers placed RF Cody Bellinger on the 10-day injured list retroactive to April 6, 2021. Left calf contusion."
+2021-04-09,Los Angeles Dodgers recalled RF Luke Raley from Dodgers Alternate Training Site.
+2021-04-09,Atlanta Braves optioned 3B Johan Camargo to Braves Alternate Training Site.
+2021-04-09,Atlanta Braves activated 3B Ehire Adrianza from the restricted list.
+2021-04-09,Arizona Diamondbacks activated RF Kole Calhoun from the 10-day injured list.
+2021-04-09,Arizona Diamondbacks optioned 2B Andrew Young to Diamondbacks Alternate Training Site.
+2021-04-09,Baltimore Orioles optioned 3B Pat Valaika to Orioles Alternate Training Site.
+2021-04-09,"Texas Rangers placed RHP Matt Bush on the 10-day injured list retroactive to April 8, 2021. Right elbow inflammation."
+2021-04-09,"Texas Rangers placed 2B Brock Holt on the 10-day injured list retroactive to April 7, 2021. Right hamstring strain."
+2021-04-09,Texas Rangers activated LHP Brett Martin from the 10-day injured list.
+2021-04-09,Texas Rangers recalled SS Anderson Tejeda from Rangers Alternate Training Site.
+2021-04-09,San Diego Padres optioned OF Brian O'Grady to Padres Alternate Training Site.
+2021-04-09,San Diego Padres activated RF Trent Grisham from the 10-day injured list.
+2021-04-09,Toronto Blue Jays recalled CF Josh Palacios from Blue Jays Alternate Training Site.
+2021-04-09,Toronto Blue Jays recalled Joel Payamps from Blue Jays Alternate Training Site.
+2021-04-09,Toronto Blue Jays recalled Ty Tice from Blue Jays Alternate Training Site.
+2021-04-09,"Toronto Blue Jays placed RHP Tyler Chatwood on the 10-day injured list retroactive to April 6, 2021. Right triceps inflammation."
+2021-04-09,Toronto Blue Jays placed LF Teoscar Hernandez on the 10-day injured list.
+2021-04-09,Toronto Blue Jays placed LHP Ryan Borucki on the 10-day injured list.
+2021-04-09,Houston Astros placed RHP Enoli Paredes on the 10-day injured list. Right side soreness.
+2021-04-09,Houston Astros recalled RHP Nivaldo Rodriguez from Astros Alternate Training Site.
+2021-04-09,Toronto Blue Jays recalled CF Josh Palacios.
+2021-04-09,Texas Rangers recalled SS Anderson Tejeda.
+2021-04-09,Tampa Bay Rays selected the contract of RHP Hunter Strickland.
+2021-04-09,Los Angeles Dodgers recalled RF Luke Raley.
+2021-04-09,Houston Astros recalled RHP Nivaldo Rodriguez.
+2021-04-09,Toronto Blue Jays recalled Josh Palacios.
+2021-04-09,Texas Rangers recalled Anderson Tejeda.
+2021-04-09,Texas Rangers signed free agent C Jordan Procyshen to a minor league contract.
+2021-04-09,Atlanta Braves activated RF Ehire Adrianza from the restricted list.
+2021-04-09,Washington Nationals activated 2B Jordy Mercer from the 10-day injured list.
+2021-04-09,Los Angeles Dodgers recalled Luke Raley.
+2021-04-09,San Diego Padres activated CF Trent Grisham from the 10-day injured list.
+2021-04-09,Tampa Bay Rays activated CF Brett Phillips from the 10-day injured list.
+2021-04-09,Toronto Blue Jays placed RF Teoscar Hernandez on the 10-day injured list.
+2021-04-10,New York Yankees optioned 1B Mike Ford to Yankees Alternate Training Site.
+2021-04-10,New York Yankees activated 3B Gio Urshela from the 10-day injured list.
+2021-04-10,New York Yankees activated 2B Rougned Odor from the 10-day injured list.
+2021-04-10,New York Yankees optioned SS Tyler Wade to Yankees Alternate Training Site.
+2021-04-10,Milwaukee Brewers transferred RHP Bobby Wahl from the 10-day injured list to the 60-day injured list. Right oblique strain.
+2021-04-10,"Milwaukee Brewers placed 2B Kolten Wong on the 10-day injured list retroactive to April 9, 2021. Left oblique strain."
+2021-04-10,Milwaukee Brewers selected the contract of 3B Jace Peterson from Brewers Alternate Training Site.
+2021-04-10,"New York Mets placed 3B J.D. Davis on the 10-day injured list retroactive to April 7, 2021. Left hand contusion."
+2021-04-10,New York Mets designated RHP Franklyn Kilome for assignment.
+2021-04-10,New York Mets selected the contract of SS Jose Peraza from Mets Alternate Training Site.
+2021-04-10,Detroit Tigers recalled RHP Alex Lange from Tigers Alternate Training Site.
+2021-04-10,"Detroit Tigers placed RHP Julio Teheran on the 10-day injured list retroactive to April 7, 2021. Right shoulder strain."
+2021-04-10,San Diego Padres activated RHP Austin Adams from the 10-day injured list.
+2021-04-10,San Diego Padres optioned RHP Nabil Crismatt to Padres Alternate Training Site.
+2021-04-10,Colorado Rockies selected the contract of SS Alan Trejo from Rockies Alternate Training Site.
+2021-04-10,Colorado Rockies designated LHP Phillip Diehl for assignment.
+2021-04-10,Colorado Rockies placed SS Chris Owings on the 10-day injured list. Left thumb sprain.
+2021-04-10,Atlanta Braves recalled RHP Jacob Webb from Braves Alternate Training Site.
+2021-04-10,"Atlanta Braves placed RHP Chris Martin on the 10-day injured list retroactive to April 7, 2021."
+2021-04-10,Baltimore Orioles activated RF DJ Stewart from the 10-day injured list.
+2021-04-10,Arizona Diamondbacks activated SS Nick Ahmed from the 10-day injured list.
+2021-04-10,Arizona Diamondbacks optioned SS Geraldo Perdomo to Diamondbacks Alternate Training Site.
+2021-04-10,Toronto Blue Jays optioned RHP Ty Tice to Blue Jays Alternate Training Site.
+2021-04-10,Los Angeles Angels placed RF Dexter Fowler on the 10-day injured list. Left knee sprain.
+2021-04-10,Los Angeles Angels recalled RHP Jaime Barria from Angels Alternate Training Site.
+2021-04-10,Toronto Blue Jays recalled Santiago Espinal from Blue Jays Alternate Training Site.
+2021-04-10,Toronto Blue Jays activated LHP Ryan Borucki from the 10-day injured list.
+2021-04-10,Toronto Blue Jays placed LF Lourdes Gurriel Jr. on the 10-day injured list.
+2021-04-10,Houston Astros transferred RHP Austin Pruitt from the 10-day injured list to the 60-day injured list. Recovery from right elbow surgery.
+2021-04-10,Houston Astros placed RHP Pedro Baez on the 10-day injured list. Right shoulder soreness.
+2021-04-10,Boston Red Sox placed LF J.D. Martinez on the 10-day injured list.
+2021-04-10,Boston Red Sox recalled 2B Michael Chavis from Red Sox Alternate Training Site.
+2021-04-10,Washington Nationals optioned RHP Kyle McGowin to Nationals Alternate Training Site.
+2021-04-10,Washington Nationals activated LHP Patrick Corbin from the 10-day injured list.
+2021-04-10,Houston Astros optioned RHP Cristian Javier to Astros Alternate Training Site.
+2021-04-10,Los Angeles Dodgers claimed RHP Ashton Goudeau off waivers from Giants Alternate Training Site.
+2021-04-10,Pittsburgh Pirates sent RHP Tyler Bashlor outright to Pirates Alternate Training Site.
+2021-04-10,New York Mets selected the contract of SS Jose Peraza.
+2021-04-10,Detroit Tigers recalled RHP Alex Lange.
+2021-04-10,Colorado Rockies selected the contract of SS Alan Trejo.
+2021-04-10,Atlanta Braves recalled RHP Jacob Webb.
+2021-04-10,New York Mets selected the contract of Jose Peraza.
+2021-04-10,Milwaukee Brewers selected the contract of 3B Jace Peterson.
+2021-04-10,Baltimore Orioles activated LF DJ Stewart from the 10-day injured list.
+2021-04-10,Colorado Rockies placed 2B Chris Owings on the 10-day injured list. Left thumb sprain.
+2021-04-11,Tampa Bay Rays placed RHP Chris Archer on the 10-day injured list. Right lateral forearm tightness.
+2021-04-11,New York Yankees optioned RHP Domingo German to Yankees Alternate Training Site.
+2021-04-11,Tampa Bay Rays recalled Brent Honeywell Jr. from Rays Alternate Training Site.
+2021-04-11,St. Louis Cardinals optioned RHP Jake Woodford to Cardinals Alternate Training Site.
+2021-04-11,Detroit Tigers selected the contract of 1B Renato Nunez from Tigers Alternate Training Site.
+2021-04-11,Detroit Tigers transferred RHP Julio Teheran from the 10-day injured list to the 60-day injured list. Right shoulder strain.
+2021-04-11,Detroit Tigers placed 1B Miguel Cabrera on the 10-day injured list. Left biceps strain.
+2021-04-11,New York Yankees recalled Albert Abreu from Yankees Alternate Training Site.
+2021-04-11,Boston Red Sox optioned 2B Michael Chavis to Red Sox Alternate Training Site.
+2021-04-11,Boston Red Sox activated LF J.D. Martinez from the 10-day injured list.
+2021-04-11,St. Louis Cardinals recalled Johan Oviedo from Cardinals Alternate Training Site.
+2021-04-11,St. Louis Cardinals recalled CF Lane Thomas from Cardinals Alternate Training Site.
+2021-04-11,San Francisco Giants optioned 2B Thairo Estrada to Giants Alternate Training Site.
+2021-04-11,San Francisco Giants recalled RF Jaylin Davis from Richmond Flying Squirrels.
+2021-04-11,Miami Marlins optioned CF Lewis Brinson to Marlins Alternate Training Site.
+2021-04-11,St. Louis Cardinals placed LF Tyler O'Neill on the 10-day injured list. Right groin strain.
+2021-04-11,New York Yankees traded 2B Thairo Estrada to San Francisco Giants for cash.
+2021-04-11,Philadelphia Phillies recalled LHP JoJo Romero from Phillies Alternate Training Site.
+2021-04-11,Philadelphia Phillies placed RHP Archie Bradley on the 10-day injured list. Left oblique strain.
+2021-04-11,Miami Marlins recalled LHP Daniel Castano from Marlins Alternate Training Site.
+2021-04-11,San Francisco Giants placed RF Jaylin Davis on the 60-day injured list. Left knee patella tendinitis.
+2021-04-11,San Francisco Giants recalled LF LaMonte Wade Jr from Giants Alternate Training Site.
+2021-04-11,San Francisco Giants placed RHP Reyes Moronta on the 10-day injured list. Right flexor strain.
+2021-04-11,Tampa Bay Rays sent C Joseph Odom outright to Rays Alternate Training Site.
+2021-04-11,Houston Astros recalled RHP Jake Odorizzi from Astros Alternate Training Site.
+2021-04-11,Philadelphia Phillies recalled LHP JoJo Romero.
+2021-04-11,Miami Marlins recalled LHP Daniel Castano.
+2021-04-11,Detroit Tigers selected the contract of 1B Renato Nunez.
+2021-04-11,Houston Astros recalled RHP Jake Odorizzi.
+2021-04-11,Los Angeles Angels placed RF Juan Lagares on the 10-day injured list. Left calf strain.
+2021-04-12,Tampa Bay Rays optioned RHP Brent Honeywell Jr. to Rays Alternate Training Site.
+2021-04-12,Toronto Blue Jays activated LF Lourdes Gurriel Jr. from the 10-day injured list.
+2021-04-12,Toronto Blue Jays optioned 2B Santiago Espinal to Blue Jays Alternate Training Site.
+2021-04-12,Toronto Blue Jays optioned RHP Joel Payamps to Blue Jays Alternate Training Site.
+2021-04-12,Toronto Blue Jays activated LHP Robbie Ray from the 10-day injured list.
+2021-04-12,Seattle Mariners recalled RHP Erik Swanson from Mariners Alternate Training Site.
+2021-04-12,Tampa Bay Rays recalled RHP Trevor Richards from Rays Alternate Training Site.
+2021-04-12,Seattle Mariners placed LHP Anthony Misiewicz on the 10-day injured list.
+2021-04-12,Kansas City Royals placed RHP Jesse Hahn on the 10-day injured list. Right shoulder impingement syndrome.
+2021-04-12,Kansas City Royals recalled RHP Jake Newberry from Royals Alternate Training Site.
+2021-04-12,Milwaukee Brewers recalled LHP Angel Perdomo from Brewers Alternate Training Site.
+2021-04-12,Milwaukee Brewers optioned RHP Eric Yardley to Brewers Alternate Training Site.
+2021-04-12,Washington Nationals activated 1B Josh Bell from the 10-day injured list.
+2021-04-12,Washington Nationals activated 2B Josh Harrison from the 10-day injured list.
+2021-04-12,Washington Nationals optioned LF Yadiel Hernandez to Nationals Alternate Training Site.
+2021-04-12,Washington Nationals designated C Jonathan Lucroy for assignment.
+2021-04-12,Washington Nationals optioned SS Luis Garcia to Nationals Alternate Training Site.
+2021-04-12,Washington Nationals activated LF Kyle Schwarber from the 10-day injured list.
+2021-04-12,Arizona Diamondbacks recalled 2B Andrew Young from Diamondbacks Alternate Training Site.
+2021-04-12,Colorado Rockies signed free agent RHP Ivan Nova to a minor league contract.
+2021-04-12,San Diego Padres placed LHP Adrian Morejon on the 10-day injured list. Left forearm strain.
+2021-04-12,San Diego Padres recalled Nabil Crismatt from Padres Alternate Training Site.
+2021-04-12,Chicago Cubs recalled LHP Justin Steele from Cubs Alternate Training Site.
+2021-04-12,Chicago Cubs recalled LHP Brad Wieck from Cubs Alternate Training Site.
+2021-04-12,Chicago Cubs selected the contract of RHP Pedro Strop from Cubs Alternate Training Site.
+2021-04-12,Chicago Cubs placed RHP Jason Adam on the 10-day injured list.
+2021-04-12,Chicago Cubs placed RHP Brandon Workman on the 10-day injured list.
+2021-04-12,Chicago Cubs placed RHP Dan Winkler on the 10-day injured list.
+2021-04-12,Los Angeles Angels optioned RHP Jaime Barria to Angels Alternate Training Site.
+2021-04-12,Los Angeles Angels recalled Jack Mayfield from Angels Alternate Training Site.
+2021-04-12,Los Angeles Angels selected the contract of RHP Ben Rowen from Angels Alternate Training Site.
+2021-04-12,"Los Angeles Angels placed 3B Anthony Rendon on the 10-day injured list retroactive to April 11, 2021. Left groin strain."
+2021-04-12,Arizona Diamondbacks placed 1B Christian Walker on the 10-day injured list. Strained right oblique.
+2021-04-12,Arizona Diamondbacks signed free agent RF Josh Reddick to a minor league contract.
+2021-04-12,Arizona Diamondbacks signed free agent LHP Will Sherriff to a minor league contract.
+2021-04-12,Los Angeles Dodgers signed free agent OF Steven Souza Jr. to a minor league contract.
+2021-04-12,Miami Marlins signed free agent LHP Brandon Leibrandt to a minor league contract.
+2021-04-12,Kansas City Royals recalled RHP Jake Newberry.
+2021-04-12,Tampa Bay Rays recalled RHP Trevor Richards.
+2021-04-12,Seattle Mariners recalled RHP Erik Swanson.
+2021-04-12,Arizona Diamondbacks recalled 2B Andrew Young.
+2021-04-12,Seattle Mariners recalled Erik Swanson.
+2021-04-12,Milwaukee Brewers recalled LHP Angel Perdomo.
+2021-04-12,Los Angeles Angels selected the contract of RHP Ben Rowen.
+2021-04-12,Chicago Cubs selected the contract of RHP Pedro Strop.
+2021-04-12,Chicago Cubs recalled LHP Justin Steele.
+2021-04-12,Kansas City Royals recalled Jake Newberry.
+2021-04-12,Chicago Cubs selected the contract of Pedro Strop.
+2021-04-12,Chicago Cubs recalled Justin Steele.
+2021-04-12,Miami Marlins signed free agent RHP Preston Guilmet to a minor league contract.
+2021-04-12,Arizona Diamondbacks recalled LF Andrew Young.
+2021-04-12,Washington Nationals recalled 2B Luis Garcia.
+2021-04-13,New York Mets recalled Stephen Tarpley from Mets Alternate Training Site.
+2021-04-13,Baltimore Orioles recalled Travis Lakins Sr. from Orioles Alternate Training Site.
+2021-04-13,Philadelphia Phillies recalled Spencer Howard from Phillies Alternate Training Site.
+2021-04-13,Arizona Diamondbacks activated RHP Zac Gallen from the 10-day injured list.
+2021-04-13,St. Louis Cardinals optioned RHP Johan Oviedo to Cardinals Alternate Training Site.
+2021-04-13,St. Louis Cardinals recalled RHP Kodi Whitley from Cardinals Alternate Training Site.
+2021-04-13,Seattle Mariners recalled Donovan Walton from Mariners Alternate Training Site.
+2021-04-13,Arizona Diamondbacks optioned RHP Matt Peacock to Diamondbacks Alternate Training Site.
+2021-04-13,Kansas City Royals optioned 1B Ryan McBroom to Royals Alternate Training Site.
+2021-04-13,Kansas City Royals placed RHP Josh Staumont on the 10-day injured list.
+2021-04-13,Los Angeles Angels selected the contract of OF Jon Jay from Angels Alternate Training Site.
+2021-04-13,Texas Rangers placed 1B Ronald Guzman on the 10-day injured list. Right knee meniscus tear.
+2021-04-13,Texas Rangers transferred RHP Matt Bush from the 10-day injured list to the 60-day injured list. Right elbow inflammation.
+2021-04-13,Texas Rangers selected the contract of RF Adolis Garcia from Rangers Alternate Training Site.
+2021-04-13,Los Angeles Angels recalled C Anthony Bemboom from Angels Alternate Training Site.
+2021-04-13,Los Angeles Angels placed C Max Stassi on the 10-day injured list. Left thumb sprain.
+2021-04-13,Chicago Cubs placed 3B Matt Duffy on the 10-day injured list.
+2021-04-13,Chicago Cubs selected the contract of 2B Ildemaro Vargas from Cubs Alternate Training Site.
+2021-04-13,Kansas City Royals recalled RHP Tyler Zuber from Royals Alternate Training Site.
+2021-04-13,Kansas City Royals selected the contract of RHP Ervin Santana from Royals Alternate Training Site.
+2021-04-13,"Los Angeles Angels placed CF Juan Lagares on the 10-day injured list retroactive to April 11, 2021. Left calf strain."
+2021-04-13,Los Angeles Angels transferred RF Dexter Fowler from the 10-day injured list to the 60-day injured list. Left knee sprain.
+2021-04-13,Kansas City Royals selected the contract of RHP Ervin Santana.
+2021-04-13,Texas Rangers selected the contract of RF Adolis Garcia.
+2021-04-13,Kansas City Royals recalled RHP Tyler Zuber.
+2021-04-13,St. Louis Cardinals recalled RHP Kodi Whitley.
+2021-04-13,Los Angeles Angels selected the contract of OF Jon Jay.
+2021-04-13,Los Angeles Angels recalled C Anthony Bemboom.
+2021-04-13,Chicago Cubs selected the contract of Ildemaro Vargas.
+2021-04-13,St. Louis Cardinals recalled Kodi Whitley.
+2021-04-13,Texas Rangers selected the contract of LF Adolis Garcia.
+2021-04-14,Tampa Bay Rays recalled LHP Josh Fleming from Rays Alternate Training Site.
+2021-04-14,Tampa Bay Rays optioned 3B Kevin Padlo to Rays Alternate Training Site.
+2021-04-14,Boston Red Sox recalled RHP Eduard Bazardo from Red Sox Alternate Training Site.
+2021-04-14,Baltimore Orioles optioned RHP Travis Lakins Sr. to Orioles Alternate Training Site.
+2021-04-14,Chicago Cubs activated C Austin Romine from the 10-day injured list.
+2021-04-14,Kansas City Royals activated RHP Josh Staumont from the 10-day injured list.
+2021-04-14,Kansas City Royals designated CF Nick Heath for assignment.
+2021-04-14,Kansas City Royals optioned RHP Carlos Hernandez to Royals Alternate Training Site.
+2021-04-14,Toronto Blue Jays placed RHP Julian Merryweather on the 10-day injured list. Left oblique strain.
+2021-04-14,Toronto Blue Jays selected the contract of RHP Anthony Castro from Blue Jays Alternate Training Site.
+2021-04-14,Chicago Cubs designated C Tony Wolters for assignment.
+2021-04-14,Milwaukee Brewers placed CF Lorenzo Cain on the 10-day injured list. Left quadriceps discomfort.
+2021-04-14,Milwaukee Brewers recalled CF Tyrone Taylor from Brewers Alternate Training Site.
+2021-04-14,Minnesota Twins placed SS Andrelton Simmons on the 10-day injured list.
+2021-04-14,Minnesota Twins recalled Alex Kirilloff from Twins Alternate Training Site.
+2021-04-14,Houston Astros placed 2B Jose Altuve on the 10-day injured list.
+2021-04-14,Houston Astros recalled 1B Taylor Jones from Astros Alternate Training Site.
+2021-04-14,Minnesota Twins selected the contract of SS JT Riddle from Twins Alternate Training Site.
+2021-04-14,Seattle Mariners optioned 2B Donovan Walton to Mariners Alternate Training Site.
+2021-04-14,Chicago Cubs optioned RHP Adbert Alzolay to Cubs Alternate Training Site.
+2021-04-14,Chicago Cubs optioned LHP Brad Wieck to Cubs Alternate Training Site.
+2021-04-14,Chicago Cubs selected the contract of RHP Shelby Miller from Cubs Alternate Training Site.
+2021-04-14,Chicago Cubs activated RHP Jason Adam from the 10-day injured list.
+2021-04-14,Cleveland Indians signed free agent C Rene Rivera to a minor league contract.
+2021-04-14,San Francisco Giants placed LF LaMonte Wade Jr on the 10-day injured list. Left oblique strain.
+2021-04-14,San Francisco Giants recalled RF Steven Duggar from Giants Alternate Training Site.
+2021-04-14,Philadelphia Phillies placed CF Adam Haseley on the restricted list.
+2021-04-14,Philadelphia Phillies recalled CF Mickey Moniak from Phillies Alternate Training Site.
+2021-04-14,Cincinnati Reds claimed LHP Phillip Diehl off waivers from Colorado Rockies.
+2021-04-14,Cincinnati Reds optioned LHP Phillip Diehl to Reds Alternate Training Site.
+2021-04-14,Cincinnati Reds transferred RHP Michael Lorenzen from the 10-day injured list to the 60-day injured list. Right shoulder strain.
+2021-04-14,Atlanta Braves recalled CF Guillermo Heredia from Braves Alternate Training Site.
+2021-04-14,Atlanta Braves recalled LHP Tucker Davidson from Braves Alternate Training Site.
+2021-04-14,Atlanta Braves placed CF Cristian Pache on the 10-day injured list. Strained left groin.
+2021-04-14,Philadelphia Phillies optioned RHP Spencer Howard to Phillies Alternate Training Site.
+2021-04-14,Atlanta Braves placed LHP Max Fried on the 10-day injured list. Strained right hamstring.
+2021-04-14,Houston Astros placed 2B Robel Garcia on the 10-day injured list.
+2021-04-14,Houston Astros placed OF Yordan Alvarez on the 10-day injured list.
+2021-04-14,Houston Astros placed 3B Alex Bregman on the 10-day injured list.
+2021-04-14,Houston Astros placed C Martin Maldonado on the 10-day injured list.
+2021-04-14,Houston Astros recalled 3B Abraham Toro from Astros Alternate Training Site.
+2021-04-14,Houston Astros selected the contract of CF Ronnie Dawson from Astros Alternate Training Site.
+2021-04-14,Houston Astros selected the contract of SS Alex De Goti from Astros Alternate Training Site.
+2021-04-14,Chicago White Sox recalled RHP Zack Burdi from White Sox Alternate Training Site.
+2021-04-14,Minnesota Twins optioned LHP Brandon Waddell to Twins Alternate Training Site.
+2021-04-14,Houston Astros recalled C Garrett Stubbs from Astros Alternate Training Site.
+2021-04-14,Baltimore Orioles recalled RHP Travis Lakins Sr. from Orioles Alternate Training Site.
+2021-04-14,"Baltimore Orioles placed RHP Mac Sceroler on the 10-day injured list retroactive to April 13, 2021. Right shoulder tendinits."
+2021-04-14,New York Mets optioned LHP Stephen Tarpley to Mets Alternate Training Site.
+2021-04-14,Chicago White Sox placed RHP Dylan Cease on the 10-day injured list.
+2021-04-14,Minnesota Twins activated 3B Josh Donaldson from the 10-day injured list.
+2021-04-14,San Diego Padres activated RHP Dan Altavilla from the 10-day injured list.
+2021-04-14,San Diego Padres optioned RHP Nabil Crismatt to Padres Alternate Training Site.
+2021-04-14,San Diego Padres activated RHP Pierce Johnson from the 10-day injured list.
+2021-04-14,San Diego Padres placed RHP Taylor Williams on the 10-day injured list.
+2021-04-14,Washington Nationals sent C Jonathan Lucroy outright to Nationals Alternate Training Site.
+2021-04-14,Toronto Blue Jays selected the contract of RHP Anthony Castro.
+2021-04-14,Tampa Bay Rays recalled LHP Josh Fleming.
+2021-04-14,Philadelphia Phillies recalled CF Mickey Moniak.
+2021-04-14,Minnesota Twins selected the contract of SS JT Riddle.
+2021-04-14,Chicago White Sox recalled RHP Zack Burdi.
+2021-04-14,Atlanta Braves recalled CF Guillermo Heredia.
+2021-04-14,Baltimore Orioles recalled RHP Travis Lakins Sr..
+2021-04-14,Atlanta Braves recalled LHP Tucker Davidson.
+2021-04-14,San Francisco Giants recalled RF Steven Duggar.
+2021-04-14,Milwaukee Brewers recalled CF Tyrone Taylor.
+2021-04-14,Houston Astros selected the contract of CF Ronnie Dawson.
+2021-04-14,Houston Astros selected the contract of SS Alex De Goti.
+2021-04-14,Houston Astros recalled 3B Abraham Toro.
+2021-04-14,Houston Astros recalled 1B Taylor Jones.
+2021-04-14,Houston Astros recalled C Garrett Stubbs.
+2021-04-14,Chicago Cubs selected the contract of RHP Shelby Miller.
+2021-04-14,Chicago White Sox recalled Zack Burdi.
+2021-04-14,San Francisco Giants recalled Steven Duggar.
+2021-04-14,Philadelphia Phillies recalled Mickey Moniak.
+2021-04-14,Chicago White Sox signed free agent RHP Vincenzo Aiello to a minor league contract.
+2021-04-14,Chicago White Sox signed free agent RHP Gabriel Rodriguez to a minor league contract.
+2021-04-14,San Francisco Giants placed CF LaMonte Wade Jr on the 10-day injured list. Left oblique strain.
+2021-04-14,Milwaukee Brewers recalled Tyrone Taylor.
+2021-04-14,Milwaukee Brewers placed LF Christian Yelich on the 10-day injured list. Lower back strain.
+2021-04-15,New York Yankees optioned RHP Albert Abreu to Yankees Alternate Training Site.
+2021-04-15,Boston Red Sox optioned RHP Eduard Bazardo to Red Sox Alternate Training Site.
+2021-04-15,Los Angeles Angels optioned 2B Jack Mayfield to Angels Alternate Training Site.
+2021-04-15,Minnesota Twins optioned RF Alex Kirilloff to Twins Alternate Training Site.
+2021-04-15,Baltimore Orioles recalled Cole Sulser from Orioles Alternate Training Site.
+2021-04-15,Minnesota Twins recalled RHP Shaun Anderson from Twins Alternate Training Site.
+2021-04-15,Minnesota Twins optioned RHP Cody Stashak to Twins Alternate Training Site.
+2021-04-15,Seattle Mariners selected the contract of Robert Dugger from Mariners Alternate Training Site.
+2021-04-15,Chicago White Sox activated SS Tim Anderson from the 10-day injured list.
+2021-04-15,Chicago White Sox designated OF Nick Williams for assignment.
+2021-04-15,St. Louis Cardinals optioned CF Lane Thomas to Cardinals Alternate Training Site.
+2021-04-15,St. Louis Cardinals selected the contract of CF Scott Hurst from Cardinals Alternate Training Site.
+2021-04-15,Detroit Tigers placed RF Nomar Mazara on the 10-day injured list. Left abdominal strain.
+2021-04-15,Detroit Tigers recalled RHP Joe Jimenez from Tigers Alternate Training Site.
+2021-04-15,Toronto Blue Jays recalled RHP Joel Payamps from Blue Jays Alternate Training Site.
+2021-04-15,St. Louis Cardinals transferred RHP Dakota Hudson from the 10-day injured list to the 60-day injured list. Right elbow injury.
+2021-04-15,Toronto Blue Jays recalled Anthony Kay from Blue Jays Alternate Training Site.
+2021-04-15,"Toronto Blue Jays placed RHP Jordan Romano on the 10-day injured list retroactive to April 14, 2021. Right ulnar neuritis."
+2021-04-15,"Toronto Blue Jays placed RHP Ross Stripling on the 10-day injured list retroactive to April 12, 2021. Right forearm flexor strain."
+2021-04-15,St. Louis Cardinals selected the contract of CF Scott Hurst.
+2021-04-15,Colorado Rockies signed free agent LHP Chris Rusin to a minor league contract.
+2021-04-15,Detroit Tigers signed free agent C Juan Centeno to a minor league contract.
+2021-04-15,New York Mets signed free agent OF Mason Williams to a minor league contract.
+2021-04-15,Atlanta Braves signed free agent LHP Dylan Lee to a minor league contract.
+2021-04-16,Baltimore Orioles optioned RHP Cole Sulser to Orioles Alternate Training Site.
+2021-04-16,Minnesota Twins optioned RHP Shaun Anderson to Twins Alternate Training Site.
+2021-04-16,Atlanta Braves optioned LHP Tucker Davidson to Braves Alternate Training Site.
+2021-04-16,Seattle Mariners optioned RHP Robert Dugger to Mariners Alternate Training Site.
+2021-04-16,2B Ildemaro Vargas returned to Cubs Alternate Training Site from Chicago Cubs.
+2021-04-16,"Atlanta Braves placed LHP Drew Smyly on the 10-day injured list retroactive to April 13, 2021. Left forearm inflammation."
+2021-04-16,Atlanta Braves recalled 3B Johan Camargo from Braves Alternate Training Site.
+2021-04-16,Atlanta Braves recalled RHP Kyle Wright from Braves Alternate Training Site.
+2021-04-16,Chicago Cubs activated 3B Matt Duffy from the 10-day injured list.
+2021-04-16,New York Yankees recalled Michael King from Yankees Alternate Training Site.
+2021-04-16,Detroit Tigers optioned RHP Rony Garcia to Erie SeaWolves.
+2021-04-16,Minnesota Twins recalled Lewis Thorpe from Twins Alternate Training Site.
+2021-04-16,"San Francisco Giants placed RHP Johnny Cueto on the 10-day injured list retroactive to April 15, 2021. Grade 1 Latissimus Strain."
+2021-04-16,San Francisco Giants recalled RHP Camilo Doval from Giants Alternate Training Site.
+2021-04-16,"Cincinnati Reds placed RF Aristides Aquino on the 10-day injured list retroactive to April 14, 2021. Left hamate fracture."
+2021-04-16,Cincinnati Reds recalled Max Schrock from Reds Alternate Training Site.
+2021-04-16,Oakland Athletics recalled 2B Vimael Machin from Athletics Alternate Training Site.
+2021-04-16,Oakland Athletics placed RF Stephen Piscotty on the paternity list.
+2021-04-16,Washington Nationals placed LHP Luis Avilan on the 10-day injured list. Left elbow inflammation.
+2021-04-16,Washington Nationals recalled RHP Kyle McGowin from Nationals Alternate Training Site.
+2021-04-16,Seattle Mariners activated LHP Anthony Misiewicz from the 10-day injured list.
+2021-04-16,Pittsburgh Pirates recalled RHP Sean Poppen from Pirates Alternate Training Site.
+2021-04-16,Pittsburgh Pirates placed RHP Michael Feliz on the 10-day injured list. Cracked nail on right middle finger.
+2021-04-16,San Diego Padres activated SS Fernando Tatis Jr. from the 10-day injured list.
+2021-04-16,Texas Rangers activated LHP Joely Rodriguez from the 10-day injured list.
+2021-04-16,Seattle Mariners transferred LHP James Paxton from the 10-day injured list to the 60-day injured list. Left forearm strain.
+2021-04-16,Seattle Mariners optioned RHP Erik Swanson to Mariners Alternate Training Site.
+2021-04-16,Chicago White Sox activated RHP Dylan Cease from the 10-day injured list.
+2021-04-16,Chicago White Sox optioned RHP Zack Burdi to White Sox Alternate Training Site.
+2021-04-16,Los Angeles Angels designated OF Jon Jay for assignment.
+2021-04-16,Los Angeles Angels selected the contract of OF Scott Schebler from Angels Alternate Training Site.
+2021-04-16,Los Angeles Angels recalled Luis Rengifo from Angels Alternate Training Site.
+2021-04-16,San Diego Padres optioned 2B Tucupita Marcano to Padres Alternate Training Site.
+2021-04-16,Texas Rangers optioned RHP Josh Sborz to Rangers Alternate Training Site.
+2021-04-16,New York Mets sent RHP Franklyn Kilome outright to Mets Alternate Training Site.
+2021-04-16,Washington Nationals signed free agent OF Daniel Palka to a minor league contract.
+2021-04-16,Washington Nationals recalled RHP Kyle McGowin.
+2021-04-16,San Diego Padres selected the contract of RF Tucupita Marcano.
+2021-04-16,Atlanta Braves recalled 2B Johan Camargo.
+2021-04-16,Los Angeles Angels selected the contract of CF Scott Schebler.
+2021-04-17,Arizona Diamondbacks designated RHP Jeremy Beasley for assignment.
+2021-04-17,Chicago Cubs activated RHP Brandon Workman from the 10-day injured list.
+2021-04-17,Cleveland Indians recalled LHP Sam Hentges from Indians Alternate Training Site.
+2021-04-17,New York Yankees optioned RHP Michael King to Yankees Alternate Training Site.
+2021-04-17,New York Yankees recalled RHP Brooks Kriske from Yankees Alternate Training Site.
+2021-04-17,Kansas City Royals recalled LHP Richard Lovelady from Royals Alternate Training Site.
+2021-04-17,Toronto Blue Jays recalled Santiago Espinal from Blue Jays Alternate Training Site.
+2021-04-17,Kansas City Royals traded CF Nick Heath to Arizona Diamondbacks for RHP Eduardo Herrera.
+2021-04-17,Chicago Cubs activated RHP Dan Winkler from the 10-day injured list.
+2021-04-17,RHP Pedro Strop returned to Cubs Alternate Training Site from Chicago Cubs.
+2021-04-17,Cleveland Indians optioned OF Ben Gamel to Indians Alternate Training Site.
+2021-04-17,Atlanta Braves optioned RHP Kyle Wright to Braves Alternate Training Site.
+2021-04-17,Atlanta Braves recalled RHP Bryse Wilson from Braves Alternate Training Site.
+2021-04-17,Atlanta Braves selected the contract of Sean Kazmar Jr. from Braves Alternate Training Site.
+2021-04-17,Atlanta Braves placed CF Ender Inciarte on the 10-day injured list. Strained left hamstring.
+2021-04-17,Atlanta Braves placed LHP Sean Newcomb on the 10-day injured list.
+2021-04-17,Atlanta Braves selected the contract of LHP Jesse Biddle from Braves Alternate Training Site.
+2021-04-17,Tampa Bay Rays optioned RHP Chris Mazza to Rays Alternate Training Site.
+2021-04-17,Tampa Bay Rays activated CF Kevin Kiermaier from the 10-day injured list.
+2021-04-17,St. Louis Cardinals optioned RHP Kodi Whitley to Cardinals Alternate Training Site.
+2021-04-17,St. Louis Cardinals activated LHP Kwang Hyun Kim from the 10-day injured list.
+2021-04-17,Cincinnati Reds designated RHP Cam Bedrosian for assignment.
+2021-04-17,Cincinnati Reds activated RHP Sonny Gray from the 10-day injured list.
+2021-04-17,Chicago Cubs optioned LHP Justin Steele to Cubs Alternate Training Site.
+2021-04-17,Colorado Rockies recalled Lucas Gilbreath from Rockies Alternate Training Site.
+2021-04-17,Cincinnati Reds placed 2B Alex Blandino on the 10-day injured list.
+2021-04-17,Cincinnati Reds recalled Mark Payton from Reds Alternate Training Site.
+2021-04-17,Texas Rangers activated 2B Brock Holt from the 10-day injured list.
+2021-04-17,New York Mets activated 3B J.D. Davis from the 10-day injured list.
+2021-04-17,Minnesota Twins optioned LHP Lewis Thorpe to Twins Alternate Training Site.
+2021-04-17,Minnesota Twins recalled LHP Devin Smeltzer from Twins Alternate Training Site.
+2021-04-17,Texas Rangers activated LF Willie Calhoun from the 10-day injured list.
+2021-04-17,New York Mets recalled Stephen Tarpley from Mets Alternate Training Site.
+2021-04-17,New York Mets optioned SS Jose Peraza to Mets Alternate Training Site.
+2021-04-17,Texas Rangers optioned LHP Wes Benjamin to Rangers Alternate Training Site.
+2021-04-17,Texas Rangers optioned SS Anderson Tejeda to Rangers Alternate Training Site.
+2021-04-17,San Diego Padres placed RHP Dan Altavilla on the 10-day injured list.
+2021-04-17,"Milwaukee Brewers placed RF Christian Yelich on the 10-day injured list retroactive to April 14, 2021. Lower back strain."
+2021-04-17,Milwaukee Brewers recalled RHP Eric Yardley from Brewers Alternate Training Site.
+2021-04-17,Los Angeles Dodgers recalled Alex Vesia from Dodgers Alternate Training Site.
+2021-04-17,Los Angeles Dodgers optioned 1B Matt Beaty to Dodgers Alternate Training Site.
+2021-04-17,Houston Astros placed LHP Blake Taylor on the 10-day injured list. Right ankle sprain.
+2021-04-17,Houston Astros recalled Peter Solomon from Astros Alternate Training Site.
+2021-04-17,San Diego Padres selected the contract of LHP Nick Ramirez from Padres Alternate Training Site.
+2021-04-17,San Diego Padres transferred LHP Matt Strahm from the 10-day injured list to the 60-day injured list. Right patellar tendon repair.
+2021-04-17,Chicago White Sox sent OF Nick Williams outright to White Sox Alternate Training Site.
+2021-04-17,Chicago Cubs sent C Tony Wolters outright to Cubs Alternate Training Site.
+2021-04-17,Atlanta Braves signed free agent RHP Jesse Chavez to a minor league contract.
+2021-04-17,Kansas City Royals signed free agent C Gabriel Silva to a minor league contract.
+2021-04-17,Colorado Rockies signed free agent LHP Wilker Ruiz to a minor league contract.
+2021-04-17,Texas Rangers recalled 3B Anderson Tejeda.
+2021-04-17,Cleveland Indians selected the contract of CF Ben Gamel.
+2021-04-17,Texas Rangers activated 3B Brock Holt from the 10-day injured list.
+2021-04-18,Baltimore Orioles optioned RHP Dean Kremer to Orioles Alternate Training Site.
+2021-04-18,Boston Red Sox recalled RHP Tanner Houck from Red Sox Alternate Training Site.
+2021-04-18,San Francisco Giants activated LHP Alex Wood from the 10-day injured list.
+2021-04-18,Colorado Rockies optioned LHP Lucas Gilbreath to Rockies Alternate Training Site.
+2021-04-18,Washington Nationals selected the contract of RHP Paolo Espino from Nationals Alternate Training Site.
+2021-04-18,Washington Nationals recalled RHP Ryne Harper from Nationals Alternate Training Site.
+2021-04-18,"Washington Nationals placed RHP Stephen Strasburg on the 10-day injured list retroactive to April 15, 2021. Right shoulder inflammation."
+2021-04-18,Washington Nationals placed RHP Wander Suero on the 10-day injured list. Left oblique strain.
+2021-04-18,Pittsburgh Pirates optioned RHP Cody Ponce to Pirates Alternate Training Site.
+2021-04-18,Arizona Diamondbacks recalled RHP J.B. Bukauskas from Diamondbacks Alternate Training Site.
+2021-04-18,Chicago White Sox recalled Jonathan Stiever from White Sox Alternate Training Site.
+2021-04-18,Tampa Bay Rays placed RHP Collin McHugh on the 10-day injured list. Low back strain.
+2021-04-18,Tampa Bay Rays recalled Chris Mazza from Rays Alternate Training Site.
+2021-04-18,Toronto Blue Jays optioned 2B Santiago Espinal to Blue Jays Alternate Training Site.
+2021-04-18,Los Angeles Dodgers activated RHP Brusdar Graterol from the 10-day injured list.
+2021-04-18,Kansas City Royals optioned LHP Richard Lovelady to Royals Alternate Training Site.
+2021-04-18,Arizona Diamondbacks placed LF Tim Locastro on the 10-day injured list. Dislocated left little finger.
+2021-04-18,Arizona Diamondbacks designated RHP Anthony Swarzak for assignment.
+2021-04-18,Baltimore Orioles recalled RHP Cole Sulser from Orioles Alternate Training Site.
+2021-04-18,New York Mets optioned Stephen Tarpley to Mets Alternate Training Site.
+2021-04-18,San Francisco Giants recalled C Chadwick Tromp from Giants Alternate Training Site.
+2021-04-18,San Francisco Giants placed LHP Jake McGee on the 10-day injured list.
+2021-04-18,San Francisco Giants placed RHP Logan Webb on the 10-day injured list.
+2021-04-18,San Francisco Giants optioned RF Steven Duggar to Giants Alternate Training Site.
+2021-04-18,San Francisco Giants recalled Steven Duggar from Giants Alternate Training Site.
+2021-04-18,Los Angeles Dodgers recalled 3B Sheldon Neuse from Dodgers Alternate Training Site.
+2021-04-18,Los Angeles Dodgers optioned LHP Alex Vesia to Dodgers Alternate Training Site.
+2021-04-18,Chicago White Sox recalled RHP Zack Burdi from White Sox Alternate Training Site.
+2021-04-18,"Chicago White Sox placed RHP Lance Lynn on the 10-day injured list retroactive to April 17, 2021. Strained right trapezius."
+2021-04-18,"Los Angeles Dodgers placed 2B Gavin Lux on the 10-day injured list retroactive to April 16, 2021. Right wrist soreness."
+2021-04-18,Los Angeles Dodgers designated RHP Ashton Goudeau for assignment.
+2021-04-18,OF Jay Bruce retired.
+2021-04-18,Colorado Rockies claimed RHP Ashton Goudeau off waivers from Los Angeles Dodgers.
+2021-04-18,Colorado Rockies optioned RHP Ashton Goudeau to Rockies Alternate Training Site.
+2021-04-18,Philadelphia Phillies signed free agent LHP Rob Kaminsky to a minor league contract.
+2021-04-18,Washington Nationals selected the contract of RHP Paolo Espino.
+2021-04-18,Los Angeles Dodgers recalled 2B Sheldon Neuse.
+2021-04-18,Arizona Diamondbacks placed CF Tim Locastro on the 10-day injured list. Dislocated left little finger.
+2021-04-18,Miami Marlins signed free agent RHP Jose Mesa Jr. to a minor league contract.
+2021-04-19,Chicago White Sox optioned RHP Jonathan Stiever to White Sox Alternate Training Site.
+2021-04-19,Boston Red Sox optioned RHP Tanner Houck to Red Sox Alternate Training Site.
+2021-04-19,Philadelphia Phillies recalled Cristopher Sanchez from Phillies Alternate Training Site.
+2021-04-19,Philadelphia Phillies recalled LHP Damon Jones from Phillies Alternate Training Site.
+2021-04-19,Philadelphia Phillies recalled SS Nick Maton from Phillies Alternate Training Site.
+2021-04-19,Philadelphia Phillies placed 2B Ronald Torreyes on the 10-day injured list.
+2021-04-19,Cincinnati Reds sent RHP Cam Bedrosian outright to Reds Alternate Training Site.
+2021-04-19,Philadelphia Phillies placed LHP Jose Alvarado on the 10-day injured list.
+2021-04-19,Philadelphia Phillies placed LHP Matt Moore on the 10-day injured list.
+2021-04-19,San Francisco Giants recalled Sam Selman from Giants Alternate Training Site.
+2021-04-19,San Francisco Giants optioned RF Steven Duggar to Giants Alternate Training Site.
+2021-04-19,San Francisco Giants optioned C Chadwick Tromp to Giants Alternate Training Site.
+2021-04-19,San Francisco Giants selected the contract of RHP Trevor Gott from Giants Alternate Training Site.
+2021-04-19,Oakland Athletics activated RF Stephen Piscotty from the paternity list.
+2021-04-19,Oakland Athletics designated CF Ka'ai Tom for assignment.
+2021-04-19,Colorado Rockies signed free agent RHP Rayan Gonzalez to a minor league contract.
+2021-04-19,Philadelphia Phillies recalled 2B Nick Maton.
+2021-04-19,San Francisco Giants recalled CF Steven Duggar.
+2021-04-19,Philadelphia Phillies placed SS Ronald Torreyes on the 10-day injured list.
+2021-04-20,RF Nick Castellanos roster status changed by Cincinnati Reds.
+2021-04-20,Seattle Mariners optioned CF Braden Bishop to Mariners Alternate Training Site.
+2021-04-20,New York Yankees recalled 1B Mike Ford from Yankees Alternate Training Site.
+2021-04-20,Baltimore Orioles optioned CF Ryan McKenna to Orioles Alternate Training Site.
+2021-04-20,Baltimore Orioles activated RF Austin Hays from the 10-day injured list.
+2021-04-20,Seattle Mariners activated CF Kyle Lewis from the 10-day injured list.
+2021-04-20,Oakland Athletics activated LHP Reymin Guduan from the 10-day injured list.
+2021-04-20,Miami Marlins recalled CF Lewis Brinson from Marlins Alternate Training Site.
+2021-04-20,"Miami Marlins placed CF Starling Marte on the 10-day injured list retroactive to April 19, 2021. Left non-displaced rib fracture."
+2021-04-20,Washington Nationals recalled RHP Steven Fuentes from Nationals Alternate Training Site.
+2021-04-20,Washington Nationals optioned RHP Ryne Harper to Nationals Alternate Training Site.
+2021-04-20,San Francisco Giants optioned LHP Sam Selman to Giants Alternate Training Site.
+2021-04-20,San Francisco Giants activated LHP Jake McGee from the 10-day injured list.
+2021-04-20,San Francisco Giants designated RHP Trevor Gott for assignment.
+2021-04-20,San Francisco Giants activated RHP Logan Webb from the 10-day injured list.
+2021-04-20,Minnesota Twins recalled 2B Travis Blankenhorn from Twins Alternate Training Site.
+2021-04-20,Minnesota Twins placed RF Kyle Garlick on the 10-day injured list.
+2021-04-20,Minnesota Twins placed RF Max Kepler on the 10-day injured list.
+2021-04-20,Minnesota Twins placed LHP Caleb Thielbar on the 10-day injured list.
+2021-04-20,Minnesota Twins activated OF Brent Rooker from the 10-day injured list.
+2021-04-20,Minnesota Twins recalled Lewis Thorpe from Twins Alternate Training Site.
+2021-04-20,Minnesota Twins selected the contract of Luke Farrell from Twins Alternate Training Site.
+2021-04-20,Philadelphia Phillies optioned LHP Damon Jones to Phillies Alternate Training Site.
+2021-04-20,Philadelphia Phillies recalled RHP Ramon Rosso from Phillies Alternate Training Site.
+2021-04-20,Chicago White Sox selected the contract of Alex McRae from White Sox Alternate Training Site.
+2021-04-20,Chicago White Sox optioned RHP Zack Burdi to White Sox Alternate Training Site.
+2021-04-20,Philadelphia Phillies optioned Cristopher Sanchez to Phillies Alternate Training Site.
+2021-04-20,Philadelphia Phillies recalled LHP Bailey Falter from Phillies Alternate Training Site.
+2021-04-20,"Cincinnati Reds placed 2B Mike Moustakas on the 10-day injured list retroactive to April 17, 2021."
+2021-04-20,Cincinnati Reds activated 2B Alex Blandino from the 10-day injured list.
+2021-04-20,"Tampa Bay Rays placed LHP Cody Reed on the 10-day injured list retroactive to April 17, 2021. Left thumb weakness."
+2021-04-20,"Toronto Blue Jays placed RHP T.J. Zeuch on the 10-day injured list retroactive to April 19, 2021. Right shoulder tendinitis."
+2021-04-20,Toronto Blue Jays recalled 2B Santiago Espinal from Blue Jays Alternate Training Site.
+2021-04-20,Washington Nationals recalled LF Yadiel Hernandez from Nationals Alternate Training Site.
+2021-04-20,CF Ronnie Dawson returned to Astros Alternate Training Site from Houston Astros.
+2021-04-20,Tampa Bay Rays recalled RHP Brent Honeywell Jr. from Rays Alternate Training Site.
+2021-04-20,Washington Nationals placed LF Juan Soto on the 10-day injured list.
+2021-04-20,Houston Astros activated OF Yordan Alvarez from the 10-day injured list.
+2021-04-20,Houston Astros activated 3B Alex Bregman from the 10-day injured list.
+2021-04-20,Houston Astros activated 2B Robel Garcia from the 10-day injured list.
+2021-04-20,Houston Astros activated C Martin Maldonado from the 10-day injured list.
+2021-04-20,Taylor Jones roster status changed by Houston Astros.
+2021-04-20,SS Alex De Goti returned to Astros Alternate Training Site from Houston Astros.
+2021-04-20,Houston Astros optioned C Garrett Stubbs to Astros Alternate Training Site.
+2021-04-20,Miami Marlins reassigned RF Jesus Sanchez to the minor leagues.
+2021-04-20,Miami Marlins optioned RF Jesus Sanchez to Marlins Alternate Training Site.
+2021-04-20,Washington Nationals recalled RHP Steven Fuentes.
+2021-04-20,Washington Nationals recalled LF Yadiel Hernandez.
+2021-04-20,Colorado Rockies signed free agent RHP Noah Gotsis to a minor league contract.
+2021-04-20,Colorado Rockies signed free agent LHP Austin Kitchen to a minor league contract.
+2021-04-20,Baltimore Orioles activated LF Austin Hays from the 10-day injured list.
+2021-04-20,Toronto Blue Jays recalled 3B Santiago Espinal.
+2021-04-20,Minnesota Twins activated RF Brent Rooker from the 10-day injured list.
+2021-04-20,Washington Nationals placed RF Juan Soto on the 10-day injured list. Left shoulder strain.
+2021-04-20,Minnesota Twins placed LF Kyle Garlick on the 10-day injured list.
+2021-04-20,Washington Nationals recalled RF Yadiel Hernandez.
+2021-04-20,Seattle Mariners recalled LF Braden Bishop.
+2021-04-20,Cincinnati Reds activated 3B Alex Blandino from the 10-day injured list.
+2021-04-21,Detroit Tigers designated 1B Renato Nunez for assignment.
+2021-04-21,Detroit Tigers recalled Zack Short from Tigers Alternate Training Site.
+2021-04-21,Milwaukee Brewers signed free agent IF Dee Strange-Gordon to a minor league contract.
+2021-04-21,Miami Marlins placed C Jorge Alfaro on the 10-day injured list. Left hamstring strain.
+2021-04-21,Philadelphia Phillies optioned RHP Ramon Rosso to Phillies Alternate Training Site.
+2021-04-21,Baltimore Orioles placed LF Anthony Santander on the 10-day injured list. Left ankle sprain.
+2021-04-21,Baltimore Orioles recalled Ryan McKenna from Orioles Alternate Training Site.
+2021-04-21,Miami Marlins selected the contract of C Sandy Leon from Marlins Alternate Training Site.
+2021-04-21,Miami Marlins optioned RHP Nick Neidert to Marlins Alternate Training Site.
+2021-04-21,Philadelphia Phillies placed SS Jean Segura on the 10-day injured list. Right quad strain.
+2021-04-21,Philadelphia Phillies recalled 3B Scott Kingery from Phillies Alternate Training Site.
+2021-04-21,Philadelphia Phillies recalled RHP Spencer Howard from Phillies Alternate Training Site.
+2021-04-21,Oakland Athletics optioned RHP Jordan Weems to Athletics Alternate Training Site.
+2021-04-21,Minnesota Twins placed SS JT Riddle on the 10-day injured list.
+2021-04-21,Pittsburgh Pirates designated CF Anthony Alford for assignment.
+2021-04-21,Detroit Tigers optioned RHP Joe Jimenez to Tigers Alternate Training Site.
+2021-04-21,Minnesota Twins selected the contract of Tomas Telis from Twins Alternate Training Site.
+2021-04-21,Minnesota Twins optioned LHP Lewis Thorpe to Twins Alternate Training Site.
+2021-04-21,Pittsburgh Pirates recalled Rodolfo Castro from Pirates Alternate Training Site.
+2021-04-21,Pittsburgh Pirates claimed CF Ka'ai Tom off waivers from Oakland Athletics.
+2021-04-21,San Diego Padres activated RHP Dinelson Lamet from the 10-day injured list.
+2021-04-21,San Diego Padres optioned LHP Nick Ramirez to Padres Alternate Training Site.
+2021-04-21,Detroit Tigers recalled Derek Hill from Tigers Alternate Training Site.
+2021-04-21,Detroit Tigers activated RHP Spencer Turnbull from the 10-day injured list.
+2021-04-21,Pittsburgh Pirates recalled RHP Miguel Yajure from Pirates Alternate Training Site.
+2021-04-21,Cincinnati Reds recalled RHP Art Warren from Reds Alternate Training Site.
+2021-04-21,Arizona Diamondbacks recalled RHP Humberto Castellanos from Diamondbacks Alternate Training Site.
+2021-04-21,Atlanta Braves signed free agent RHP Jose Rodriguez to a minor league contract.
+2021-04-21,Miami Marlins signed free agent 2B Alejandro Salazar to a minor league contract.
+2021-04-21,Minnesota Twins signed free agent RF Leobaldo Cabrera to a minor league contract.
+2021-04-21,Atlanta Braves signed free agent RHP Will Latcham to a minor league contract.
+2021-04-21,Miami Marlins signed free agent RHP Jason Alexander to a minor league contract.
+2021-04-21,Miami Marlins signed free agent SS Connor Justus to a minor league contract.
+2021-04-21,Philadelphia Phillies recalled Scott Kingery.
+2021-04-21,Baltimore Orioles placed RF Anthony Santander on the 10-day injured list. Left ankle sprain.
+2021-04-21,Minnesota Twins placed 1B Miguel Sano on the 10-day injured list. Right hamstring strain.
+2021-04-21,Philadelphia Phillies placed 2B Jean Segura on the 10-day injured list. Right quad strain.
+2021-04-22,Cincinnati Reds activated RF Nick Castellanos.
+2021-04-22,Cincinnati Reds optioned RHP Art Warren to Reds Alternate Training Site.
+2021-04-22,Detroit Tigers optioned CF Derek Hill to Tigers Alternate Training Site.
+2021-04-22,Houston Astros optioned 1B Taylor Jones to Astros Alternate Training Site.
+2021-04-22,Arizona Diamondbacks optioned RHP Humberto Castellanos to Diamondbacks Alternate Training Site.
+2021-04-22,New York Yankees optioned RHP Brooks Kriske to Yankees Alternate Training Site.
+2021-04-22,Pittsburgh Pirates optioned RHP Miguel Yajure to Pirates Alternate Training Site.
+2021-04-22,New York Yankees recalled RHP Domingo German from Yankees Alternate Training Site.
+2021-04-22,Pittsburgh Pirates designated CF Dustin Fowler for assignment.
+2021-04-22,Pittsburgh Pirates selected the contract of 3B Todd Frazier from Pirates Alternate Training Site.
+2021-04-22,"Pittsburgh Pirates placed RHP Chad Kuhl on the 10-day injured list retroactive to April 19, 2021. Right shoulder discomfort."
+2021-04-22,Arizona Diamondbacks traded RHP Jeremy Beasley to Toronto Blue Jays for cash.
+2021-04-22,Pittsburgh Pirates recalled RHP Geoff Hartlieb from Pirates Alternate Training Site.
+2021-04-22,Milwaukee Brewers activated C Jacob Nottingham from the 10-day injured list.
+2021-04-22,Milwaukee Brewers designated C Jacob Nottingham for assignment.
+2021-04-22,Houston Astros optioned RHP Peter Solomon to Astros Alternate Training Site.
+2021-04-22,Houston Astros recalled RHP Cristian Javier from Astros Alternate Training Site.
+2021-04-22,Toronto Blue Jays optioned RHP Jeremy Beasley to Blue Jays Alternate Training Site.
+2021-04-22,Toronto Blue Jays transferred RHP Thomas Hatch from the 10-day injured list to the 60-day injured list. Right elbow impingement.
+2021-04-22,New York Mets optioned RHP Trevor Hildenberger to Mets Alternate Training Site.
+2021-04-22,San Francisco Giants placed SS Donovan Solano on the 10-day injured list. Right calf strain.
+2021-04-22,San Diego Padres placed RHP Dinelson Lamet on the 10-day injured list. Right forearm inflammation.
+2021-04-22,New York Mets recalled RHP Sean Reid-Foley from Mets Alternate Training Site.
+2021-04-22,San Francisco Giants recalled RHP Gregory Santos from Giants Alternate Training Site.
+2021-04-22,"Chicago Cubs placed LF Joc Pederson on the 10-day injured list retroactive to April 21, 2021. Left wrist tendinitis."
+2021-04-22,Chicago Cubs recalled SS Nico Hoerner from Cubs Alternate Training Site.
+2021-04-22,San Diego Padres placed RHP Keone Kela on the 10-day injured list. Right shoulder inflammation.
+2021-04-22,Miami Marlins recalled RHP Jordan Holloway from Marlins Alternate Training Site.
+2021-04-22,San Diego Padres recalled Nabil Crismatt from Padres Alternate Training Site.
+2021-04-22,San Diego Padres recalled LHP Nick Ramirez from Padres Alternate Training Site.
+2021-04-22,Miami Marlins placed 3B Brian Anderson on the 10-day injured list. Left oblique strain.
+2021-04-22,Miami Marlins recalled SS Jose Devers from Marlins Alternate Training Site.
+2021-04-22,Kansas City Royals optioned CF Kyle Isbel to Royals Alternate Training Site.
+2021-04-22,Tampa Bay Rays optioned RHP Chris Mazza to Rays Alternate Training Site.
+2021-04-22,New York Mets recalled RHP Sean Reid-Foley.
+2021-04-22,New York Mets recalled Sean Reid-Foley.
+2021-04-22,Miami Marlins recalled 2B Jose Devers.
+2021-04-22,Kansas City Royals selected the contract of RF Kyle Isbel.
+2021-04-22,Los Angeles Dodgers placed RF Zach McKinstry on the 10-day injured list. Right oblique strain.
+2021-04-22,Milwaukee Brewers placed 2B Jace Peterson on the 10-day injured list. Left thumb cryotherapy.
+2021-04-22,San Francisco Giants placed 2B Donovan Solano on the 10-day injured list. Right calf strain.
+2021-04-22,Pittsburgh Pirates selected the contract of 1B Todd Frazier.
+2021-04-23,Cincinnati Reds optioned LHP Cionel Perez to Reds Alternate Training Site.
+2021-04-23,Cincinnati Reds optioned 2B Max Schrock to Reds Alternate Training Site.
+2021-04-23,Chicago White Sox activated CF Billy Hamilton from the 10-day injured list.
+2021-04-23,Chicago Cubs recalled Kyle Ryan from Cubs Alternate Training Site.
+2021-04-23,"Chicago Cubs placed RHP Shelby Miller on the 10-day injured list retroactive to April 22, 2021. Low back strain."
+2021-04-23,Milwaukee Brewers activated 2B Kolten Wong from the 10-day injured list.
+2021-04-23,"Milwaukee Brewers placed 3B Jace Peterson on the 10-day injured list retroactive to April 22, 2021. Left thumb cryotherapy."
+2021-04-23,Chicago White Sox optioned RHP Alex McRae to White Sox Alternate Training Site.
+2021-04-23,Minnesota Twins optioned 2B Travis Blankenhorn to Twins Alternate Training Site.
+2021-04-23,"Minnesota Twins placed 3B Miguel Sano on the 10-day injured list retroactive to April 21, 2021. Right hamstring strain."
+2021-04-23,C Tomas Telis returned to Twins Alternate Training Site from Minnesota Twins.
+2021-04-23,Minnesota Twins recalled RF Alex Kirilloff from Twins Alternate Training Site.
+2021-04-23,Minnesota Twins selected the contract of 2B Tzu-Wei Lin from Twins Alternate Training Site.
+2021-04-23,Minnesota Twins recalled Nick Gordon from Twins Alternate Training Site.
+2021-04-23,Arizona Diamondbacks optioned RHP Riley Smith to Diamondbacks Alternate Training Site.
+2021-04-23,Kansas City Royals recalled 1B Ryan O'Hearn from Royals Alternate Training Site.
+2021-04-23,Arizona Diamondbacks recalled RHP Matt Peacock from Diamondbacks Alternate Training Site.
+2021-04-23,Cincinnati Reds recalled RHP Ryan Hendrix from Reds Alternate Training Site.
+2021-04-23,Tampa Bay Rays placed RHP Diego Castillo on the 10-day injured list.
+2021-04-23,Cincinnati Reds selected the contract of RHP Heath Hembree from Reds Alternate Training Site.
+2021-04-23,Tampa Bay Rays recalled RHP Chris Mazza from Rays Alternate Training Site.
+2021-04-23,Tampa Bay Rays selected the contract of RHP Louis Head from Rays Alternate Training Site.
+2021-04-23,Houston Astros recalled LHP Kent Emanuel from Astros Alternate Training Site.
+2021-04-23,Houston Astros optioned RHP Nivaldo Rodriguez to Astros Alternate Training Site.
+2021-04-23,"St. Louis Cardinals placed 1B John Nogowski on the 10-day injured list retroactive to April 20, 2021. Left hand bone bruise."
+2021-04-23,St. Louis Cardinals activated LF Tyler O'Neill from the 10-day injured list.
+2021-04-23,New York Mets recalled Stephen Tarpley from Mets Alternate Training Site.
+2021-04-23,New York Mets optioned LHP Joey Lucchesi to Mets Alternate Training Site.
+2021-04-23,Toronto Blue Jays optioned LHP Anthony Kay to Blue Jays Alternate Training Site.
+2021-04-23,Toronto Blue Jays activated RHP Tyler Chatwood from the 10-day injured list.
+2021-04-23,Kansas City Royals placed RHP Greg Holland on the 10-day injured list.
+2021-04-23,Toronto Blue Jays recalled Travis Bergen from Blue Jays Alternate Training Site.
+2021-04-23,RHP Tanner Roark roster status changed by Toronto Blue Jays.
+2021-04-23,Kansas City Royals selected the contract of RHP Brad Brach from Royals Alternate Training Site.
+2021-04-23,Los Angeles Dodgers recalled DJ Peters from Dodgers Alternate Training Site.
+2021-04-23,"Los Angeles Dodgers placed 2B Zach McKinstry on the 10-day injured list retroactive to April 22, 2021. Right oblique strain."
+2021-04-23,Los Angeles Angels sent OF Jon Jay outright to Angels Alternate Training Site.
+2021-04-23,Arizona Diamondbacks released RHP Anthony Swarzak.
+2021-04-23,Pittsburgh Pirates placed CF Ka'ai Tom on the 10-day injured list.
+2021-04-23,San Diego Padres transferred LHP Adrian Morejon from the 10-day injured list to the 60-day injured list. Left forearm strain.
+2021-04-23,San Diego Padres selected the contract of RHP Aaron Northcraft from Padres Alternate Training Site.
+2021-04-23,San Diego Padres optioned RHP Nabil Crismatt to Padres Alternate Training Site.
+2021-04-23,Minnesota Twins recalled LF Alex Kirilloff.
+2021-04-23,Minnesota Twins selected the contract of LF Tzu-Wei Lin.
+2021-04-23,Cincinnati Reds recalled 3B Max Schrock.
+2021-04-23,Chicago White Sox activated LF Billy Hamilton from the 10-day injured list.
+2021-04-23,Cleveland Indians signed free agent RHP Matt Koch to a minor league contract.
+2021-04-23,Philadelphia Phillies signed free agent 2B Greg Garcia to a minor league contract.
+2021-04-24,Atlanta Braves optioned SS Sean Kazmar Jr. to Braves Alternate Training Site.
+2021-04-24,Atlanta Braves activated LHP Drew Smyly from the 10-day injured list.
+2021-04-24,Atlanta Braves optioned CF Cristian Pache to Braves Alternate Training Site.
+2021-04-24,RHP Luke Farrell returned to Twins Alternate Training Site from Minnesota Twins.
+2021-04-24,Chicago Cubs optioned LHP Kyle Ryan to Cubs Alternate Training Site.
+2021-04-24,Chicago Cubs recalled RHP Adbert Alzolay from Cubs Alternate Training Site.
+2021-04-24,Minnesota Twins activated LHP Caleb Thielbar from the 10-day injured list.
+2021-04-24,Kansas City Royals activated RHP Greg Holland from the 10-day injured list.
+2021-04-24,Kansas City Royals designated RHP Brad Brach for assignment.
+2021-04-24,Milwaukee Brewers recalled Phil Bickford from Brewers Alternate Training Site.
+2021-04-24,Milwaukee Brewers placed RHP Josh Lindblom on the 10-day injured list. Right knee effusion.
+2021-04-24,Milwaukee Brewers placed LHP Brett Anderson on the 10-day injured list. Strained right hamstring.
+2021-04-24,Milwaukee Brewers recalled Corey Ray from Brewers Alternate Training Site.
+2021-04-24,Texas Rangers optioned LHP Brock Burke to Frisco RoughRiders.
+2021-04-24,Texas Rangers optioned RHP Demarcus Evans to Frisco RoughRiders.
+2021-04-24,Tampa Bay Rays designated C Deivy Grullon for assignment.
+2021-04-24,Toronto Blue Jays optioned LHP Travis Bergen to Blue Jays Alternate Training Site.
+2021-04-24,Toronto Blue Jays optioned CF Josh Palacios to Blue Jays Alternate Training Site.
+2021-04-24,Toronto Blue Jays recalled RHP Ty Tice from Blue Jays Alternate Training Site.
+2021-04-24,Toronto Blue Jays activated RHP Jordan Romano from the 10-day injured list.
+2021-04-24,Tampa Bay Rays placed RHP Chris Mazza on the 10-day injured list. Right shoulder inflammation.
+2021-04-24,Tampa Bay Rays activated RHP Diego Castillo from the 10-day injured list.
+2021-04-24,Los Angeles Angels designated 2B Jack Mayfield for assignment.
+2021-04-24,New York Mets transferred RHP Dellin Betances from the 10-day injured list to the 60-day injured list. Right shoulder impingement.
+2021-04-24,Los Angeles Dodgers placed RHP Corey Knebel on the 10-day injured list.
+2021-04-24,Los Angeles Dodgers recalled Garrett Cleavinger from Dodgers Alternate Training Site.
+2021-04-24,San Francisco Giants recalled Jason Vosler from Giants Alternate Training Site.
+2021-04-24,Los Angeles Dodgers placed RHP Dennis Santana on the 10-day injured list.
+2021-04-24,Los Angeles Dodgers recalled 1B Matt Beaty from Dodgers Alternate Training Site.
+2021-04-24,San Francisco Giants placed LHP Jarlin Garcia on the 10-day injured list. Left groin strain.
+2021-04-24,Tampa Bay Rays optioned RHP Brent Honeywell Jr. to Rays Alternate Training Site.
+2021-04-24,Cincinnati Reds activated RHP Vladimir Gutierrez from the restricted list.
+2021-04-24,Toronto Blue Jays recalled RF Josh Palacios.
+2021-04-24,Los Angeles Dodgers recalled LF Matt Beaty.
+2021-04-25,Detroit Tigers optioned SS Zack Short to Tigers Alternate Training Site.
+2021-04-25,Detroit Tigers activated 1B Miguel Cabrera from the 10-day injured list.
+2021-04-25,Arizona Diamondbacks recalled Riley Smith from Diamondbacks Alternate Training Site.
+2021-04-25,Atlanta Braves recalled William Contreras from Braves Alternate Training Site.
+2021-04-25,Cincinnati Reds optioned RHP Vladimir Gutierrez to Reds Alternate Training Site.
+2021-04-25,Cincinnati Reds transferred RF Aristides Aquino from the 10-day injured list to the 60-day injured list. Left hamate fracture.
+2021-04-25,Tampa Bay Rays recalled RHP Luis Patino from Rays Alternate Training Site.
+2021-04-25,Minnesota Twins recalled RHP Cody Stashak from Twins Alternate Training Site.
+2021-04-25,Minnesota Twins optioned LHP Devin Smeltzer to Twins Alternate Training Site.
+2021-04-25,Baltimore Orioles recalled LHP Zac Lowther from Orioles Alternate Training Site.
+2021-04-25,Baltimore Orioles designated LHP Wade LeBlanc for assignment.
+2021-04-25,RHP Ryan Tepera roster status changed by Chicago Cubs.
+2021-04-25,Chicago White Sox recalled RHP Jonathan Stiever from White Sox Alternate Training Site.
+2021-04-25,Chicago White Sox optioned SS Danny Mendick to White Sox Alternate Training Site.
+2021-04-25,"Texas Rangers placed RHP Kyle Cody on the 10-day injured list retroactive to April 24, 2021. Right shoulder inflammation."
+2021-04-25,Texas Rangers recalled RHP Josh Sborz from Rangers Alternate Training Site.
+2021-04-25,Pittsburgh Pirates optioned RHP Geoff Hartlieb to Pirates Alternate Training Site.
+2021-04-25,Pittsburgh Pirates recalled RHP Wil Crowe from Pirates Alternate Training Site.
+2021-04-25,New York Yankees optioned 3B Miguel Andujar to Yankees Alternate Training Site.
+2021-04-25,New York Mets activated RHP Drew Smith from the 10-day injured list.
+2021-04-25,New York Mets optioned RHP Drew Smith to Mets Alternate Training Site.
+2021-04-25,Pittsburgh Pirates sent CF Anthony Alford outright to Pirates Alternate Training Site.
+2021-04-25,Detroit Tigers recalled 2B Zack Short.
+2021-04-26,New York Yankees optioned RHP Nick Nelson to Yankees Alternate Training Site.
+2021-04-26,Chicago White Sox optioned RHP Jonathan Stiever to White Sox Alternate Training Site.
+2021-04-26,Arizona Diamondbacks optioned RHP Riley Smith to Diamondbacks Alternate Training Site.
+2021-04-26,Atlanta Braves optioned C William Contreras to Braves Alternate Training Site.
+2021-04-26,Chicago Cubs optioned RHP Jason Adam to Cubs Alternate Training Site.
+2021-04-26,New York Yankees recalled RHP Deivi Garcia from Yankees Alternate Training Site.
+2021-04-26,Oakland Athletics optioned LHP Adam Kolarek to Athletics Alternate Training Site.
+2021-04-26,Detroit Tigers sent 1B Renato Nunez outright to Tigers Alternate Training Site.
+2021-04-26,Oakland Athletics activated RHP Mike Fiers from the 10-day injured list.
+2021-04-26,Minnesota Twins activated SS Andrelton Simmons from the 10-day injured list.
+2021-04-26,Cleveland Indians placed RHP Nick Wittgren on the paternity list.
+2021-04-26,Minnesota Twins optioned SS Nick Gordon to Twins Alternate Training Site.
+2021-04-26,Baltimore Orioles optioned LHP Zac Lowther to Orioles Alternate Training Site.
+2021-04-26,Baltimore Orioles selected the contract of RHP Jay Flaa from Orioles Alternate Training Site.
+2021-04-26,Cleveland Indians recalled LHP Kyle Nelson from Indians Alternate Training Site.
+2021-04-26,Chicago Cubs transferred RHP Rowan Wick from the 10-day injured list to the 60-day injured list. Left oblique strain.
+2021-04-26,Philadelphia Phillies activated LHP Matt Moore from the 10-day injured list.
+2021-04-26,Philadelphia Phillies selected the contract of CF Odubel Herrera from Phillies Alternate Training Site.
+2021-04-26,Philadelphia Phillies optioned LHP Bailey Falter to Phillies Alternate Training Site.
+2021-04-26,Philadelphia Phillies optioned RHP Spencer Howard to Phillies Alternate Training Site.
+2021-04-26,Philadelphia Phillies optioned CF Mickey Moniak to Phillies Alternate Training Site.
+2021-04-26,Seattle Mariners placed LHP Nick Margevicius on the 10-day injured list. Left shoulder inflammation.
+2021-04-26,Seattle Mariners recalled RHP Robert Dugger from Mariners Alternate Training Site.
+2021-04-26,Texas Rangers selected the contract of LHP Hyeon-Jong Yang from Rangers Alternate Training Site.
+2021-04-26,Texas Rangers optioned CF Leody Taveras to Rangers Alternate Training Site.
+2021-04-26,Texas Rangers transferred 1B Ronald Guzman from the 10-day injured list to the 60-day injured list. Right knee meniscus tear.
+2021-04-26,Philadelphia Phillies activated LHP Jose Alvarado from the 10-day injured list.
+2021-04-26,Houston Astros activated 2B Jose Altuve from the 10-day injured list.
+2021-04-26,"Houston Astros placed RHP Jake Odorizzi on the 10-day injured list retroactive to April 25, 2021. Right pronator muscle strain."
+2021-04-26,Houston Astros recalled RHP Peter Solomon from Astros Alternate Training Site.
+2021-04-26,Milwaukee Brewers selected the contract of LF Pablo Reyes from Brewers Alternate Training Site.
+2021-04-26,Milwaukee Brewers optioned CF Corey Ray to Brewers Alternate Training Site.
+2021-04-26,Chicago Cubs placed C Austin Romine on the 10-day injured list.
+2021-04-26,Chicago Cubs selected the contract of C Tony Wolters from Cubs Alternate Training Site.
+2021-04-26,Chicago Cubs transferred RHP Jonathan Holder from the 10-day injured list to the 60-day injured list. Right shoulder strain.
+2021-04-26,Los Angeles Angels optioned 2B Luis Rengifo to Angels Alternate Training Site.
+2021-04-26,Houston Astros transferred RHP Pedro Baez from the 10-day injured list to the 60-day injured list. Right shoulder soreness.
+2021-04-26,Houston Astros optioned 3B Abraham Toro to Astros Alternate Training Site.
+2021-04-26,Los Angeles Dodgers placed LHP David Price on the 10-day injured list. Right hamstring strain.
+2021-04-26,Chicago Cubs selected the contract of RHP Trevor Megill from Cubs Alternate Training Site.
+2021-04-26,Los Angeles Angels activated 3B Anthony Rendon from the 10-day injured list.
+2021-04-26,Los Angeles Dodgers activated 2B Gavin Lux from the 10-day injured list.
+2021-04-26,Los Angeles Dodgers activated RHP Dennis Santana from the 10-day injured list.
+2021-04-26,Los Angeles Dodgers recalled RHP Mitch White from Dodgers Alternate Training Site.
+2021-04-26,Los Angeles Dodgers optioned LHP Garrett Cleavinger to Dodgers Alternate Training Site.
+2021-04-26,Los Angeles Dodgers optioned CF DJ Peters to Dodgers Alternate Training Site.
+2021-04-26,Kansas City Royals sent RHP Brad Brach outright to Royals Alternate Training Site.
+2021-04-26,RHP Brad Brach elected free agency.
+2021-04-26,Pittsburgh Pirates optioned 2B Rodolfo Castro to Pirates Alternate Training Site.
+2021-04-26,New York Mets optioned LHP Stephen Tarpley to Mets Alternate Training Site.
+2021-04-26,Pittsburgh Pirates activated RF Ka'ai Tom from the 10-day injured list.
+2021-04-26,Los Angeles Angels recalled 3B Luis Rengifo.
+2021-04-26,Milwaukee Brewers selected the contract of 3B Pablo Reyes.
+2021-04-26,Milwaukee Brewers placed SS Daniel Robertson on the 7-day injured list. Concussion.
+2021-04-26,Philadelphia Phillies signed free agent OF Ryan Cordell to a minor league contract.
+2021-04-27,Chicago Cubs activated RHP Ryan Tepera.
+2021-04-27,New York Yankees optioned RHP Deivi Garcia to Yankees Alternate Training Site.
+2021-04-27,Baltimore Orioles optioned CF Ryan McKenna to Orioles Alternate Training Site.
+2021-04-27,New York Yankees recalled Michael King from Yankees Alternate Training Site.
+2021-04-27,Baltimore Orioles recalled 3B Pat Valaika from Orioles Alternate Training Site.
+2021-04-27,New York Mets recalled Jose Peraza from Mets Alternate Training Site.
+2021-04-27,Chicago White Sox recalled CF Luis Gonzalez from White Sox Alternate Training Site.
+2021-04-27,Kansas City Royals optioned RHP Jake Newberry to Royals Alternate Training Site.
+2021-04-27,Kansas City Royals recalled 1B Ryan McBroom from Royals Alternate Training Site.
+2021-04-27,Seattle Mariners claimed 2B Jack Mayfield off waivers from Los Angeles Angels.
+2021-04-27,Seattle Mariners optioned 2B Jack Mayfield to Mariners Alternate Training Site.
+2021-04-27,Seattle Mariners transferred 2B Shed Long Jr. from the 10-day injured list to the 60-day injured list. Recovery from right shin stress fracture.
+2021-04-27,Kansas City Royals signed free agent RHP Mike Shawaryn to a minor league contract.
+2021-04-27,Milwaukee Brewers recalled C Luke Maile from Brewers Alternate Training Site.
+2021-04-27,Milwaukee Brewers recalled Patrick Weigel from Brewers Alternate Training Site.
+2021-04-27,Milwaukee Brewers optioned RHP Phil Bickford to Brewers Alternate Training Site.
+2021-04-27,Milwaukee Brewers placed C Manny Pina on the 10-day injured list. Fractured left great toe.
+2021-04-27,Chicago White Sox recalled RHP Alex McRae from White Sox Alternate Training Site.
+2021-04-27,Chicago White Sox placed CF Luis Robert on the 10-day injured list.
+2021-04-27,St. Louis Cardinals recalled C Ali Sanchez from Cardinals Alternate Training Site.
+2021-04-27,St. Louis Cardinals placed C Yadier Molina on the 10-day injured list. Right foot tendon strain.
+2021-04-27,Milwaukee Brewers recalled Corey Ray from Brewers Alternate Training Site.
+2021-04-27,Cincinnati Reds activated 2B Mike Moustakas from the 10-day injured list.
+2021-04-27,"Milwaukee Brewers placed 3B Daniel Robertson on the 7-day injured list retroactive to April 26, 2021. Concussion."
+2021-04-27,New York Yankees traded Mike Tauchman to San Francisco Giants for LHP Wandy Peralta and Player To Be Named Later.
+2021-04-27,New York Yankees recalled SS Tyler Wade from Yankees Alternate Training Site.
+2021-04-27,San Francisco Giants recalled Skye Bolt from Giants Alternate Training Site.
+2021-04-27,Cincinnati Reds optioned LF Mark Payton to Reds Alternate Training Site.
+2021-04-27,San Francisco Giants sent RHP Trevor Gott outright to Giants Alternate Training Site.
+2021-04-27,Los Angeles Dodgers placed RHP Mitch White on the 10-day injured list.
+2021-04-27,Los Angeles Dodgers placed LHP Victor Gonzalez on the 10-day injured list.
+2021-04-27,Los Angeles Dodgers recalled CF DJ Peters from Dodgers Alternate Training Site.
+2021-04-27,Los Angeles Dodgers recalled LHP Garrett Cleavinger from Dodgers Alternate Training Site.
+2021-04-27,Baltimore Orioles recalled RF Ryan McKenna.
+2021-04-27,traded to San Francisco Giants for .
+2021-04-27,New York Yankees recalled 2B Tyler Wade.
+2021-04-27,Baltimore Orioles recalled 2B Pat Valaika.
+2021-04-27,Seattle Mariners claimed 3B Jack Mayfield off waivers from .
+2021-04-27,Cincinnati Reds recalled RF Mark Payton.
+2021-04-27,Cincinnati Reds activated 3B Mike Moustakas from the 10-day injured list.
+2021-04-27,Colorado Rockies signed free agent RHP Michael Baird to a minor league contract.
+2021-04-27,Colorado Rockies signed free agent RHP Jared Biddy to a minor league contract.
+2021-04-27,Colorado Rockies signed free agent RHP Zachary Hammer to a minor league contract.
+2021-04-27,Colorado Rockies signed free agent LHP Zach Matson to a minor league contract.
+2021-04-27,Colorado Rockies signed free agent RHP Alex Moore to a minor league contract.
+2021-04-27,New York Mets signed free agent RHP Bradley Roney to a minor league contract.
+2021-04-27,Miami Marlins signed free agent RHP Josh A. Smith to a minor league contract.
+2021-04-27,Minnesota Twins signed free agent RHP Jonathan Cheshire to a minor league contract.
+2021-04-28,Baltimore Orioles optioned RHP Jay Flaa to Orioles Alternate Training Site.
+2021-04-28,Cleveland Indians activated RHP Nick Wittgren from the paternity list.
+2021-04-28,Cleveland Indians designated LHP Oliver Perez for assignment.
+2021-04-28,Milwaukee Brewers selected the contract of RHP Zack Godley from Brewers Alternate Training Site.
+2021-04-28,Milwaukee Brewers optioned CF Corey Ray to Brewers Alternate Training Site.
+2021-04-28,Milwaukee Brewers designated RHP Phil Bickford for assignment.
+2021-04-28,Miami Marlins recalled 2B Isan Diaz from Marlins Alternate Training Site.
+2021-04-28,Miami Marlins placed 2B Jazz Chisholm Jr. on the 10-day injured list. Left hamstring strain.
+2021-04-28,Los Angeles Dodgers optioned CF DJ Peters to Dodgers Alternate Training Site.
+2021-04-28,"Toronto Blue Jays placed LHP Hyun Jin Ryu on the 10-day injured list retroactive to April 26, 2021. Right glute strain."
+2021-04-28,Los Angeles Dodgers activated LHP Victor Gonzalez from the 10-day injured list.
+2021-04-28,New York Mets claimed C Deivy Grullon off waivers from Tampa Bay Rays.
+2021-04-28,New York Mets optioned C Deivy Grullon to Mets Alternate Training Site.
+2021-04-28,Baltimore Orioles recalled RHP Dean Kremer from Orioles Alternate Training Site.
+2021-04-28,Seattle Mariners claimed C Jacob Nottingham off waivers from Milwaukee Brewers.
+2021-04-28,Seattle Mariners designated RHP Brandon Brennan for assignment.
+2021-04-28,Toronto Blue Jays activated OF George Springer from the 10-day injured list.
+2021-04-28,Toronto Blue Jays optioned 1B Rowdy Tellez to Blue Jays Alternate Training Site.
+2021-04-28,Toronto Blue Jays recalled LHP Travis Bergen from Blue Jays Alternate Training Site.
+2021-04-28,Los Angeles Angels activated C Max Stassi from the 10-day injured list.
+2021-04-28,Los Angeles Angels optioned C Anthony Bemboom to Angels Alternate Training Site.
+2021-04-28,Arizona Diamondbacks placed RF Kole Calhoun on the 10-day injured list. Left hamstring strain.
+2021-04-28,St. Louis Cardinals optioned CF Scott Hurst to Cardinals Alternate Training Site.
+2021-04-28,San Francisco Giants activated LF Mike Tauchman.
+2021-04-28,Houston Astros placed OF Yordan Alvarez on the 10-day injured list.
+2021-04-28,"San Francisco Giants placed RF Mike Yastrzemski on the 10-day injured list retroactive to April 26, 2021. Leftoblique strain"
+2021-04-28,"Arizona Diamondbacks placed RHP Taylor Widener on the 10-day injured list retroactive to April 25, 2021. Right groin strain."
+2021-04-28,Arizona Diamondbacks recalled C Daulton Varsho from Diamondbacks Alternate Training Site.
+2021-04-28,Arizona Diamondbacks recalled RHP Riley Smith from Diamondbacks Alternate Training Site.
+2021-04-28,St. Louis Cardinals recalled Johan Oviedo from Cardinals Alternate Training Site.
+2021-04-28,San Francisco Giants optioned RHP Gregory Santos to Giants Alternate Training Site.
+2021-04-28,Houston Astros recalled 1B Taylor Jones from Astros Alternate Training Site.
+2021-04-28,San Francisco Giants recalled LHP Sam Selman from Giants Alternate Training Site.
+2021-04-28,San Diego Padres activated C Austin Nola from the 10-day injured list.
+2021-04-28,San Diego Padres optioned C Luis Campusano to Padres Alternate Training Site.
+2021-04-28,Pittsburgh Pirates sent CF Dustin Fowler outright to Pirates Alternate Training Site.
+2021-04-28,Atlanta Braves signed free agent RHP Trevor Kelley to a minor league contract.
+2021-04-28,Toronto Blue Jays signed free agent 2B Christian Colon to a minor league contract.
+2021-04-28,Toronto Blue Jays signed free agent 2B Dilson Herrera to a minor league contract.
+2021-04-29,Tampa Bay Rays optioned RHP Louis Head to Rays Alternate Training Site.
+2021-04-29,Cleveland Indians optioned LHP Logan Allen to Indians Alternate Training Site.
+2021-04-29,New York Yankees optioned RHP Michael King to Yankees Alternate Training Site.
+2021-04-29,Miami Marlins optioned LHP Daniel Castano to Marlins Alternate Training Site.
+2021-04-29,Tampa Bay Rays recalled LHP Shane McClanahan from Rays Alternate Training Site.
+2021-04-29,Tampa Bay Rays placed 1B Yoshi Tsutsugo on the 10-day injured list.
+2021-04-29,Tampa Bay Rays recalled RHP Louis Head from Rays Alternate Training Site.
+2021-04-29,St. Louis Cardinals recalled RHP Seth Elledge from Cardinals Alternate Training Site.
+2021-04-29,St. Louis Cardinals optioned RHP Johan Oviedo to Cardinals Alternate Training Site.
+2021-04-29,New York Yankees activated LHP Wandy Peralta.
+2021-04-29,Milwaukee Brewers recalled RHP Alec Bettinger from Brewers Alternate Training Site.
+2021-04-29,Milwaukee Brewers recalled LHP Eric Lauer from Brewers Alternate Training Site.
+2021-04-29,Milwaukee Brewers placed RHP Corbin Burnes on the 10-day injured list.
+2021-04-29,Seattle Mariners recalled RHP Domingo Tapia from Mariners Alternate Training Site.
+2021-04-29,"Seattle Mariners placed LHP Marco Gonzales on the 10-day injured list retroactive to April 28, 2021. Left forearm strain."
+2021-04-29,Detroit Tigers recalled Derek Hill from Tigers Alternate Training Site.
+2021-04-29,Chicago White Sox recalled Danny Mendick from White Sox Alternate Training Site.
+2021-04-29,Chicago White Sox activated CF Luis Robert from the 10-day injured list.
+2021-04-29,"Chicago White Sox placed LHP Garrett Crochet on the 10-day injured list retroactive to April 26, 2021. Upper back strain."
+2021-04-29,Chicago Cubs designated RHP Brandon Workman for assignment.
+2021-04-29,Chicago Cubs recalled LHP Justin Steele from Cubs Alternate Training Site.
+2021-04-29,Milwaukee Brewers placed RHP Zack Godley on the 10-day injured list. Right index finger contusion.
+2021-04-29,Arizona Diamondbacks activated RHP Chris Devenski from the restricted list.
+2021-04-29,Arizona Diamondbacks optioned RHP Yoan Lopez to Diamondbacks Alternate Training Site.
+2021-04-29,Colorado Rockies recalled RHP Justin Lawrence from Rockies Alternate Training Site.
+2021-04-29,Colorado Rockies placed RHP Yency Almonte on the 10-day injured list. Right hand contusion.
+2021-04-29,Milwaukee Brewers activated RHP Alec Bettinger.
+2021-04-29,Los Angeles Dodgers optioned LF Luke Raley to Dodgers Alternate Training Site.
+2021-04-29,Los Angeles Dodgers activated RHP Mitch White from the 10-day injured list.
+2021-04-29,Toronto Blue Jays optioned RHP Nate Pearson to Blue Jays Alternate Training Site.
+2021-04-29,Colorado Rockies optioned CF Sam Hilliard to Rockies Alternate Training Site.
+2021-04-29,Colorado Rockies selected the contract of 1B Matt Adams from Rockies Alternate Training Site.
+2021-04-29,Colorado Rockies designated RHP Ashton Goudeau for assignment.
+2021-04-29,Milwaukee Brewers optioned RHP Patrick Weigel to Brewers Alternate Training Site.
+2021-04-29,Milwaukee Brewers selected the contract of RHP Jordan Zimmermann from Brewers Alternate Training Site.
+2021-04-29,RF Adam Eaton roster status changed by Chicago White Sox.
+2021-04-29,Los Angeles Dodgers recalled RHP Edwin Uceta from Dodgers Alternate Training Site.
+2021-04-29,"Los Angeles Dodgers placed RHP Brusdar Graterol on the 10-day injured list retroactive to April 27, 2021. Right forearm tightness."
+2021-04-29,Baltimore Orioles sent LHP Wade LeBlanc outright to Orioles Alternate Training Site.
+2021-04-29,Minnesota Twins activated RF Max Kepler from the 10-day injured list.
+2021-04-29,Minnesota Twins activated LF Kyle Garlick from the 10-day injured list.
+2021-04-29,Minnesota Twins activated SS JT Riddle from the 10-day injured list.
+2021-04-29,Minnesota Twins designated SS JT Riddle for assignment.
+2021-04-29,Minnesota Twins designated LF Tzu-Wei Lin for assignment.
+2021-04-29,Minnesota Twins optioned RF Brent Rooker to Twins Alternate Training Site.
+2021-04-29,Minnesota Twins optioned C Ryan Jeffers to Twins Alternate Training Site.
+2021-04-29,New York Mets optioned SS Jose Peraza to Mets Alternate Training Site.
+2021-04-29,San Francisco Giants optioned RF Skye Bolt to Giants Alternate Training Site.
+2021-04-29,Toronto Blue Jays signed free agent C Rodrigo Vigil to a minor league contract.
+2021-04-30,Tampa Bay Rays optioned RHP Louis Head to Rays Alternate Training Site.
+2021-04-30,St. Louis Cardinals placed LHP Andrew Miller on the 10-day injured list. Right foot toe blister.
+2021-04-30,St. Louis Cardinals placed RHP Adam Wainwright on the 10-day injured list.
+2021-04-30,St. Louis Cardinals activated CF Harrison Bader from the 10-day injured list.
+2021-04-30,St. Louis Cardinals recalled RHP Kodi Whitley from Cardinals Alternate Training Site.
+2021-04-30,Chicago White Sox activated RF Adam Eaton.
+2021-04-30,SS Danny Mendick returned to White Sox Alternate Training Site from Chicago White Sox.
+2021-04-30,CF Derek Hill returned to Tigers Alternate Training Site from Detroit Tigers.
+2021-04-30,Cincinnati Reds signed free agent RHP Tim Adleman to a minor league contract.
+2021-04-30,Atlanta Braves optioned 2B Johan Camargo to Braves Alternate Training Site.
+2021-04-30,Atlanta Braves optioned RHP Bryse Wilson to Braves Alternate Training Site.
+2021-04-30,Atlanta Braves activated LHP Sean Newcomb from the 10-day injured list.
+2021-04-30,Tampa Bay Rays recalled RHP Louis Head from Rays Alternate Training Site.
+2021-04-30,Atlanta Braves recalled RHP Edgar Santana from Braves Alternate Training Site.
+2021-04-30,Atlanta Braves transferred RHP Mike Soroka from the 10-day injured list to the 60-day injured list. Recovery from right Achilles tendon surgery.
+2021-04-30,Seattle Mariners placed 1B Evan White on the bereavement list.
+2021-04-30,Seattle Mariners activated C Jacob Nottingham.
+2021-04-30,Tampa Bay Rays activated 1B Yoshi Tsutsugo from the 10-day injured list.
+2021-04-30,Tampa Bay Rays placed LHP Rich Hill on the 10-day injured list.
+2021-04-30,New York Mets recalled LHP Daniel Zamora from Mets Alternate Training Site.
+2021-04-30,Washington Nationals activated LHP Jon Lester from the 10-day injured list.
+2021-04-30,Washington Nationals optioned RHP Steven Fuentes to Nationals Alternate Training Site.
+2021-04-30,Washington Nationals transferred LHP Luis Avilan from the 10-day injured list to the 60-day injured list. Left elbow inflammation.
+2021-04-30,Minnesota Twins recalled C Ben Rortvedt from Twins Alternate Training Site.
+2021-04-30,Houston Astros activated RHP Andre Scrubb from the 10-day injured list.
+2021-04-30,Houston Astros optioned RHP Peter Solomon to Astros Alternate Training Site.
+2021-04-30,Philadelphia Phillies placed SS Didi Gregorius on the 10-day injured list.
+2021-04-30,Philadelphia Phillies recalled C Rafael Marchan from Phillies Alternate Training Site.
+2021-04-30,Cleveland Indians selected the contract of RHP Nick Sandlin from Indians Alternate Training Site.
+2021-04-30,Cleveland Indians optioned LHP Logan Allen to Indians Alternate Training Site.
+2021-04-30,Chicago Cubs placed RHP Trevor Megill on the 10-day injured list. Right forearm strain.
+2021-04-30,Chicago Cubs recalled Kyle Ryan from Iowa Cubs.
+2021-04-30,Houston Astros activated OF Yordan Alvarez from the 10-day injured list.
+2021-04-30,Houston Astros optioned 1B Taylor Jones to Astros Alternate Training Site.
+2021-04-30,Toronto Blue Jays activated RF Teoscar Hernandez from the 10-day injured list.
+2021-04-30,Toronto Blue Jays designated RHP Tanner Roark for assignment.
+2021-04-30,Toronto Blue Jays optioned CF Jonathan Davis to Blue Jays Alternate Training Site.
+2021-04-30,Miami Marlins recalled CF Monte Harrison from Marlins Alternate Training Site.
+2021-04-30,St. Louis Cardinals recalled RHP Jake Woodford from Cardinals Alternate Training Site.
+2021-04-30,"St. Louis Cardinals placed RHP Daniel Ponce de Leon on the 10-day injured list retroactive to April 29, 2021. Right shoulder inflammation."
+2021-04-30,Cincinnati Reds placed 2B Jonathan India on the 10-day injured list.
+2021-04-30,Cincinnati Reds recalled LF Mark Payton from Reds Alternate Training Site.
+2021-04-30,San Diego Padres placed RHP Chris Paddack on the 10-day injured list.
+2021-04-30,San Diego Padres selected the contract of RHP Miguel Diaz from Padres Alternate Training Site.
+2021-04-30,New York Mets recalled SS Jose Peraza from Mets Alternate Training Site.
+2021-04-30,"New York Mets placed 3B Luis Guillorme on the 10-day injured list retroactive to April 29, 2021. Right oblique strain."
+2021-04-30,San Francisco Giants recalled RF Steven Duggar from Giants Alternate Training Site.
+2021-04-30,San Francisco Giants optioned 3B Jason Vosler to Giants Alternate Training Site.
+2021-04-30,San Francisco Giants designated RF Skye Bolt for assignment.
+2021-04-30,San Francisco Giants selected the contract of RHP Zack Littell from Giants Alternate Training Site.
+2021-04-30,Toronto Blue Jays optioned RHP T.J. Zeuch to Blue Jays Alternate Training Site.
+2021-04-30,Los Angeles Angels reassigned RF Juan Lagares to the minor leagues.
+2021-04-30,Los Angeles Angels optioned RF Juan Lagares to Angels Alternate Training Site.
+2021-04-30,Toronto Blue Jays reassigned RHP T.J. Zeuch to the minor leagues.
+2021-04-30,Chicago Cubs released RHP Brandon Workman.
+2021-04-30,Milwaukee Brewers signed free agent SS Tyler Friis to a minor league contract.
+2021-05-01,New York Yankees placed RHP Darren O'Day on the 10-day injured list.
+2021-05-01,Tampa Bay Rays optioned RHP Louis Head to Durham Bulls.
+2021-05-01,New York Yankees recalled RHP Michael King from Yankees Alternate Training Site.
+2021-05-01,Kansas City Royals optioned 1B Ryan McBroom to Royals Alternate Training Site.
+2021-05-01,Chicago White Sox activated RHP Lance Lynn from the 10-day injured list.
+2021-05-01,Chicago White Sox optioned CF Luis Gonzalez to White Sox Alternate Training Site.
+2021-05-01,Kansas City Royals recalled LHP Kris Bubic from Omaha Storm Chasers.
+2021-05-01,Tampa Bay Rays optioned RHP Trevor Richards to Durham Bulls.
+2021-05-01,Tampa Bay Rays activated LHP Rich Hill from the 10-day injured list.
+2021-05-01,Tampa Bay Rays activated LHP Cody Reed from the 10-day injured list.
+2021-05-01,Cleveland Indians placed RF Franmil Reyes on the paternity list.
+2021-05-01,Cleveland Indians recalled RF Daniel Johnson from Indians Alternate Training Site.
+2021-05-01,Chicago Cubs recalled Keegan Thompson from Iowa Cubs.
+2021-05-01,Chicago Cubs optioned LHP Kyle Ryan to Iowa Cubs.
+2021-05-01,Kansas City Royals recalled RHP Jake Newberry from Omaha Storm Chasers.
+2021-05-01,Atlanta Braves recalled CF Cristian Pache from Braves Alternate Training Site.
+2021-05-01,"Atlanta Braves placed CF Guillermo Heredia on the 10-day injured list retroactive to April 30, 2021. Right hamstring inflammation."
+2021-05-01,Milwaukee Brewers placed C Omar Narvaez on the 10-day injured list. Left hamstring strain.
+2021-05-01,Milwaukee Brewers recalled C Mario Feliciano from Brewers Alternate Training Site.
+2021-05-01,Milwaukee Brewers recalled RHP Patrick Weigel from Brewers Alternate Training Site.
+2021-05-01,"Kansas City Royals placed RHP Kyle Zimmer on the 10-day injured list retroactive to April 29, 2021. Left trapezius strain."
+2021-05-01,Los Angeles Dodgers recalled LHP Alex Vesia from Dodgers Alternate Training Site.
+2021-05-01,Los Angeles Dodgers optioned RHP Edwin Uceta to Dodgers Alternate Training Site.
+2021-05-01,Philadelphia Phillies activated SS Didi Gregorius from the 10-day injured list.
+2021-05-01,Philadelphia Phillies optioned C Rafael Marchan to Phillies Alternate Training Site.
+2021-05-01,Philadelphia Phillies recalled Mickey Moniak from Phillies Alternate Training Site.
+2021-05-01,Philadelphia Phillies placed CF Roman Quinn on the 10-day injured list.
+2021-05-01,"Colorado Rockies placed RHP Antonio Senzatela on the 10-day injured list retroactive to April 30, 2021. Right groin strain."
+2021-05-01,Colorado Rockies recalled LHP Lucas Gilbreath from Rockies Alternate Training Site.
+2021-05-01,Seattle Mariners designated C Jacob Nottingham for assignment.
+2021-05-01,Seattle Mariners recalled Wyatt Mills from Tacoma Rainiers.
+2021-05-01,"Milwaukee Brewers placed RHP Eric Yardley on the 10-day injured list retroactive to April 30, 2021. Right shoulder strain."
+2021-05-01,"New York Yankees placed RHP Darren O'Day on the 10-day injured list retroactive to April 30, 2021. Right rotator cuff strain."
+2021-05-01,Los Angeles Dodgers signed free agent RHP Aaron Wilkerson to a minor league contract.
+2021-05-01,Oakland Athletics signed free agent RHP Cam Bedrosian to a minor league contract.
+2021-05-01,Pittsburgh Pirates signed free agent C Christian Bethancourt to a minor league contract.
+2021-05-01,Chicago White Sox signed free agent LHP Zach Muckenhirn to a minor league contract.
+2021-05-01,Cincinnati Reds signed free agent RHP Brad Brach to a minor league contract.
+2021-05-01,Los Angeles Dodgers signed free agent RHP Kevin Quackenbush to a minor league contract.
+2021-05-02,Milwaukee Brewers traded RHP Paxton Schultz to Toronto Blue Jays.
+2021-05-02,Cincinnati Reds activated 2B Jonathan India from the 10-day injured list.
+2021-05-02,Cincinnati Reds optioned LF Mark Payton to Reds Alternate Training Site.
+2021-05-02,Atlanta Braves recalled C William Contreras from Braves Alternate Training Site.
+2021-05-02,Atlanta Braves selected the contract of C Jeff Mathis from Braves Alternate Training Site.
+2021-05-02,Atlanta Braves placed C Alex Jackson on the 10-day injured list. Strained left hamstring.
+2021-05-02,Atlanta Braves placed C Travis d'Arnaud on the 60-day injured list. Left thumb sprain.
+2021-05-02,Milwaukee Brewers optioned C Mario Feliciano to Brewers Alternate Training Site.
+2021-05-02,Milwaukee Brewers recalled RHP Dylan File from Biloxi Shuckers.
+2021-05-02,Milwaukee Brewers placed RHP Dylan File on the 60-day injured list. Right elbow injury.
+2021-05-02,Seattle Mariners traded C Jacob Nottingham to Milwaukee Brewers for cash.
+2021-05-02,Toronto Blue Jays activated RHP Ross Stripling from the 10-day injured list.
+2021-05-02,Toronto Blue Jays recalled C Riley Adams from Blue Jays Alternate Training Site.
+2021-05-02,Toronto Blue Jays placed C Alejandro Kirk on the 10-day injured list. Left flexor strain.
+2021-05-02,Toronto Blue Jays recalled LHP Anthony Kay from Blue Jays Alternate Training Site.
+2021-05-02,Toronto Blue Jays placed RHP Anthony Castro on the 10-day injured list. Right forearm strain.
+2021-05-02,Toronto Blue Jays placed LHP Tommy Milone on the 10-day injured list. Left shoulder inflammation.
+2021-05-02,Los Angeles Dodgers placed RHP Dustin May on the 10-day injured list. Right arm injury.
+2021-05-02,Los Angeles Dodgers selected the contract of LHP Mike Kickham from Dodgers Alternate Training Site.
+2021-05-02,Los Angeles Dodgers transferred RHP Corey Knebel from the 10-day injured list to the 60-day injured list. RIght lat strain.
+2021-05-02,Oakland Athletics recalled RHP Jordan Weems from Athletics Alternate Training Site.
+2021-05-02,Oakland Athletics placed RHP J.B. Wendelken on the 10-day injured list. Strained left oblique.
+2021-05-02,Cincinnati Reds claimed RHP Ashton Goudeau off waivers from Colorado Rockies.
+2021-05-02,Cincinnati Reds designated LHP Phillip Diehl for assignment.
+2021-05-02,Seattle Mariners recalled RHP Erik Swanson from Tacoma Rainiers.
+2021-05-02,"Seattle Mariners placed RHP Casey Sadler on the 10-day injured list retroactive to May 1, 2021. Right shoulder inflammation."
+2021-05-02,Oakland Athletics recalled LHP Adam Kolarek from Athletics Alternate Training Site.
+2021-05-02,Oakland Athletics placed LHP Jesus Luzardo on the 10-day injured list. Left hand fracture.
+2021-05-02,San Diego Padres optioned LHP Nick Ramirez to Padres Alternate Training Site.
+2021-05-02,San Diego Padres activated RHP Keone Kela from the 10-day injured list.
+2021-05-02,Los Angeles Angels recalled RHP James Hoyt from Angels Alternate Training Site.
+2021-05-02,"Los Angeles Angels placed LHP Tony Watson on the 10-day injured list retroactive to April 29, 2021. Left calf strain."
+2021-05-02,Philadelphia Phillies optioned CF Mickey Moniak to Phillies Alternate Training Site.
+2021-05-02,Philadelphia Phillies activated CF Roman Quinn from the 10-day injured list.
+2021-05-02,Cleveland Indians sent LHP Oliver Perez outright to Columbus Clippers.
+2021-05-03,Minnesota Twins recalled LHP Brandon Waddell from Twins Alternate Training Site.
+2021-05-03,Boston Red Sox optioned RHP Brandon Brennan to Worcester Red Sox.
+2021-05-03,Boston Red Sox claimed RHP Brandon Brennan off waivers from Seattle Mariners.
+2021-05-03,Boston Red Sox transferred RHP Ryan Brasier from the 10-day injured list to the 60-day injured list. Left calf strain.
+2021-05-03,Kansas City Royals selected the contract of LHP Daniel Lynch from Omaha Storm Chasers.
+2021-05-03,Arizona Diamondbacks optioned CF Nick Heath to Reno Aces.
+2021-05-03,Arizona Diamondbacks optioned LF Andrew Young to Reno Aces.
+2021-05-03,Arizona Diamondbacks activated CF Tim Locastro from the 10-day injured list.
+2021-05-03,Arizona Diamondbacks activated 1B Christian Walker from the 10-day injured list.
+2021-05-03,Miami Marlins placed RHP Paul Campbell on the restricted list.
+2021-05-03,Kansas City Royals placed LHP Daniel Tillo on the 60-day injured list. Tommy John surgery recovery.
+2021-05-03,St. Louis Cardinals activated RHP Adam Wainwright from the 10-day injured list.
+2021-05-03,St. Louis Cardinals optioned LF Austin Dean to Memphis Redbirds.
+2021-05-03,New York Mets recalled LHP Joey Lucchesi from Mets Alternate Training Site.
+2021-05-03,New York Mets optioned LHP Daniel Zamora to Mets Alternate Training Site.
+2021-05-03,Los Angeles Dodgers claimed RHP Phil Bickford off waivers from Milwaukee Brewers.
+2021-05-03,LHP Jose Alvarado roster status changed by Philadelphia Phillies.
+2021-05-03,Cleveland Indians recalled CF Harold Ramirez from Indians Alternate Training Site.
+2021-05-03,Cleveland Indians activated RF Franmil Reyes from the paternity list.
+2021-05-03,Cleveland Indians optioned RF Daniel Johnson to Indians Alternate Training Site.
+2021-05-03,Cleveland Indians optioned LHP Kyle Nelson to Indians Alternate Training Site.
+2021-05-03,Chicago Cubs optioned RHP Keegan Thompson to Cubs Alternate Training Site.
+2021-05-03,Chicago Cubs activated LF Joc Pederson from the 10-day injured list.
+2021-05-03,Milwaukee Brewers optioned 1B Keston Hiura to Brewers Alternate Training Site.
+2021-05-03,Milwaukee Brewers optioned LF Tyrone Taylor to Brewers Alternate Training Site.
+2021-05-03,Milwaukee Brewers activated LF Christian Yelich from the 10-day injured list.
+2021-05-03,Milwaukee Brewers activated CF Lorenzo Cain from the 10-day injured list.
+2021-05-03,Philadelphia Phillies optioned CF Scott Kingery to Phillies Alternate Training Site.
+2021-05-03,New York Mets recalled RHP Trevor Hildenberger from Mets Alternate Training Site.
+2021-05-03,"New York Mets placed 3B J.D. Davis on the 10-day injured list retroactive to May 2, 2021. Left hand sprain."
+2021-05-03,Philadelphia Phillies recalled LHP Cristopher Sanchez from Phillies Alternate Training Site.
+2021-05-03,Pittsburgh Pirates optioned RHP Sean Poppen to Pirates Alternate Training Site.
+2021-05-03,Pittsburgh Pirates activated RHP Michael Feliz from the 10-day injured list.
+2021-05-03,Kansas City Royals optioned RHP Jake Newberry to Omaha Storm Chasers.
+2021-05-03,San Diego Padres recalled RHP Nabil Crismatt from El Paso Chihuahuas.
+2021-05-03,San Diego Padres optioned RHP Aaron Northcraft to Padres Alternate Training Site.
+2021-05-03,Colorado Rockies recalled CF Sam Hilliard from Albuquerque Isotopes.
+2021-05-03,"Colorado Rockies placed RHP Carlos Estevez on the 10-day injured list retroactive to April 30, 2021. Right middle finger strain."
+2021-05-03,Baltimore Orioles recalled RHP Isaac Mattson from Orioles Alternate Training Site.
+2021-05-03,Kansas City Royals recalled C Sebastian Rivero from Omaha Storm Chasers.
+2021-05-03,Kansas City Royals placed C Cam Gallagher on the 7-day injured list. Concussion.
+2021-05-03,Los Angeles Angels placed RHP Mike Mayers on the 10-day injured list.
+2021-05-03,Los Angeles Angels recalled LHP Patrick Sandoval from Angels Alternate Training Site.
+2021-05-03,Baltimore Orioles optioned LHP Bruce Zimmermann to Orioles Alternate Training Site.
+2021-05-03,Atlanta Braves optioned RHP Nate Jones to Braves Alternate Training Site.
+2021-05-03,Chicago Cubs placed RHP Dan Winkler on the 10-day injured list. Right triceps tendinitis.
+2021-05-03,Seattle Mariners placed 1B Evan White on the 10-day injured list.
+2021-05-03,Toronto Blue Jays released RHP Tanner Roark.
+2021-05-03,Chicago Cubs recalled LHP Kyle Ryan from Iowa Cubs.
+2021-05-03,Los Angeles Dodgers designated LHP Mike Kickham for assignment.
+2021-05-03,Chicago Cubs placed 2B Nico Hoerner on the 10-day injured list. Left forearm strain.
+2021-05-03,Chicago Cubs signed free agent LHP Ryan Kellogg to a minor league contract.
+2021-05-03,Miami Marlins signed free agent C Ricky Aracena to a minor league contract.
+2021-05-03,Philadelphia Phillies activated LHP Jose Alvarado.
+2021-05-04,"Chicago Cubs placed RHP Jake Arrieta on the 10-day injured list retroactive to May 3, 2021. Right thumb abrasion"
+2021-05-04,Chicago Cubs recalled RHP Keegan Thompson from Cubs Alternate Training Site.
+2021-05-04,Chicago Cubs selected the contract of 2B Ildemaro Vargas from Iowa Cubs.
+2021-05-04,Milwaukee Brewers signed free agent 2B Logan Forsythe to a minor league contract.
+2021-05-04,Milwaukee Brewers signed free agent C Christian Kelley to a minor league contract.
+2021-05-04,Milwaukee Brewers signed free agent LHP Wade LeBlanc to a minor league contract.
+2021-05-04,San Francisco Giants recalled LHP Conner Menez from Giants Alternate Training Site.
+2021-05-04,San Francisco Giants recalled 3B Jason Vosler from Giants Alternate Training Site.
+2021-05-04,"San Francisco Giants placed 2B Tommy La Stella on the 10-day injured list retroactive to May 3, 2021. Left hamstring strain."
+2021-05-04,Los Angeles Dodgers recalled C Keibert Ruiz from Dodgers Alternate Training Site.
+2021-05-04,"St. Louis Cardinals placed RHP Jordan Hicks on the 10-day injured list retroactive to May 2, 2021. Right elbow inflammation."
+2021-05-04,St. Louis Cardinals recalled RHP Johan Oviedo from Memphis Redbirds.
+2021-05-04,Miami Marlins selected the contract of LHP Rob Zastryzny from Long Island Ducks.
+2021-05-04,Colorado Rockies recalled RHP Ryan Castellani from Albuquerque Isotopes.
+2021-05-04,Kansas City Royals signed free agent SS Alcides Escobar to a minor league contract.
+2021-05-04,Atlanta Braves recalled SS Sean Kazmar Jr. from Braves Alternate Training Site.
+2021-05-04,Chicago White Sox placed CF Luis Robert on the 10-day injured list. Right hip flexor strain.
+2021-05-04,Chicago White Sox recalled SS Danny Mendick from Charlotte Knights.
+2021-05-04,Detroit Tigers sent RF Nomar Mazara on a rehab assignment to Toledo Mud Hens.
+2021-05-04,New York Yankees sent 1B Luke Voit on a rehab assignment to Scranton/Wilkes-Barre RailRiders.
+2021-05-04,Washington Nationals designated 2B Hernan Perez for assignment.
+2021-05-04,Washington Nationals optioned RHP Kyle McGowin to Rochester Red Wings.
+2021-05-04,Washington Nationals activated RF Juan Soto from the 10-day injured list.
+2021-05-04,Washington Nationals activated RHP Will Harris from the 10-day injured list.
+2021-05-04,Chicago Cubs recalled RHP Kohl Stewart from Iowa Cubs.
+2021-05-04,San Francisco Giants placed RHP Kevin Gausman on the 10-day injured list.
+2021-05-04,San Francisco Giants recalled C Joey Bart from Giants Alternate Training Site.
+2021-05-04,Philadelphia Phillies sent 2B Jean Segura on a rehab assignment to Lehigh Valley IronPigs.
+2021-05-04,Milwaukee Brewers sent RF Derek Fisher on a rehab assignment to Nashville Sounds.
+2021-05-04,Milwaukee Brewers sent 2B Jace Peterson on a rehab assignment to Nashville Sounds.
+2021-05-04,Arizona Diamondbacks placed RHP Merrill Kelly on the 10-day injured list.
+2021-05-04,Philadelphia Phillies sent SS Ronald Torreyes on a rehab assignment to Lehigh Valley IronPigs.
+2021-05-04,Miami Marlins activated 3B Brian Anderson from the 10-day injured list.
+2021-05-04,Miami Marlins optioned CF Monte Harrison to Jacksonville Jumbo Shrimp.
+2021-05-04,Miami Marlins selected the contract of RHP Anthony Bender from Marlins Alternate Training Site.
+2021-05-04,Milwaukee Brewers sent RHP Josh Lindblom on a rehab assignment to Nashville Sounds.
+2021-05-04,Philadelphia Phillies selected the contract of RHP Enyel De Los Santos from Lehigh Valley IronPigs.
+2021-05-04,Philadelphia Phillies optioned LHP Cristopher Sanchez to Lehigh Valley IronPigs.
+2021-05-04,Los Angeles Dodgers recalled LF Luke Raley from Dodgers Alternate Training Site.
+2021-05-04,Cincinnati Reds sent OF Shogo Akiyama on a rehab assignment to Louisville Bats.
+2021-05-04,Milwaukee Brewers recalled LF Tyrone Taylor from Nashville Sounds.
+2021-05-04,Milwaukee Brewers placed LF Christian Yelich on the 10-day injured list. Lower back strain.
+2021-05-04,Seattle Mariners activated 1B Evan White from the 10-day injured list.
+2021-05-04,Seattle Mariners optioned RHP Wyatt Mills to Tacoma Rainiers.
+2021-05-04,Seattle Mariners optioned RHP Domingo Tapia to Tacoma Rainiers.
+2021-05-04,Seattle Mariners recalled LHP Aaron Fletcher from Tacoma Rainiers.
+2021-05-04,Minnesota Twins placed 3B Luis Arraez on the 7-day injured list. Concussion.
+2021-05-04,Minnesota Twins recalled Nick Gordon from St. Paul Saints.
+2021-05-04,San Diego Padres optioned RHP Miguel Diaz to Padres Alternate Training Site.
+2021-05-04,San Diego Padres activated RHP Dinelson Lamet from the 10-day injured list.
+2021-05-04,Arizona Diamondbacks activated RHP Joakim Soria from the 10-day injured list.
+2021-05-04,"Texas Rangers placed 3B Brock Holt on the 10-day injured list retroactive to May 3, 2021. Right hamstring strain."
+2021-05-04,Texas Rangers transferred C Sam Huff from the 10-day injured list to the 60-day injured list. Left hamstring strain.
+2021-05-04,New York Mets recalled Jordan Yamamoto from Mets Alternate Training Site.
+2021-05-04,Oakland Athletics placed C Aramis Garcia on the 10-day injured list. Viral enteritis.
+2021-05-04,Tampa Bay Rays sent 1B Ji-Man Choi on a rehab assignment to Durham Bulls.
+2021-05-04,Texas Rangers selected the contract of 3B Andy Ibanez from Round Rock Express.
+2021-05-04,Los Angeles Angels designated CF Scott Schebler for assignment.
+2021-05-04,Los Angeles Angels selected the contract of 2B Phil Gosselin from Angels Alternate Training Site.
+2021-05-04,New York Mets optioned RHP Sean Reid-Foley to Syracuse Mets.
+2021-05-04,Oakland Athletics recalled C Austin Allen from Las Vegas Aviators.
+2021-05-04,Tampa Bay Rays activated RHP Collin McHugh from the 10-day injured list.
+2021-05-04,Tampa Bay Rays placed RHP Michael Wacha on the 10-day injured list. Right hamstring tightness.
+2021-05-04,Chicago Cubs signed free agent LHP Alex Katz to a minor league contract.
+2021-05-04,Chicago Cubs signed free agent RHP Austin Krzeminski to a minor league contract.
+2021-05-04,Pittsburgh Pirates placed RF Gregory Polanco on the 10-day injured list.
+2021-05-04,Pittsburgh Pirates selected the contract of 3B Hunter Owen from Indianapolis Indians.
+2021-05-04,New York Yankees signed free agent C Josue Gonzalez to a minor league contract.
+2021-05-04,Los Angeles Dodgers signed free agent RHP Austin Bibens-Dirkx to a minor league contract.
+2021-05-04,New York Yankees signed free agent LHP Henry Lalane to a minor league contract.
+2021-05-04,New York Yankees signed free agent RHP Fran Visamon to a minor league contract.
+2021-05-04,Houston Astros signed free agent RHP Ryan Eades to a minor league contract.
+2021-05-05,Colorado Rockies optioned RHP Ryan Castellani to Albuquerque Isotopes.
+2021-05-05,Cincinnati Reds optioned RHP Jose De Leon to Louisville Bats.
+2021-05-05,Cincinnati Reds recalled LHP Cionel Perez from Louisville Bats.
+2021-05-05,Colorado Rockies optioned CF Sam Hilliard to Albuquerque Isotopes.
+2021-05-05,Colorado Rockies recalled RHP Jose Mujica from Albuquerque Isotopes.
+2021-05-05,San Francisco Giants optioned LHP Conner Menez to Sacramento River Cats.
+2021-05-05,Seattle Mariners placed RHP Keynan Middleton on the 10-day injured list. Right biceps strain.
+2021-05-05,Seattle Mariners recalled RHP Wyatt Mills from Tacoma Rainiers.
+2021-05-05,Kansas City Royals selected the contract of RHP Eddie Butler from Southern Maryland Blue Crabs.
+2021-05-05,Minnesota Twins recalled LHP Lewis Thorpe from Twins Alternate Training Site.
+2021-05-05,San Francisco Giants traded RF Skye Bolt to Oakland Athletics for cash.
+2021-05-05,New York Mets recalled RHP Sean Reid-Foley from Syracuse Mets.
+2021-05-05,Minnesota Twins optioned LHP Brandon Waddell to St. Paul Saints.
+2021-05-05,Oakland Athletics optioned RF Skye Bolt to Las Vegas Aviators.
+2021-05-05,Atlanta Braves activated LHP Max Fried from the 10-day injured list.
+2021-05-05,Atlanta Braves optioned LHP Sean Newcomb to Gwinnett Stripers.
+2021-05-05,New York Yankees recalled RHP Albert Abreu from Scranton/Wilkes-Barre RailRiders.
+2021-05-05,New York Yankees placed 2B Rougned Odor on the 10-day injured list. Left knee sprain.
+2021-05-05,Philadelphia Phillies placed LF Matt Joyce on the 10-day injured list. Right calf strain.
+2021-05-05,Philadelphia Phillies placed CF Roman Quinn on the 10-day injured list. Laceration of right index finger.
+2021-05-05,Philadelphia Phillies recalled CF Scott Kingery from Lehigh Valley IronPigs.
+2021-05-05,Philadelphia Phillies recalled CF Mickey Moniak from Lehigh Valley IronPigs.
+2021-05-05,Houston Astros sent RHP Enoli Paredes on a rehab assignment to Corpus Christi Hooks.
+2021-05-05,St. Louis Cardinals recalled LHP Bernardo Flores Jr. from Memphis Redbirds.
+2021-05-05,Minnesota Twins activated 1B Miguel Sano from the 10-day injured list.
+2021-05-05,"Minnesota Twins placed LF Alex Kirilloff on the 10-day injured list retroactive to May 4, 2021. Right wrist sprain."
+2021-05-05,Chicago Cubs optioned RHP Kohl Stewart to Iowa Cubs.
+2021-05-05,Tampa Bay Rays activated RHP Pete Fairbanks from the 10-day injured list.
+2021-05-05,"Tampa Bay Rays placed RHP Diego Castillo on the 10-day injured list retroactive to May 4, 2021. Right groin tightness."
+2021-05-05,Atlanta Braves sent RHP Chris Martin on a rehab assignment to Gwinnett Stripers.
+2021-05-05,Cleveland Indians placed C Roberto Perez on the 10-day injured list. Right ring finger fracture.
+2021-05-05,Cleveland Indians designated CF Ben Gamel for assignment.
+2021-05-05,Cleveland Indians selected the contract of C Rene Rivera from Columbus Clippers.
