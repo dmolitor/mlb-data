@@ -30,11 +30,11 @@ read_transactions <- function(year = "all-years", type = "injuries") {
   read_csv(transactions_url)
 }
 
-# Import all transactions for 2007
-transactions_2007 <- read_transactions(year = 2007, type = "transactions")
+# Import all transactions
+transactions <- read_transactions(type = "transactions")
 
 # Import all injuries for 2007
-injuries_2007 <- read_transactions(year = 2007, type = "injuries")
+injuries <- read_transactions(type = "injuries")
 ```
 
 - **Python**
@@ -49,11 +49,11 @@ def read_transactions(year = "all-years", type = "transactions"):
   dat = pd.read_csv(transactions_url)
   return dat
 
-# Import all transactions for 2007
-transactions_2007 = read_transactions(year = 2007, type = "transactions")
+# Import all transactions
+transactions = read_transactions(year = "all-years", type = "transactions")
 
-# Import all injuries for 2007
-injuries_2007 = read_transactions(year = 2007, type = "injuries")
+# Import all injuries
+injuries = read_transactions(year = "all-years", type = "injuries")
 ```
 
 ## Issues with the Data
