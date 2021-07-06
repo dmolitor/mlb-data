@@ -1317,6 +1317,7 @@ date,transaction
 2020-02-23,Baltimore Orioles sent SS Richard Urena outright to Norfolk Tides.
 2020-02-23,San Diego Padres signed free agent 2B Brian Dozier to a minor league contract and invited him to spring training.
 2020-02-23,Seattle Mariners signed free agent OF Rymer Liriano to a minor league contract.
+2020-02-23,OF Marty Costes assigned to Houston Astros.
 2020-02-24,Cincinnati Reds signed free agent RHP Jose Adames to a minor league contract.
 2020-02-24,RHP Austin Orewiler assigned to Cincinnati Reds.
 2020-02-24,RHP Jesus Reyes assigned to Cincinnati Reds.
@@ -2944,6 +2945,7 @@ date,transaction
 2020-07-08,Los Angeles Angels invited non-roster RHP Adrian De Horta to spring training.
 2020-07-08,Los Angeles Angels signed OF David Calabrese.
 2020-07-08,Milwaukee Brewers signed OF Garrett Mitchell.
+2020-07-08,Chicago Cubs signed free agent RHP Angel Gonzalez to a minor league contract.
 2020-07-09,Kansas City Royals signed free agent C Oscar Hernandez to a minor league contract and invited him to spring training.
 2020-07-09,Texas Rangers invited non-roster RHP Juan Nicasio to spring training.
 2020-07-09,Milwaukee Brewers signed free agent 2B Noah Campbell to a minor league contract.
@@ -3441,6 +3443,7 @@ date,transaction
 2020-07-23,San Francisco Giants selected the contract of OF Darin Ruf.
 2020-07-23,Tampa Bay Rays recalled 2B Mike Brosseau.
 2020-07-23,San Francisco Giants selected the contract of LF Darin Ruf.
+2020-07-23,Tampa Bay Rays recalled Mike Brosseau.
 2020-07-24,Tampa Bay Rays invited non-roster C Rene Pinto to spring training.
 2020-07-24,Cincinnati Reds selected the contract of 2B Christian Colon from Reds Alternate Training Site.
 2020-07-24,Cleveland Indians recalled Daniel Johnson from Indians Alternate Training Site.
@@ -4464,6 +4467,7 @@ date,transaction
 2020-08-17,New York Yankees signed free agent SS Jordy Mercer to a minor league contract and invited him to spring training.
 2020-08-17,Arizona Diamondbacks recalled RHP Yoan Lopez.
 2020-08-17,Arizona Diamondbacks recalled Yoan Lopez.
+2020-08-17,Detroit Tigers recalled Isaac Paredes from Tigers Alternate Training Site.
 2020-08-18,Miami Marlins optioned 1B Lewin Diaz to Marlins Alternate Training Site.
 2020-08-18,Miami Marlins optioned RHP Jordan Yamamoto to Marlins Alternate Training Site.
 2020-08-18,New York Yankees optioned RHP Ben Heller to Yankees Alternate Training Site.
@@ -5212,6 +5216,7 @@ date,transaction
 2020-08-31,Cleveland Indians activated RF Josh Naylor.
 2020-08-31,traded to Cleveland Indians for .
 2020-08-31,Pittsburgh Pirates activated 1B Colin Moran from the 7-day injured list.
+2020-08-31,Cleveland Indians recalled Oscar Mercado from Indians Alternate Training Site.
 2020-09-01,Tampa Bay Rays placed 3B Yandy Diaz on the 10-day injured list. Right hamstring strain.
 2020-09-01,Tampa Bay Rays recalled 1B Nate Lowe from Rays Alternate Training Site.
 2020-09-01,Blue Jays Alternate Training Site traded RHP Kendall Williams to Los Angeles Dodgers.
@@ -5732,6 +5737,7 @@ date,transaction
 2020-09-09,Toronto Blue Jays invited non-roster SS Orelvis Martinez to spring training.
 2020-09-09,New York Yankees recalled Deivi Garcia from Yankees Alternate Training Site.
 2020-09-09,Arizona Diamondbacks recalled 2B Josh VanMeter.
+2020-09-09,Arizona Diamondbacks recalled Josh VanMeter.
 2020-09-10,Detroit Tigers optioned RHP Kyle Funkhouser to Tigers Alternate Training Site.
 2020-09-10,Detroit Tigers activated RHP Jordan Zimmermann from the 60-day injured list.
 2020-09-10,Detroit Tigers optioned RHP John Schreiber to Tigers Alternate Training Site.
@@ -6899,6 +6905,8 @@ date,transaction
 2020-09-28,Rowdy Tellez roster status changed by Toronto Blue Jays.
 2020-09-28,Minnesota Twins recalled Randy Dobnak.
 2020-09-28,Arizona Diamondbacks activated RF Josh Rojas from the 10-day injured list.
+2020-09-28,Detroit Tigers recalled Beau Burrows from Tigers Alternate Training Site.
+2020-09-28,Luis Torrens roster status changed by Seattle Mariners.
 2020-09-29,Toronto Blue Jays reassigned RHP Elvis Luciano to the minor leagues.
 2020-09-29,Toronto Blue Jays reassigned RHP Julian Merryweather to the minor leagues.
 2020-09-29,Toronto Blue Jays reassigned RHP Patrick Murphy to the minor leagues.
@@ -7149,6 +7157,7 @@ date,transaction
 2020-10-01,Cleveland Indians activated 1B Jake Bauers.
 2020-10-01,Jean Carlos Mejia roster status changed by Cleveland Indians.
 2020-10-01,Dakota Chalmers roster status changed by Minnesota Twins.
+2020-10-01,Bobby Bradley roster status changed by Cleveland Indians.
 2020-10-02,Cincinnati Reds activated RHP R.J. Alaniz.
 2020-10-02,Cincinnati Reds activated LHP Jesse Biddle.
 2020-10-02,Cincinnati Reds activated 2B Alex Blandino.
@@ -7269,6 +7278,7 @@ date,transaction
 2020-10-06,Arizona Diamondbacks signed free agent C Michael De La Cruz to a minor league contract.
 2020-10-06,Bryse Wilson roster status changed by Atlanta Braves.
 2020-10-06,San Diego Padres selected the contract of LHP Ryan Weathers.
+2020-10-06,San Diego Padres selected the contract of Ryan Weathers.
 2020-10-07,San Diego Padres activated RHP Dan Altavilla.
 2020-10-07,Pittsburgh Pirates signed free agent RHP Po-Yu Chen to a minor league contract.
 2020-10-07,San Diego Padres placed RHP Mike Clevinger on the 10-day injured list. Right posterior elbow impingement.
@@ -7405,6 +7415,7 @@ date,transaction
 2020-10-18,Houston Astros activated RHP Justin Verlander.
 2020-10-18,Taylor Jones roster status changed by Houston Astros.
 2020-10-18,Nivaldo Rodriguez roster status changed by Houston Astros.
+2020-10-18,Brandon Bielak roster status changed by Houston Astros.
 2020-10-19,Atlanta Braves activated C William Contreras.
 2020-10-19,Atlanta Braves activated LHP Tucker Davidson.
 2020-10-19,Atlanta Braves activated C Alex Jackson.
@@ -7685,6 +7696,7 @@ date,transaction
 2020-10-28,Brent Honeywell Jr. roster status changed by Tampa Bay Rays.
 2020-10-28,Kevin Padlo roster status changed by Tampa Bay Rays.
 2020-10-28,Trevor Richards roster status changed by Tampa Bay Rays.
+2020-10-28,JaCoby Jones roster status changed by Detroit Tigers.
 2020-10-29,Baltimore Orioles sent RHP Branden Kline outright to Norfolk Tides.
 2020-10-29,Seattle Mariners signed free agent RHP Kendall Graveman.
 2020-10-29,Baltimore Orioles signed free agent OF Stevie Wilkerson to a minor league contract and invited him to spring training.
@@ -7974,6 +7986,8 @@ date,transaction
 2020-11-19,St. Louis Cardinals selected the contract of RHP Angel Rondon from Memphis Redbirds.
 2020-11-19,Atlanta Braves selected the contract of LHP Kyle Muller from Mississippi Braves.
 2020-11-19,Arizona Diamondbacks signed free agent OF Drew Weeks to a minor league contract and invited him to spring training.
+2020-11-19,St. Louis Cardinals selected the contract of Angel Rondon from Memphis Redbirds.
+2020-11-19,Atlanta Braves selected the contract of Kyle Muller from Mississippi Braves.
 2020-11-20,Detroit Tigers selected the contract of RHP Alex Faedo from Erie SeaWolves.
 2020-11-20,Detroit Tigers selected the contract of LHP Joey Wentz from Erie SeaWolves.
 2020-11-20,Detroit Tigers selected the contract of RHP Matt Manning from Erie SeaWolves.
@@ -8182,6 +8196,11 @@ date,transaction
 2020-11-20,Chicago White Sox selected the contract of Gavin Sheets.
 2020-11-20,Seattle Mariners selected the contract of Taylor Trammell.
 2020-11-20,Boston Red Sox signed free agent RHP Jose Disla to a minor league contract.
+2020-11-20,Detroit Tigers selected the contract of Matt Manning from Erie SeaWolves.
+2020-11-20,Pittsburgh Pirates selected the contract of Max Kranick from Altoona Curve.
+2020-11-20,Chicago White Sox selected the contract of Jake Burger.
+2020-11-20,Chicago Cubs selected the contract of Cory Abbott.
+2020-11-20,Baltimore Orioles selected the contract of Alexander Wells.
 2020-11-21,San Francisco Giants selected the contract of CF Alexander Canario.
 2020-11-21,San Francisco Giants selected the contract of RHP Gregory Santos.
 2020-11-21,San Francisco Giants selected the contract of RHP Camilo Doval.
@@ -8196,6 +8215,7 @@ date,transaction
 2020-11-21,San Francisco Giants selected the contract of Camilo Doval.
 2020-11-21,Los Angeles Dodgers selected the contract of Edwin Uceta.
 2020-11-21,Kansas City Royals selected the contract of Sebastian Rivero.
+2020-11-21,Los Angeles Dodgers selected the contract of Zach Reks.
 2020-11-23,Baltimore Orioles released 3B Renato Nunez.
 2020-11-23,Kansas City Royals released RHP Glenn Sparkman.
 2020-11-23,Tampa Bay Rays released 1B Brian O'Grady.
@@ -8339,6 +8359,7 @@ date,transaction
 2020-12-07,OF Yairo Munoz roster status changed by Boston Red Sox.
 2020-12-07,Baltimore Orioles recalled C Austin Wynns.
 2020-12-07,traded to Los Angeles Angels for .
+2020-12-07,Washington Nationals claimed Rogelio Armenteros off waivers from Arizona Diamondbacks.
 2020-12-08,Texas Rangers traded RHP Lance Lynn to Chicago White Sox for LHP Avery Weems and RHP Dane Dunning.
 2020-12-08,Cincinnati Reds signed free agent 3B Cheslor Cuthbert to a minor league contract and invited him to spring training.
 2020-12-08,Cincinnati Reds signed free agent LF Dwight Smith Jr. to a minor league contract and invited him to spring training.
