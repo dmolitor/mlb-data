@@ -27,7 +27,7 @@ read_transactions <- function(year = "all-years", type = "injuries") {
 # Import all transactions
 transactions <- read_transactions(type = "transactions")
 
-# Import all injuries for 2007
+# Import all injuries
 injuries <- read_transactions(type = "injuries")
 ```
 
