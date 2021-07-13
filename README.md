@@ -6,15 +6,9 @@ This repo houses the following MLB data sources
 
 The data spans January, 2001 to the beginning of the current month.
 
-## Goal
-I began compiling these data sources particularly because I wanted to get my hands on MLB Injury Data, and there didn't seem to be 
-any cohesive, easy-to-download, data source. So I took it upon myself to make that resource. Although there's about a billion good baseball resources,
-I'm sure there are more (like injuries) that aren't easily accessible yet, and I plan to extend this repo to include those when/if I come
-across them. I'd love to have contributions so, if you'd like to, feel free to contact me at molitdj97@gmail.com.
-
 ## Importing the Data
 
-If you want all this data available locally, simply clone the repository and you should be set. Alternatively you can import this data directly from Github.
+To have this data available locally, simply clone the repository and you should be set. Alternatively you can import this data directly from Github.
 Below are two short helper functions for importing the data in both R and Python.
 
 - **R**
@@ -59,5 +53,4 @@ injuries = read_transactions(year = "all-years", type = "injuries")
 ## Issues with the Data
 
 On several random baseball forums I've seen people complaining about the quality of MLB's Transaction data. I'm sure this complaining is warranted.
-Additionally, all this data is being scraped with no direct manual oversight. As such, if there are mistakes or missing records, feel free to open an issue 
-or pull request and fix this data!
+Additionally, all this data is being scraped with no direct manual oversight. As such, some mistakes are likely!
